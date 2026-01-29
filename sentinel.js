@@ -1,4 +1,6 @@
 import { Octokit } from "@octokit/rest";
+import fs from 'fs';
+import path from 'path';
 
 const CONFIG = {
     owner: process.env.REPO_OWNER,
@@ -81,11 +83,36 @@ async function run() {
             }
         });
 
-        if (data.items.length > 0) {
-            const path = `data/tech/${dateStr}/sentinel-${timeLabel}.json`;
-            const summary = Object.entries(stats).map(([k, v]) => `${k}:${v}`).join(', ');
-            
-            // --- PRO FIX: 获取 SHA 逻辑 ---
-            let fileSha;
-            try {
-                const { data: existingFile } = await oct
+        // 💾 本地写入逻辑 (替代原有的 API 提交逻辑)
+        if (eliteItems.length > 0) {
+            const filePath = `data/tech/${dateStr}/sentinel-${timeLabel}.json`;
+            const dir = path.dirname(filePath);
+
+            // 确保目录存在
+            if (!fs.existsSync(dir)){
+                fs.mkdirSync(dir, { recursive: true });
+            }
+
+            const fileContent = {
+                meta: {
+                    scanned_at_bj: bjTime.toISOString(),
+                    session: ampm,
+                    trend_summary: stats
+                },
+                items: eliteItems
+            };
+
+            fs.writeFileSync(filePath, JSON.stringify(fileContent, null, 2));
+            console.log(`✅ [Write Success] Report saved to: ${filePath}`);
+            console.log(`📊 Stats: ${Object.entries(stats).map(([k, v]) => `${k}:${v}`).join(', ')}`);
+        } else {
+            console.log("⚠️ No items found worthy of the vault today.");
+        }
+
+    } catch (error) {
+        console.error("❌ Sentinel Scan Failed:", error);
+        process.exit(1);
+    }
+}
+
+run();
