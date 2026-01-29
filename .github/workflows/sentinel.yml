@@ -2,7 +2,7 @@ name: GitHub Sentinel (Strategy Scan)
 
 on:
   schedule:
-    - cron: '0 0,12 * * *'
+    - cron: '0 0,12 * * *' # UTC 00:00 和 12:00（即北京时间 08:00 和 20:00）
   workflow_dispatch:
 
 permissions:
@@ -12,16 +12,50 @@ jobs:
   scout:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Frontline Repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
       - run: npm install @octokit/rest --no-fund
 
-      - run: node sentinel.js
+      # 🎯 Phase 1: 启动哨兵扫描并生成本地文件
+      - name: 📡 Run Sentinel Scan
+        run: node sentinel.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO_OWNER: ${{ github.repository_owner }}
           REPO_NAME: ${{ github.event.repository.name }}
+
+      # 🏦 Phase 2: 中央银行实时收割
+      - name: Checkout Central Bank
+        uses: actions/checkout@v4
+        with:
+          repository: wenfp108/Central-Bank
+          token: ${{ secrets.MY_PAT }} # 请确保 git-data 仓库也配置了此 Secret
+          path: central_bank
+
+      - name: 🏦 Archive to Central Bank
+        run: |
+          # 运行归档脚本
+          node scripts/archive-git-to-bank.js
+          
+          # 推送至中央银行
+          cd central_bank
+          git config --global user.name 'Architect Bot'
+          git config --global user.email 'bot@architect.alpha'
+          git add .
+          git commit -m "Vault Update: GitHub Tech Sentinel $(date +%F)" || exit 0
+          git push
+
+      # 🧹 Phase 3: 清理前线仓库（可选，保持 git-data 简洁）
+      - name: Cleanup Frontline
+        run: |
+          git config --global user.name 'Architect Bot'
+          git config --global user.email 'bot@architect.alpha'
+          git add .
+          git commit -m "chore: archive cleanup [skip ci]" || exit 0
+          git push
