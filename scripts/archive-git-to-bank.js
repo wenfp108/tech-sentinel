@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-async function archivePolyData() {
+async function archiveGitData() {
     const today = new Date().toISOString().split('T')[0];
     const ROOT = process.cwd();
     const LOCAL_DATA = path.resolve(ROOT, 'data');
@@ -9,12 +9,12 @@ async function archivePolyData() {
 
     console.log(`📅 启动收割程序: ${today}`);
 
+    // 🌟 修正：匹配你实际生成的 data/tech 路径
     const targets = [
-        { local: 'strategy', bank: 'polymarket/strategy' },
-        { local: 'trends',   bank: 'polymarket/trends' }
+        { local: 'tech', bank: 'github/tech' }
     ];
 
-    // 1. 搬运资产到中央银行
+    // 1. 搬运资产
     targets.forEach(t => {
         const sourcePath = path.join(LOCAL_DATA, t.local, today);
         const targetPath = path.join(BANK_ROOT, t.bank, today);
@@ -33,18 +33,17 @@ async function archivePolyData() {
         }
     });
 
-    // 2. 强制焚毁本地层级（只保留 data/ 根目录下的 .git* 占位文件）
-    console.log("🔥 正在执行本地层级清理...");
+    // 2. 强制焚毁本地空层级（只保留 data/ 下的 .git 占位符）
+    console.log("🔥 正在清理前线战场...");
     if (fs.existsSync(LOCAL_DATA)) {
         const items = fs.readdirSync(LOCAL_DATA);
         items.forEach(item => {
-            // 🌟 核心保护：不删除你自己留下的占位文件（如 .gitkeep）
             if (item.startsWith('.git')) return; 
 
             const itemPath = path.join(LOCAL_DATA, item);
             try {
                 fs.rmSync(itemPath, { recursive: true, force: true });
-                console.log(`🗑️ 已彻底删除层级: ${item}`);
+                console.log(`🗑️ 已彻底删除: ${item}`);
             } catch (err) {
                 console.error(`❌ 清理失败 ${item}:`, err);
             }
@@ -52,4 +51,4 @@ async function archivePolyData() {
     }
 }
 
-archivePolyData().catch(console.error);
+archiveGitData().catch(console.error);
