@@ -106,3 +106,53 @@ async function run() {
 }
 
 run();
+// ... (前置代码保持不变)
+
+        if (data.items.length > 0) {
+            const path = `data/tech/${dateStr}/sentinel-${timeLabel}.json`;
+            const summary = Object.entries(stats).map(([k, v]) => `${k}:${v}`).join(', ');
+
+            // ================= PRO FIX START =================
+            let fileSha;
+            
+            // 1. 尝试获取现存文件的“指纹” (SHA)
+            try {
+                const { data: existingFile } = await octokit.repos.getContent({
+                    owner: CONFIG.owner,
+                    repo: CONFIG.repo,
+                    path: path,
+                });
+                fileSha = existingFile.sha;
+                console.log(`ℹ️ 检测到同名文件，准备更新 (SHA: ${fileSha.substring(0, 7)})`);
+            } catch (error) {
+                // 仅当错误为 404 (Not Found) 时，说明是新文件，忽略错误
+                // 其他错误 (如 401 没权限, 500 服务器崩了) 必须抛出
+                if (error.status !== 404) {
+                    console.error("❌ 获取文件状态失败:", error);
+                    throw error;
+                }
+                console.log(`ℹ️ 未检测到同名文件，准备新建`);
+            }
+
+            // 2. 带上 SHA 进行原子化提交
+            // 如果 fileSha 是 undefined，API 会视为新建；如果是字符串，API 会视为更新
+            await octokit.repos.createOrUpdateFileContents({
+                owner: CONFIG.owner,
+                repo: CONFIG.repo,
+                path: path,
+                message: `🤖 [${timeLabel}] Elite:${eliteItems.length} | Trend:${summary}`,
+                content: Buffer.from(JSON.stringify({
+                    meta: { 
+                        scanned_at_bj: bjTime.toISOString(),
+                        session: ampm,
+                        trend_summary: stats 
+                    },
+                    items: eliteItems
+                }, null, 2)).toString('base64'),
+                sha: fileSha // <--- 关键修复点
+            });
+            // ================= PRO FIX END =================
+
+            console.log(`✅ [${timeLabel}] 数据入库成功: ${path}`);
+        }
+// ... (后续代码保持不变)
