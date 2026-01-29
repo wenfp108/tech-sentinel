@@ -1,50 +1,55 @@
 const fs = require('fs');
 const path = require('path');
 
-/**
- * GitHub Sentinel 归档脚本：将本地生成的技术趋势 JSON 搬运至中央银行
- */
-async function archiveGitData() {
-    // 统一使用北京时间生成日期标签，与 sentinel.js 保持一致
-    const bjTime = new Date(Date.now() + 8 * 60 * 60 * 1000);
-    const dateStr = bjTime.toISOString().split('T')[0];
-    
+async function archivePolyData() {
+    const today = new Date().toISOString().split('T')[0];
     const ROOT = process.cwd();
-    // 对应 sentinel.js 生成数据的原始路径
-    const LOCAL_DATA_ROOT = path.join(ROOT, 'data', 'tech', dateStr);
-    // 对应 YAML 中的 path: central_bank，目标定位于 GitHub/tech 分类
-    const BANK_TARGET_ROOT = path.join(ROOT, 'central_bank', 'GitHub', 'tech', dateStr);
+    const LOCAL_DATA = path.resolve(ROOT, 'data');
+    const BANK_ROOT = path.resolve(ROOT, 'central_bank');
 
-    console.log(`📅 开始技术情报归档判定: ${dateStr}`);
+    console.log(`📅 启动收割程序: ${today}`);
 
-    if (fs.existsSync(LOCAL_DATA_ROOT)) {
-        const files = fs.readdirSync(LOCAL_DATA_ROOT).filter(f => f.endsWith('.json'));
-        
-        if (files.length > 0) {
-            // 确保中央银行的目标日期目录存在
-            if (!fs.existsSync(BANK_TARGET_ROOT)) {
-                fs.mkdirSync(BANK_TARGET_ROOT, { recursive: true });
+    const targets = [
+        { local: 'strategy', bank: 'polymarket/strategy' },
+        { local: 'trends',   bank: 'polymarket/trends' }
+    ];
+
+    // 1. 搬运资产到中央银行
+    targets.forEach(t => {
+        const sourcePath = path.join(LOCAL_DATA, t.local, today);
+        const targetPath = path.join(BANK_ROOT, t.bank, today);
+
+        if (fs.existsSync(sourcePath)) {
+            const files = fs.readdirSync(sourcePath).filter(f => f.endsWith('.json'));
+            if (files.length > 0) {
+                if (!fs.existsSync(targetPath)) fs.mkdirSync(targetPath, { recursive: true });
+                files.forEach(file => {
+                    const srcFile = path.join(sourcePath, file);
+                    const destFile = path.join(targetPath, file);
+                    fs.copyFileSync(srcFile, destFile);
+                    console.log(`✅ [${t.local}] 已搬运: ${file}`);
+                });
             }
-
-            files.forEach(file => {
-                const src = path.join(LOCAL_DATA_ROOT, file);
-                const dest = path.join(BANK_TARGET_ROOT, file);
-                
-                console.log(`🚚 正在搬运: ${file} -> GitHub/tech/${dateStr}/`);
-                fs.copyFileSync(src, dest);
-                
-                // 物理确认：目的地存在文件后才清理前线仓库
-                if (fs.existsSync(dest)) {
-                    fs.unlinkSync(src);
-                    console.log(`✅ 已存入金库并清理本地: ${file}`);
-                }
-            });
-        } else {
-            console.log("📭 本地无待归档文件。");
         }
-    } else {
-        console.log(`⚠️ 未发现今日数据目录: ${LOCAL_DATA_ROOT}`);
+    });
+
+    // 2. 强制焚毁本地层级（只保留 data/ 根目录下的 .git* 占位文件）
+    console.log("🔥 正在执行本地层级清理...");
+    if (fs.existsSync(LOCAL_DATA)) {
+        const items = fs.readdirSync(LOCAL_DATA);
+        items.forEach(item => {
+            // 🌟 核心保护：不删除你自己留下的占位文件（如 .gitkeep）
+            if (item.startsWith('.git')) return; 
+
+            const itemPath = path.join(LOCAL_DATA, item);
+            try {
+                fs.rmSync(itemPath, { recursive: true, force: true });
+                console.log(`🗑️ 已彻底删除层级: ${item}`);
+            } catch (err) {
+                console.error(`❌ 清理失败 ${item}:`, err);
+            }
+        });
     }
 }
 
-archiveGitData().catch(console.error);
+archivePolyData().catch(console.error);
