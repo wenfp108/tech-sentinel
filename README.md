@@ -1,4 +1,4 @@
-# 📦 GitHub-Trend-Backup (Study Project)
+# 📦 GitHub-Trend-Backup 
 
 > **"A simple automated tool for archiving daily GitHub trending repositories."**
 > *Disclaimer: This project is for personal learning and educational purposes only.*
