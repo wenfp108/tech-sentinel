@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-01-31T09:46:41.739Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 1,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "MoonshotAI/Kimi-K2.5",
+      "stars": 128,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MoonshotAI/Kimi-K2.5"
+    }
+  ]
+}
