@@ -56,7 +56,8 @@ async function run() {
     console.log(`   - 范围: ${startDate} 至今`);
 
     // 构建查询：放宽引用限制，只要有引用就拉回来分析
-    const apiUrl = `https://api.openalex.org/works?filter=from_publication_date:${startDate},cited_by_count:>${CONFIG.MIN_EARLY_CITATIONS - 1}&sort=cited_by_count:desc&per_page=100`;
+    // ✨ 核心修改：增加了 type:article|review|preprint 过滤，只看具体论文，剔除期刊合集噪音
+    const apiUrl = `https://api.openalex.org/works?filter=from_publication_date:${startDate},cited_by_count:>${CONFIG.MIN_EARLY_CITATIONS - 1},type:article|review|preprint&sort=cited_by_count:desc&per_page=100`;
 
     try {
         const { data } = await axios.get(apiUrl, {
