@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-01T20:50:45.272Z",
+    "total_captured": 16,
+    "TRENDING_DIRECTIONS": [
+      "Transmission electron microscopy (Heat:2263)",
+      "Stacking (Heat:2263)",
+      "Volume fraction (Heat:2263)",
+      "Kinetics (Heat:2263)",
+      "Intensity (physics) (Heat:2263)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 4,
+      "BIO_REVOLUTION": 11,
+      "STRATEGIC_ENERGY": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Materials Science Forum",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Materials science forum",
+      "metrics": {
+        "citations": 2262,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://hal.science/hal-02193762/document",
+      "reason": "Velocity: 2262 citations in 1 week"
+    },
+    {
+      "title": "International Journal of Molecular Medicine",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "International Journal of Molecular Medicine",
+      "metrics": {
+        "citations": 2249,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.3892/ijmm",
+      "reason": "Velocity: 2249 citations in 1 week"
+    },
+    {
+      "title": "Molecular Medicine Reports",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Molecular Medicine Reports",
+      "metrics": {
+        "citations": 913,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.3892/mmr",
+      "reason": "Velocity: 913 citations in 1 week"
+    },
+    {
+      "title": "Journal of Thoracic Disease",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Thoracic Disease",
+      "metrics": {
+        "citations": 701,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.21037/jtd",
+      "reason": "Velocity: 701 citations in 1 week"
+    },
+    {
+      "title": "African Journal of Microbiology Research",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "African Journal of Microbiology Research",
+      "metrics": {
+        "citations": 672,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5897/ajmr",
+      "reason": "Velocity: 672 citations in 1 week"
+    },
+    {
+      "title": "Statistical Methods For Estimating Species Richness Of Woody Regeneration In Primary And Secondary Rain Forests Of Northeastern Costa Rica",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 501,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1201/9781003760474-18",
+      "reason": "Velocity: 501 citations in 1 week"
+    },
+    {
+      "title": "Portugaliae Mathematica",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Portugaliae Mathematica",
+      "metrics": {
+        "citations": 399,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.4171/pm",
+      "reason": "Velocity: 399 citations in 1 week"
+    },
+    {
+      "title": "Oncology Reports",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Oncology Reports",
+      "metrics": {
+        "citations": 210,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.3892/or",
+      "reason": "Velocity: 210 citations in 1 week"
+    },
+    {
+      "title": "Oncology Letters",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Oncology Letters",
+      "metrics": {
+        "citations": 179,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.3892/ol",
+      "reason": "Velocity: 179 citations in 1 week"
+    },
+    {
+      "title": "Molecular and Clinical Oncology",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Molecular and Clinical Oncology",
+      "metrics": {
+        "citations": 101,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.3892/mco",
+      "reason": "Velocity: 101 citations in 1 week"
+    },
+    {
+      "title": "Journal of Reconstructive Microsurgery",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Reconstructive Microsurgery",
+      "metrics": {
+        "citations": 75,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "http://mediatum.ub.tum.de/node?id=1183380",
+      "reason": "Velocity: 75 citations in 1 week"
+    },
+    {
+      "title": "Radioengineering",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Radioengineering",
+      "metrics": {
+        "citations": 65,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.13164/re",
+      "reason": "Velocity: 65 citations in 1 week"
+    },
+    {
+      "title": "Damage and Failure of Interfaces",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 59,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003761723",
+      "reason": "Velocity: 59 citations in 1 week"
+    },
+    {
+      "title": "Journal of Neurological Surgery Part A: Central European Neurosurgery",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Neurological Surgery Part A Central European Neurosurgery",
+      "metrics": {
+        "citations": 56,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1055/s-00000180",
+      "reason": "Velocity: 56 citations in 1 week"
+    },
+    {
+      "title": "Endoscopy",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Endoscopy",
+      "metrics": {
+        "citations": 45,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1055/s-00000012",
+      "reason": "Velocity: 45 citations in 1 week"
+    }
+  ]
+}
