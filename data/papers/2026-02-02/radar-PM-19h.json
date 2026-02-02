@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-02T19:51:56.254Z",
+    "total_captured": 10,
+    "TRENDING_DIRECTIONS": [
+      "Unitarity (Heat:629)",
+      "Observable (Heat:629)",
+      "Quantum gravity (Heat:629)",
+      "Quantum (Heat:629)",
+      "Degrees of freedom (physics and chemistry) (Heat:629)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 4,
+      "BIO_REVOLUTION": 6
+    }
+  },
+  "items": [
+    {
+      "title": "Resolution of Navier-Stokes Smoothness via Universal Boundedness: A Physical Foundation for Global Regularity",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 628,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/gr-qc/9310026",
+      "reason": "Velocity: 628 citations in 1 week",
+      "publication_date": "2026-01-06"
+    },
+    {
+      "title": "Statistical Methods For Estimating Species Richness Of Woody Regeneration In Primary And Secondary Rain Forests Of Northeastern Costa Rica",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 501,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1201/9781003760474-18",
+      "reason": "Velocity: 501 citations in 1 week",
+      "publication_date": "2026-01-27"
+    },
+    {
+      "title": "Seminars in Reproductive Medicine",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Seminars in Reproductive Medicine",
+      "metrics": {
+        "citations": 230,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1055/s-00000072",
+      "reason": "Velocity: 230 citations in 1 week",
+      "publication_date": "2026-01-20"
+    },
+    {
+      "title": "Early Agriculturalist Population Diasporas? Farming, Languages, and Genes",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 166,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.4324/9781003763734-3",
+      "reason": "Velocity: 166 citations in 1 week",
+      "publication_date": "2026-01-05"
+    },
+    {
+      "title": "International practices for regenerating and restoring forest trees by seeding – an introduction",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Pathogens and Immunity",
+      "metrics": {
+        "citations": 100,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://paijournal.com/index.php/paijournal/article/download/249/188",
+      "reason": "Velocity: 100 citations in 1 week",
+      "publication_date": "2026-01-22"
+    },
+    {
+      "title": "Design and Evaluation of a Retrieval-Augmented Generation Architecture for OWASP Security Data",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 62,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2309.15217",
+      "reason": "Velocity: 62 citations in 1 week",
+      "publication_date": "2026-01-23"
+    },
+    {
+      "title": "Evaluation of work-related psychosocial and ergonomics factors in relation to low back discomfort in emergency unit nurses",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 45,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3429804",
+      "reason": "Velocity: 45 citations in 1 week",
+      "publication_date": "2026-01-06"
+    },
+    {
+      "title": "A study of active steering strategies for railway bogie",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 35,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1201/9781003760825-29",
+      "reason": "Velocity: 35 citations in 1 week",
+      "publication_date": "2026-01-30"
+    },
+    {
+      "title": "Surface and ground water mixing, flow paths, and temporal variations in chemical compositions of karst springs",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 33,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003761273-5",
+      "reason": "Velocity: 33 citations in 1 week",
+      "publication_date": "2026-01-20"
+    },
+    {
+      "title": "Dynamic Response Analysis of Railway Passenger Car With Flexible Carbody Model Based on Semi-Active Suspensions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 30,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003760825-79",
+      "reason": "Velocity: 30 citations in 1 week",
+      "publication_date": "2026-01-30"
+    }
+  ]
+}
