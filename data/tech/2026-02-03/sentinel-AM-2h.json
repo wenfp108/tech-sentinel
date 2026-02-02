@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-03T02:36:39.611Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 2,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 20,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "HKUDS/nanobot",
+      "stars": 1556,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/HKUDS/nanobot"
+    },
+    {
+      "name": "ygwyg/MAHORAGA",
+      "stars": 287,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ygwyg/MAHORAGA"
+    },
+    {
+      "name": "YougLin-dev/Aha-Loop",
+      "stars": 150,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/YougLin-dev/Aha-Loop"
+    },
+    {
+      "name": "ehmo/platform-design-skills",
+      "stars": 79,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ehmo/platform-design-skills"
+    }
+  ]
+}
