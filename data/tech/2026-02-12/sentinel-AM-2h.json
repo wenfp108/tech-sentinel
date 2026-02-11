@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-12T02:56:39.815Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 3,
+      "VIRAL_UNCATEGORIZED": 12,
+      "TECH_ACCELERATOR": 1,
+      "KNOWLEDGE_BASE": 1,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "promptpirate-x/discord-id-bypass-tool",
+      "stars": 456,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/promptpirate-x/discord-id-bypass-tool"
+    },
+    {
+      "name": "rebornix/Agmente",
+      "stars": 309,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rebornix/Agmente"
+    },
+    {
+      "name": "aeromomo/claw-compactor",
+      "stars": 305,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aeromomo/claw-compactor"
+    },
+    {
+      "name": "yan5xu/code-relay",
+      "stars": 160,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yan5xu/code-relay"
+    },
+    {
+      "name": "AnkitNayak-eth/EpsteinFiles-RAG",
+      "stars": 105,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AnkitNayak-eth/EpsteinFiles-RAG"
+    },
+    {
+      "name": "HKUDS/MoChat",
+      "stars": 81,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HKUDS/MoChat"
+    }
+  ]
+}
