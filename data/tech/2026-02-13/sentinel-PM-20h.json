@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-13T20:47:41.568Z",
+    "session": "PM",
+    "trend_summary": {
+      "CAREER_MOVES": 1,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 14,
+      "TECH_ACCELERATOR": 4,
+      "CORE_PRAGMATISM": 1,
+      "CODE_LEVERAGE": 2,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "devops-interviews/devops-interviews",
+      "stars": 263,
+      "tags": [
+        "CAREER_MOVES",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/devops-interviews/devops-interviews"
+    },
+    {
+      "name": "antirez/qwen-asr",
+      "stars": 177,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/antirez/qwen-asr"
+    },
+    {
+      "name": "milanm/AutoGrad-Engine",
+      "stars": 120,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/milanm/AutoGrad-Engine"
+    },
+    {
+      "name": "symbolica-ai/arcgentica",
+      "stars": 103,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/symbolica-ai/arcgentica"
+    },
+    {
+      "name": "requestsession/IndexGPT",
+      "stars": 101,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/requestsession/IndexGPT"
+    },
+    {
+      "name": "calebwin/pgclaw",
+      "stars": 89,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/calebwin/pgclaw"
+    },
+    {
+      "name": "AM1403x/financial-agent-india",
+      "stars": 83,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AM1403x/financial-agent-india"
+    },
+    {
+      "name": "aidatatools/quant-python-ai",
+      "stars": 49,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aidatatools/quant-python-ai"
+    }
+  ]
+}
