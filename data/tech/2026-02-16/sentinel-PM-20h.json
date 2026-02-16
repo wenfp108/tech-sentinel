@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-16T20:53:03.561Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 19,
+      "TECH_ACCELERATOR": 5,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "vercel-labs/portless",
+      "stars": 330,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vercel-labs/portless"
+    },
+    {
+      "name": "HKUDS/ClawWork",
+      "stars": 251,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/HKUDS/ClawWork"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "stars": 130,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AlexsJones/llmfit"
+    },
+    {
+      "name": "xiyueal/Orange-Engine",
+      "stars": 57,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/xiyueal/Orange-Engine"
+    },
+    {
+      "name": "Clad3815/gpt-play-pokemon-firered",
+      "stars": 56,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Clad3815/gpt-play-pokemon-firered"
+    },
+    {
+      "name": "AncientTyrantRear/Infrastructure-Monitor-Pro",
+      "stars": 46,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AncientTyrantRear/Infrastructure-Monitor-Pro"
+    },
+    {
+      "name": "crystal12lqc/adcbtw",
+      "stars": 46,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/crystal12lqc/adcbtw"
+    },
+    {
+      "name": "PlasmaGrosbeak/Crypto-Arbitrage-Finder",
+      "stars": 45,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PlasmaGrosbeak/Crypto-Arbitrage-Finder"
+    }
+  ]
+}
