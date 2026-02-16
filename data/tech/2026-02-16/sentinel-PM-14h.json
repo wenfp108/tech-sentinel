@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-16T14:57:38.440Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 10,
+      "TECH_ACCELERATOR": 2,
+      "CORE_PRAGMATISM": 2
+    }
+  },
+  "items": [
+    {
+      "name": "vercel-labs/portless",
+      "stars": 232,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vercel-labs/portless"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "stars": 75,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AlexsJones/llmfit"
+    },
+    {
+      "name": "xiyueal/Orange-Engine",
+      "stars": 49,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/xiyueal/Orange-Engine"
+    },
+    {
+      "name": "Clad3815/gpt-play-pokemon-firered",
+      "stars": 48,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Clad3815/gpt-play-pokemon-firered"
+    },
+    {
+      "name": "Companysadenote/Lossless-Scaling-v.3.22-Tools",
+      "stars": 47,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Companysadenote/Lossless-Scaling-v.3.22-Tools"
+    }
+  ]
+}
