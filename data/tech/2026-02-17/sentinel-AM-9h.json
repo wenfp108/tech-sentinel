@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-17T09:45:45.224Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 1,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 3
+    }
+  },
+  "items": [
+    {
+      "name": "nicobailon/visual-explainer",
+      "stars": 127,
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nicobailon/visual-explainer"
+    }
+  ]
+}
