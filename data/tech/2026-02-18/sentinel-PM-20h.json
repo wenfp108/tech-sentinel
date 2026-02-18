@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-18T20:54:12.873Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 14,
+      "CORE_PRAGMATISM": 2,
+      "TECH_ACCELERATOR": 2,
+      "TALENT_GROWTH": 2,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "lopespm/zig-minimal-kernel-x86",
+      "stars": 101,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lopespm/zig-minimal-kernel-x86"
+    },
+    {
+      "name": "xiaguan/pegainfer",
+      "stars": 62,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/xiaguan/pegainfer"
+    },
+    {
+      "name": "ppgranger/token-saving",
+      "stars": 57,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ppgranger/token-saving"
+    },
+    {
+      "name": "Ibrahim-3d/conductor-orchestrator-superpowers",
+      "stars": 44,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers"
+    }
+  ]
+}
