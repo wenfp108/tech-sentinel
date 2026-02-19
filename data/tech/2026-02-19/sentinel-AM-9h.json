@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-19T09:48:31.910Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 4,
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "kellyclaudeai/openclaw-deck",
+      "stars": 93,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kellyclaudeai/openclaw-deck"
+    }
+  ]
+}
