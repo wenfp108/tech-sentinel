@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-20T02:44:13.482Z",
+    "total_captured": 12,
+    "TRENDING_DIRECTIONS": [
+      "Tomography (Heat:40)",
+      "Tensor (intrinsic definition) (Heat:29)",
+      "Preprint (Heat:29)",
+      "Set (abstract data type) (Heat:21)",
+      "Quantum tunnelling (Heat:20)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 7,
+      "NEXT_COMPUTING": 5,
+      "AI_CORE": 2,
+      "STRATEGIC_ENERGY": 1,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "title": "X-ray computerized tomography: Determination of heterogeneities in rock samples",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 39,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1201/9781003761389-24",
+      "reason": "Velocity: 39 citations",
+      "publication_date": "2026-02-12"
+    },
+    {
+      "title": "Tunnelling performance estimation based on drillability testing",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003761389-28",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-02-12"
+    },
+    {
+      "title": "Generalist foundation models from a multimodal dataset for 3D computed tomography",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Biomedical Engineering",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2403.17834",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-02-12"
+    },
+    {
+      "title": "Sarcophaga (Hoa) flexuosa Ho (Diptera: Sarcophagidae): association of sexes using morphological and molecular approaches, and a redefinition of Hoa Rohdendorf",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PubMed",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.48580/d3k2q",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "New species and genera of the family Pickworthiidae (Mollusca, Caenogastropoda)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "The Catalogue of Life",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.48580/dgnn7",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "Convergent Mathematical Foundations of Hydrodynamic Quantum Gravity - Seven Independent Frameworks, One Physical Reality",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18279771",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "Rooftop PV detections from aerial imagery over France",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "STRATEGIC_ENERGY",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2207.07466",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-02-13"
+    },
+    {
+      "title": "The Hydrodynamic Vacuum: Nuclear Forces, Effective Mass Generation, and Topological Statistics in Vacuum-Dynamics Models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18230789",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "Determination of anisotropic poroelastic parameters of a transversely isotropic shale by means of consolidated undrained triaxial tests",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003761389-38",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-02-12"
+    },
+    {
+      "title": "Capstone Essay – The Sovereign Spine: A Theory of Distributed Coherence for Institutional Agency",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18649453",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-02-15"
+    },
+    {
+      "title": "Thermodynamic Convergence in Deep Time: A Constraint-First Reframing of Persistent Technological Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18655671",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "Gravity as Acoustic Radiation Pressure: A Phenomenological Model and Testable Predictions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18646470",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-02-15"
+    }
+  ]
+}

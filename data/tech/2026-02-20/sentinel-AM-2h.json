@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-20T02:44:12.333Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 12,
+      "CODE_LEVERAGE": 3,
+      "TALENT_GROWTH": 2,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "paradigmxyz/evmbench",
+      "stars": 202,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/paradigmxyz/evmbench"
+    },
+    {
+      "name": "kellyclaudeai/openclaw-deck",
+      "stars": 164,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kellyclaudeai/openclaw-deck"
+    },
+    {
+      "name": "TraderAlice/OpenAlice",
+      "stars": 122,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TraderAlice/OpenAlice"
+    },
+    {
+      "name": "RightNow-AI/picolm",
+      "stars": 80,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/RightNow-AI/picolm"
+    },
+    {
+      "name": "GreenSheep01201/claw-empire",
+      "stars": 71,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/GreenSheep01201/claw-empire"
+    },
+    {
+      "name": "QwertyMcQwertz/monkeys-with-typewriters",
+      "stars": 42,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/QwertyMcQwertz/monkeys-with-typewriters"
+    }
+  ]
+}
