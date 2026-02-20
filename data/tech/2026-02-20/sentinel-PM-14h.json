@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-20T14:49:16.994Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 1,
+      "VIRAL_UNCATEGORIZED": 10
+    }
+  },
+  "items": [
+    {
+      "name": "angel10x/Crash-Frontend",
+      "stars": 220,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/angel10x/Crash-Frontend"
+    },
+    {
+      "name": "RightNow-AI/picolm",
+      "stars": 193,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/RightNow-AI/picolm"
+    }
+  ]
+}
