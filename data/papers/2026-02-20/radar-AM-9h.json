@@ -1,0 +1,296 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-20T09:44:15.893Z",
+    "total_captured": 18,
+    "TRENDING_DIRECTIONS": [
+      "Quantum (Heat:46)",
+      "Coherence (philosophical gambling strategy) (Heat:42)",
+      "Quantum field theory (Heat:39)",
+      "Tensor (intrinsic definition) (Heat:36)",
+      "Scaling (Heat:35)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 7,
+      "NEXT_COMPUTING": 11,
+      "STRATEGIC_ENERGY": 1,
+      "PARADIGM_SHIFT": 1,
+      "AI_CORE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Laser writing in glass for dense, fast and efficient archival data storage",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SCIENCE_CORE"
+      ],
+      "url": "https://doi.org/10.1038/s41586-025-10042-w",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-02-18"
+    },
+    {
+      "title": "Sarcophaga (Hoa) flexuosa Ho (Diptera: Sarcophagidae): association of sexes using morphological and molecular approaches, and a redefinition of Hoa Rohdendorf",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PubMed",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.48580/d3k2q",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "New species and genera of the family Pickworthiidae (Mollusca, Caenogastropoda)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "The Catalogue of Life",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.48580/dgnn7",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "Convergent Mathematical Foundations of Hydrodynamic Quantum Gravity - Seven Independent Frameworks, One Physical Reality",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18279771",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "Rooftop PV detections from aerial imagery over France",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "STRATEGIC_ENERGY",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2207.07466",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-02-13"
+    },
+    {
+      "title": "The Hydrodynamic Vacuum: Nuclear Forces, Effective Mass Generation, and Topological Statistics in Vacuum-Dynamics Models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18230789",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "Capstone Essay – The Sovereign Spine: A Theory of Distributed Coherence for Institutional Agency",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18649453",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-02-15"
+    },
+    {
+      "title": "Thermodynamic Convergence in Deep Time: A Constraint-First Reframing of Persistent Technological Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18655671",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "Gravity as Acoustic Radiation Pressure: A Phenomenological Model and Testable Predictions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18646470",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-02-15"
+    },
+    {
+      "title": "The Casimir Effect as Dimensional Mode Counting",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18648300",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-02-15"
+    },
+    {
+      "title": "Vacuum Energy from Icosahedral Coherence",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18648347",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-02-15"
+    },
+    {
+      "title": "HQG Considerations and Seven Convergent Frameworks",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18307646",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "MetaTime v46.0r1: Framework, Falsifiability, and Informational Closure in an Open-EFT",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18665103",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "Bootstrap Universe: Paper Catalogue v3 — 97 Papers Deriving Physical Reality from Pure Mathematics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.17906573",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-02-18"
+    },
+    {
+      "title": "The Circuit Completion Principle: Why Recognition Without Manifestation Cannot Persist",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18637225",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-02-14"
+    },
+    {
+      "title": "The Three-Scale Electron: A Geometric Prediction for Diffraction Visibility at 500 keV",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18663883",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "Irreducible Latency and the Instability of Galactic Restraint: A Structural Filter on the Late-Time Fermi Paradox",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18653018",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "Falsifying String Theory with κ = 365.250",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18643858",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-02-14"
+    }
+  ]
+}
