@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-20T20:47:24.776Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "TECH_ACCELERATOR": 1,
+      "VIRAL_UNCATEGORIZED": 16
+    }
+  },
+  "items": [
+    {
+      "name": "ShinMegamiBoson/OpenPlanter",
+      "stars": 294,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ShinMegamiBoson/OpenPlanter"
+    },
+    {
+      "name": "RightNow-AI/picolm",
+      "stars": 248,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/RightNow-AI/picolm"
+    },
+    {
+      "name": "angel10x/Crash-Frontend",
+      "stars": 241,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/angel10x/Crash-Frontend"
+    }
+  ]
+}
