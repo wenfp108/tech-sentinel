@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-21T02:39:13.761Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "TECH_ACCELERATOR": 1,
+      "VIRAL_UNCATEGORIZED": 17,
+      "CODE_LEVERAGE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "ShinMegamiBoson/OpenPlanter",
+      "stars": 417,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ShinMegamiBoson/OpenPlanter"
+    },
+    {
+      "name": "RightNow-AI/picolm",
+      "stars": 323,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/RightNow-AI/picolm"
+    },
+    {
+      "name": "angel10x/Crash-Frontend",
+      "stars": 251,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/angel10x/Crash-Frontend"
+    },
+    {
+      "name": "botiverse/agent-vault",
+      "stars": 196,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/botiverse/agent-vault"
+    },
+    {
+      "name": "vikasprogrammer/walkie",
+      "stars": 112,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/vikasprogrammer/walkie"
+    }
+  ]
+}
