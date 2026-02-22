@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-22T09:46:57.745Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 3
+    }
+  },
+  "items": [
+    {
+      "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "stars": 395,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot"
+    },
+    {
+      "name": "dnakov/litter",
+      "stars": 249,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dnakov/litter"
+    },
+    {
+      "name": "vercel-labs/visual-json",
+      "stars": 235,
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vercel-labs/visual-json"
+    },
+    {
+      "name": "hamelsmu/claude-review-loop",
+      "stars": 223,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hamelsmu/claude-review-loop"
+    }
+  ]
+}
