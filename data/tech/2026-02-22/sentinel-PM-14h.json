@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-22T14:40:30.292Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 5,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "stars": 470,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot"
+    },
+    {
+      "name": "dnakov/litter",
+      "stars": 281,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dnakov/litter"
+    },
+    {
+      "name": "vercel-labs/visual-json",
+      "stars": 262,
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vercel-labs/visual-json"
+    },
+    {
+      "name": "hamelsmu/claude-review-loop",
+      "stars": 232,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hamelsmu/claude-review-loop"
+    },
+    {
+      "name": "killernay/election-69-OCR-result",
+      "stars": 42,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/killernay/election-69-OCR-result"
+    }
+  ]
+}
