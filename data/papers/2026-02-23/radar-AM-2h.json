@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-23T02:28:34.495Z",
+    "total_captured": 8,
+    "TRENDING_DIRECTIONS": [
+      "Stress (linguistics) (Heat:64)",
+      "Moduli (Heat:64)",
+      "Nonlinear system (Heat:54)",
+      "Dependency (UML) (Heat:43)",
+      "Basis (linear algebra) (Heat:43)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 5,
+      "BIO_REVOLUTION": 2,
+      "AI_CORE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Effects of stress cycles on static and dynamic Young's moduli in Castlegate sandstone",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 63,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003761365-27",
+      "reason": "Velocity: 63 citations",
+      "publication_date": "2026-02-18"
+    },
+    {
+      "title": "Size dependency of Castlegate and Berea sandstone hollow-cylinder strength on the basis of bifurcation theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 42,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003761365-52",
+      "reason": "Velocity: 42 citations",
+      "publication_date": "2026-02-18"
+    },
+    {
+      "title": "Sarcophaga (Hoa) flexuosa Ho (Diptera: Sarcophagidae): association of sexes using morphological and molecular approaches, and a redefinition of Hoa Rohdendorf",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PubMed",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.48580/d3k2q",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "The Fine Structure Constant from Icosahedral Geometry: Vertex, Face, and Holographic Perspectives",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18394223",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-02-17"
+    },
+    {
+      "title": "The Sovereign Spine: A New Theory of Institutional Coherence and Agency",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18649453",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-02-21"
+    },
+    {
+      "title": "New species and genera of the family Pickworthiidae (Mollusca, Caenogastropoda)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "The Catalogue of Life",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.48580/dgnn7",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "Convergent Mathematical Foundations of Hydrodynamic Quantum Gravity - Seven Independent Frameworks, One Physical Reality",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18279771",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-02-16"
+    },
+    {
+      "title": "Bootstrap Universe: Paper Catalogue v3 — 97 Papers Deriving Physical Reality from Pure Mathematics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.17906573",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-02-19"
+    }
+  ]
+}
