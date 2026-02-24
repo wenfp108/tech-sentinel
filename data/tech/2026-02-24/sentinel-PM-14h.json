@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-24T14:54:30.482Z",
+    "session": "PM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 3,
+      "CODE_LEVERAGE": 2,
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 5,
+      "CORE_PRAGMATISM": 2,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "xM0kht4r/VEN0m-Ransomware",
+      "stars": 157,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/xM0kht4r/VEN0m-Ransomware"
+    },
+    {
+      "name": "sangrokjung/claude-forge",
+      "stars": 154,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sangrokjung/claude-forge"
+    },
+    {
+      "name": "lifo-sh/lifo",
+      "stars": 126,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lifo-sh/lifo"
+    },
+    {
+      "name": "t3tra-dev/zerocast",
+      "stars": 49,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/t3tra-dev/zerocast"
+    },
+    {
+      "name": "Clipmerhythm/AI-Assistant-in-real-time-2026",
+      "stars": 46,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Clipmerhythm/AI-Assistant-in-real-time-2026"
+    },
+    {
+      "name": "MagistrateVise13/AI-Voice-Changer-Real-Time-2026",
+      "stars": 45,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MagistrateVise13/AI-Voice-Changer-Real-Time-2026"
+    }
+  ]
+}
