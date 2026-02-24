@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-25T02:55:03.574Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 3,
+      "TALENT_GROWTH": 3,
+      "TECH_ACCELERATOR": 4,
+      "VIRAL_UNCATEGORIZED": 20,
+      "CORE_PRAGMATISM": 2,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "rebane2001/x86CSS",
+      "stars": 226,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rebane2001/x86CSS"
+    },
+    {
+      "name": "sangrokjung/claude-forge",
+      "stars": 205,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sangrokjung/claude-forge"
+    },
+    {
+      "name": "lifo-sh/lifo",
+      "stars": 204,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lifo-sh/lifo"
+    },
+    {
+      "name": "steveclarke/real-world-rails",
+      "stars": 178,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/steveclarke/real-world-rails"
+    },
+    {
+      "name": "xM0kht4r/VEN0m-Ransomware",
+      "stars": 171,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/xM0kht4r/VEN0m-Ransomware"
+    },
+    {
+      "name": "confluence-labs/arc-agi-2",
+      "stars": 65,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/confluence-labs/arc-agi-2"
+    },
+    {
+      "name": "t3tra-dev/zerocast",
+      "stars": 55,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/t3tra-dev/zerocast"
+    },
+    {
+      "name": "Clipmerhythm/AI-Assistant-in-real-time-2026",
+      "stars": 46,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Clipmerhythm/AI-Assistant-in-real-time-2026"
+    },
+    {
+      "name": "MagistrateVise13/AI-Voice-Changer-Real-Time-2026",
+      "stars": 45,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MagistrateVise13/AI-Voice-Changer-Real-Time-2026"
+    }
+  ]
+}
