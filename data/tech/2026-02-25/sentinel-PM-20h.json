@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-25T20:54:10.396Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 19,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "cloudflare/vinext",
+      "stars": 2071,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cloudflare/vinext"
+    },
+    {
+      "name": "Polymarket/polymarket-cli",
+      "stars": 750,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Polymarket/polymarket-cli"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "stars": 705,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "name": "peteromallet/dataclaw",
+      "stars": 472,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/peteromallet/dataclaw"
+    },
+    {
+      "name": "rebane2001/x86CSS",
+      "stars": 361,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rebane2001/x86CSS"
+    },
+    {
+      "name": "win4r/memory-lancedb-pro",
+      "stars": 279,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/win4r/memory-lancedb-pro"
+    }
+  ]
+}
