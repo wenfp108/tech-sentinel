@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-28T02:34:52.676Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "VIRAL_UNCATEGORIZED": 21,
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "6551Team/opennews-mcp",
+      "stars": 466,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/6551Team/opennews-mcp"
+    },
+    {
+      "name": "Gen-Verse/OpenClaw-RL",
+      "stars": 267,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Gen-Verse/OpenClaw-RL"
+    },
+    {
+      "name": "6551Team/opentwitter-mcp",
+      "stars": 255,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/6551Team/opentwitter-mcp"
+    },
+    {
+      "name": "xstongxue/best-prompts",
+      "stars": 252,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xstongxue/best-prompts"
+    },
+    {
+      "name": "ringhyacinth/Star-Office-UI",
+      "stars": 208,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ringhyacinth/Star-Office-UI"
+    },
+    {
+      "name": "bcurts/agentchattr",
+      "stars": 164,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bcurts/agentchattr"
+    }
+  ]
+}
