@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-01T20:37:35.080Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "TALENT_GROWTH": 1,
+      "VIRAL_UNCATEGORIZED": 13,
+      "CODE_LEVERAGE": 2,
+      "TECH_ACCELERATOR": 1,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "ylytdeng/wechat-decrypt",
+      "stars": 828,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ylytdeng/wechat-decrypt"
+    },
+    {
+      "name": "star23/Day1Global-Skills",
+      "stars": 236,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/star23/Day1Global-Skills"
+    },
+    {
+      "name": "carmahhawwari/ui-design-brain",
+      "stars": 143,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/carmahhawwari/ui-design-brain"
+    },
+    {
+      "name": "geekjourneyx/jina-cli",
+      "stars": 125,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/geekjourneyx/jina-cli"
+    }
+  ]
+}
