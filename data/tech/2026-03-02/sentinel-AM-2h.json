@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-02T02:26:26.837Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "TALENT_GROWTH": 1,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 19,
+      "TECH_ACCELERATOR": 2,
+      "CAREER_MOVES": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "ylytdeng/wechat-decrypt",
+      "stars": 933,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ylytdeng/wechat-decrypt"
+    },
+    {
+      "name": "World-Open-Graph/br-acc",
+      "stars": 362,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/World-Open-Graph/br-acc"
+    },
+    {
+      "name": "star23/Day1Global-Skills",
+      "stars": 296,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/star23/Day1Global-Skills"
+    },
+    {
+      "name": "34306/vphone-aio",
+      "stars": 280,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/34306/vphone-aio"
+    },
+    {
+      "name": "carmahhawwari/ui-design-brain",
+      "stars": 157,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/carmahhawwari/ui-design-brain"
+    },
+    {
+      "name": "geekjourneyx/jina-cli",
+      "stars": 147,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/geekjourneyx/jina-cli"
+    },
+    {
+      "name": "Cranot/agi-in-md",
+      "stars": 51,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Cranot/agi-in-md"
+    }
+  ]
+}
