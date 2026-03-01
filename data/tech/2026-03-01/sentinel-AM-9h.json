@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-01T09:53:05.594Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TALENT_GROWTH": 1,
+      "VIRAL_UNCATEGORIZED": 7,
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "ylytdeng/wechat-decrypt",
+      "stars": 586,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ylytdeng/wechat-decrypt"
+    },
+    {
+      "name": "carmahhawwari/ui-design-brain",
+      "stars": 122,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/carmahhawwari/ui-design-brain"
+    },
+    {
+      "name": "geekjourneyx/jina-cli",
+      "stars": 55,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/geekjourneyx/jina-cli"
+    }
+  ]
+}
