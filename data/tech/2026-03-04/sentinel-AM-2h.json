@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-04T02:40:36.712Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_GIANT": 3,
+      "VIRAL_UNCATEGORIZED": 20,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "slowmist/openclaw-security-practice-guide",
+      "stars": 625,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/slowmist/openclaw-security-practice-guide"
+    },
+    {
+      "name": "LeoYeAI/openclaw-master-skills",
+      "stars": 616,
+      "tags": [
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LeoYeAI/openclaw-master-skills"
+    },
+    {
+      "name": "LeoYeAI/openclaw-guardian",
+      "stars": 379,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LeoYeAI/openclaw-guardian"
+    },
+    {
+      "name": "dev-protocol/polymarket-bot",
+      "stars": 278,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dev-protocol/polymarket-bot"
+    },
+    {
+      "name": "LovenSar/Epstein_case_leaked_OCR_results",
+      "stars": 59,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/LovenSar/Epstein_case_leaked_OCR_results"
+    }
+  ]
+}
