@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-04T20:43:50.863Z",
+    "session": "PM",
+    "trend_summary": {
+      "CAREER_MOVES": 1,
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 14,
+      "TECH_ACCELERATOR": 2,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "duoan/TorchCode",
+      "stars": 222,
+      "tags": [
+        "CAREER_MOVES",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/duoan/TorchCode"
+    },
+    {
+      "name": "binance/binance-skills-hub",
+      "stars": 173,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/binance/binance-skills-hub"
+    },
+    {
+      "name": "johnmai-dev/ANE-LM",
+      "stars": 88,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/johnmai-dev/ANE-LM"
+    },
+    {
+      "name": "robometer/robometer",
+      "stars": 51,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/robometer/robometer"
+    }
+  ]
+}
