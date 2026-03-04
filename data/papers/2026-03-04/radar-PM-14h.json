@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-04T14:40:46.947Z",
+    "total_captured": 21,
+    "TRENDING_DIRECTIONS": [
+      "Cosmology (Heat:112)",
+      "Holography (Heat:102)",
+      "Boundary (topology) (Heat:87)",
+      "Boundary value problem (Heat:71)",
+      "Holographic principle (Heat:62)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 11,
+      "NEXT_COMPUTING": 12,
+      "SPACE_DEFENSE": 1,
+      "AI_CORE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "General Principles of User Interface Design and Websites",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18798224",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-02-27"
+    },
+    {
+      "title": "[Paper 7] The Holographic Time Principle: Lorentz Symmetry, Arrow of Time, and Equivalence from 4-Bit Unitarity",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18777089",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-02-27"
+    },
+    {
+      "title": "[Paper 10] The Holographic Objective Collapse Principle: Wave Function Decoherence from Gravitational Phase Loss",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18777099",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-02-27"
+    },
+    {
+      "title": "[Paper 14] The Holographic Dent Principle: Mass as Boundary Deformation, Emergent Schwarzschild Metric, and Bullet Cluster Dynamics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18800117",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-02-27"
+    },
+    {
+      "title": "[Paper 8] The Holographic Dark Matter Principle: No-WIMP Theorem and Emergent Galactic Dynamics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18777091",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-02-27"
+    },
+    {
+      "title": "[Paper 6] The Holographic Matter Principle: Why Antimatter Cannot Be Encoded on the Cosmic Boundary",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18777087",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-02-27"
+    },
+    {
+      "title": "[Paper 12] The Holographic Phase Selection Principle: Deriving the Born Rule and Weinberg Angle from 4-Bit Boundary Geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18800113",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-02-27"
+    },
+    {
+      "title": "Bootstrap Universe: Paper Catalogue - Deriving Physical Reality from Pure Mathematics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.17906573",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-02-28"
+    },
+    {
+      "title": "SΔϕ-28 — Default Power as Low-Cost Path Assignment: Minimal Conditions for Invisible Fixation after SΔϕ-27 (v1.0)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18823396",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-03-01"
+    },
+    {
+      "title": "[Paper 11] The Holographic Geometric Tension Principle: Fermion Mass Hierarchy, Generation Curvature, and Collapse Scale from 4-Bit Boundary Tilting",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18800107",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-02-27"
+    },
+    {
+      "title": "[Paper 0] The Holographic Foundation Theorem: Three Foundational Results for Holographic Cosmology",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18789740",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-02-27"
+    },
+    {
+      "title": "[Paper 4] The 4-Bit Universe Principle: Holographic Origin of Fermions, Generations, and All Four Forces",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18766793",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-02-27"
+    },
+    {
+      "title": "The Pre-Commitment Universe: Icosahedral Quasi-Crystal Geometry, Phasons, and the Origin of SU(3)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18806363",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-03-02"
+    },
+    {
+      "title": "SΔϕ-29 — Editable Default: Minimal Conditions for Distributed Authority, Rollback, and Exception Re-entry after SΔϕ-28 (v1.0)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18823648",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-03-01"
+    },
+    {
+      "title": "[Paper 5] The Information Ignition Principle: Why the Universe Inflates",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18777085",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-02-27"
+    },
+    {
+      "title": "Decision Velocity and the Compression of Detectability: Translation Half-Life in Institutional Governance",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18770887",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-02-25"
+    },
+    {
+      "title": "Sub-Limit Dynamics: Boundary Interaction as the Structural Determinant in Finitely Constrained Generative Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18838634",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-02"
+    },
+    {
+      "title": "Spectral Geometry of the Poincaré Homology Sphere: Particle Structure, Gauge Symmetry, and the Proton–Electron Mass Ratio from S³/2I",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18817872",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-02-28"
+    },
+    {
+      "title": "SΔϕ-27 — Low-Cost Convergence and Restoration Cost Explosion: Exception Compression as a Minimal Fixation Mechanism (v1.0)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18822918",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-01"
+    },
+    {
+      "title": "Injectivity of Coherence Probes and Rigidity of Admissible Zeta Spectra",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18111730",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-02"
+    }
+  ]
+}

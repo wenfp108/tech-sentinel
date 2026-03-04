@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-04T14:40:46.140Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 7,
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 1,
+      "TECH_ACCELERATOR": 1,
+      "CORE_PRAGMATISM": 1,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "binance/binance-skills-hub",
+      "stars": 127,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/binance/binance-skills-hub"
+    },
+    {
+      "name": "johnmai-dev/ANE-LM",
+      "stars": 73,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/johnmai-dev/ANE-LM"
+    }
+  ]
+}
