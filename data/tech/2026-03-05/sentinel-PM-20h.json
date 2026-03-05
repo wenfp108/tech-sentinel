@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-05T20:50:44.768Z",
+    "session": "PM",
+    "trend_summary": {
+      "CAREER_MOVES": 1,
+      "VIRAL_GIANT": 3,
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_UNCATEGORIZED": 24,
+      "TALENT_GROWTH": 3,
+      "CODE_LEVERAGE": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "duoan/TorchCode",
+      "stars": 471,
+      "tags": [
+        "CAREER_MOVES",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/duoan/TorchCode"
+    },
+    {
+      "name": "tanishqkumar/ssd",
+      "stars": 365,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tanishqkumar/ssd"
+    },
+    {
+      "name": "Flowseal/tg-ws-proxy",
+      "stars": 266,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Flowseal/tg-ws-proxy"
+    },
+    {
+      "name": "jackwener/bilibili-cli",
+      "stars": 223,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jackwener/bilibili-cli"
+    },
+    {
+      "name": "coyvalyss1/model-matchmaker",
+      "stars": 108,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/coyvalyss1/model-matchmaker"
+    },
+    {
+      "name": "jshachm/chronoh",
+      "stars": 75,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jshachm/chronoh"
+    },
+    {
+      "name": "ygwyg/agent-experience",
+      "stars": 68,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ygwyg/agent-experience"
+    }
+  ]
+}
