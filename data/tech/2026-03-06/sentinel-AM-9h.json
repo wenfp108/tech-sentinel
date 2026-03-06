@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-06T09:46:16.112Z",
+    "session": "AM",
+    "trend_summary": {
+      "TALENT_GROWTH": 2,
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 8,
+      "KNOWLEDGE_BASE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "xstongxue/best-skills",
+      "stars": 224,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xstongxue/best-skills"
+    },
+    {
+      "name": "op7418/Claude-to-IM-skill",
+      "stars": 145,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/op7418/Claude-to-IM-skill"
+    }
+  ]
+}
