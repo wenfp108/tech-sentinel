@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-07T20:36:28.425Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 4,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 16,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "cyxzdev/Uncodixfy",
+      "stars": 606,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cyxzdev/Uncodixfy"
+    },
+    {
+      "name": "karpathy/autoresearch",
+      "stars": 432,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/karpathy/autoresearch"
+    },
+    {
+      "name": "dazzyddos/PrivHound",
+      "stars": 158,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dazzyddos/PrivHound"
+    },
+    {
+      "name": "0xiehnnkta/nemesis-auditor",
+      "stars": 114,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xiehnnkta/nemesis-auditor"
+    },
+    {
+      "name": "samuelfaj/distill",
+      "stars": 85,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/samuelfaj/distill"
+    },
+    {
+      "name": "QJHWC/PaperForge",
+      "stars": 66,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/QJHWC/PaperForge"
+    }
+  ]
+}
