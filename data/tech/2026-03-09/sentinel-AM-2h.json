@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-09T02:27:05.299Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "VIRAL_UNCATEGORIZED": 29,
+      "CORE_PRAGMATISM": 1,
+      "TECH_ACCELERATOR": 3,
+      "PARADIGM_SHIFT": 2,
+      "CODE_LEVERAGE": 2,
+      "TALENT_GROWTH": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "steipete/discrawl",
+      "stars": 312,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/steipete/discrawl"
+    },
+    {
+      "name": "Crestdrasnip/Claude-Zeroclaw",
+      "stars": 295,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Crestdrasnip/Claude-Zeroclaw"
+    },
+    {
+      "name": "Minecraft-Community-Edition/client",
+      "stars": 294,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Minecraft-Community-Edition/client"
+    },
+    {
+      "name": "helenigtxu/blooket",
+      "stars": 290,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/helenigtxu/blooket"
+    },
+    {
+      "name": "deborahikssv/Antigravity-claw",
+      "stars": 286,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deborahikssv/Antigravity-claw"
+    },
+    {
+      "name": "ammaarreshi/SkyRoads-Codex",
+      "stars": 104,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ammaarreshi/SkyRoads-Codex"
+    },
+    {
+      "name": "leonyx007/Polymarket-Trading-Bot-Rust",
+      "stars": 104,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/leonyx007/Polymarket-Trading-Bot-Rust"
+    },
+    {
+      "name": "f/agentlytics",
+      "stars": 73,
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/f/agentlytics"
+    },
+    {
+      "name": "cneuralnetwork/nanosarvam",
+      "stars": 60,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cneuralnetwork/nanosarvam"
+    },
+    {
+      "name": "nagisanzenin/skyclaw",
+      "stars": 54,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nagisanzenin/skyclaw"
+    },
+    {
+      "name": "AlameerAshraf/tokentoll",
+      "stars": 53,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AlameerAshraf/tokentoll"
+    },
+    {
+      "name": "gbelinsky/PersonalAgentKit",
+      "stars": 52,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/gbelinsky/PersonalAgentKit"
+    }
+  ]
+}
