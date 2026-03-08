@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-08T20:37:56.929Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "VIRAL_UNCATEGORIZED": 24,
+      "TECH_ACCELERATOR": 3,
+      "PARADIGM_SHIFT": 2,
+      "CORE_PRAGMATISM": 1,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "Minecraft-Community-Edition/client",
+      "stars": 285,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Minecraft-Community-Edition/client"
+    },
+    {
+      "name": "helenigtxu/blooket",
+      "stars": 264,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/helenigtxu/blooket"
+    },
+    {
+      "name": "steipete/discrawl",
+      "stars": 262,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/steipete/discrawl"
+    },
+    {
+      "name": "deborahikssv/Antigravity-claw",
+      "stars": 248,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deborahikssv/Antigravity-claw"
+    },
+    {
+      "name": "leonyx007/Polymarket-Trading-Bot-Rust",
+      "stars": 104,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/leonyx007/Polymarket-Trading-Bot-Rust"
+    },
+    {
+      "name": "f/agentlytics",
+      "stars": 64,
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/f/agentlytics"
+    },
+    {
+      "name": "ammaarreshi/SkyRoads-Codex",
+      "stars": 59,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ammaarreshi/SkyRoads-Codex"
+    },
+    {
+      "name": "gbelinsky/PersonalAgentKit",
+      "stars": 51,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/gbelinsky/PersonalAgentKit"
+    },
+    {
+      "name": "cneuralnetwork/nanosarvam",
+      "stars": 44,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cneuralnetwork/nanosarvam"
+    },
+    {
+      "name": "AlameerAshraf/tokentoll",
+      "stars": 43,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AlameerAshraf/tokentoll"
+    }
+  ]
+}

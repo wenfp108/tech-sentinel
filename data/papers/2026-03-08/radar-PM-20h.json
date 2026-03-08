@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-08T20:37:57.837Z",
+    "total_captured": 22,
+    "TRENDING_DIRECTIONS": [
+      "Path (computing) (Heat:48)",
+      "Fixation (population genetics) (Heat:48)",
+      "Series (stratigraphy) (Heat:45)",
+      "Topology (electrical circuits) (Heat:44)",
+      "Gauge theory (Heat:38)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 7,
+      "BIO_REVOLUTION": 13,
+      "SPACE_DEFENSE": 1,
+      "AI_CORE": 4
+    }
+  },
+  "items": [
+    {
+      "title": "Fermion Representations from the Metric Bundle: Clifford Algebras and the Pati-Salam Spinor",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18860689",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-03-04"
+    },
+    {
+      "title": "SΔϕ-28 — Default Power as Low-Cost Path Assignment: Minimal Conditions for Invisible Fixation after SΔϕ-27 (v1.0)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18823396",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-03-01"
+    },
+    {
+      "title": "Braess Paradox in Delay-Tolerant Networks: How Adding Relay Satellites Can Decrease Delivery",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18819416",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-03-07"
+    },
+    {
+      "title": "The Policy Distortion Factor Phi: Decomposing Routing Efficiency in Delay-Tolerant Networks",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18836604",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-03-07"
+    },
+    {
+      "title": "A CLINICAL CASE OF EARLY PRENATAL DIAGNOSIS OF DIASTEMATOMYELIA",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Matʹ i ditâ v Kuzbasse",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://ojs.victoria.ac.nz/nzaroe/article/view/1415",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-03-03"
+    },
+    {
+      "title": "Anomaly Cancellation in the Metric Bundle Pati-Salam Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18860693",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-03-04"
+    },
+    {
+      "title": "SΔϕ-33 — Belief, Conviction, and Certainty as Layers of Path Fixation: Minimal Conditions under the Absence of Arbitration (v1.0)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18830346",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-03-02"
+    },
+    {
+      "title": "SΔϕ-27 — Low-Cost Convergence and Restoration Cost Explosion: Exception Compression as a Minimal Fixation Mechanism (v1.0)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18822918",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-03-01"
+    },
+    {
+      "title": "Sub-Limit Dynamics: Boundary Interaction as the Structural Determinant in Finitely Constrained Generative Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18838634",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-03-02"
+    },
+    {
+      "title": "The Pre-Commitment Universe: Icosahedral Quasi-Crystal Geometry, Phasons, and the Origin of SU(3)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18806363",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-03-02"
+    },
+    {
+      "title": "SΔϕ-29 — Editable Default: Minimal Conditions for Distributed Authority, Rollback, and Exception Re-entry after SΔϕ-28 (v1.0)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18823648",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-03-01"
+    },
+    {
+      "title": "Class and migration: interrogating class across borders",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Ethnic and Migration Studies",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1080/1369183x.2026.2630302",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-03-06"
+    },
+    {
+      "title": "Sunflower nested core collections for association studies and phenomics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2603.02290",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-03-02"
+    },
+    {
+      "title": "R* en 2 Lignes — Resolution Universelle IA (Alignement, Safety, Training, Multi-Agent, Gouvernance)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18830890",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-03-02"
+    },
+    {
+      "title": "Consumption Types and Dynamic Regimes in Constrained Generative Systems: Refinement of the Irreversibility Axiom and SCC Classification of Asymptotic Behavior",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18839251",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-02"
+    },
+    {
+      "title": "SΔϕ-35 — Minimal Closure Criteria for AGI: A Δϕ-Based Judgment Framework (v1.1)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18865541",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-04"
+    },
+    {
+      "title": "The High-Coherence Cosmological Limit: An RCD Interpretation of the Big Bang - Radial Coherential Dynamics — Paper XIX",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18883402",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-06"
+    },
+    {
+      "title": "The F*AGI Family: A Generator and Specification Note",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18895761",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-06"
+    },
+    {
+      "title": "The Three-Generation Problem in the Metric Bundle Framework",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18860697",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-04"
+    },
+    {
+      "title": "Injectivity of Coherence Probes and Rigidity of Admissible Zeta Spectra",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18111730",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-02"
+    }
+  ]
+}
