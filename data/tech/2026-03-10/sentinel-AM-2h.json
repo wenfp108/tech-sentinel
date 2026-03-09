@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-10T02:44:31.009Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 6,
+      "TALENT_GROWTH": 4,
+      "VIRAL_GIANT": 5,
+      "VIRAL_UNCATEGORIZED": 30,
+      "CORE_PRAGMATISM": 1,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "HKUDS/CLI-Anything",
+      "stars": 940,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
+      "stars": 602,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills"
+    },
+    {
+      "name": "imbue-bit/OpenClaw-PwnKit",
+      "stars": 582,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/imbue-bit/OpenClaw-PwnKit"
+    },
+    {
+      "name": "trevin-creator/autoresearch-mlx",
+      "stars": 350,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/trevin-creator/autoresearch-mlx"
+    },
+    {
+      "name": "kamranahmedse/claude-statusline",
+      "stars": 319,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/kamranahmedse/claude-statusline"
+    },
+    {
+      "name": "knowsuchagency/mcp2cli",
+      "stars": 302,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/knowsuchagency/mcp2cli"
+    },
+    {
+      "name": "joeseesun/qiaomu-mondo-poster-design",
+      "stars": 290,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/joeseesun/qiaomu-mondo-poster-design"
+    },
+    {
+      "name": "uluckyXH/OpenMOSS",
+      "stars": 206,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/uluckyXH/OpenMOSS"
+    },
+    {
+      "name": "nagisanzenin/skyclaw",
+      "stars": 145,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nagisanzenin/skyclaw"
+    },
+    {
+      "name": "ammaarreshi/SkyRoads-Codex",
+      "stars": 141,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ammaarreshi/SkyRoads-Codex"
+    },
+    {
+      "name": "oh-ashen-one/reddit-growth-skill",
+      "stars": 94,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/oh-ashen-one/reddit-growth-skill"
+    },
+    {
+      "name": "vkehfdl1/slides-grab",
+      "stars": 83,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/vkehfdl1/slides-grab"
+    },
+    {
+      "name": "AmethystDev-Labs/Argus",
+      "stars": 47,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AmethystDev-Labs/Argus"
+    },
+    {
+      "name": "0xtbug/telbot",
+      "stars": 41,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xtbug/telbot"
+    }
+  ]
+}
