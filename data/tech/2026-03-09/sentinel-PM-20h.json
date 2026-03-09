@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-09T20:52:28.601Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 5,
+      "TALENT_GROWTH": 3,
+      "VIRAL_GIANT": 4,
+      "VIRAL_UNCATEGORIZED": 23,
+      "CORE_PRAGMATISM": 1,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "HKUDS/CLI-Anything",
+      "stars": 584,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
+      "stars": 480,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills"
+    },
+    {
+      "name": "trevin-creator/autoresearch-mlx",
+      "stars": 286,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/trevin-creator/autoresearch-mlx"
+    },
+    {
+      "name": "joeseesun/qiaomu-mondo-poster-design",
+      "stars": 262,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/joeseesun/qiaomu-mondo-poster-design"
+    },
+    {
+      "name": "kamranahmedse/claude-statusline",
+      "stars": 255,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/kamranahmedse/claude-statusline"
+    },
+    {
+      "name": "knowsuchagency/mcp2cli",
+      "stars": 218,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/knowsuchagency/mcp2cli"
+    },
+    {
+      "name": "uluckyXH/OpenMOSS",
+      "stars": 173,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/uluckyXH/OpenMOSS"
+    },
+    {
+      "name": "ammaarreshi/SkyRoads-Codex",
+      "stars": 134,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ammaarreshi/SkyRoads-Codex"
+    },
+    {
+      "name": "nagisanzenin/skyclaw",
+      "stars": 127,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nagisanzenin/skyclaw"
+    },
+    {
+      "name": "vkehfdl1/slides-grab",
+      "stars": 75,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/vkehfdl1/slides-grab"
+    },
+    {
+      "name": "AmethystDev-Labs/Argus",
+      "stars": 45,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AmethystDev-Labs/Argus"
+    }
+  ]
+}
