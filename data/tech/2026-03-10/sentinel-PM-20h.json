@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-10T20:51:05.057Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 5,
+      "VIRAL_GIANT": 4,
+      "VIRAL_UNCATEGORIZED": 16,
+      "TECH_ACCELERATOR": 3,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "karpathy/agenthub",
+      "stars": 1129,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/karpathy/agenthub"
+    },
+    {
+      "name": "knowsuchagency/mcp2cli",
+      "stars": 415,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/knowsuchagency/mcp2cli"
+    },
+    {
+      "name": "HenryXiaoYang/wechat-access-unqclawed",
+      "stars": 288,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/HenryXiaoYang/wechat-access-unqclawed"
+    },
+    {
+      "name": "marilyn4120shaz3/KiteAI",
+      "stars": 251,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/marilyn4120shaz3/KiteAI"
+    },
+    {
+      "name": "photon-hq/qclaw-wechat-client",
+      "stars": 203,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/photon-hq/qclaw-wechat-client"
+    },
+    {
+      "name": "shenhao-stu/ohmycaptcha",
+      "stars": 154,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/shenhao-stu/ohmycaptcha"
+    },
+    {
+      "name": "aiming-lab/MetaClaw",
+      "stars": 153,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aiming-lab/MetaClaw"
+    },
+    {
+      "name": "martinez88668/MasterCryptoFarmBot",
+      "stars": 153,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/martinez88668/MasterCryptoFarmBot"
+    },
+    {
+      "name": "qntrade1/polymarket-arbitrage-trading-bot",
+      "stars": 76,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/qntrade1/polymarket-arbitrage-trading-bot"
+    },
+    {
+      "name": "Taprclaw-ai-agent/openclaw-cross-market-arbitrage-agent",
+      "stars": 53,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Taprclaw-ai-agent/openclaw-cross-market-arbitrage-agent"
+    },
+    {
+      "name": "Aura-AI-Trading-Agent/Aura-AI-Trading-Agent",
+      "stars": 51,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Aura-AI-Trading-Agent/Aura-AI-Trading-Agent"
+    }
+  ]
+}
