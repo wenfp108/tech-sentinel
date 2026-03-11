@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-11T20:49:55.387Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 5,
+      "VIRAL_UNCATEGORIZED": 16,
+      "KNOWLEDGE_BASE": 1,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "photon-hq/qclaw-wechat-client",
+      "stars": 555,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/photon-hq/qclaw-wechat-client"
+    },
+    {
+      "name": "gsd-build/GSD-2",
+      "stars": 220,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/gsd-build/GSD-2"
+    },
+    {
+      "name": "RightNow-AI/autokernel",
+      "stars": 168,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/RightNow-AI/autokernel"
+    },
+    {
+      "name": "infraform/polymarket-kalshi-arbitrage-bot",
+      "stars": 118,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/infraform/polymarket-kalshi-arbitrage-bot"
+    },
+    {
+      "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "stars": 95,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+    },
+    {
+      "name": "twitty12prostotoxa/horriblesubs-downloader",
+      "stars": 47,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/twitty12prostotoxa/horriblesubs-downloader"
+    },
+    {
+      "name": "hirakujira/MAGI",
+      "stars": 42,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/hirakujira/MAGI"
+    }
+  ]
+}
