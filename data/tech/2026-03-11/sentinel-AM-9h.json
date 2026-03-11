@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-11T09:28:38.322Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 9,
+      "TECH_ACCELERATOR": 2,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "photon-hq/qclaw-wechat-client",
+      "stars": 309,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/photon-hq/qclaw-wechat-client"
+    },
+    {
+      "name": "infraform/polymarket-kalshi-arbitrage-bot",
+      "stars": 88,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/infraform/polymarket-kalshi-arbitrage-bot"
+    },
+    {
+      "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "stars": 61,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep"
+    }
+  ]
+}
