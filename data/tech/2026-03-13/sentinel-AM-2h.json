@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-13T02:45:19.725Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "CODE_LEVERAGE": 3,
+      "TALENT_GROWTH": 3,
+      "TECH_ACCELERATOR": 4,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 27
+    }
+  },
+  "items": [
+    {
+      "name": "garrytan/gstack",
+      "stars": 1360,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/garrytan/gstack"
+    },
+    {
+      "name": "gsd-build/gsd-2",
+      "stars": 721,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/gsd-build/gsd-2"
+    },
+    {
+      "name": "chrisworsey55/atlas-gic",
+      "stars": 546,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/chrisworsey55/atlas-gic"
+    },
+    {
+      "name": "RightNow-AI/autokernel",
+      "stars": 485,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/RightNow-AI/autokernel"
+    },
+    {
+      "name": "TianyiDataScience/openclaw-control-center",
+      "stars": 378,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TianyiDataScience/openclaw-control-center"
+    },
+    {
+      "name": "twostraws/Swift-Agent-Skills",
+      "stars": 309,
+      "tags": [
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/twostraws/Swift-Agent-Skills"
+    },
+    {
+      "name": "win4r/openclaw-workspace",
+      "stars": 73,
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/win4r/openclaw-workspace"
+    },
+    {
+      "name": "eliasbiondo/reddit-mcp-server",
+      "stars": 63,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/eliasbiondo/reddit-mcp-server"
+    },
+    {
+      "name": "nategentile7/hacksseetd",
+      "stars": 52,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nategentile7/hacksseetd"
+    },
+    {
+      "name": "claw-eval/claw-eval",
+      "stars": 52,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/claw-eval/claw-eval"
+    }
+  ]
+}
