@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-13T14:44:52.334Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 12,
+      "TALENT_GROWTH": 2,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "tokoroten/prompt-review",
+      "stars": 216,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tokoroten/prompt-review"
+    },
+    {
+      "name": "kfyl11/YimMenu",
+      "stars": 206,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/kfyl11/YimMenu"
+    },
+    {
+      "name": "JudyaiLab/ai-night-shift",
+      "stars": 84,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JudyaiLab/ai-night-shift"
+    }
+  ]
+}
