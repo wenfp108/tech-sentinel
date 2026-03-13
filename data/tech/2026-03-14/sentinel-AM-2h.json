@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-14T02:34:30.221Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 4,
+      "VIRAL_GIANT": 4,
+      "VIRAL_UNCATEGORIZED": 18,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "bentossell/visualise",
+      "stars": 269,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bentossell/visualise"
+    },
+    {
+      "name": "tokoroten/prompt-review",
+      "stars": 257,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tokoroten/prompt-review"
+    },
+    {
+      "name": "KeyID-AI/agent-kit",
+      "stars": 243,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/KeyID-AI/agent-kit"
+    },
+    {
+      "name": "Michaelliv/pi-generative-ui",
+      "stars": 223,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Michaelliv/pi-generative-ui"
+    },
+    {
+      "name": "upper-up/meta-lobbying-and-other-findings",
+      "stars": 210,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/upper-up/meta-lobbying-and-other-findings"
+    },
+    {
+      "name": "Narcooo/inkos",
+      "stars": 161,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Narcooo/inkos"
+    },
+    {
+      "name": "JudyaiLab/ai-night-shift",
+      "stars": 112,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JudyaiLab/ai-night-shift"
+    },
+    {
+      "name": "IAmUnbounded/n8n-workflows",
+      "stars": 44,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/IAmUnbounded/n8n-workflows"
+    }
+  ]
+}
