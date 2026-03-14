@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-15T02:30:54.466Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 3,
+      "VIRAL_GIANT": 7,
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 23,
+      "PARADIGM_SHIFT": 1,
+      "TECH_ACCELERATOR": 2,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "pasky/chrome-cdp-skill",
+      "stars": 792,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pasky/chrome-cdp-skill"
+    },
+    {
+      "name": "upper-up/meta-lobbying-and-other-findings",
+      "stars": 600,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/upper-up/meta-lobbying-and-other-findings"
+    },
+    {
+      "name": "skernelx/tavily-key-generator",
+      "stars": 559,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/skernelx/tavily-key-generator"
+    },
+    {
+      "name": "KeyID-AI/agent-kit",
+      "stars": 380,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/KeyID-AI/agent-kit"
+    },
+    {
+      "name": "uditgoenka/autoresearch",
+      "stars": 296,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/uditgoenka/autoresearch"
+    },
+    {
+      "name": "jackwener/boss-cli",
+      "stars": 280,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jackwener/boss-cli"
+    },
+    {
+      "name": "nashsu/Viral_Writer_Skill",
+      "stars": 208,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/nashsu/Viral_Writer_Skill"
+    },
+    {
+      "name": "pretyflaco/meetscribe",
+      "stars": 202,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/pretyflaco/meetscribe"
+    },
+    {
+      "name": "himself65/finance-skills",
+      "stars": 200,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/himself65/finance-skills"
+    },
+    {
+      "name": "ethanjyx/OpenBrand",
+      "stars": 141,
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ethanjyx/OpenBrand"
+    },
+    {
+      "name": "KeyID-AI/sdk-js",
+      "stars": 108,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/KeyID-AI/sdk-js"
+    },
+    {
+      "name": "calesthio/Crucix",
+      "stars": 96,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/calesthio/Crucix"
+    },
+    {
+      "name": "KeyID-AI/sdk-py",
+      "stars": 86,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/KeyID-AI/sdk-py"
+    }
+  ]
+}
