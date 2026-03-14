@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-14T20:39:38.357Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "CODE_LEVERAGE": 2,
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 15
+    }
+  },
+  "items": [
+    {
+      "name": "upper-up/meta-lobbying-and-other-findings",
+      "stars": 571,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/upper-up/meta-lobbying-and-other-findings"
+    },
+    {
+      "name": "pasky/chrome-cdp-skill",
+      "stars": 563,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pasky/chrome-cdp-skill"
+    },
+    {
+      "name": "KeyID-AI/agent-kit",
+      "stars": 354,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/KeyID-AI/agent-kit"
+    },
+    {
+      "name": "skernelx/tavily-key-generator",
+      "stars": 351,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/skernelx/tavily-key-generator"
+    },
+    {
+      "name": "uditgoenka/autoresearch",
+      "stars": 229,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/uditgoenka/autoresearch"
+    }
+  ]
+}
