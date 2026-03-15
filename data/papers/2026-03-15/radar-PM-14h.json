@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-15T14:50:36.903Z",
+    "total_captured": 18,
+    "TRENDING_DIRECTIONS": [
+      "Coherence (philosophical gambling strategy) (Heat:227)",
+      "Corporate governance (Heat:221)",
+      "Portfolio (Heat:221)",
+      "Allocative efficiency (Heat:221)",
+      "Interpretability (Heat:177)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 12,
+      "STRATEGIC_ENERGY": 1,
+      "AI_CORE": 1,
+      "BIO_REVOLUTION": 3,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Designing the Meaning Infrastructure: Governing Interpretation in AI-Driven Institutions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 44,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18494690",
+      "reason": "Velocity: 44 citations",
+      "publication_date": "2026-03-08"
+    },
+    {
+      "title": "Making Meaning Measurable: How to See Coherence in Decision Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 44,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18486778",
+      "reason": "Velocity: 44 citations",
+      "publication_date": "2026-03-08"
+    },
+    {
+      "title": "The Sovereign Spine: A New Theory of Institutional Coherence and Agency",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 43,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18649453",
+      "reason": "Velocity: 43 citations",
+      "publication_date": "2026-03-08"
+    },
+    {
+      "title": "Interaction, stereotypes and performance. Evidence from South Africa",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 42,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "http://hdl.handle.net/10419/200322",
+      "reason": "Velocity: 42 citations",
+      "publication_date": "2026-03-11"
+    },
+    {
+      "title": "Decision Velocity and the Compression of Detectability: Translation Half-Life in Institutional Governance",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 30,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18770887",
+      "reason": "Velocity: 30 citations",
+      "publication_date": "2026-03-08"
+    },
+    {
+      "title": "The Coherence Advantage: Why Good Organizations Drift — and How It Can Be Studied",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 23,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18773479",
+      "reason": "Velocity: 23 citations",
+      "publication_date": "2026-03-08"
+    },
+    {
+      "title": "Exponential stability of some scalar impulsive delay differential equation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "VIUSpace (Vancouver Island University Library)",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.25316/628s-p091",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-03-11"
+    },
+    {
+      "title": "Detecting Strategic Drift Before Outcome Failure: A Longitudinal Governance Diagnostic",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 20,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18758416",
+      "reason": "Velocity: 20 citations",
+      "publication_date": "2026-03-08"
+    },
+    {
+      "title": "Migration Surveys in Low Income Countries",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.4324/9781003755173",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-03-11"
+    },
+    {
+      "title": "The Coherence Advantage: Why Good Organizations Drift — and What Leaders See Too Late",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18722320",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-03-08"
+    },
+    {
+      "title": "PHI AND THE PRIMON GAS: Convergence Between Fibonacci Causal Loop Theory and Prime Number Organization Near Black Hole Singularities",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18931178",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-10"
+    },
+    {
+      "title": "The Vacuum as a Maximally Symmetric Ground State: Measurement, Coupling, and the Observable Sector of Physical Reality",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18916438",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-08"
+    },
+    {
+      "title": "Paper A — Koma Density Geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.17605267",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-11"
+    },
+    {
+      "title": "The Cosmological Constant as a Category Error: Vacuum Energy, Finite Domains, and the Gravitational Residual",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18918096",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-03-09"
+    },
+    {
+      "title": "Investigation of video tutorial effectiveness and student use for general chemistry laboratories",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "VIUSpace (Vancouver Island University Library)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.25316/c7tt-6v71",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-03-11"
+    },
+    {
+      "title": "The Universal Cover: Why the Integers Are the Covering Space of S³/2I",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18976096",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-03-12"
+    },
+    {
+      "title": "Dimensionless Coherence Ratio for a Toroidal-Constraint Fermi Mechanism",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18906111",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-03-08"
+    },
+    {
+      "title": "Model for missing Shapiro steps due to bias-dependent resistance",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "SciPost Physics",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://scipost.org/10.21468/SciPostPhys.20.3.079/pdf",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-03-10"
+    }
+  ]
+}

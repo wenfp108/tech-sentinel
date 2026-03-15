@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-15T14:50:35.880Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 15,
+      "TECH_ACCELERATOR": 6,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "skernelx/tavily-key-generator",
+      "stars": 736,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/skernelx/tavily-key-generator"
+    },
+    {
+      "name": "calesthio/Crucix",
+      "stars": 336,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/calesthio/Crucix"
+    },
+    {
+      "name": "michelleoincx/zeroclaw-grok",
+      "stars": 103,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/michelleoincx/zeroclaw-grok"
+    },
+    {
+      "name": "epiral/bb-sites",
+      "stars": 98,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/epiral/bb-sites"
+    },
+    {
+      "name": "chedyeniceri45/onedrive-ultimate-cloud-suite",
+      "stars": 90,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/chedyeniceri45/onedrive-ultimate-cloud-suite"
+    },
+    {
+      "name": "liorwn/claudetop",
+      "stars": 58,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/liorwn/claudetop"
+    },
+    {
+      "name": "montstar652/blender-creator-studio-edition",
+      "stars": 50,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/montstar652/blender-creator-studio-edition"
+    },
+    {
+      "name": "detectorjoseph/icloud-premium-storage",
+      "stars": 49,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/detectorjoseph/icloud-premium-storage"
+    },
+    {
+      "name": "SvenGDK/RetroMultiTools",
+      "stars": 47,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SvenGDK/RetroMultiTools"
+    }
+  ]
+}
