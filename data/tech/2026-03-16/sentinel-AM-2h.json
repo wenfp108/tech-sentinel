@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-16T02:31:54.876Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 4,
+      "TECH_ACCELERATOR": 7,
+      "VIRAL_UNCATEGORIZED": 26,
+      "TALENT_GROWTH": 1,
+      "CAREER_MOVES": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "skernelx/tavily-key-generator",
+      "stars": 878,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/skernelx/tavily-key-generator"
+    },
+    {
+      "name": "calesthio/Crucix",
+      "stars": 497,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/calesthio/Crucix"
+    },
+    {
+      "name": "jackwener/opencli",
+      "stars": 447,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jackwener/opencli"
+    },
+    {
+      "name": "aiming-lab/AutoResearchClaw",
+      "stars": 248,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aiming-lab/AutoResearchClaw"
+    },
+    {
+      "name": "michelleoincx/zeroclaw-grok",
+      "stars": 203,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/michelleoincx/zeroclaw-grok"
+    },
+    {
+      "name": "susanudgzf/Aave-Claw",
+      "stars": 201,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/susanudgzf/Aave-Claw"
+    },
+    {
+      "name": "sstklen/trump-code",
+      "stars": 167,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sstklen/trump-code"
+    },
+    {
+      "name": "epiral/bb-sites",
+      "stars": 155,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/epiral/bb-sites"
+    },
+    {
+      "name": "chedyeniceri45/onedrive-ultimate-cloud-suite",
+      "stars": 90,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/chedyeniceri45/onedrive-ultimate-cloud-suite"
+    },
+    {
+      "name": "SvenGDK/RetroMultiTools",
+      "stars": 62,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SvenGDK/RetroMultiTools"
+    },
+    {
+      "name": "liorwn/claudetop",
+      "stars": 62,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/liorwn/claudetop"
+    },
+    {
+      "name": "montstar652/blender-creator-studio-edition",
+      "stars": 50,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/montstar652/blender-creator-studio-edition"
+    },
+    {
+      "name": "detectorjoseph/icloud-premium-storage",
+      "stars": 49,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/detectorjoseph/icloud-premium-storage"
+    }
+  ]
+}
