@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-16T15:09:54.558Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 5,
+      "TECH_ACCELERATOR": 4,
+      "TALENT_GROWTH": 1,
+      "CAREER_MOVES": 1,
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 8
+    }
+  },
+  "items": [
+    {
+      "name": "aiming-lab/AutoResearchClaw",
+      "stars": 572,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aiming-lab/AutoResearchClaw"
+    },
+    {
+      "name": "Infatoshi/OpenSquirrel",
+      "stars": 407,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Infatoshi/OpenSquirrel"
+    },
+    {
+      "name": "sstklen/trump-code",
+      "stars": 267,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sstklen/trump-code"
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "stars": 255,
+      "tags": [
+        "TALENT_GROWTH",
+        "CAREER_MOVES",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Lum1104/Understand-Anything"
+    },
+    {
+      "name": "JoshKale/jobs",
+      "stars": 226,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/JoshKale/jobs"
+    },
+    {
+      "name": "collaborator-ai/collab-public",
+      "stars": 222,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/collaborator-ai/collab-public"
+    },
+    {
+      "name": "rasbt/llm-architecture-gallery",
+      "stars": 206,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rasbt/llm-architecture-gallery"
+    },
+    {
+      "name": "deusyu/translate-book",
+      "stars": 203,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/deusyu/translate-book"
+    },
+    {
+      "name": "LeDat98/NexusRAG",
+      "stars": 61,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/LeDat98/NexusRAG"
+    }
+  ]
+}
