@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-17T21:00:44.917Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 30,
+      "TECH_ACCELERATOR": 10,
+      "KNOWLEDGE_BASE": 4,
+      "TALENT_GROWTH": 4,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "joeseesun/opencli-skill",
+      "stars": 375,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/joeseesun/opencli-skill"
+    },
+    {
+      "name": "lcoutodemos/clui-cc",
+      "stars": 276,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lcoutodemos/clui-cc"
+    },
+    {
+      "name": "infraform/polymarket-arbitrage-trading-bot",
+      "stars": 182,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/infraform/polymarket-arbitrage-trading-bot"
+    },
+    {
+      "name": "dev-protocoI/polymarket-copytrading-bot-sport",
+      "stars": 166,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dev-protocoI/polymarket-copytrading-bot-sport"
+    },
+    {
+      "name": "dev-protocol/polymarket-arbitrage-bot",
+      "stars": 162,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dev-protocol/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "dev-protocol/polymarket-copytrading-bot-sport",
+      "stars": 156,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dev-protocol/polymarket-copytrading-bot-sport"
+    },
+    {
+      "name": "naver-ai/seoul-world-model",
+      "stars": 139,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/naver-ai/seoul-world-model"
+    },
+    {
+      "name": "jazzband/polymarket-trading-bot",
+      "stars": 91,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jazzband/polymarket-trading-bot"
+    },
+    {
+      "name": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
+      "stars": 89,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation"
+    },
+    {
+      "name": "grapeot/context-infrastructure",
+      "stars": 80,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/grapeot/context-infrastructure"
+    },
+    {
+      "name": "OmniForcing/OmniForcing",
+      "stars": 73,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OmniForcing/OmniForcing"
+    },
+    {
+      "name": "yourfriendnessa29/Purple-Gem-Discovery",
+      "stars": 56,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yourfriendnessa29/Purple-Gem-Discovery"
+    },
+    {
+      "name": "saileaxh/cpueaxh",
+      "stars": 49,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/saileaxh/cpueaxh"
+    }
+  ]
+}
