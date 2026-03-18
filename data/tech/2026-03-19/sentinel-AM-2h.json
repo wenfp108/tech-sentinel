@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-19T02:53:14.664Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 3,
+      "KNOWLEDGE_BASE": 3,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 14,
+      "TECH_ACCELERATOR": 4,
+      "TALENT_GROWTH": 2,
+      "CAREER_MOVES": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "HKUDS/ClawTeam",
+      "stars": 895,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HKUDS/ClawTeam"
+    },
+    {
+      "name": "VoltAgent/awesome-codex-subagents",
+      "stars": 584,
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/VoltAgent/awesome-codex-subagents"
+    },
+    {
+      "name": "frank890417/taiwan-md",
+      "stars": 371,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/frank890417/taiwan-md"
+    },
+    {
+      "name": "5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
+      "stars": 150,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026"
+    },
+    {
+      "name": "leo-lilinxiao/codex-autoresearch",
+      "stars": 120,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/leo-lilinxiao/codex-autoresearch"
+    },
+    {
+      "name": "stevibe/local-llm-video-captioning",
+      "stars": 74,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/stevibe/local-llm-video-captioning"
+    },
+    {
+      "name": "lukasHoel/video_to_world",
+      "stars": 48,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lukasHoel/video_to_world"
+    },
+    {
+      "name": "shacklegivercalm/Lossless-Scaling-Desktop",
+      "stars": 46,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/shacklegivercalm/Lossless-Scaling-Desktop"
+    },
+    {
+      "name": "Nelipot-Lee/SegviGen",
+      "stars": 41,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Nelipot-Lee/SegviGen"
+    }
+  ]
+}
