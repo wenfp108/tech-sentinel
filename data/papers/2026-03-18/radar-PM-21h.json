@@ -1,0 +1,294 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-18T21:00:04.084Z",
+    "total_captured": 18,
+    "TRENDING_DIRECTIONS": [
+      "Work (physics) (Heat:52)",
+      "Stability (learning theory) (Heat:45)",
+      "Prejudice (legal term) (Heat:43)",
+      "Complementarity (molecular biology) (Heat:43)",
+      "Stereotype (UML) (Heat:43)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 9,
+      "NEXT_COMPUTING": 6,
+      "PARADIGM_SHIFT": 2,
+      "AI_CORE": 4
+    }
+  },
+  "items": [
+    {
+      "title": "Interaction, stereotypes and performance. Evidence from South Africa",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 42,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "http://hdl.handle.net/10419/200322",
+      "reason": "Velocity: 42 citations",
+      "publication_date": "2026-03-11"
+    },
+    {
+      "title": "IR Correlations of the QCD Vacuum, UV/IR Coupling, and the Dark-Energy Scale",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 22,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19033081",
+      "reason": "Velocity: 22 citations",
+      "publication_date": "2026-03-15"
+    },
+    {
+      "title": "Exponential stability of some scalar impulsive delay differential equation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "VIURRSpace (Vancouver Island University)",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "http://hdl.handle.net/10613/2720",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-03-11"
+    },
+    {
+      "title": "Migration Surveys in Low Income Countries",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.4324/9781003755173",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-03-11"
+    },
+    {
+      "title": "The SymbioMind Attribution Protocol: A Proposed Standard for Human-AI Collaborative Intellectual Production",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19028101",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-03-15"
+    },
+    {
+      "title": "Statistical Co-occurrence Detection for Entity Relationship Discovery in Heterogeneous Knowledge Graphs",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19024768",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-14"
+    },
+    {
+      "title": "Confidence Calibration for Evidence-Graded Knowledge Graph Edges: Methods, Metrics, and Cold-Start Protocols",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19024770",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-14"
+    },
+    {
+      "title": "Zero-Shot NLI Stance Detection for Knowledge Graph Edge Classification: Validating the Inference Level",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19024766",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-14"
+    },
+    {
+      "title": "From prompt injections to protocol exploits: Threats in LLM-powered AI agents workflows",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "SHILAP Revista de lepidopterología",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doaj.org/article/d6ddb5a905b54437a752a01a53ca1850",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "The Totality of Bonding Relationships - A Universal Principle from Quantum Vacuum to Cosmos",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19030094",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-03-15"
+    },
+    {
+      "title": "COS 45 – Riccati Dynamics of Effective Rates in Exponential Mixtures",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19009650",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-13"
+    },
+    {
+      "title": "Spectral Mean Flow and Variance Dynamics of Completely Monotone Functions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19008064",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-13"
+    },
+    {
+      "title": "The Coherence-Decoherence-Recoherence Cycle : Convergent Evidence Across Eight Scales and Disciplines",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19042178",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-16"
+    },
+    {
+      "title": "Paper A — Koma Density Geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.17605267",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-11"
+    },
+    {
+      "title": "The Mechanical Translation Hypothesis: LLM Cross-Language Code Translation Success Correlates with Instruction-Following Fidelity, Not Model Size",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19024296",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-14"
+    },
+    {
+      "title": "Spectral Mean Flow and Variance Dynamics of Completely Monotone Functions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19006053",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-13"
+    },
+    {
+      "title": "Investigation of video tutorial effectiveness and student use for general chemistry laboratories",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "VIUSpace (Vancouver Island University Library)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "http://hdl.handle.net/10613/2801",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-03-11"
+    },
+    {
+      "title": "The Universal Cover: Why the Integers Are the Covering Space of S³/2I",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18976096",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-03-12"
+    }
+  ]
+}
