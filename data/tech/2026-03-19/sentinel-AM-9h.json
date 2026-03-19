@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-19T09:51:15.807Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 10,
+      "TECH_ACCELERATOR": 3,
+      "CORE_PRAGMATISM": 1,
+      "CAREER_MOVES": 1,
+      "KNOWLEDGE_BASE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "leo-lilinxiao/codex-autoresearch",
+      "stars": 173,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/leo-lilinxiao/codex-autoresearch"
+    },
+    {
+      "name": "5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
+      "stars": 150,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026"
+    },
+    {
+      "name": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
+      "stars": 144,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/seabra98/Polymarket-Kalshi-Arbitrage-Bot"
+    },
+    {
+      "name": "Gustavo1900/bevy-atmosphere",
+      "stars": 111,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Gustavo1900/bevy-atmosphere"
+    },
+    {
+      "name": "danveloper/flash-moe",
+      "stars": 49,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/danveloper/flash-moe"
+    }
+  ]
+}
