@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-19T20:53:53.568Z",
+    "session": "PM",
+    "trend_summary": {
+      "TALENT_GROWTH": 7,
+      "KNOWLEDGE_BASE": 3,
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 5,
+      "CORE_PRAGMATISM": 1,
+      "VIRAL_UNCATEGORIZED": 19,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "mattprusak/autoresearch-genealogy",
+      "stars": 311,
+      "tags": [
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mattprusak/autoresearch-genealogy"
+    },
+    {
+      "name": "leo-lilinxiao/codex-autoresearch",
+      "stars": 285,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/leo-lilinxiao/codex-autoresearch"
+    },
+    {
+      "name": "lxf746/any-auto-register",
+      "stars": 245,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lxf746/any-auto-register"
+    },
+    {
+      "name": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
+      "stars": 208,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/seabra98/Polymarket-Kalshi-Arbitrage-Bot"
+    },
+    {
+      "name": "Gustavo1900/bevy-atmosphere",
+      "stars": 179,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Gustavo1900/bevy-atmosphere"
+    },
+    {
+      "name": "5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
+      "stars": 150,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026"
+    },
+    {
+      "name": "danveloper/flash-moe",
+      "stars": 132,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/danveloper/flash-moe"
+    },
+    {
+      "name": "alainnothere/llm-circuit-finder",
+      "stars": 90,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alainnothere/llm-circuit-finder"
+    },
+    {
+      "name": "Siquan-Wang/sixseven-jokes",
+      "stars": 63,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Siquan-Wang/sixseven-jokes"
+    }
+  ]
+}
