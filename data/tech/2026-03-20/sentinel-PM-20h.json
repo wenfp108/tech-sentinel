@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-20T20:49:40.100Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 3,
+      "TALENT_GROWTH": 5,
+      "VIRAL_UNCATEGORIZED": 19,
+      "KNOWLEDGE_BASE": 3,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "math-inc/OpenGauss",
+      "stars": 329,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/math-inc/OpenGauss"
+    },
+    {
+      "name": "truongduy2611/app-store-preflight-skills",
+      "stars": 291,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/truongduy2611/app-store-preflight-skills"
+    },
+    {
+      "name": "mucsbr/ppt-agent-workflow-san",
+      "stars": 103,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mucsbr/ppt-agent-workflow-san"
+    },
+    {
+      "name": "stvlynn/dingtalk-wukong-skills",
+      "stars": 87,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/stvlynn/dingtalk-wukong-skills"
+    },
+    {
+      "name": "dharshini1316/StratusIQ",
+      "stars": 45,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dharshini1316/StratusIQ"
+    },
+    {
+      "name": "H-EmbodVis/VEGA-3D",
+      "stars": 41,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/H-EmbodVis/VEGA-3D"
+    }
+  ]
+}
