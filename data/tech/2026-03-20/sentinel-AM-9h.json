@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-20T09:45:39.963Z",
+    "session": "AM",
+    "trend_summary": {
+      "TALENT_GROWTH": 3,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 7,
+      "CODE_LEVERAGE": 1,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "truongduy2611/app-store-preflight-skills",
+      "stars": 221,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/truongduy2611/app-store-preflight-skills"
+    },
+    {
+      "name": "stvlynn/dingtalk-wukong-skills",
+      "stars": 69,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/stvlynn/dingtalk-wukong-skills"
+    },
+    {
+      "name": "dharshini1316/StratusIQ",
+      "stars": 41,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dharshini1316/StratusIQ"
+    }
+  ]
+}
