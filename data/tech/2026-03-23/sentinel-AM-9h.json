@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-23T09:51:36.857Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 20,
+      "TECH_ACCELERATOR": 2,
+      "CAREER_MOVES": 1,
+      "KNOWLEDGE_BASE": 3,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "wong2/weixin-agent-sdk",
+      "stars": 444,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/wong2/weixin-agent-sdk"
+    },
+    {
+      "name": "m1heng/claude-plugin-weixin",
+      "stars": 423,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/m1heng/claude-plugin-weixin"
+    },
+    {
+      "name": "deathlessburton88/tiktok-views-likes-followers-shares-bot-2026",
+      "stars": 254,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deathlessburton88/tiktok-views-likes-followers-shares-bot-2026"
+    },
+    {
+      "name": "epiral/weixin-bot",
+      "stars": 147,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/epiral/weixin-bot"
+    },
+    {
+      "name": "0xSero/moe-compress",
+      "stars": 135,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xSero/moe-compress"
+    },
+    {
+      "name": "bloodangel229/lossless-scaling-pro-windows-pc",
+      "stars": 75,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bloodangel229/lossless-scaling-pro-windows-pc"
+    }
+  ]
+}
