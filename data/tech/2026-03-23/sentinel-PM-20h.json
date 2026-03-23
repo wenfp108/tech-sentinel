@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-23T20:56:30.626Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 3,
+      "VIRAL_GIANT": 5,
+      "VIRAL_UNCATEGORIZED": 32,
+      "TECH_ACCELERATOR": 3,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 3,
+      "CAREER_MOVES": 1,
+      "CORE_PRAGMATISM": 2
+    }
+  },
+  "items": [
+    {
+      "name": "wong2/weixin-agent-sdk",
+      "stars": 692,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/wong2/weixin-agent-sdk"
+    },
+    {
+      "name": "m1heng/claude-plugin-weixin",
+      "stars": 495,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/m1heng/claude-plugin-weixin"
+    },
+    {
+      "name": "deathlessburton88/tiktok-views-likes-followers-shares-bot-2026",
+      "stars": 451,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deathlessburton88/tiktok-views-likes-followers-shares-bot-2026"
+    },
+    {
+      "name": "fastclaw-ai/weclaw",
+      "stars": 340,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/fastclaw-ai/weclaw"
+    },
+    {
+      "name": "lyddape595/wplace-bot-2026",
+      "stars": 280,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lyddape595/wplace-bot-2026"
+    },
+    {
+      "name": "bramcohen/manyana",
+      "stars": 247,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bramcohen/manyana"
+    },
+    {
+      "name": "Vacutagin/GameEnhancementSuite",
+      "stars": 201,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Vacutagin/GameEnhancementSuite"
+    },
+    {
+      "name": "epiral/weixin-bot",
+      "stars": 189,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/epiral/weixin-bot"
+    },
+    {
+      "name": "0xSero/moe-compress",
+      "stars": 160,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xSero/moe-compress"
+    },
+    {
+      "name": "GAIR-NLP/daVinci-MagiHuman",
+      "stars": 160,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman"
+    },
+    {
+      "name": "bloodangel229/lossless-scaling-pro-windows-pc",
+      "stars": 135,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bloodangel229/lossless-scaling-pro-windows-pc"
+    },
+    {
+      "name": "djdmboss/BloxShade-Improve-Roblox-With-Shaders-Windows",
+      "stars": 62,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/djdmboss/BloxShade-Improve-Roblox-With-Shaders-Windows"
+    },
+    {
+      "name": "NetLops/SoSearch",
+      "stars": 47,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NetLops/SoSearch"
+    }
+  ]
+}
