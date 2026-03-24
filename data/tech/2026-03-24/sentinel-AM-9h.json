@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-24T09:43:49.887Z",
+    "session": "AM",
+    "trend_summary": {
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_GIANT": 3,
+      "VIRAL_UNCATEGORIZED": 6,
+      "CODE_LEVERAGE": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "slavingia/skills",
+      "stars": 350,
+      "tags": [
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/slavingia/skills"
+    },
+    {
+      "name": "lyddape595/wplace-bot-2026",
+      "stars": 255,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lyddape595/wplace-bot-2026"
+    },
+    {
+      "name": "Vacutagin/GameEnhancementSuite",
+      "stars": 201,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Vacutagin/GameEnhancementSuite"
+    },
+    {
+      "name": "oguzbilgic/agent-kernel",
+      "stars": 144,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/oguzbilgic/agent-kernel"
+    },
+    {
+      "name": "sommonsbell/Xeno-LUA-Sandbox",
+      "stars": 135,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sommonsbell/Xeno-LUA-Sandbox"
+    }
+  ]
+}

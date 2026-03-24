@@ -1,0 +1,249 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-24T09:43:50.604Z",
+    "total_captured": 15,
+    "TRENDING_DIRECTIONS": [
+      "Cepheid variable (Heat:516)",
+      "Parallax (Heat:516)",
+      "Photometry (optics) (Heat:516)",
+      "Milky Way (Heat:516)",
+      "Galaxy (Heat:516)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 7,
+      "AI_CORE": 4,
+      "SPACE_DEFENSE": 2,
+      "STRATEGIC_ENERGY": 1,
+      "BIO_REVOLUTION": 3
+    }
+  },
+  "items": [
+    {
+      "title": "The Banana Bridge - The Unitary Kinematic Solution to the Hubble Tension and the 1.618 x 137 Master Law",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 515,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/1804.10655",
+      "reason": "Velocity: 515 citations",
+      "publication_date": "2026-03-18"
+    },
+    {
+      "title": "Rationality, utility and deontic reasoning",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 59,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.4324/9781003735540-10",
+      "reason": "Velocity: 59 citations",
+      "publication_date": "2026-03-19"
+    },
+    {
+      "title": "Bootstrap Universe: Paper Catalogue - Deriving Physical Reality from Pure Mathematics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 29,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.17906573",
+      "reason": "Velocity: 29 citations",
+      "publication_date": "2026-03-22"
+    },
+    {
+      "title": "Braess Paradox in Delay-Tolerant Networks: How Adding Relay Satellites Can Decrease Delivery",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18819416",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-03-18"
+    },
+    {
+      "title": "The Policy Distortion Factor Phi: Decomposing Routing Efficiency in Delay-Tolerant Networks",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18836604",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-03-18"
+    },
+    {
+      "title": "Prompt-Native Semantic Runtimes for Language Models: Inference-Time Semantic Governance, Provenance, Compression, and Document-Level Process Teaching",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19059674",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-03-17"
+    },
+    {
+      "title": "Generative Disciplinary Engine: Construction Sequence for Forensic Philology of the Commons",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19083600",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-03-18"
+    },
+    {
+      "title": "From prompt injections to protocol exploits: Threats in LLM-powered AI agents workflows",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "SHILAP Revista de lepidopterología",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doaj.org/article/d6ddb5a905b54437a752a01a53ca1850",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "SOSA-MVU: Formal Validation Layer for Deterministic Output Control in LLM Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19154913",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-03-22"
+    },
+    {
+      "title": "FCLT Paper 19: Phi-Deviation Analysis of Carbon Nuclear and Chemical Structure — A Test of the FCLT Necessity Recursion in the Architecture of Life",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19154015",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-21"
+    },
+    {
+      "title": "The Coherence Chain: One Mechanism, Every Row, the Compiler Proved",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19075963",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-03-17"
+    },
+    {
+      "title": "OTF II: The Tensor Channel of Physical Admissibility: Decoherence, Gluing, and the Classicalization of Primordial Tensor Modes",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19075284",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-03-17"
+    },
+    {
+      "title": "Metastability on the hypercube I: rate functions and sharp thresholds for Metropolis dynamics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19092398",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-03-18"
+    },
+    {
+      "title": "Empirical Validation of Structured Space Theory (SST): Ripple Mechanics Across Gravitational, Quantum, and Cosmic Scales",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19058049",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-03-18"
+    },
+    {
+      "title": "Phi-Convergence in Botanical Growth and Marine Invertebrate Symmetry: Phyllotaxis as Universal Necessity Recursion Under Growth Constraint",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19166319",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-03-22"
+    }
+  ]
+}
