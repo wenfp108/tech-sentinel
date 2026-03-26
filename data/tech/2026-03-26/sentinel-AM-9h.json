@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-26T09:55:25.106Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 15,
+      "TECH_ACCELERATOR": 3
+    }
+  },
+  "items": [
+    {
+      "name": "dev-protocol/polymarket-arbitrage-trade-bot",
+      "stars": 94,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dev-protocol/polymarket-arbitrage-trade-bot"
+    },
+    {
+      "name": "tonbistudio/turboquant-pytorch",
+      "stars": 80,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tonbistudio/turboquant-pytorch"
+    },
+    {
+      "name": "Percepta-Core/transformer-vm",
+      "stars": 51,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Percepta-Core/transformer-vm"
+    }
+  ]
+}
