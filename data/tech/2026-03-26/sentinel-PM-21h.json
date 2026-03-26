@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-26T21:03:11.701Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TECH_ACCELERATOR": 6,
+      "VIRAL_UNCATEGORIZED": 19
+    }
+  },
+  "items": [
+    {
+      "name": "elder-plinius/G0DM0D3",
+      "stars": 292,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/elder-plinius/G0DM0D3"
+    },
+    {
+      "name": "tonbistudio/turboquant-pytorch",
+      "stars": 227,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tonbistudio/turboquant-pytorch"
+    },
+    {
+      "name": "ryfineZ/codex-session-patcher",
+      "stars": 212,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ryfineZ/codex-session-patcher"
+    },
+    {
+      "name": "runesleo/ai-health-vault",
+      "stars": 203,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/runesleo/ai-health-vault"
+    },
+    {
+      "name": "dev-protocol/polymarket-arbitrage-trade-bot",
+      "stars": 160,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dev-protocol/polymarket-arbitrage-trade-bot"
+    },
+    {
+      "name": "Percepta-Core/transformer-vm",
+      "stars": 98,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Percepta-Core/transformer-vm"
+    },
+    {
+      "name": "veyliss/ai-localbase",
+      "stars": 81,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/veyliss/ai-localbase"
+    },
+    {
+      "name": "iad1tya/Quitty",
+      "stars": 74,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/iad1tya/Quitty"
+    },
+    {
+      "name": "polymarket-dev/Polymarket-Arbitrage-Bot",
+      "stars": 68,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/polymarket-dev/Polymarket-Arbitrage-Bot"
+    }
+  ]
+}
