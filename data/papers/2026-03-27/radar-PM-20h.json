@@ -1,0 +1,326 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-27T20:54:56.694Z",
+    "total_captured": 20,
+    "TRENDING_DIRECTIONS": [
+      "Epithelium (Heat:299)",
+      "Respiratory epithelium (Heat:299)",
+      "Serous fluid (Heat:299)",
+      "Airway (Heat:299)",
+      "Ultrastructure (Heat:299)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 7,
+      "NEXT_COMPUTING": 7,
+      "STRATEGIC_ENERGY": 1,
+      "AI_CORE": 5,
+      "PARADIGM_SHIFT": 1,
+      "SPACE_DEFENSE": 2
+    }
+  },
+  "items": [
+    {
+      "title": "Tracheal ultrastructure in the rat: Electron micrograph collection.",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PubMed",
+      "metrics": {
+        "citations": 298,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.34810/data3129",
+      "reason": "Velocity: 298 citations",
+      "publication_date": "2026-03-20"
+    },
+    {
+      "title": "The Convergence Poblem",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 31,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19196502",
+      "reason": "Velocity: 31 citations",
+      "publication_date": "2026-03-23"
+    },
+    {
+      "title": "Bootstrap Universe: Paper Catalogue - Deriving Physical Reality from Pure Mathematics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 29,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.17906573",
+      "reason": "Velocity: 29 citations",
+      "publication_date": "2026-03-22"
+    },
+    {
+      "title": "Dimensional Oscillation Theory: A Single-Wave Geometric Theory of Fundamental Physics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19194308",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-03-23"
+    },
+    {
+      "title": "Coupling Constants as Observer Position on a Z₃ Strip",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19192887",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-23"
+    },
+    {
+      "title": "Elements as Harmonic Frequencies: Nuclear Structure, Mass, and Chemistry from Wave Geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19196593",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-03-23"
+    },
+    {
+      "title": "From prompt injections to protocol exploits: Threats in LLM-powered AI agents workflows",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "SHILAP Revista de lepidopterología",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doaj.org/article/d6ddb5a905b54437a752a01a53ca1850",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "A Semi‑Explicit UV Existence Proof for the Gauged Constant Vacuum‑Mode (GCV) Framework",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18438489",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-03-23"
+    },
+    {
+      "title": "SOSA-MVU: Formal Validation Layer for Deterministic Output Control in LLM Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19154913",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-03-22"
+    },
+    {
+      "title": "Procyclical Leverage and Crisis Probability in a Macroeconomic Model of Bank Runs",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Political Economy Macroeconomics",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1086/741483",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-03-24"
+    },
+    {
+      "title": "Universal area-decay exponents in K-parametrized non-holomorphic fractal families: a complete classification",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19166571",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-03-22"
+    },
+    {
+      "title": "Phase transitions, cusp cascades, and a Feigenbaum-type universality in the Aether fractal family",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19197986",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-03-23"
+    },
+    {
+      "title": "FCLT Paper 19: Phi-Deviation Analysis of Carbon Nuclear and Chemical Structure — A Test of the FCLT Necessity Recursion in the Architecture of Life",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19154015",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-21"
+    },
+    {
+      "title": "The Fractal Standing Wave Universe: One Geometric Operation at Every Scale",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19227451",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-03-25"
+    },
+    {
+      "title": "Deriving the Gravitational Constant from Electromagnetic Coupling and Three-Phase Geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19211797",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-03-24"
+    },
+    {
+      "title": "The Oracle Problem in Autonomous Agent Commerce: Why Semantic Truth Verication Is Computationally Intractable and What to Build Instead",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19208440",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-03-24"
+    },
+    {
+      "title": "CRI: A Multi-Factor Reputation System for Autonomous Agent Commerce",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19208083",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-03-24"
+    },
+    {
+      "title": "Phi-Convergence in Botanical Growth and Marine Invertebrate Symmetry: Phyllotaxis as Universal Necessity Recursion Under Growth Constraint",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19166319",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-03-22"
+    },
+    {
+      "title": "Point-Luminist Visual Philosophy: The Ontological Engineering of Light and Perception",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19221352",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-03-25"
+    },
+    {
+      "title": "Two Economies, Not One- A Taxonomy of the Agentic Economy and the Case for Settlement Neutrality",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19208278",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-03-24"
+    }
+  ]
+}
