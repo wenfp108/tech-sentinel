@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-29T02:33:07.179Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "VIRAL_UNCATEGORIZED": 28,
+      "TALENT_GROWTH": 4,
+      "KNOWLEDGE_BASE": 4,
+      "TECH_ACCELERATOR": 6,
+      "CORE_PRAGMATISM": 3,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "happyboy4ty25/pump-analyzer",
+      "stars": 516,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/happyboy4ty25/pump-analyzer"
+    },
+    {
+      "name": "adamlyttleapps/notchy",
+      "stars": 268,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/adamlyttleapps/notchy"
+    },
+    {
+      "name": "EnriqueLop/legalize-es",
+      "stars": 247,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/EnriqueLop/legalize-es"
+    },
+    {
+      "name": "krzyzanowskim/claude-better",
+      "stars": 220,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/krzyzanowskim/claude-better"
+    },
+    {
+      "name": "Justineo/working-with-ai",
+      "stars": 206,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Justineo/working-with-ai"
+    },
+    {
+      "name": "m0at/rvllm",
+      "stars": 91,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/m0at/rvllm"
+    },
+    {
+      "name": "AsArchitects/Kalshi-trade-bot",
+      "stars": 80,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AsArchitects/Kalshi-trade-bot"
+    },
+    {
+      "name": "krishnachauhan1409/Adobe-CS6-Photoshop-Windows",
+      "stars": 72,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/krishnachauhan1409/Adobe-CS6-Photoshop-Windows"
+    },
+    {
+      "name": "HMAKT99/UnTouchID",
+      "stars": 69,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HMAKT99/UnTouchID"
+    },
+    {
+      "name": "parth56uygh/Lossless-Scaling-LSFG-3-Desktop",
+      "stars": 67,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/parth56uygh/Lossless-Scaling-LSFG-3-Desktop"
+    },
+    {
+      "name": "0xSero/factory-cursor-bridge",
+      "stars": 61,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xSero/factory-cursor-bridge"
+    },
+    {
+      "name": "fshiori/magi",
+      "stars": 51,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/fshiori/magi"
+    },
+    {
+      "name": "cksac/turboquant-model",
+      "stars": 44,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cksac/turboquant-model"
+    }
+  ]
+}
