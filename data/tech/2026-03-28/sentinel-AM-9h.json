@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-28T09:47:36.229Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 12,
+      "TALENT_GROWTH": 1,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "happyboy4ty25/pump-analyzer",
+      "stars": 389,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/happyboy4ty25/pump-analyzer"
+    },
+    {
+      "name": "0xSero/factory-cursor-bridge",
+      "stars": 46,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xSero/factory-cursor-bridge"
+    }
+  ]
+}
