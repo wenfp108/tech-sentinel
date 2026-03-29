@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-30T02:34:46.524Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 28,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 2,
+      "CORE_PRAGMATISM": 4,
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 3
+    }
+  },
+  "items": [
+    {
+      "name": "qiuzhi2046/Qclaw",
+      "stars": 564,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/qiuzhi2046/Qclaw"
+    },
+    {
+      "name": "adamlyttleapps/notchy",
+      "stars": 450,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/adamlyttleapps/notchy"
+    },
+    {
+      "name": "sadsadsasdasadsadsadsadsa/Crimson-Desert-Optiscaler-Fsr-4",
+      "stars": 104,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sadsadsasdasadsadsadsadsa/Crimson-Desert-Optiscaler-Fsr-4"
+    },
+    {
+      "name": "asdsadasdasdasdsd121/Crimson-Desert-RenoDX",
+      "stars": 101,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/asdsadasdasdasdsd121/Crimson-Desert-RenoDX"
+    },
+    {
+      "name": "fearasasdsad/Serum-2-Free-Windows",
+      "stars": 97,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/fearasasdsad/Serum-2-Free-Windows"
+    },
+    {
+      "name": "0xSteph/pentest-ai",
+      "stars": 87,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xSteph/pentest-ai"
+    },
+    {
+      "name": "SunWeb3Sec/llm-sast-scanner",
+      "stars": 63,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SunWeb3Sec/llm-sast-scanner"
+    },
+    {
+      "name": "asedyfineg5052/Fortnite-Saturn-Galaxy-2026",
+      "stars": 60,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/asedyfineg5052/Fortnite-Saturn-Galaxy-2026"
+    },
+    {
+      "name": "Tokido-ki/Polymarket-arbitrage-bot",
+      "stars": 58,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Tokido-ki/Polymarket-arbitrage-bot"
+    },
+    {
+      "name": "vuongnguyenbinh/ZaloCRM",
+      "stars": 53,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/vuongnguyenbinh/ZaloCRM"
+    }
+  ]
+}
