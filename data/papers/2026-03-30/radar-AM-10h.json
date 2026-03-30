@@ -1,0 +1,324 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-30T10:01:29.917Z",
+    "total_captured": 25,
+    "TRENDING_DIRECTIONS": [
+      "Energy (signal processing) (Heat:322)",
+      "Quantum (Heat:248)",
+      "Interpretation (philosophy) (Heat:221)",
+      "Axiom (Heat:159)",
+      "Constraint (computer-aided design) (Heat:148)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 10,
+      "NEXT_COMPUTING": 12,
+      "PARADIGM_SHIFT": 1,
+      "STRATEGIC_ENERGY": 1,
+      "SPACE_DEFENSE": 1,
+      "AI_CORE": 2
+    }
+  },
+  "items": [
+    {
+      "title": "Inertia Does No Work: An Energy-Constraint Interpretation from Energy-Efficiency Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 71,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19224396",
+      "reason": "Velocity: 71 citations",
+      "publication_date": "2026-03-25"
+    },
+    {
+      "title": "The Two Fundamental Forms of Energy: Free State and Constrained State — A Physical Ontological Foundation of Energy-Efficiency Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 62,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19233655",
+      "reason": "Velocity: 62 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "The Principle of Minimum Time: A Unifying Constraint from Energy-Efficiency Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 54,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234494",
+      "reason": "Velocity: 54 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "An Energy-Efficiency Interpretation of Light: The Extremity of Free-State Energy",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 48,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19235113",
+      "reason": "Velocity: 48 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "Unified Energy-Efficiency Interpretation of Fields: The Continuous Manifestation of Unfolded Energy",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 36,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19235951",
+      "reason": "Velocity: 36 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "The Convergence Poblem",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 31,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19196502",
+      "reason": "Velocity: 31 citations",
+      "publication_date": "2026-03-23"
+    },
+    {
+      "title": "Quantum Mechanics as Energy-State Transitions: An Energy-Efficiency Interpretation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 24,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19238676",
+      "reason": "Velocity: 24 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "Dimensional Oscillation Theory: A Single-Wave Geometric Theory of Fundamental Physics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 23,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19194308",
+      "reason": "Velocity: 23 citations",
+      "publication_date": "2026-03-23"
+    },
+    {
+      "title": "Redefining Force in Energy-Efficiency Theory: Constrained-State Energy Responding to Free-State Energy Gradients",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 20,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19240282",
+      "reason": "Velocity: 20 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "The Ontology of Complexity: The Hierarchical Emergence of Nested Constraints",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19240808",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "Coupling Constants as Observer Position on a Z₃ Strip",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19192887",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-03-23"
+    },
+    {
+      "title": "Reconstructing Temperature from Escape Dynamics in Constrained Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19245777",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "Elements as Harmonic Frequencies: Nuclear Structure, Mass, and Chemistry from Wave Geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19196593",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-03-23"
+    },
+    {
+      "title": "Phase transitions, cusp cascades, and a Feigenbaum-type universality in the Aether fractal family",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19197986",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-03-23"
+    },
+    {
+      "title": "Procedures for the investigations of permeability and seepage control in soft rock foundations for dams",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1201/9781003762874-83",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "RFL-2 — Relational Attractor Dynamics: From lived relational presence to synchronized chromatic infrastructure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19282337",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-28"
+    },
+    {
+      "title": "The Fractal Standing Wave Universe: One Geometric Operation at Every Scale",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19227451",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-25"
+    },
+    {
+      "title": "WSC-1 — WarmthSwipe and ChronoSense: Distribution and Temporal Emergence Operators in Relational Field Infrastructure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19283203",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-28"
+    },
+    {
+      "title": "Prediction of long term strength of soft sedimentary rock",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003762874-18",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "Resurgence Corrections for Non-Holomorphic Fractal Families: Exact Class B′ Hypergeometric Identification and Transfer Lemma",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19222502",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-03-25"
+    }
+  ]
+}

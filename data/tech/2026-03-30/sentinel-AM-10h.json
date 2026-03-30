@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-30T10:01:29.103Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 13,
+      "TECH_ACCELERATOR": 3
+    }
+  },
+  "items": [
+    {
+      "name": "yetone/voice-input-src",
+      "stars": 394,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/yetone/voice-input-src"
+    },
+    {
+      "name": "hitmux/HitCC",
+      "stars": 270,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hitmux/HitCC"
+    },
+    {
+      "name": "walkinglabs/awesome-harness-engineering",
+      "stars": 245,
+      "tags": [
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/walkinglabs/awesome-harness-engineering"
+    },
+    {
+      "name": "SunWeb3Sec/llm-sast-scanner",
+      "stars": 87,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SunWeb3Sec/llm-sast-scanner"
+    },
+    {
+      "name": "Tokido-ki/Polymarket-arbitrage-bot",
+      "stars": 86,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Tokido-ki/Polymarket-arbitrage-bot"
+    },
+    {
+      "name": "aak204/MCP-Trust-Kit",
+      "stars": 72,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aak204/MCP-Trust-Kit"
+    }
+  ]
+}
