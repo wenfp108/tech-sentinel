@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-30T21:07:15.950Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 6,
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 22,
+      "TECH_ACCELERATOR": 3,
+      "CORE_PRAGMATISM": 2
+    }
+  },
+  "items": [
+    {
+      "name": "yetone/voice-input-src",
+      "stars": 882,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/yetone/voice-input-src"
+    },
+    {
+      "name": "WecomTeam/wecom-cli",
+      "stars": 767,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/WecomTeam/wecom-cli"
+    },
+    {
+      "name": "walkinglabs/awesome-harness-engineering",
+      "stars": 507,
+      "tags": [
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/walkinglabs/awesome-harness-engineering"
+    },
+    {
+      "name": "hitmux/HitCC",
+      "stars": 395,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hitmux/HitCC"
+    },
+    {
+      "name": "dreddnafious/thereisnospoon",
+      "stars": 335,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dreddnafious/thereisnospoon"
+    },
+    {
+      "name": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
+      "stars": 246,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots"
+    },
+    {
+      "name": "Zfinix/another",
+      "stars": 211,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Zfinix/another"
+    },
+    {
+      "name": "SunWeb3Sec/llm-sast-scanner",
+      "stars": 127,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SunWeb3Sec/llm-sast-scanner"
+    },
+    {
+      "name": "krishnaop/Adobe-CS6-Photoshop-For-PC",
+      "stars": 100,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/krishnaop/Adobe-CS6-Photoshop-For-PC"
+    },
+    {
+      "name": "Plingvivin/Ableton-Live-12-Windows",
+      "stars": 97,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Plingvivin/Ableton-Live-12-Windows"
+    },
+    {
+      "name": "aak204/MCP-Trust-Kit",
+      "stars": 94,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aak204/MCP-Trust-Kit"
+    },
+    {
+      "name": "WillowHe/EvoOpt_oppangu_optimization_model",
+      "stars": 46,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/WillowHe/EvoOpt_oppangu_optimization_model"
+    }
+  ]
+}
