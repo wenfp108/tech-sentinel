@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-31T21:06:15.307Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 9,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 26,
+      "TALENT_GROWTH": 4,
+      "TECH_ACCELERATOR": 6,
+      "KNOWLEDGE_BASE": 4,
+      "CORE_PRAGMATISM": 3
+    }
+  },
+  "items": [
+    {
+      "name": "instructkr/claude-code",
+      "stars": 22242,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/instructkr/claude-code"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "stars": 4433,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/openai/codex-plugin-cc"
+    },
+    {
+      "name": "titanwings/colleague-skill",
+      "stars": 3023,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/titanwings/colleague-skill"
+    },
+    {
+      "name": "ChinaSiro/claude-code-sourcemap",
+      "stars": 2329,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ChinaSiro/claude-code-sourcemap"
+    },
+    {
+      "name": "drona23/claude-token-efficient",
+      "stars": 1163,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/drona23/claude-token-efficient"
+    },
+    {
+      "name": "Neron888/Polymarket-copy-trading-bot",
+      "stars": 857,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Neron888/Polymarket-copy-trading-bot"
+    },
+    {
+      "name": "sanbuphy/claude-code-source-code",
+      "stars": 638,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sanbuphy/claude-code-source-code"
+    },
+    {
+      "name": "nirholas/claude-code",
+      "stars": 485,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nirholas/claude-code"
+    },
+    {
+      "name": "chatgptprojects/claude-code",
+      "stars": 308,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/chatgptprojects/claude-code"
+    },
+    {
+      "name": "hangsman/claude-code-source",
+      "stars": 258,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hangsman/claude-code-source"
+    },
+    {
+      "name": "HKUDS/CatchMe",
+      "stars": 152,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HKUDS/CatchMe"
+    },
+    {
+      "name": "PoIyClaw/Polymarket-Arbitrage-Trading-Bot",
+      "stars": 138,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PoIyClaw/Polymarket-Arbitrage-Trading-Bot"
+    },
+    {
+      "name": "0xpoIygon/polymarket-trading-bot-example",
+      "stars": 138,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xpoIygon/polymarket-trading-bot-example"
+    },
+    {
+      "name": "codetrybe/polymarket-kalshi-arbitrage-bot",
+      "stars": 95,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/codetrybe/polymarket-kalshi-arbitrage-bot"
+    },
+    {
+      "name": "codetrybe/polymarket-arbitrage-bot",
+      "stars": 93,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/codetrybe/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "PolyEdges/Polymarket-Arbitrage-Bot",
+      "stars": 89,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PolyEdges/Polymarket-Arbitrage-Bot"
+    },
+    {
+      "name": "adnancantfunction/Crimson-Desert-Save-Editor-For-PC",
+      "stars": 89,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/adnancantfunction/Crimson-Desert-Save-Editor-For-PC"
+    },
+    {
+      "name": "AryaSatyaN/Cheat-Engine-Modding-Games-Windows",
+      "stars": 89,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AryaSatyaN/Cheat-Engine-Modding-Games-Windows"
+    },
+    {
+      "name": "PoIymarkets/polymarket-arbitrage-bot",
+      "stars": 73,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PoIymarkets/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "adnancantcode/Crimson-Desert-Mod-Manager-2026",
+      "stars": 64,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/adnancantcode/Crimson-Desert-Mod-Manager-2026"
+    }
+  ]
+}
