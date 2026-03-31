@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-31T09:57:14.326Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 9,
+      "TALENT_GROWTH": 1,
+      "KNOWLEDGE_BASE": 1,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "openai/codex-plugin-cc",
+      "stars": 1603,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/openai/codex-plugin-cc"
+    },
+    {
+      "name": "titanwings/colleague-skill",
+      "stars": 639,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/titanwings/colleague-skill"
+    },
+    {
+      "name": "WillowHe/EvoOpt_oppangu_optimization_model",
+      "stars": 55,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/WillowHe/EvoOpt_oppangu_optimization_model"
+    }
+  ]
+}
