@@ -1,0 +1,473 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-01T21:09:47.030Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 32,
+      "CODE_LEVERAGE": 16,
+      "PARADIGM_SHIFT": 1,
+      "TECH_ACCELERATOR": 4,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "instructkr/claw-code",
+      "stars": 100540,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/instructkr/claw-code"
+    },
+    {
+      "name": "sanbuphy/learn-coding-agent",
+      "stars": 10201,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sanbuphy/learn-coding-agent"
+    },
+    {
+      "name": "ChinaSiro/claude-code-sourcemap",
+      "stars": 6949,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ChinaSiro/claude-code-sourcemap"
+    },
+    {
+      "name": "claude-code-best/claude-code",
+      "stars": 6287,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/claude-code-best/claude-code"
+    },
+    {
+      "name": "Kuberwastaken/claurst",
+      "stars": 5409,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Kuberwastaken/claurst"
+    },
+    {
+      "name": "tvytlx/ai-agent-deep-dive",
+      "stars": 2212,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tvytlx/ai-agent-deep-dive"
+    },
+    {
+      "name": "NanmiCoder/claude-code-haha",
+      "stars": 2156,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/NanmiCoder/claude-code-haha"
+    },
+    {
+      "name": "oboard/claude-code-rev",
+      "stars": 1829,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/oboard/claude-code-rev"
+    },
+    {
+      "name": "codeany-ai/open-agent-sdk-typescript",
+      "stars": 1716,
+      "tags": [
+        "CODE_LEVERAGE",
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/codeany-ai/open-agent-sdk-typescript"
+    },
+    {
+      "name": "chatgptprojects/clear-code",
+      "stars": 1679,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/chatgptprojects/clear-code"
+    },
+    {
+      "name": "Leonxlnx/agentic-ai-prompt-research",
+      "stars": 1599,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research"
+    },
+    {
+      "name": "motiful/cc-gateway",
+      "stars": 1294,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/motiful/cc-gateway"
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "stars": 1292,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Gitlawb/openclaude"
+    },
+    {
+      "name": "JackChen-me/open-multi-agent",
+      "stars": 1226,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JackChen-me/open-multi-agent"
+    },
+    {
+      "name": "ponponon/claude_code_src",
+      "stars": 1155,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ponponon/claude_code_src"
+    },
+    {
+      "name": "jarmuine/claude-code",
+      "stars": 1097,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jarmuine/claude-code"
+    },
+    {
+      "name": "openedclaude/claude-reviews-claude",
+      "stars": 910,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/openedclaude/claude-reviews-claude"
+    },
+    {
+      "name": "shitagaki-lab/see-through",
+      "stars": 883,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/shitagaki-lab/see-through"
+    },
+    {
+      "name": "lintsinghua/claude-code-book",
+      "stars": 863,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lintsinghua/claude-code-book"
+    },
+    {
+      "name": "777genius/claude-code-source-code",
+      "stars": 720,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/777genius/claude-code-source-code"
+    },
+    {
+      "name": "pengchengneo/Claude-Code",
+      "stars": 701,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/pengchengneo/Claude-Code"
+    },
+    {
+      "name": "Windy3f3f3f3f/how-claude-code-works",
+      "stars": 687,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works"
+    },
+    {
+      "name": "Leonxlnx/claw-dev",
+      "stars": 667,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Leonxlnx/claw-dev"
+    },
+    {
+      "name": "therealXiaomanChu/ex-skill",
+      "stars": 665,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/therealXiaomanChu/ex-skill"
+    },
+    {
+      "name": "6551Team/claude-code-design-guide",
+      "stars": 568,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/6551Team/claude-code-design-guide"
+    },
+    {
+      "name": "hangsman/claude-code-source",
+      "stars": 555,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hangsman/claude-code-source"
+    },
+    {
+      "name": "averygan/reclip",
+      "stars": 488,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/averygan/reclip"
+    },
+    {
+      "name": "iamfakeguru/claude-md",
+      "stars": 457,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/iamfakeguru/claude-md"
+    },
+    {
+      "name": "tanbiralam/claude-code",
+      "stars": 435,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tanbiralam/claude-code"
+    },
+    {
+      "name": "chauncygu/collection-claude-code-source-code",
+      "stars": 429,
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/chauncygu/collection-claude-code-source-code"
+    },
+    {
+      "name": "Windy3f3f3f3f/claude-code-from-scratch",
+      "stars": 404,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Windy3f3f3f3f/claude-code-from-scratch"
+    },
+    {
+      "name": "liuup/claude-code-analysis",
+      "stars": 375,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/liuup/claude-code-analysis"
+    },
+    {
+      "name": "Janlaywss/cloud-code",
+      "stars": 355,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Janlaywss/cloud-code"
+    },
+    {
+      "name": "leaked-claude-code/leaked-claude-code",
+      "stars": 344,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/leaked-claude-code/leaked-claude-code"
+    },
+    {
+      "name": "codeaashu/claude-code",
+      "stars": 321,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/codeaashu/claude-code"
+    },
+    {
+      "name": "huangserva/claude-code-cli",
+      "stars": 313,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/huangserva/claude-code-cli"
+    },
+    {
+      "name": "HypeCIaw/Hyperliquid-Copytrading-Bot",
+      "stars": 291,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/HypeCIaw/Hyperliquid-Copytrading-Bot"
+    },
+    {
+      "name": "seilk/claude-code-docs",
+      "stars": 280,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/seilk/claude-code-docs"
+    },
+    {
+      "name": "jiji262/build-code-agent",
+      "stars": 279,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jiji262/build-code-agent"
+    },
+    {
+      "name": "VoltAgent/awesome-design-md",
+      "stars": 276,
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/VoltAgent/awesome-design-md"
+    },
+    {
+      "name": "iZiTTMarvin/Claude-code-open-explain",
+      "stars": 274,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/iZiTTMarvin/Claude-code-open-explain"
+    },
+    {
+      "name": "Rangizingo/cc-cache-fix",
+      "stars": 274,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Rangizingo/cc-cache-fix"
+    },
+    {
+      "name": "code-yeongyu/not-claude-code-emulator",
+      "stars": 265,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/code-yeongyu/not-claude-code-emulator"
+    },
+    {
+      "name": "PolyEdges/Polymarket-Arbitrage-Bot",
+      "stars": 264,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PolyEdges/Polymarket-Arbitrage-Bot"
+    },
+    {
+      "name": "PolyStrategy/Polymarket-Crypto-Market-Bot",
+      "stars": 264,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PolyStrategy/Polymarket-Crypto-Market-Bot"
+    },
+    {
+      "name": "Predict-Org/Polymarket-Copy-Trade-Bot",
+      "stars": 263,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Predict-Org/Polymarket-Copy-Trade-Bot"
+    },
+    {
+      "name": "lorryjovens-hub/claude-code-rust",
+      "stars": 264,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lorryjovens-hub/claude-code-rust"
+    },
+    {
+      "name": "Estimate-Labs/Polymarket-Strategies",
+      "stars": 263,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Estimate-Labs/Polymarket-Strategies"
+    },
+    {
+      "name": "theNetworkChuck/axios-attack-guide",
+      "stars": 248,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/theNetworkChuck/axios-attack-guide"
+    },
+    {
+      "name": "ultrmgns/claude-private",
+      "stars": 246,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ultrmgns/claude-private"
+    }
+  ]
+}
