@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-03T02:50:37.417Z",
+    "total_captured": 21,
+    "TRENDING_DIRECTIONS": [
+      "Energy (signal processing) (Heat:374)",
+      "Quantum (Heat:297)",
+      "Interpretation (philosophy) (Heat:263)",
+      "Axiom (Heat:181)",
+      "Calculus (dental) (Heat:173)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 8,
+      "BIO_REVOLUTION": 7,
+      "PARADIGM_SHIFT": 2,
+      "STRATEGIC_ENERGY": 1,
+      "SPACE_DEFENSE": 3,
+      "AI_CORE": 2
+    }
+  },
+  "items": [
+    {
+      "title": "The Two Fundamental Forms of Energy: Free State and Constrained State — A Physical Ontological Foundation of Energy-Efficiency Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 84,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19233655",
+      "reason": "Velocity: 84 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "Inertia Does No Work: An Energy-Constraint Interpretation from Energy-Efficiency Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 81,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19224396",
+      "reason": "Velocity: 81 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "The Principle of Minimum Time: A Unifying Constraint from Energy-Efficiency Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 63,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234494",
+      "reason": "Velocity: 63 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "An Energy-Efficiency Interpretation of Light: The Extremity of Free-State Energy",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 49,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19235113",
+      "reason": "Velocity: 49 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "Unified Energy-Efficiency Interpretation of Fields: The Continuous Manifestation of Unfolded Energy",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 37,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19235951",
+      "reason": "Velocity: 37 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "Quantum Mechanics as Energy-State Transitions: An Energy-Efficiency Interpretation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 30,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19238676",
+      "reason": "Velocity: 30 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "Reconstructing Temperature from Escape Dynamics in Constrained Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19245777",
+      "reason": "Velocity: 28 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "Redefining Force in Energy-Efficiency Theory: Constrained-State Energy Responding to Free-State Energy Gradients",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 23,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19240282",
+      "reason": "Velocity: 23 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "The Ontology of Complexity: The Hierarchical Emergence of Nested Constraints",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19240808",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "The $650 Billion Gap: Physical Infrastructure, Semantic Governance, and the Architecture of Compression-Survival",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19338708",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-03-30"
+    },
+    {
+      "title": "NON-PERTURBATIVE STRUCTURE OF THE CLASS A WATSON INTEGRAL: CLASS B BOREL SINGULARITY, FULL BOUNDARY-LAYER SERIES, AND THE STOKES CONSTANT",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19229065",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "Procedures for the investigations of permeability and seepage control in soft rock foundations for dams",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1201/9781003762874-83",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "Orbit-Multiplier Borel Poles Across Classes A, B, and C (Paper 18 in the Non-Holomorphic Fractal Series)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19323282",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-29"
+    },
+    {
+      "title": "RFL-2 — Relational Attractor Dynamics: From lived relational presence to synchronized chromatic infrastructure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19282337",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-28"
+    },
+    {
+      "title": "WSC-1 — WarmthSwipe and ChronoSense: Distribution and Temporal Emergence Operators in Relational Field Infrastructure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19283203",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-28"
+    },
+    {
+      "title": "Prediction of long term strength of soft sedimentary rock",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003762874-18",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-26"
+    },
+    {
+      "title": "Class C Borel-Plane Survey: Orbit-Multiplier, WBA, and Alien-Strength Sectors Under Padé–Borel Analysis (Paper 19 in the Non-Holomorphic Fractal Series)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19337522",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-03-30"
+    },
+    {
+      "title": "From prompt injections to protocol exploits: Threats in LLM-powered AI agents workflows",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "SHILAP Revista de lepidopterología",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doaj.org/article/d6ddb5a905b54437a752a01a53ca1850",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "RFL-3 — Social Field Convergence: How relational fields synchronize into shared ambient environments",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19283988",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-03-28"
+    },
+    {
+      "title": "The Ontology of Entropy: A Decomposition of Constrained-State Disorder and Free-State Diffusion",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19246124",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-03-26"
+    }
+  ]
+}

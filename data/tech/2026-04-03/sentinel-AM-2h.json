@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-03T02:50:36.014Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_GIANT": 14,
+      "CODE_LEVERAGE": 9,
+      "KNOWLEDGE_BASE": 3,
+      "VIRAL_UNCATEGORIZED": 22,
+      "PARADIGM_SHIFT": 1,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "Gitlawb/openclaude",
+      "stars": 6729,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Gitlawb/openclaude"
+    },
+    {
+      "name": "emdash-cms/emdash",
+      "stars": 3904,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/emdash-cms/emdash"
+    },
+    {
+      "name": "ultraworkers/claw-code-parity",
+      "stars": 1902,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ultraworkers/claw-code-parity"
+    },
+    {
+      "name": "dominikmartn/nothing-design-skill",
+      "stars": 862,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dominikmartn/nothing-design-skill"
+    },
+    {
+      "name": "HKUDS/OpenHarness",
+      "stars": 669,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HKUDS/OpenHarness"
+    },
+    {
+      "name": "wquguru/harness-books",
+      "stars": 636,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/wquguru/harness-books"
+    },
+    {
+      "name": "repowise-dev/claude-code-prompts",
+      "stars": 509,
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/repowise-dev/claude-code-prompts"
+    },
+    {
+      "name": "mrdoob/three.wasm",
+      "stars": 397,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mrdoob/three.wasm"
+    },
+    {
+      "name": "win4r/cc-notebook",
+      "stars": 397,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/win4r/cc-notebook"
+    },
+    {
+      "name": "0Chencc/clawgod",
+      "stars": 370,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/0Chencc/clawgod"
+    },
+    {
+      "name": "code-yeongyu/not-claude-code-emulator",
+      "stars": 336,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/code-yeongyu/not-claude-code-emulator"
+    },
+    {
+      "name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
+      "stars": 327,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding"
+    },
+    {
+      "name": "cpaczek/any-buddy",
+      "stars": 267,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cpaczek/any-buddy"
+    },
+    {
+      "name": "kropdx/unofficial-claude-code-prompt-playbook",
+      "stars": 236,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kropdx/unofficial-claude-code-prompt-playbook"
+    },
+    {
+      "name": "777genius/claude-code-source-code-full",
+      "stars": 220,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/777genius/claude-code-source-code-full"
+    },
+    {
+      "name": "alejandrobalderas/claude-code-from-source",
+      "stars": 210,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alejandrobalderas/claude-code-from-source"
+    },
+    {
+      "name": "elastic/supply-chain-monitor",
+      "stars": 211,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/elastic/supply-chain-monitor"
+    },
+    {
+      "name": "wesbos/JSON-Alexander",
+      "stars": 201,
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/wesbos/JSON-Alexander"
+    },
+    {
+      "name": "Paidax01/math-curve-loaders",
+      "stars": 201,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Paidax01/math-curve-loaders"
+    },
+    {
+      "name": "codeany-ai/codeany",
+      "stars": 125,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/codeany-ai/codeany"
+    },
+    {
+      "name": "inclusionAI/cuLA",
+      "stars": 116,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/inclusionAI/cuLA"
+    },
+    {
+      "name": "levelsio/xdr-boost",
+      "stars": 115,
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/levelsio/xdr-boost"
+    },
+    {
+      "name": "LearnPrompt/cc-harness-skills",
+      "stars": 100,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/LearnPrompt/cc-harness-skills"
+    },
+    {
+      "name": "HarnessLab/claw-code-agent",
+      "stars": 97,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HarnessLab/claw-code-agent"
+    },
+    {
+      "name": "codeany-ai/open-agent-sdk-go",
+      "stars": 97,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/codeany-ai/open-agent-sdk-go"
+    },
+    {
+      "name": "777genius/claude-code-working",
+      "stars": 77,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/777genius/claude-code-working"
+    },
+    {
+      "name": "mrgoonie/vnstock-agent",
+      "stars": 70,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mrgoonie/vnstock-agent"
+    }
+  ]
+}
