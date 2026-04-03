@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-04T02:39:11.316Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 6,
+      "CODE_LEVERAGE": 4,
+      "TALENT_GROWTH": 2,
+      "TECH_ACCELERATOR": 4,
+      "VIRAL_UNCATEGORIZED": 34,
+      "CORE_PRAGMATISM": 3,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "ultraworkers/claw-code-parity",
+      "stars": 4800,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ultraworkers/claw-code-parity"
+    },
+    {
+      "name": "luyao618/Claude-Code-Source-Study",
+      "stars": 777,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/luyao618/Claude-Code-Source-Study"
+    },
+    {
+      "name": "kevinrgu/autoagent",
+      "stars": 731,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kevinrgu/autoagent"
+    },
+    {
+      "name": "leilei926524-tech/anti-distill",
+      "stars": 313,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/leilei926524-tech/anti-distill"
+    },
+    {
+      "name": "Paidax01/math-curve-loaders",
+      "stars": 291,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Paidax01/math-curve-loaders"
+    },
+    {
+      "name": "inclusionAI/cuLA",
+      "stars": 277,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/inclusionAI/cuLA"
+    },
+    {
+      "name": "bddicken/tuitter",
+      "stars": 247,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bddicken/tuitter"
+    },
+    {
+      "name": "LarsenCundric/port-whisperer",
+      "stars": 246,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LarsenCundric/port-whisperer"
+    },
+    {
+      "name": "IndustryCodeLab/polymarket-copy-trading-bot",
+      "stars": 224,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/IndustryCodeLab/polymarket-copy-trading-bot"
+    },
+    {
+      "name": "pacifio/cersei",
+      "stars": 156,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pacifio/cersei"
+    },
+    {
+      "name": "math-ai-org/mathcode",
+      "stars": 145,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/math-ai-org/mathcode"
+    },
+    {
+      "name": "fafathops152/Pokemon-Pokopia-For-PC",
+      "stars": 105,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/fafathops152/Pokemon-Pokopia-For-PC"
+    },
+    {
+      "name": "PabloLopezParada/RACCOIN-Coin-Pusher-Roguelike-Desktop",
+      "stars": 93,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PabloLopezParada/RACCOIN-Coin-Pusher-Roguelike-Desktop"
+    },
+    {
+      "name": "Ietisia/polymarket-arbitrage-bot",
+      "stars": 85,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ietisia/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "abhishekgahlot2/toon-json-render",
+      "stars": 53,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/abhishekgahlot2/toon-json-render"
+    }
+  ]
+}
