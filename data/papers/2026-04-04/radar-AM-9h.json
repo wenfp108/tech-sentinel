@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-04T09:48:10.778Z",
+    "total_captured": 17,
+    "TRENDING_DIRECTIONS": [
+      "Relational database (Heat:37)",
+      "Field (mathematics) (Heat:37)",
+      "Relational model (Heat:37)",
+      "Statistical relational learning (Heat:37)",
+      "Relational theory (Heat:37)"
+    ],
+    "strategy_summary": {
+      "STRATEGIC_ENERGY": 1,
+      "SPACE_DEFENSE": 2,
+      "BIO_REVOLUTION": 6,
+      "PARADIGM_SHIFT": 2,
+      "AI_CORE": 3,
+      "NEXT_COMPUTING": 6
+    }
+  },
+  "items": [
+    {
+      "title": "Investigating the analytical robustness of the social and behavioural sciences",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SCIENCE_CORE"
+      ],
+      "url": "https://doi.org/10.1038/s41586-025-09844-9",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "The $650 Billion Gap: Physical Infrastructure, Semantic Governance, and the Architecture of Compression-Survival",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19338708",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-03-30"
+    },
+    {
+      "title": "Orbit-Multiplier Borel Poles Across Classes A, B, and C (Paper 18 in the Non-Holomorphic Fractal Series)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19323282",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-29"
+    },
+    {
+      "title": "RFL-2 — Relational Attractor Dynamics: From lived relational presence to synchronized chromatic infrastructure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19282337",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-28"
+    },
+    {
+      "title": "WSC-1 — WarmthSwipe and ChronoSense: Distribution and Temporal Emergence Operators in Relational Field Infrastructure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19283203",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-03-28"
+    },
+    {
+      "title": "Class C Borel-Plane Survey: Orbit-Multiplier, WBA, and Alien-Strength Sectors Under Padé–Borel Analysis (Paper 19 in the Non-Holomorphic Fractal Series)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19337522",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-03-30"
+    },
+    {
+      "title": "From prompt injections to protocol exploits: Threats in LLM-powered AI agents workflows",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "SHILAP Revista de lepidopterología",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doaj.org/article/d6ddb5a905b54437a752a01a53ca1850",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "Solidarity in a crisis? Trends in attitudes to benefits during COVID-19",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "http://usir.salford.ac.uk/id/eprint/62045/1/62608d_ffc54112b28141fdb85a9e9474120452.pdf",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "RFL-3 — Social Field Convergence: How relational fields synchronize into shared ambient environments",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19283988",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-03-28"
+    },
+    {
+      "title": "Stabilisation Dynamics II: Correlation Geometry in Coupled Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19332989",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-03-30"
+    },
+    {
+      "title": "The Exponential is Unique: Only G_eff = G·exp(−ρ/ρ_c) is Compatible with Neutron Star Observations",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19334714",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-03-30"
+    },
+    {
+      "title": "Beckers Collection (Aachen) - Ushabti UB-006: Usurped wooden ushabti with inscription",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18245544",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-03-30"
+    },
+    {
+      "title": "Vacuum Mechanics: How the Quaternion Finally Made the Standard Model Make Sense",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234951",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2029-03-26"
+    },
+    {
+      "title": "The Same Parameter That Controls Neutron Stars Also Stops Black Hole Singularities",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19342360",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-31"
+    },
+    {
+      "title": "Projection-Induced Decoherence and the Emergence of 1/f Noise",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19337549",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-03-30"
+    },
+    {
+      "title": "COHERENCE SUPPRESSION IN FRONTIER LLMs: SIGNAL, NOISE, AND THE MATHEMATICS OF A STRUCTURAL VULNERABILITY",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19314383",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-03-29"
+    },
+    {
+      "title": "The Church of Missing Provenance: Moltbook, Crustafarianism, and the Ghost Governance of Agent Societies",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19339692",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-03-30"
+    }
+  ]
+}
