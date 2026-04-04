@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-04T20:43:03.243Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 13,
+      "CODE_LEVERAGE": 2,
+      "CORE_PRAGMATISM": 2,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "LarsenCundric/port-whisperer",
+      "stars": 359,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LarsenCundric/port-whisperer"
+    },
+    {
+      "name": "hilash/cabinet",
+      "stars": 257,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hilash/cabinet"
+    },
+    {
+      "name": "PrathamLearnsToCode/paper2code",
+      "stars": 188,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PrathamLearnsToCode/paper2code"
+    },
+    {
+      "name": "Alexantros341/Minimap-Tweaks-Crimson-Desert-Mod",
+      "stars": 87,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Alexantros341/Minimap-Tweaks-Crimson-Desert-Mod"
+    },
+    {
+      "name": "codescript94/Cozy-Heater-2-The-Titanic-Supermod",
+      "stars": 86,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/codescript94/Cozy-Heater-2-The-Titanic-Supermod"
+    },
+    {
+      "name": "akseolabs-seo/cinematic-ui",
+      "stars": 84,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/akseolabs-seo/cinematic-ui"
+    },
+    {
+      "name": "lis186/ccxray",
+      "stars": 62,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lis186/ccxray"
+    },
+    {
+      "name": "fakechris/obsidian_vault_pipeline",
+      "stars": 60,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/fakechris/obsidian_vault_pipeline"
+    }
+  ]
+}
