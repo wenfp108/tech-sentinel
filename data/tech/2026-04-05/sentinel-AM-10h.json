@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-05T10:00:21.290Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 8,
+      "TECH_ACCELERATOR": 3,
+      "KNOWLEDGE_BASE": 2,
+      "CORE_PRAGMATISM": 4
+    }
+  },
+  "items": [
+    {
+      "name": "twwch/comfyui-workflow-skill",
+      "stars": 56,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/twwch/comfyui-workflow-skill"
+    },
+    {
+      "name": "Snake1029/Lossless-Scaling-Frame-Generation-PC",
+      "stars": 47,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Snake1029/Lossless-Scaling-Frame-Generation-PC"
+    },
+    {
+      "name": "Ramz-p/JSON-Mod-Manager-Crimson-Desert",
+      "stars": 45,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ramz-p/JSON-Mod-Manager-Crimson-Desert"
+    },
+    {
+      "name": "Andercr22/Pokemon-Champions-For-PC",
+      "stars": 44,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Andercr22/Pokemon-Champions-For-PC"
+    },
+    {
+      "name": "Marwaneissa1/MFG-X4-unlock-for-Crimson-Desert-for-AMD--NVIDIA--and-Intel.-DLSS-FSRFG",
+      "stars": 44,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Marwaneissa1/MFG-X4-unlock-for-Crimson-Desert-for-AMD--NVIDIA--and-Intel.-DLSS-FSRFG"
+    }
+  ]
+}
