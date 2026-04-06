@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-06T10:01:45.427Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 48
+    }
+  },
+  "items": [
+    {
+      "name": "alchaincyf/nuwa-skill",
+      "stars": 585,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/nuwa-skill"
+    },
+    {
+      "name": "alchaincyf/steve-jobs-skill",
+      "stars": 250,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/steve-jobs-skill"
+    }
+  ]
+}
