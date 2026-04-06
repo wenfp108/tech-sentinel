@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-06T20:59:13.375Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TECH_ACCELERATOR": 4,
+      "VIRAL_UNCATEGORIZED": 42,
+      "CORE_PRAGMATISM": 1,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "alchaincyf/nuwa-skill",
+      "stars": 1095,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/nuwa-skill"
+    },
+    {
+      "name": "fikrikarim/parlor",
+      "stars": 426,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/fikrikarim/parlor"
+    },
+    {
+      "name": "alchaincyf/steve-jobs-skill",
+      "stars": 378,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/steve-jobs-skill"
+    },
+    {
+      "name": "hotcoffeeshake/tong-jincheng-skill",
+      "stars": 215,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hotcoffeeshake/tong-jincheng-skill"
+    },
+    {
+      "name": "kessler/gemma-gem",
+      "stars": 199,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kessler/gemma-gem"
+    },
+    {
+      "name": "DevTechJr/turboquant-gpu",
+      "stars": 128,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DevTechJr/turboquant-gpu"
+    },
+    {
+      "name": "ShahidAhmed1st/Proper-3rd-Person-Camera-Crimson-Desert",
+      "stars": 127,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ShahidAhmed1st/Proper-3rd-Person-Camera-Crimson-Desert"
+    },
+    {
+      "name": "R6410418/Jackrong-llm-finetuning-guide",
+      "stars": 120,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide"
+    }
+  ]
+}
