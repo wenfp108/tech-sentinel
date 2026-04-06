@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-07T02:51:31.034Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "TECH_ACCELERATOR": 5,
+      "VIRAL_UNCATEGORIZED": 40,
+      "TALENT_GROWTH": 2,
+      "CORE_PRAGMATISM": 1,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "alchaincyf/nuwa-skill",
+      "stars": 1381,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/nuwa-skill"
+    },
+    {
+      "name": "fikrikarim/parlor",
+      "stars": 654,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/fikrikarim/parlor"
+    },
+    {
+      "name": "alchaincyf/steve-jobs-skill",
+      "stars": 430,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/steve-jobs-skill"
+    },
+    {
+      "name": "kessler/gemma-gem",
+      "stars": 287,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kessler/gemma-gem"
+    },
+    {
+      "name": "hotcoffeeshake/tong-jincheng-skill",
+      "stars": 261,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hotcoffeeshake/tong-jincheng-skill"
+    },
+    {
+      "name": "wxtsky/CodeIsland",
+      "stars": 210,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/wxtsky/CodeIsland"
+    },
+    {
+      "name": "DevTechJr/turboquant-gpu",
+      "stars": 153,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DevTechJr/turboquant-gpu"
+    },
+    {
+      "name": "R6410418/Jackrong-llm-finetuning-guide",
+      "stars": 143,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/R6410418/Jackrong-llm-finetuning-guide"
+    },
+    {
+      "name": "ShahidAhmed1st/Proper-3rd-Person-Camera-Crimson-Desert",
+      "stars": 139,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ShahidAhmed1st/Proper-3rd-Person-Camera-Crimson-Desert"
+    },
+    {
+      "name": "sdyckjq-lab/llm-wiki-skill",
+      "stars": 117,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sdyckjq-lab/llm-wiki-skill"
+    }
+  ]
+}

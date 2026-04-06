@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-07T02:51:32.577Z",
+    "total_captured": 13,
+    "TRENDING_DIRECTIONS": [
+      "Physical constant (Heat:42)",
+      "Constant (computer programming) (Heat:42)",
+      "Invariant (physics) (Heat:42)",
+      "Scaling (Heat:40)",
+      "Amplitude (Heat:40)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 7,
+      "STRATEGIC_ENERGY": 1,
+      "SPACE_DEFENSE": 2,
+      "PARADIGM_SHIFT": 2,
+      "AI_CORE": 1,
+      "BIO_REVOLUTION": 3
+    }
+  },
+  "items": [
+    {
+      "title": "Dimensional Oscillation Theory: A Single-Wave Geometric Theory of Fundamental Physics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 32,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19194308",
+      "reason": "Velocity: 32 citations",
+      "publication_date": "2026-04-03"
+    },
+    {
+      "title": "The $650 Billion Gap: Physical Infrastructure, Semantic Governance, and the Architecture of Compression-Survival",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19338708",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-03-30"
+    },
+    {
+      "title": "Class C Borel-Plane Survey: Orbit-Multiplier, WBA, and Alien-Strength Sectors Under Padé–Borel Analysis (Paper 19 in the Non-Holomorphic Fractal Series)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19337522",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-03-30"
+    },
+    {
+      "title": "From prompt injections to protocol exploits: Threats in LLM-powered AI agents workflows",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "SHILAP Revista de lepidopterología",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doaj.org/article/d6ddb5a905b54437a752a01a53ca1850",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "Solidarity in a crisis? Trends in attitudes to benefits during COVID-19",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "http://usir.salford.ac.uk/id/eprint/62045/1/62608d_ffc54112b28141fdb85a9e9474120452.pdf",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "Stabilisation Dynamics II: Correlation Geometry in Coupled Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19332989",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-03-30"
+    },
+    {
+      "title": "Residual Trajectories as Primary Epistemic Objects: Drift-Slew Decomposition of Laplacian Relaxation and the Spectral Fingerprint of Graph Structure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19382012",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-02"
+    },
+    {
+      "title": "The Exponential is Unique: Only G_eff = G·exp(−ρ/ρ_c) is Compatible with Neutron Star Observations",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19334714",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-03-30"
+    },
+    {
+      "title": "Sharp Laws of the Iterated Logarithm for the Bird-Map Orbit (Paper 28 in the Non-Holomorphic Fractal Series)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19410170",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-03"
+    },
+    {
+      "title": "Projection-Induced Decoherence and the Emergence of 1/f Noise",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19337549",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-03-30"
+    },
+    {
+      "title": "Parallel Surface Defects, Hecke Operators, and Quantum Hitchin System",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Communications in Mathematical Physics",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2304.04656",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "Beckers Collection (Aachen) - Ushabti UB-006: Usurped wooden ushabti with inscription",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18245544",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-03-30"
+    },
+    {
+      "title": "Controlling Interference Visibility via Non-Equilibrium Energy Allocation: A testable prediction from energy-efficiency theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19425505",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-04-05"
+    }
+  ]
+}
