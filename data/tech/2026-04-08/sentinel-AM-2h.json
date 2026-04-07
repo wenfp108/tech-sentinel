@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-08T02:57:07.627Z",
+    "session": "AM",
+    "trend_summary": {
+      "TALENT_GROWTH": 8,
+      "VIRAL_GIANT": 16,
+      "TECH_ACCELERATOR": 7,
+      "CODE_LEVERAGE": 8,
+      "VIRAL_UNCATEGORIZED": 18,
+      "KNOWLEDGE_BASE": 5
+    }
+  },
+  "items": [
+    {
+      "name": "KKKKhazix/khazix-skills",
+      "stars": 898,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/KKKKhazix/khazix-skills"
+    },
+    {
+      "name": "wxtsky/CodeIsland",
+      "stars": 433,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/wxtsky/CodeIsland"
+    },
+    {
+      "name": "alchaincyf/x-mentor-skill",
+      "stars": 413,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/x-mentor-skill"
+    },
+    {
+      "name": "adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+      "stars": 365,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire"
+    },
+    {
+      "name": "karpathy/KarpathyTalk",
+      "stars": 325,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/karpathy/KarpathyTalk"
+    },
+    {
+      "name": "farzaa/clicky",
+      "stars": 240,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/farzaa/clicky"
+    },
+    {
+      "name": "agents-io/PokeClaw",
+      "stars": 234,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/agents-io/PokeClaw"
+    },
+    {
+      "name": "tsoding/ht.h",
+      "stars": 217,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tsoding/ht.h"
+    },
+    {
+      "name": "CivilDukeHunt/starred-077842e",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CivilDukeHunt/starred-077842e"
+    },
+    {
+      "name": "Toneuaboost71/starred-0562a51",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Toneuaboost71/starred-0562a51"
+    },
+    {
+      "name": "WarlordProvide/starred-be27b8c",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WarlordProvide/starred-be27b8c"
+    },
+    {
+      "name": "SmokeLightRoute94/starred-eeae8f6",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SmokeLightRoute94/starred-eeae8f6"
+    },
+    {
+      "name": "ExitTailorWrench/starred-52eef7a",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ExitTailorWrench/starred-52eef7a"
+    },
+    {
+      "name": "Enamelvuenchant/starred-0dc6f85",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Enamelvuenchant/starred-0dc6f85"
+    },
+    {
+      "name": "portallaborervision/starred-f437e86",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/portallaborervision/starred-f437e86"
+    },
+    {
+      "name": "Moonyogirder/starred-108409d",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Moonyogirder/starred-108409d"
+    },
+    {
+      "name": "Powerzursubway/starred-bd8c910",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Powerzursubway/starred-bd8c910"
+    },
+    {
+      "name": "WoodMockingbird/starred-99545dd",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WoodMockingbird/starred-99545dd"
+    },
+    {
+      "name": "coleam00/claude-memory-compiler",
+      "stars": 207,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/coleam00/claude-memory-compiler"
+    },
+    {
+      "name": "Ar9av/obsidian-wiki",
+      "stars": 173,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ar9av/obsidian-wiki"
+    },
+    {
+      "name": "kzhrknt/awesome-design-md-jp",
+      "stars": 143,
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kzhrknt/awesome-design-md-jp"
+    },
+    {
+      "name": "MagicCube/helixent",
+      "stars": 84,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MagicCube/helixent"
+    },
+    {
+      "name": "cporter202/agentic-ai-apis",
+      "stars": 72,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cporter202/agentic-ai-apis"
+    },
+    {
+      "name": "joyehuang/Learn-Open-Harness",
+      "stars": 64,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/joyehuang/Learn-Open-Harness"
+    },
+    {
+      "name": "vtumi/ChromiumManager",
+      "stars": 58,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/vtumi/ChromiumManager"
+    },
+    {
+      "name": "Ss1024sS/LLM-wiki",
+      "stars": 57,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ss1024sS/LLM-wiki"
+    },
+    {
+      "name": "riiiku/clarify-skill",
+      "stars": 51,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/riiiku/clarify-skill"
+    },
+    {
+      "name": "nhevers/mica-plugin",
+      "stars": 51,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nhevers/mica-plugin"
+    }
+  ]
+}
