@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-07T09:57:35.282Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TECH_ACCELERATOR": 4,
+      "VIRAL_UNCATEGORIZED": 11,
+      "CODE_LEVERAGE": 2,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "wxtsky/CodeIsland",
+      "stars": 261,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/wxtsky/CodeIsland"
+    },
+    {
+      "name": "alchaincyf/x-mentor-skill",
+      "stars": 253,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/x-mentor-skill"
+    },
+    {
+      "name": "amadeusprotocol/polymarket-trading-bot",
+      "stars": 203,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/amadeusprotocol/polymarket-trading-bot"
+    },
+    {
+      "name": "adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+      "stars": 179,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire"
+    },
+    {
+      "name": "Ar9av/obsidian-wiki",
+      "stars": 128,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ar9av/obsidian-wiki"
+    },
+    {
+      "name": "coleam00/claude-memory-compiler",
+      "stars": 58,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/coleam00/claude-memory-compiler"
+    },
+    {
+      "name": "nhevers/mica-plugin",
+      "stars": 50,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nhevers/mica-plugin"
+    }
+  ]
+}
