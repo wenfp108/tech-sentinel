@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-08T15:11:15.052Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 13,
+      "TECH_ACCELERATOR": 6,
+      "VIRAL_UNCATEGORIZED": 13,
+      "CODE_LEVERAGE": 3,
+      "TALENT_GROWTH": 5,
+      "KNOWLEDGE_BASE": 1,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "name": "farzaa/clicky",
+      "stars": 1176,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/farzaa/clicky"
+    },
+    {
+      "name": "mattmireles/gemma-tuner-multimodal",
+      "stars": 341,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mattmireles/gemma-tuner-multimodal"
+    },
+    {
+      "name": "phuryn/claude-usage",
+      "stars": 282,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/phuryn/claude-usage"
+    },
+    {
+      "name": "CodMughees/envradar",
+      "stars": 250,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CodMughees/envradar"
+    },
+    {
+      "name": "CivilDukeHunt/starred-077842e",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CivilDukeHunt/starred-077842e"
+    },
+    {
+      "name": "Toneuaboost71/starred-0562a51",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Toneuaboost71/starred-0562a51"
+    },
+    {
+      "name": "WarlordProvide/starred-be27b8c",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WarlordProvide/starred-be27b8c"
+    },
+    {
+      "name": "portallaborervision/starred-f437e86",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/portallaborervision/starred-f437e86"
+    },
+    {
+      "name": "SmokeLightRoute94/starred-eeae8f6",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SmokeLightRoute94/starred-eeae8f6"
+    },
+    {
+      "name": "ExitTailorWrench/starred-52eef7a",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ExitTailorWrench/starred-52eef7a"
+    },
+    {
+      "name": "Enamelvuenchant/starred-0dc6f85",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Enamelvuenchant/starred-0dc6f85"
+    },
+    {
+      "name": "Moonyogirder/starred-108409d",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Moonyogirder/starred-108409d"
+    },
+    {
+      "name": "Powerzursubway/starred-bd8c910",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Powerzursubway/starred-bd8c910"
+    },
+    {
+      "name": "WoodMockingbird/starred-99545dd",
+      "stars": 209,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WoodMockingbird/starred-99545dd"
+    },
+    {
+      "name": "LoseNine/ruyipage",
+      "stars": 104,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/LoseNine/ruyipage"
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "stars": 89,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian"
+    },
+    {
+      "name": "joyehuang/Learn-Open-Harness",
+      "stars": 84,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/joyehuang/Learn-Open-Harness"
+    },
+    {
+      "name": "cv-cat/TaoBaoApis",
+      "stars": 67,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cv-cat/TaoBaoApis"
+    },
+    {
+      "name": "Chandler-Sun/MemChinesePalace",
+      "stars": 62,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Chandler-Sun/MemChinesePalace"
+    },
+    {
+      "name": "mduongvandinh/llm-wiki",
+      "stars": 61,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mduongvandinh/llm-wiki"
+    },
+    {
+      "name": "BNB-Alpha-Community/evm-arbitrage-bot",
+      "stars": 57,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BNB-Alpha-Community/evm-arbitrage-bot"
+    },
+    {
+      "name": "pithings/coderaft",
+      "stars": 44,
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pithings/coderaft"
+    },
+    {
+      "name": "ash-project/ash_storage",
+      "stars": 43,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ash-project/ash_storage"
+    }
+  ]
+}
