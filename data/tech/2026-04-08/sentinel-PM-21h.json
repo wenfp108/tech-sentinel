@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-08T21:10:55.275Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "TECH_ACCELERATOR": 7,
+      "CODE_LEVERAGE": 5,
+      "VIRAL_UNCATEGORIZED": 18,
+      "TALENT_GROWTH": 5,
+      "KNOWLEDGE_BASE": 1,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "name": "farzaa/clicky",
+      "stars": 1622,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/farzaa/clicky"
+    },
+    {
+      "name": "mattmireles/gemma-tuner-multimodal",
+      "stars": 474,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mattmireles/gemma-tuner-multimodal"
+    },
+    {
+      "name": "phuryn/claude-usage",
+      "stars": 408,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/phuryn/claude-usage"
+    },
+    {
+      "name": "CodMughees/envradar",
+      "stars": 254,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CodMughees/envradar"
+    },
+    {
+      "name": "NyxTides/SimpleAuthFlow",
+      "stars": 240,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/NyxTides/SimpleAuthFlow"
+    },
+    {
+      "name": "nox-project/nox-framework",
+      "stars": 239,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/nox-project/nox-framework"
+    },
+    {
+      "name": "alchaincyf/hermes-agent-orange-book",
+      "stars": 217,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alchaincyf/hermes-agent-orange-book"
+    },
+    {
+      "name": "LoseNine/ruyipage",
+      "stars": 132,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/LoseNine/ruyipage"
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "stars": 113,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian"
+    },
+    {
+      "name": "brooks376/Happy-Horse-1.0",
+      "stars": 112,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/brooks376/Happy-Horse-1.0"
+    },
+    {
+      "name": "mduongvandinh/llm-wiki",
+      "stars": 103,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mduongvandinh/llm-wiki"
+    },
+    {
+      "name": "joyehuang/Learn-Open-Harness",
+      "stars": 100,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/joyehuang/Learn-Open-Harness"
+    },
+    {
+      "name": "cv-cat/TaoBaoApis",
+      "stars": 78,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cv-cat/TaoBaoApis"
+    },
+    {
+      "name": "yzddmr6/repo-analyzer",
+      "stars": 73,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yzddmr6/repo-analyzer"
+    },
+    {
+      "name": "BNB-Alpha-Community/evm-arbitrage-bot",
+      "stars": 68,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BNB-Alpha-Community/evm-arbitrage-bot"
+    },
+    {
+      "name": "Chandler-Sun/MemChinesePalace",
+      "stars": 67,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Chandler-Sun/MemChinesePalace"
+    },
+    {
+      "name": "pithings/coderaft",
+      "stars": 63,
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pithings/coderaft"
+    },
+    {
+      "name": "ash-project/ash_storage",
+      "stars": 45,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ash-project/ash_storage"
+    }
+  ]
+}
