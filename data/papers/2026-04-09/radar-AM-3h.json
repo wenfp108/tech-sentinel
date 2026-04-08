@@ -1,0 +1,281 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-09T03:08:42.946Z",
+    "total_captured": 17,
+    "TRENDING_DIRECTIONS": [
+      "Algebraic number (Heat:57)",
+      "Constant (computer programming) (Heat:55)",
+      "Hyperbolic geometry (Heat:50)",
+      "Euclidean geometry (Heat:50)",
+      "Physical constant (Heat:48)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 8,
+      "SPACE_DEFENSE": 4,
+      "AI_CORE": 1,
+      "BIO_REVOLUTION": 5,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Investigating the analytical robustness of the social and behavioural sciences",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SCIENCE_CORE"
+      ],
+      "url": "https://research.vu.nl/en/publications/2a3414aa-90e9-4d24-a591-3464dc0a0968",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "Investigating the reproducibility of the social and behavioural sciences",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SCIENCE_CORE"
+      ],
+      "url": "https://doi.org/10.1038/s41586-026-10203-5",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "Dimensional Oscillation Theory: A Single-Wave Geometric Theory of Fundamental Physics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 38,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19194308",
+      "reason": "Velocity: 38 citations",
+      "publication_date": "2026-04-03"
+    },
+    {
+      "title": "Deriving Geometry: From One Axiom to Complex Numbers, the Prime Alphabet, Euclidean Space, and the Structure of the Riemann Zeros",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19425543",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-05"
+    },
+    {
+      "title": "From prompt injections to protocol exploits: Threats in LLM-powered AI agents workflows",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "SHILAP Revista de lepidopterología",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doaj.org/article/d6ddb5a905b54437a752a01a53ca1850",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "Solidarity in a crisis? Trends in attitudes to benefits during COVID-19",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "http://usir.salford.ac.uk/id/eprint/62045/1/62608d_ffc54112b28141fdb85a9e9474120452.pdf",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "Residual Trajectories as Primary Epistemic Objects: Drift-Slew Decomposition of Laplacian Relaxation and the Spectral Fingerprint of Graph Structure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19382012",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-02"
+    },
+    {
+      "title": "Sharp Laws of the Iterated Logarithm for the Bird-Map Orbit (Paper 28 in the Non-Holomorphic Fractal Series)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19410170",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-03"
+    },
+    {
+      "title": "Parallel Surface Defects, Hecke Operators, and Quantum Hitchin System",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Communications in Mathematical Physics",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2304.04656",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "Controlling Interference Visibility via Non-Equilibrium Energy Allocation: A testable prediction from energy-efficiency theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19425505",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-04-05"
+    },
+    {
+      "title": "Gravity Well Protocol Specification v1.0 — Governed Continuity for AI-Mediated Content (EA-GW-SPEC-01)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19380602",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "Vacuum Mechanics: How the Quaternion Finally Made the Standard Model Make Sense",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234951",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2029-03-26"
+    },
+    {
+      "title": "A Unified Energy-Ontological Language for Chemical Bonding: Mapping Quantum Chemistry onto Energy-Efficiency Theory with Quantitative Validation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19427642",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-04-05"
+    },
+    {
+      "title": "Structural Limits of Conformal Padé–Borel on the Class C Orbit Multiplier: A Resolution Ceiling for the Conformal Atlas of the Non-Holomorphic Bird Map (Paper 24 in the Non-Holomorphic Fractal Series)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19372775",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-04-01"
+    },
+    {
+      "title": "The Finite Structured-State Transformation Principle: A Feasibility Law for Change in Finite Physical Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19435149",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-04-05"
+    },
+    {
+      "title": "Gravitational Flash in CCEGA: A Post-Merger Spectral Signature from Density-Dependent Gravity in NS-NS Mergers",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19380174",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-04-02"
+    },
+    {
+      "title": "Sci - The Yang-Mills Mass Gap as a Persistence Criterion: A Pre-Geometric Characterization",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19423520",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-04-05"
+    }
+  ]
+}
