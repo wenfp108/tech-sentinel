@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-09T21:14:56.990Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "TECH_ACCELERATOR": 5,
+      "KNOWLEDGE_BASE": 4,
+      "VIRAL_GIANT": 1,
+      "TALENT_GROWTH": 5,
+      "VIRAL_UNCATEGORIZED": 10,
+      "CORE_PRAGMATISM": 3
+    }
+  },
+  "items": [
+    {
+      "name": "alchaincyf/hermes-agent-orange-book",
+      "stars": 647,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alchaincyf/hermes-agent-orange-book"
+    },
+    {
+      "name": "brooks376/Happy-Horse-1.0",
+      "stars": 478,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/brooks376/Happy-Horse-1.0"
+    },
+    {
+      "name": "obdev/littlesnitch-linux",
+      "stars": 246,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/obdev/littlesnitch-linux"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "stars": 176,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nashsu/llm_wiki"
+    },
+    {
+      "name": "ersinkoc/project-architect",
+      "stars": 107,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ersinkoc/project-architect"
+    },
+    {
+      "name": "OpenMOSS/MOSS-VL",
+      "stars": 102,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OpenMOSS/MOSS-VL"
+    },
+    {
+      "name": "kothari-nikunj/llm-wiki",
+      "stars": 59,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kothari-nikunj/llm-wiki"
+    },
+    {
+      "name": "cclank/Hermes-Wiki",
+      "stars": 52,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cclank/Hermes-Wiki"
+    },
+    {
+      "name": "MazX0p/mssqlbof",
+      "stars": 48,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MazX0p/mssqlbof"
+    },
+    {
+      "name": "iRinEuGoD/Lossless-Scaling-Frame-Generation-Desktop",
+      "stars": 47,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/iRinEuGoD/Lossless-Scaling-Frame-Generation-Desktop"
+    },
+    {
+      "name": "12344466666666667777777777/Crimson-Desert-Save-Editor-Mod-For-PC",
+      "stars": 46,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/12344466666666667777777777/Crimson-Desert-Save-Editor-Mod-For-PC"
+    }
+  ]
+}
