@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-09T09:50:53.159Z",
+    "total_captured": 19,
+    "TRENDING_DIRECTIONS": [
+      "Algebraic number (Heat:57)",
+      "Constant (computer programming) (Heat:55)",
+      "Scaling (Heat:50)",
+      "Hyperbolic geometry (Heat:50)",
+      "Euclidean geometry (Heat:50)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 9,
+      "SPACE_DEFENSE": 3,
+      "BIO_REVOLUTION": 5,
+      "STRATEGIC_ENERGY": 1,
+      "AI_CORE": 1,
+      "ADVANCED_MATERIALS": 3
+    }
+  },
+  "items": [
+    {
+      "title": "Dimensional Oscillation Theory: A Single-Wave Geometric Theory of Fundamental Physics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 38,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19194308",
+      "reason": "Velocity: 38 citations",
+      "publication_date": "2026-04-03"
+    },
+    {
+      "title": "Deriving Geometry: From One Axiom to Complex Numbers, the Prime Alphabet, Euclidean Space, and the Structure of the Riemann Zeros",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19425543",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-05"
+    },
+    {
+      "title": "Residual Trajectories as Primary Epistemic Objects: Drift-Slew Decomposition of Laplacian Relaxation and the Spectral Fingerprint of Graph Structure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19382012",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-02"
+    },
+    {
+      "title": "Sharp Laws of the Iterated Logarithm for the Bird-Map Orbit (Paper 28 in the Non-Holomorphic Fractal Series)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19410170",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-03"
+    },
+    {
+      "title": "Controlling Interference Visibility via Non-Equilibrium Energy Allocation: A testable prediction from energy-efficiency theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19425505",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-04-05"
+    },
+    {
+      "title": "Vacuum Mechanics: How the Quaternion Finally Made the Standard Model Make Sense",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234951",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2029-03-26"
+    },
+    {
+      "title": "A Unified Energy-Ontological Language for Chemical Bonding: Mapping Quantum Chemistry onto Energy-Efficiency Theory with Quantitative Validation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19427642",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-04-05"
+    },
+    {
+      "title": "The Finite Structured-State Transformation Principle: A Feasibility Law for Change in Finite Physical Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19435149",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-04-05"
+    },
+    {
+      "title": "Gravitational Flash in CCEGA: A Post-Merger Spectral Signature from Density-Dependent Gravity in NS-NS Mergers",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19380174",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-04-02"
+    },
+    {
+      "title": "Sci - The Yang-Mills Mass Gap as a Persistence Criterion: A Pre-Geometric Characterization",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19423520",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-04-05"
+    },
+    {
+      "title": "Mechanical Isotropic Confinement for Aneutronic p-¹¹B Fusion via Multi-Axis Rotating Hyperbare Mercury Chamber Coupled by Spectral Attenuation Index k₂",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19437490",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-04-06"
+    },
+    {
+      "title": "Cross-Architecture Convergence in Foundational Reasoning: A Controlled Multi-Model Experiment on Structural Necessity",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19394494",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-04-03"
+    },
+    {
+      "title": "Before I Had Language Pre-Formal Observations Underlying the Lantern of Sulfur Framework, Lantern of Sulfur, v12.2, April 2026",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "ADVANCED_MATERIALS"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19420718",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-04-04"
+    },
+    {
+      "title": "Generalized Decoupling for Bird-Map Borel Coefficients: Multi-Band Exponential-Type Universality and Phase 1 Diagnostics (Paper 30 in the Non-Holomorphic Fractal Series)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19422379",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-04-04"
+    },
+    {
+      "title": "When the System Loses Its Rhythm: A Simple Pattern Behind Complex Symptoms, Lantern of Sulfur, v 12, April 2026",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "ADVANCED_MATERIALS"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19410253",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-04-04"
+    },
+    {
+      "title": "P43: From Holographic Saturation to Density-Dependent Coupling Bridging Scalar Fields and Effective Gravity in CCEGA",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19445674",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-04-07"
+    },
+    {
+      "title": "Vibration and Frequency in Energy-Efficiency Theory: From Harmonic Oscillators to the Debye Frequency",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19430239",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-04-05"
+    },
+    {
+      "title": "SHIELD-TFET: A Variability-Tolerant Distributed Emitter Architecture for Contact-Limited Tunnel Transistors",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19425592",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-04-05"
+    },
+    {
+      "title": "The Stone: An Integrated Overview of Concepts C, A, and B, Lantern of Sulfur, v12, April 2026",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "ADVANCED_MATERIALS"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19422419",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-04-04"
+    }
+  ]
+}

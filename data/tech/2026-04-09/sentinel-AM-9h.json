@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-09T09:50:52.398Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 3,
+      "KNOWLEDGE_BASE": 3,
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 4
+    }
+  },
+  "items": [
+    {
+      "name": "alchaincyf/hermes-agent-orange-book",
+      "stars": 429,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alchaincyf/hermes-agent-orange-book"
+    },
+    {
+      "name": "brooks376/Happy-Horse-1.0",
+      "stars": 354,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/brooks376/Happy-Horse-1.0"
+    },
+    {
+      "name": "OpenMOSS/MOSS-VL",
+      "stars": 52,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OpenMOSS/MOSS-VL"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "stars": 45,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nashsu/llm_wiki"
+    }
+  ]
+}
