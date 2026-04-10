@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-10T20:59:16.878Z",
+    "total_captured": 11,
+    "TRENDING_DIRECTIONS": [
+      "Reproductive medicine (Heat:231)",
+      "Pregnancy (Heat:231)",
+      "Invariant (physics) (Heat:63)",
+      "Physical constant (Heat:58)",
+      "Constant (computer programming) (Heat:58)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 5,
+      "NEXT_COMPUTING": 3,
+      "SPACE_DEFENSE": 3,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Seminars in Reproductive Medicine",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Seminars in Reproductive Medicine",
+      "metrics": {
+        "citations": 230,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1055/s-00000072",
+      "reason": "Velocity: 230 citations",
+      "publication_date": "2026-04-08"
+    },
+    {
+      "title": "Dimensional Oscillation Theory: A Single-Wave Geometric Theory of Fundamental Physics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 41,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19194308",
+      "reason": "Velocity: 41 citations",
+      "publication_date": "2026-04-03"
+    },
+    {
+      "title": "Sharp Laws of the Iterated Logarithm for the Bird-Map Orbit (Paper 28 in the Non-Holomorphic Fractal Series)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19410170",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-04-03"
+    },
+    {
+      "title": "Deriving Geometry: From One Axiom to Complex Numbers, the Prime Alphabet, Euclidean Space, and the Structure of the Riemann Zeros",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19425543",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-04-05"
+    },
+    {
+      "title": "The Evans Lattice Zeta and the Persistence of the s = 1 Pole",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19462780",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-04-08"
+    },
+    {
+      "title": "Toy Watson ε-Family Ladders for Bird-Map Borel Coefficients: Phase 0–1.5 Diagnostics, Local Rigidity, and Lorentzian Calibration (Paper 31 in the Non-Holomorphic Fractal Series)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19422389",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-04"
+    },
+    {
+      "title": "Attacks in Adversarial Machine Learning: A Systematic Survey from the Lifecycle Perspective",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "International Journal of Computer Vision",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2302.09457",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-07"
+    },
+    {
+      "title": "The Pole-Selection Theorem for the Quotient Trace",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19463070",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-04-08"
+    },
+    {
+      "title": "Generalized Decoupling for Bird-Map Borel Coefficients: Multi-Band Exponential-Type Universality and Phase 1 Diagnostics (Paper 30 in the Non-Holomorphic Fractal Series)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19422379",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-04"
+    },
+    {
+      "title": "Antimicrobial action of lactoferrin on Staphylococcus aureus inoculated in Minas frescal cheese",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Archivos Latinoamericanos de Nutrición",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.37527/2012.62.1.009",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-04-05"
+    },
+    {
+      "title": "Controlling Interference Visibility via Non-Equilibrium Energy Allocation: A testable prediction from energy-efficiency theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19425505",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-04-05"
+    }
+  ]
+}
