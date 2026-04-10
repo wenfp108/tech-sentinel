@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-10T15:20:10.382Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 3,
+      "VIRAL_UNCATEGORIZED": 17,
+      "TECH_ACCELERATOR": 4,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "whwangovo/pyre-code",
+      "stars": 344,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/whwangovo/pyre-code"
+    },
+    {
+      "name": "0xquqi/sun-skill",
+      "stars": 112,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xquqi/sun-skill"
+    },
+    {
+      "name": "863401402/she-love-me",
+      "stars": 111,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/863401402/she-love-me"
+    },
+    {
+      "name": "AMAP-ML/SkillClaw",
+      "stars": 98,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AMAP-ML/SkillClaw"
+    },
+    {
+      "name": "frckeepit/llm-production-toolkit",
+      "stars": 90,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/frckeepit/llm-production-toolkit"
+    },
+    {
+      "name": "ProjectPhysX/hw-smi",
+      "stars": 52,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ProjectPhysX/hw-smi"
+    },
+    {
+      "name": "LabXSpace/Fourmeme-bsc-bnb-volume-sniper-abitrage-bot-tools",
+      "stars": 41,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/LabXSpace/Fourmeme-bsc-bnb-volume-sniper-abitrage-bot-tools"
+    }
+  ]
+}
