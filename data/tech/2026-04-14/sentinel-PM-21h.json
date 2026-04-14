@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-14T21:15:42.969Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 3,
+      "VIRAL_UNCATEGORIZED": 19,
+      "TECH_ACCELERATOR": 4,
+      "CORE_PRAGMATISM": 5,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "AgentSeal/codeburn",
+      "stars": 466,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AgentSeal/codeburn"
+    },
+    {
+      "name": "alchaincyf/darwin-skill",
+      "stars": 440,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alchaincyf/darwin-skill"
+    },
+    {
+      "name": "yaojingang/GEOFlow",
+      "stars": 401,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yaojingang/GEOFlow"
+    },
+    {
+      "name": "andrewjiang/palantir-for-family-trips",
+      "stars": 224,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/andrewjiang/palantir-for-family-trips"
+    },
+    {
+      "name": "CITGuru/openduck",
+      "stars": 144,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CITGuru/openduck"
+    },
+    {
+      "name": "h4ckf0r0day/obscura",
+      "stars": 124,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/h4ckf0r0day/obscura"
+    },
+    {
+      "name": "therealaleph/sni-spoofing-rust",
+      "stars": 112,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/therealaleph/sni-spoofing-rust"
+    },
+    {
+      "name": "baidu/ERNIE-Image",
+      "stars": 47,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/baidu/ERNIE-Image"
+    },
+    {
+      "name": "evolvent-ai/ClawMark",
+      "stars": 46,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/evolvent-ai/ClawMark"
+    },
+    {
+      "name": "ushalisantikaceku217621/ableton-live-studio-engine",
+      "stars": 42,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ushalisantikaceku217621/ableton-live-studio-engine"
+    },
+    {
+      "name": "marjanvogels3970776/adobe-premiere-video-engine",
+      "stars": 42,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/marjanvogels3970776/adobe-premiere-video-engine"
+    },
+    {
+      "name": "philippaatkins21083947217/binance-autotrader-desktop-toolkit",
+      "stars": 42,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/philippaatkins21083947217/binance-autotrader-desktop-toolkit"
+    },
+    {
+      "name": "nishaettinger24709693369/solana-token-sniper-engine",
+      "stars": 42,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nishaettinger24709693369/solana-token-sniper-engine"
+    }
+  ]
+}
