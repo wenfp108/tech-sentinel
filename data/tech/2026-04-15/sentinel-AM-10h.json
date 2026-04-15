@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-15T10:01:37.612Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 3,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 10,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "CITGuru/openduck",
+      "stars": 313,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CITGuru/openduck"
+    },
+    {
+      "name": "ChatPRD/tradclaw",
+      "stars": 140,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ChatPRD/tradclaw"
+    },
+    {
+      "name": "baidu/ERNIE-Image",
+      "stars": 76,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/baidu/ERNIE-Image"
+    },
+    {
+      "name": "weareaisle/nano-analyzer",
+      "stars": 55,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/weareaisle/nano-analyzer"
+    }
+  ]
+}
