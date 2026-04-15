@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-15T21:14:14.287Z",
+    "session": "PM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 4,
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 13,
+      "KNOWLEDGE_BASE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "CITGuru/openduck",
+      "stars": 356,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CITGuru/openduck"
+    },
+    {
+      "name": "vercel-labs/wterm",
+      "stars": 264,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vercel-labs/wterm"
+    },
+    {
+      "name": "poteto/how",
+      "stars": 244,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/poteto/how"
+    },
+    {
+      "name": "ChatPRD/tradclaw",
+      "stars": 160,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ChatPRD/tradclaw"
+    },
+    {
+      "name": "baidu/ERNIE-Image",
+      "stars": 137,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/baidu/ERNIE-Image"
+    },
+    {
+      "name": "poseljacob/agentic-video-editor",
+      "stars": 96,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/poseljacob/agentic-video-editor"
+    },
+    {
+      "name": "weareaisle/nano-analyzer",
+      "stars": 88,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/weareaisle/nano-analyzer"
+    },
+    {
+      "name": "Mondo-Robotics/DiT4DiT",
+      "stars": 57,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Mondo-Robotics/DiT4DiT"
+    }
+  ]
+}
