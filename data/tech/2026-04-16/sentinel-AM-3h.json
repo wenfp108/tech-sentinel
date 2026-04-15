@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-16T03:08:41.470Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 5,
+      "VIRAL_GIANT": 3,
+      "VIRAL_UNCATEGORIZED": 24,
+      "CODE_LEVERAGE": 2,
+      "KNOWLEDGE_BASE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "CITGuru/openduck",
+      "stars": 367,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CITGuru/openduck"
+    },
+    {
+      "name": "vercel-labs/wterm",
+      "stars": 348,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vercel-labs/wterm"
+    },
+    {
+      "name": "poteto/how",
+      "stars": 297,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/poteto/how"
+    },
+    {
+      "name": "xataio/xata",
+      "stars": 207,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xataio/xata"
+    },
+    {
+      "name": "ChatPRD/tradclaw",
+      "stars": 173,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ChatPRD/tradclaw"
+    },
+    {
+      "name": "baidu/ERNIE-Image",
+      "stars": 153,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/baidu/ERNIE-Image"
+    },
+    {
+      "name": "poseljacob/agentic-video-editor",
+      "stars": 133,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/poseljacob/agentic-video-editor"
+    },
+    {
+      "name": "weareaisle/nano-analyzer",
+      "stars": 98,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/weareaisle/nano-analyzer"
+    },
+    {
+      "name": "Mondo-Robotics/DiT4DiT",
+      "stars": 74,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Mondo-Robotics/DiT4DiT"
+    },
+    {
+      "name": "0xJOSE-DEV/Polymarekt-arbitrage-trading",
+      "stars": 43,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xJOSE-DEV/Polymarekt-arbitrage-trading"
+    }
+  ]
+}
