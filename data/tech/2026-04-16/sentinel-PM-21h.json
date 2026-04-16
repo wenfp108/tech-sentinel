@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-16T21:19:52.361Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 7,
+      "CODE_LEVERAGE": 3,
+      "CORE_PRAGMATISM": 1,
+      "TECH_ACCELERATOR": 3,
+      "KNOWLEDGE_BASE": 1,
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 22
+    }
+  },
+  "items": [
+    {
+      "name": "Manavarya09/design-extract",
+      "stars": 536,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Manavarya09/design-extract"
+    },
+    {
+      "name": "WeaveMindAI/weft",
+      "stars": 522,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WeaveMindAI/weft"
+    },
+    {
+      "name": "xataio/xata",
+      "stars": 433,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xataio/xata"
+    },
+    {
+      "name": "lewislulu/html-ppt-skill",
+      "stars": 413,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lewislulu/html-ppt-skill"
+    },
+    {
+      "name": "Nightmare-Eclipse/RedSun",
+      "stars": 341,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Nightmare-Eclipse/RedSun"
+    },
+    {
+      "name": "op7418/logo-generator-skill",
+      "stars": 336,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/op7418/logo-generator-skill"
+    },
+    {
+      "name": "stanford-iris-lab/meta-harness",
+      "stars": 315,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/stanford-iris-lab/meta-harness"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "stars": 281,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Robbyant/lingbot-map"
+    },
+    {
+      "name": "millionco/claude-doctor",
+      "stars": 270,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/millionco/claude-doctor"
+    },
+    {
+      "name": "thegdsks/awesome-modern-cli",
+      "stars": 225,
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/thegdsks/awesome-modern-cli"
+    },
+    {
+      "name": "Mondo-Robotics/DiT4DiT",
+      "stars": 112,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Mondo-Robotics/DiT4DiT"
+    },
+    {
+      "name": "aoyunyang/spider-king-skill",
+      "stars": 55,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aoyunyang/spider-king-skill"
+    },
+    {
+      "name": "mikepapadim/london-property-hunt-public",
+      "stars": 50,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mikepapadim/london-property-hunt-public"
+    },
+    {
+      "name": "monero-protocol/polymarket-arbitrage-bot",
+      "stars": 49,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/monero-protocol/polymarket-arbitrage-bot"
+    }
+  ]
+}
