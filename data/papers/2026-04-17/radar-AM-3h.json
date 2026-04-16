@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-17T03:05:22.956Z",
+    "total_captured": 15,
+    "TRENDING_DIRECTIONS": [
+      "Selection (genetic algorithm) (Heat:203)",
+      "Mate choice (Heat:146)",
+      "Sexual selection (Heat:146)",
+      "Natural selection (Heat:146)",
+      "Mating (Heat:146)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 7,
+      "AI_CORE": 6,
+      "PARADIGM_SHIFT": 3,
+      "NEXT_COMPUTING": 3
+    }
+  },
+  "items": [
+    {
+      "title": "How Mate Choice Shaped Human Nature: A Review of Sexual Selection and Human Evolution",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 145,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.4324/9781003785576-4",
+      "reason": "Velocity: 145 citations",
+      "publication_date": "2026-04-14"
+    },
+    {
+      "title": "The Psychology of Human Mate Selection: Exploring the Complexity of the Strategic Repertoire",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 56,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.4324/9781003785576-16",
+      "reason": "Velocity: 56 citations",
+      "publication_date": "2026-04-14"
+    },
+    {
+      "title": "Effect of fermentation on nutritional and anti-nutritional properties of fermenting Soy beans and the antagonistic effect of the fermenting organism on selected pathogens",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 39,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19550532",
+      "reason": "Velocity: 39 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "Meaning Feudalism: A Semantic Economic Analysis of 'AI Agent Traps' (Franklin et al., Google DeepMind, 2026)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 38,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19487009",
+      "reason": "Velocity: 38 citations",
+      "publication_date": "2026-04-09"
+    },
+    {
+      "title": "A Survey on 3D Gaussian Splatting",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 38,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3807511",
+      "reason": "Velocity: 38 citations",
+      "publication_date": "2026-04-09"
+    },
+    {
+      "title": "HγC S1: Architecture of the HγC Framework after the First Cycle",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 22,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19487800",
+      "reason": "Velocity: 22 citations",
+      "publication_date": "2026-04-09"
+    },
+    {
+      "title": "A Survey on Retrieval-Augmented Text Generation for Large Language Models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 20,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3805774",
+      "reason": "Velocity: 20 citations",
+      "publication_date": "2026-04-09"
+    },
+    {
+      "title": "Entity Integrity: Maintaining Accurate Representation in AI Knowledge Graphs",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19578094",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-04-14"
+    },
+    {
+      "title": "Metadata Packet for AI Indexing: A Formal Specification for Entity-Level Retrieval Architecture",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19578086",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-04-14"
+    },
+    {
+      "title": "The Continuity Anchoring Method: A Structured Methodology for Sustained Human-AI Interaction",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19494453",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-04-10"
+    },
+    {
+      "title": "A new early branching armored dinosaur from the Lower Jurassic of southwestern China",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "The Catalogue of Life",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.48580/dtz3.v87",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-04-10"
+    },
+    {
+      "title": "A streamlined quantum algorithm for topological data analysis with exponentially fewer qubits",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Quantum",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://quantum-journal.org/papers/q-2026-04-10-2058/pdf/",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-04-10"
+    },
+    {
+      "title": "Strong sector, confinement, and hadron masses from boundary wave geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19579136",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-04-14"
+    },
+    {
+      "title": "EET Core Rules and Parameter Standards",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19496101",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-04-10"
+    },
+    {
+      "title": "Institutional Continuity Substrate: Persistent Canon, Role, and Artifact State Across Organizational AI Interaction",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19496241",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-04-10"
+    }
+  ]
+}
