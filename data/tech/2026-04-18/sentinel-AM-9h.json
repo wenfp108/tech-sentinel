@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-18T09:56:11.271Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 4,
+      "TECH_ACCELERATOR": 3,
+      "KNOWLEDGE_BASE": 2,
+      "CORE_PRAGMATISM": 6
+    }
+  },
+  "items": [
+    {
+      "name": "zats/permiso",
+      "stars": 235,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/zats/permiso"
+    },
+    {
+      "name": "dashkit-protocol/polymarket-arbitrage-bot",
+      "stars": 99,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dashkit-protocol/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "zhuqn1021/Agent-template",
+      "stars": 69,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zhuqn1021/Agent-template"
+    },
+    {
+      "name": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
+      "stars": 65,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version"
+    },
+    {
+      "name": "trsno/Lossless-Scaling-FPS-Upscale-PC",
+      "stars": 62,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/trsno/Lossless-Scaling-FPS-Upscale-PC"
+    },
+    {
+      "name": "vbhwlvbn/FL-Production-25.2.5-For-PC",
+      "stars": 59,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/vbhwlvbn/FL-Production-25.2.5-For-PC"
+    },
+    {
+      "name": "Shakir2021/Delta-for-Roblox-PC-Edition",
+      "stars": 59,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Shakir2021/Delta-for-Roblox-PC-Edition"
+    },
+    {
+      "name": "pistachote/Cheat-Engine-Modding-Games",
+      "stars": 51,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pistachote/Cheat-Engine-Modding-Games"
+    },
+    {
+      "name": "BVZEOADSFV/Internet-Manager-For-PC",
+      "stars": 51,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BVZEOADSFV/Internet-Manager-For-PC"
+    },
+    {
+      "name": "nunomaduro/laravel-sluggable",
+      "stars": 42,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nunomaduro/laravel-sluggable"
+    }
+  ]
+}
