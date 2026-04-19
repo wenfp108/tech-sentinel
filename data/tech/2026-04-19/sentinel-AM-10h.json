@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-19T10:09:22.608Z",
+    "session": "AM",
+    "trend_summary": {
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 1,
+      "PARADIGM_SHIFT": 1,
+      "CORE_PRAGMATISM": 2,
+      "VIRAL_UNCATEGORIZED": 6,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "VoltAgent/awesome-claude-design",
+      "stars": 225,
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/VoltAgent/awesome-claude-design"
+    },
+    {
+      "name": "Quorinex/Freebuff2API",
+      "stars": 163,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Quorinex/Freebuff2API"
+    },
+    {
+      "name": "drasimwagan/mdv",
+      "stars": 131,
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/drasimwagan/mdv"
+    },
+    {
+      "name": "nizarlbogos/Windrose-Game-Server-Docker",
+      "stars": 65,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nizarlbogos/Windrose-Game-Server-Docker"
+    },
+    {
+      "name": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
+      "stars": 59,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aidanBoi123/AutoDesk-AutoCad-2026-Desktop"
+    }
+  ]
+}
