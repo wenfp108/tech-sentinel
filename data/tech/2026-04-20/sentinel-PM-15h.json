@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-20T15:58:36.933Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 3,
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 12,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "ZeroZ-lab/cc-design",
+      "stars": 361,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ZeroZ-lab/cc-design"
+    },
+    {
+      "name": "TheRealSeanDonahoe/agents-md",
+      "stars": 195,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TheRealSeanDonahoe/agents-md"
+    },
+    {
+      "name": "imtonyjaa/ggemu-fishing-joy",
+      "stars": 68,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/imtonyjaa/ggemu-fishing-joy"
+    },
+    {
+      "name": "anothervibecoder-s/claudecode-harness",
+      "stars": 44,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/anothervibecoder-s/claudecode-harness"
+    }
+  ]
+}
