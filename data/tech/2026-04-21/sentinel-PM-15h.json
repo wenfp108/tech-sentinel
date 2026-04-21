@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-21T15:27:44.517Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 14,
+      "TECH_ACCELERATOR": 5,
+      "KNOWLEDGE_BASE": 2,
+      "CORE_PRAGMATISM": 2,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "tw93/Kami",
+      "stars": 370,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tw93/Kami"
+    },
+    {
+      "name": "cosmicstack-labs/mercury-agent",
+      "stars": 216,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent"
+    },
+    {
+      "name": "knit-finances/polymarket-arbitrage-bot",
+      "stars": 130,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/knit-finances/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "danielfuller00/PRAGMATA-REFramework",
+      "stars": 87,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/danielfuller00/PRAGMATA-REFramework"
+    },
+    {
+      "name": "ovoment/ovo-local-llm",
+      "stars": 73,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ovoment/ovo-local-llm"
+    },
+    {
+      "name": "hemmoo/Tomodachi-Life-Living-the-Dream-For-PC",
+      "stars": 44,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/hemmoo/Tomodachi-Life-Living-the-Dream-For-PC"
+    },
+    {
+      "name": "guanxiaol/WindsurfPoolAPI",
+      "stars": 42,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/guanxiaol/WindsurfPoolAPI"
+    },
+    {
+      "name": "TinhDark/Davinci-Resolve-Studio-21",
+      "stars": 42,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TinhDark/Davinci-Resolve-Studio-21"
+    }
+  ]
+}
