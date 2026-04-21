@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-21T21:14:02.525Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 10,
+      "KNOWLEDGE_BASE": 3,
+      "TECH_ACCELERATOR": 4,
+      "TALENT_GROWTH": 2,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "tw93/Kami",
+      "stars": 495,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tw93/Kami"
+    },
+    {
+      "name": "cosmicstack-labs/mercury-agent",
+      "stars": 267,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent"
+    },
+    {
+      "name": "ArcaneNibble/awawausb",
+      "stars": 222,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ArcaneNibble/awawausb"
+    },
+    {
+      "name": "masterking32/MasterHttpRelayVPN",
+      "stars": 200,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/masterking32/MasterHttpRelayVPN"
+    },
+    {
+      "name": "ovoment/ovo-local-llm",
+      "stars": 75,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ovoment/ovo-local-llm"
+    },
+    {
+      "name": "CIntellifusion/MultiWorld",
+      "stars": 62,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CIntellifusion/MultiWorld"
+    },
+    {
+      "name": "guanxiaol/WindsurfPoolAPI",
+      "stars": 45,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/guanxiaol/WindsurfPoolAPI"
+    },
+    {
+      "name": "TinhDark/Davinci-Resolve-Studio-21",
+      "stars": 44,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TinhDark/Davinci-Resolve-Studio-21"
+    }
+  ]
+}
