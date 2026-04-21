@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-22T03:04:54.401Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 19,
+      "KNOWLEDGE_BASE": 3,
+      "TECH_ACCELERATOR": 6,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "tw93/Kami",
+      "stars": 1165,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tw93/Kami"
+    },
+    {
+      "name": "masterking32/MasterHttpRelayVPN",
+      "stars": 330,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/masterking32/MasterHttpRelayVPN"
+    },
+    {
+      "name": "cosmicstack-labs/mercury-agent",
+      "stars": 310,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent"
+    },
+    {
+      "name": "ArcaneNibble/awawausb",
+      "stars": 232,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ArcaneNibble/awawausb"
+    },
+    {
+      "name": "ovoment/ovo-local-llm",
+      "stars": 79,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ovoment/ovo-local-llm"
+    },
+    {
+      "name": "Devvvmn/ActivSpot",
+      "stars": 78,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Devvvmn/ActivSpot"
+    },
+    {
+      "name": "CIntellifusion/MultiWorld",
+      "stars": 74,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CIntellifusion/MultiWorld"
+    },
+    {
+      "name": "unicircle-finance/polymarket-arbitrage-bot",
+      "stars": 59,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/unicircle-finance/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "devsealva/Hyperliquid-Trading-Bot",
+      "stars": 46,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/devsealva/Hyperliquid-Trading-Bot"
+    },
+    {
+      "name": "guanxiaol/WindsurfPoolAPI",
+      "stars": 45,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/guanxiaol/WindsurfPoolAPI"
+    }
+  ]
+}
