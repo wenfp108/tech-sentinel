@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-21T10:06:11.681Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 12,
+      "TECH_ACCELERATOR": 3,
+      "CODE_LEVERAGE": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "knit-finances/polymarket-arbitrage-bot",
+      "stars": 92,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/knit-finances/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "danielfuller00/PRAGMATA-REFramework",
+      "stars": 86,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/danielfuller00/PRAGMATA-REFramework"
+    },
+    {
+      "name": "ovoment/ovo-local-llm",
+      "stars": 61,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ovoment/ovo-local-llm"
+    }
+  ]
+}
