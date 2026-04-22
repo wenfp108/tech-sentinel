@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-22T21:15:54.778Z",
+    "session": "PM",
+    "trend_summary": {
+      "CORE_PRAGMATISM": 1,
+      "VIRAL_UNCATEGORIZED": 9,
+      "KNOWLEDGE_BASE": 2,
+      "CODE_LEVERAGE": 2,
+      "TECH_ACCELERATOR": 4,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "therealaleph/MasterHttpRelayVPN-RUST",
+      "stars": 180,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST"
+    },
+    {
+      "name": "ConardLi/web-design-skill",
+      "stars": 97,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ConardLi/web-design-skill"
+    },
+    {
+      "name": "Yaolinwang/AITD",
+      "stars": 81,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Yaolinwang/AITD"
+    },
+    {
+      "name": "SparkEngineAI/QuantClaw-plugin",
+      "stars": 64,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SparkEngineAI/QuantClaw-plugin"
+    },
+    {
+      "name": "kernullist/windbg-decompile-ext",
+      "stars": 54,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kernullist/windbg-decompile-ext"
+    },
+    {
+      "name": "heider-x/vela",
+      "stars": 52,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/heider-x/vela"
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "stars": 51,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tashfeenahmed/freellmapi"
+    }
+  ]
+}
