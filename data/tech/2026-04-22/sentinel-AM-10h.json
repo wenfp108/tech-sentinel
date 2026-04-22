@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-22T10:04:04.933Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_UNCATEGORIZED": 10,
+      "KNOWLEDGE_BASE": 1,
+      "CORE_PRAGMATISM": 5,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "devsealva/Hyperliquid-Trading-Bot",
+      "stars": 123,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/devsealva/Hyperliquid-Trading-Bot"
+    },
+    {
+      "name": "unicircle-finance/polymarket-arbitrage-bot",
+      "stars": 113,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/unicircle-finance/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "therealaleph/MasterHttpRelayVPN-RUST",
+      "stars": 92,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST"
+    },
+    {
+      "name": "Potuswhs/Tomodachi-Life-Living-The-Dream-PC-Version",
+      "stars": 60,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Potuswhs/Tomodachi-Life-Living-The-Dream-PC-Version"
+    },
+    {
+      "name": "Olivier1K/Lossless-Scaling-3.2.2-Desktop",
+      "stars": 55,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Olivier1K/Lossless-Scaling-3.2.2-Desktop"
+    },
+    {
+      "name": "s92077742/AutoCAD-2026-PC-Edition",
+      "stars": 54,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/s92077742/AutoCAD-2026-PC-Edition"
+    },
+    {
+      "name": "Fl0mato/Extreme-Injector-3-7-3-Dll",
+      "stars": 47,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Fl0mato/Extreme-Injector-3-7-3-Dll"
+    },
+    {
+      "name": "pupppyfox/Crosshair-X-Custom-Crosshair-Overlay-For-Games",
+      "stars": 45,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pupppyfox/Crosshair-X-Custom-Crosshair-Overlay-For-Games"
+    }
+  ]
+}

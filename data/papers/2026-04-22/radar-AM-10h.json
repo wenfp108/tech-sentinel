@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-22T10:04:05.899Z",
+    "total_captured": 8,
+    "TRENDING_DIRECTIONS": [
+      "Quantum (Heat:51)",
+      "Icosahedral symmetry (Heat:44)",
+      "Constant (computer programming) (Heat:44)",
+      "Measure (data warehouse) (Heat:44)",
+      "Fine-structure constant (Heat:44)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 2,
+      "NEXT_COMPUTING": 7
+    }
+  },
+  "items": [
+    {
+      "title": "Effect of fermentation on nutritional and anti-nutritional properties of fermenting Soy beans and the antagonistic effect of the fermenting organism on selected pathogens",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 39,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19550532",
+      "reason": "Velocity: 39 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "Bootstrap Universe: Paper Catalogue - Deriving Physical Reality from Pure Mathematics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 32,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.17906573",
+      "reason": "Velocity: 32 citations",
+      "publication_date": "2026-04-18"
+    },
+    {
+      "title": "Simultaneous adsorption of pollutants onto the adsorbent review of interaction mechanism between the pollutants and the adsorbent",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "International Journal of Engineering & Technology",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.sciencepubco.com/index.php/IJET/article/download/21743/10420",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-04-16"
+    },
+    {
+      "title": "HopfionSeries Paper III - Two Constants from One Knot: The Fine Structure Constant and the Linking Scale as Exact Predictions of the Icosahedral WZW Condensate",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19478629",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "SYMBOLON-01: Anti-Severance Technologies for Fused Documentary Objects — with Applied Example (Self-Propagating Chip Patent, SYMBOLON-Enhanced)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19649787",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-19"
+    },
+    {
+      "title": "HopfionSeries Paper V - Colour Confinement, the QCD Scale, and Hadronic Structure from the Hopfion Condensate",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19638857",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-18"
+    },
+    {
+      "title": "Efficient thermalization and universal quantum computing with quantum Gibbs samplers",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Physics",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2403.12691",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-04-15"
+    },
+    {
+      "title": "In silico high-resolution whole lung model to predict the locally delivered dose of inhaled drugs",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Communications Medicine",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.nature.com/articles/s43856-026-01459-z.pdf",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-04-15"
+    }
+  ]
+}
