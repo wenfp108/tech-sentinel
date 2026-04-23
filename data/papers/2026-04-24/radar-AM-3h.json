@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-24T03:01:10.998Z",
+    "total_captured": 11,
+    "TRENDING_DIRECTIONS": [
+      "Dark matter (Heat:499)",
+      "COSMIC cancer database (Heat:499)",
+      "Cosmic microwave background (Heat:466)",
+      "Asymmetry (Heat:466)",
+      "Anisotropy (Heat:466)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 7,
+      "BIO_REVOLUTION": 5,
+      "AI_CORE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "A Minimal Asymmetric Dark Matter Model with Higgs-Portal Mediation A GeV-Scale Counterpart to Visible Matter",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 465,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19666836",
+      "reason": "Velocity: 465 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "Effect of fermentation on nutritional and anti-nutritional properties of fermenting Soy beans and the antagonistic effect of the fermenting organism on selected pathogens",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 39,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19550532",
+      "reason": "Velocity: 39 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "Bootstrap Universe: Paper Catalogue - Deriving Physical Reality from Pure Mathematics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 32,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.17906573",
+      "reason": "Velocity: 32 citations",
+      "publication_date": "2026-04-18"
+    },
+    {
+      "title": "Bayesian analysis for a generalised Dirichlet process prior",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2604.17160",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-04-18"
+    },
+    {
+      "title": "Simultaneous adsorption of pollutants onto the adsorbent review of interaction mechanism between the pollutants and the adsorbent",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "International Journal of Engineering & Technology",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.sciencepubco.com/index.php/IJET/article/download/21743/10420",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-04-16"
+    },
+    {
+      "title": "HopfionSeries Paper III - Two Constants from One Knot: The Fine Structure Constant and the Linking Scale as Exact Predictions of the Icosahedral WZW Condensate",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19478629",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "Revisiting Recent Progress in the Karch-Randall Braneworld",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Classical and Quantum Gravity",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2306.15671",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-21"
+    },
+    {
+      "title": "SYMBOLON-01: Anti-Severance Technologies for Fused Documentary Objects — with Applied Example (Self-Propagating Chip Patent, SYMBOLON-Enhanced)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19649787",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-19"
+    },
+    {
+      "title": "SymTh for non-finite symmetries",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of High Energy Physics",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/JHEP04(2026)153.pdf",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "HopfionSeries Paper V - Colour Confinement, the QCD Scale, and Hadronic Structure from the Hopfion Condensate",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19638857",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-18"
+    },
+    {
+      "title": "Sample Complexity Bounds for Stochastic Shortest Path with a Generative Model",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2604.16111",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-17"
+    }
+  ]
+}

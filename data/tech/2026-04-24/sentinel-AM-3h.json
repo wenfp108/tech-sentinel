@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-24T03:01:09.880Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 20,
+      "TECH_ACCELERATOR": 4,
+      "KNOWLEDGE_BASE": 5,
+      "CORE_PRAGMATISM": 4,
+      "CODE_LEVERAGE": 2,
+      "TALENT_GROWTH": 3
+    }
+  },
+  "items": [
+    {
+      "name": "deepseek-ai/TileKernels",
+      "stars": 553,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deepseek-ai/TileKernels"
+    },
+    {
+      "name": "Russell-cell/PPT-Design-Prompt",
+      "stars": 386,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Russell-cell/PPT-Design-Prompt"
+    },
+    {
+      "name": "figure-markets/polymarket-arbitrage-bot",
+      "stars": 153,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/figure-markets/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "stars": 128,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/earthtojake/text-to-cad"
+    },
+    {
+      "name": "Ch-Abdou/Lossless-Scaling-Upscale-FPS-Games",
+      "stars": 92,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ch-Abdou/Lossless-Scaling-Upscale-FPS-Games"
+    },
+    {
+      "name": "furukola/Create-Aeronautics-Minecraft-Mod-ALL-Versions",
+      "stars": 91,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/furukola/Create-Aeronautics-Minecraft-Mod-ALL-Versions"
+    },
+    {
+      "name": "dadi1921/Tomodachi-Life-Living-The-Dream-PC",
+      "stars": 87,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dadi1921/Tomodachi-Life-Living-The-Dream-PC"
+    },
+    {
+      "name": "Drakelo10/AutoDesk-Resource",
+      "stars": 87,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Drakelo10/AutoDesk-Resource"
+    },
+    {
+      "name": "SparkEngineAI/QuantClaw-plugin",
+      "stars": 71,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SparkEngineAI/QuantClaw-plugin"
+    },
+    {
+      "name": "future-agi/future-agi",
+      "stars": 64,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/future-agi/future-agi"
+    },
+    {
+      "name": "jwangkun/hermes-agent-guide",
+      "stars": 50,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jwangkun/hermes-agent-guide"
+    }
+  ]
+}
