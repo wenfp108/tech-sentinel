@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-24T15:54:55.069Z",
+    "session": "PM",
+    "trend_summary": {
+      "KNOWLEDGE_BASE": 7,
+      "VIRAL_GIANT": 3,
+      "VIRAL_UNCATEGORIZED": 13,
+      "TECH_ACCELERATOR": 4,
+      "CODE_LEVERAGE": 2,
+      "CORE_PRAGMATISM": 2,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "op7418/guizang-ppt-skill",
+      "stars": 1032,
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/op7418/guizang-ppt-skill"
+    },
+    {
+      "name": "levelsio/superlevels",
+      "stars": 291,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/levelsio/superlevels"
+    },
+    {
+      "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+      "stars": 208,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct"
+    },
+    {
+      "name": "future-agi/future-agi",
+      "stars": 119,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/future-agi/future-agi"
+    },
+    {
+      "name": "baidu-baige/LoongForge",
+      "stars": 85,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/baidu-baige/LoongForge"
+    },
+    {
+      "name": "seulee26/mckinsey-pptx",
+      "stars": 78,
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/seulee26/mckinsey-pptx"
+    },
+    {
+      "name": "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
+      "stars": 73,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi"
+    },
+    {
+      "name": "TheTom/vllm-swift",
+      "stars": 68,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TheTom/vllm-swift"
+    },
+    {
+      "name": "Mike04ylno/Pokemon-Pokopia-PC",
+      "stars": 57,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "CAREER_MOVES",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Mike04ylno/Pokemon-Pokopia-PC"
+    },
+    {
+      "name": "Ghesse-p/Free-Nintendo-Switch-GameCube-Games-PC",
+      "stars": 56,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ghesse-p/Free-Nintendo-Switch-GameCube-Games-PC"
+    }
+  ]
+}
