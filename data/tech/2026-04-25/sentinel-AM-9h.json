@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-25T09:58:49.242Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 10,
+      "CORE_PRAGMATISM": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+      "stars": 614,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct"
+    },
+    {
+      "name": "connectfarm1/accumulation-radar",
+      "stars": 205,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/connectfarm1/accumulation-radar"
+    },
+    {
+      "name": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
+      "stars": 63,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/janhas1993/Tomodachi-Share-Discover-and-share-Mii"
+    }
+  ]
+}
