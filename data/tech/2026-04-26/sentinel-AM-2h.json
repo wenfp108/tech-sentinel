@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-26T02:42:05.551Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 22,
+      "KNOWLEDGE_BASE": 3,
+      "CORE_PRAGMATISM": 4,
+      "TECH_ACCELERATOR": 3,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+      "stars": 785,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct"
+    },
+    {
+      "name": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
+      "stars": 138,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/janhas1993/Tomodachi-Share-Discover-and-share-Mii"
+    },
+    {
+      "name": "vivek772/Lossless-Scaling-FPS-Upcaler-Desktop",
+      "stars": 114,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/vivek772/Lossless-Scaling-FPS-Upcaler-Desktop"
+    },
+    {
+      "name": "GHOST-227/Auto-2026-Desktop",
+      "stars": 105,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/GHOST-227/Auto-2026-Desktop"
+    },
+    {
+      "name": "huskydoge/Awesome-Loop-Models",
+      "stars": 58,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/huskydoge/Awesome-Loop-Models"
+    },
+    {
+      "name": "MrFadiAi/free-llm-gateway",
+      "stars": 53,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MrFadiAi/free-llm-gateway"
+    },
+    {
+      "name": "drebenilona2015/Smart-Clipboard-Manager",
+      "stars": 44,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/drebenilona2015/Smart-Clipboard-Manager"
+    }
+  ]
+}

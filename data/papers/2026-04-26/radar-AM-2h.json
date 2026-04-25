@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-26T02:42:06.556Z",
+    "total_captured": 17,
+    "TRENDING_DIRECTIONS": [
+      "Python (programming language) (Heat:529)",
+      "Toolbox (Heat:529)",
+      "Software (Heat:529)",
+      "Electric power system (Heat:529)",
+      "Renewable energy (Heat:529)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 12,
+      "BIO_REVOLUTION": 7,
+      "AI_CORE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "PyPSA: Python for Power System Analysis",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 528,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19690618",
+      "reason": "Velocity: 528 citations",
+      "publication_date": "2026-04-22"
+    },
+    {
+      "title": "A Minimal Asymmetric Dark Matter Model with Higgs-Portal Mediation A GeV-Scale Counterpart to Visible Matter",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 465,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19666836",
+      "reason": "Velocity: 465 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "Effect of fermentation on nutritional and anti-nutritional properties of fermenting Soy beans and the antagonistic effect of the fermenting organism on selected pathogens",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 39,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19550532",
+      "reason": "Velocity: 39 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "Bootstrap Universe: Paper Catalogue - Deriving Physical Reality from Pure Mathematics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 32,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.17906573",
+      "reason": "Velocity: 32 citations",
+      "publication_date": "2026-04-18"
+    },
+    {
+      "title": "Maximum Entropy Semi-Supervised Inverse Reinforcement Learning",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 20,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2604.20074",
+      "reason": "Velocity: 20 citations",
+      "publication_date": "2026-04-22"
+    },
+    {
+      "title": "Ontologie du passage. Architecture générale du système",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19699102",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-04-22"
+    },
+    {
+      "title": "Bayesian analysis for a generalised Dirichlet process prior",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2604.17160",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-04-18"
+    },
+    {
+      "title": "On two ways to use determinantal point processes for Monte Carlo integration",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv.org",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2604.19698",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-04-21"
+    },
+    {
+      "title": "HopfionSeries Paper III - Two Constants from One Knot: The Fine Structure Constant and the Linking Scale as Exact Predictions of the Icosahedral WZW Condensate",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19478629",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "Tabular Data Augmentation for Machine Learning: Progress and Prospects of Embracing Generative AI",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1145/3808692",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-23"
+    },
+    {
+      "title": "Revisiting Recent Progress in the Karch-Randall Braneworld",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Classical and Quantum Gravity",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2306.15671",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-21"
+    },
+    {
+      "title": "SYMBOLON-01: Anti-Severance Technologies for Fused Documentary Objects — with Applied Example (Self-Propagating Chip Patent, SYMBOLON-Enhanced)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19649787",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-19"
+    },
+    {
+      "title": "JSON-LD ⊂ SPXI ⊄ Schema: The Operational Depth of the Semantic Packet Protocol",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://spxi.dev",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-04-18"
+    },
+    {
+      "title": "SymTh for non-finite symmetries",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of High Energy Physics",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/JHEP04(2026)153.pdf",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "HopfionSeries Paper V - Colour Confinement, the QCD Scale, and Hadronic Structure from the Hopfion Condensate",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19638857",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-18"
+    },
+    {
+      "title": "ECI v5.0.2 — Entanglement, Complexity, Information: a phenomenological framework with DESI DR2 + Pantheon+ MCMC",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19696017",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-04-22"
+    },
+    {
+      "title": "The Dirac Point as Necessity Depth Collapse: Results of the Paper 49 Pre-Registration — A Clean Falsification and a Confirmed Null",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19638459",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-04-18"
+    }
+  ]
+}
