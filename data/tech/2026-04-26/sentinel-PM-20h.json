@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-26T20:55:57.895Z",
+    "session": "PM",
+    "trend_summary": {
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_GIANT": 3,
+      "VIRAL_UNCATEGORIZED": 16,
+      "CORE_PRAGMATISM": 3,
+      "TALENT_GROWTH": 2,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "stars": 353,
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+      "name": "PrimeOrder-Labs/polymarket-copy-trading-bot",
+      "stars": 224,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PrimeOrder-Labs/polymarket-copy-trading-bot"
+    },
+    {
+      "name": "Orbital-Alpha/polymarket-copy-trading-bot",
+      "stars": 222,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Orbital-Alpha/polymarket-copy-trading-bot"
+    },
+    {
+      "name": "aresthehacker/Assassin-s-Creed-Black-Flag",
+      "stars": 121,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aresthehacker/Assassin-s-Creed-Black-Flag"
+    },
+    {
+      "name": "Alfattah07/Acrobat-Editor-2026",
+      "stars": 120,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Alfattah07/Acrobat-Editor-2026"
+    },
+    {
+      "name": "shriddha/LEGO-Batman-Legacy-of-the-Dark-Knight",
+      "stars": 99,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/shriddha/LEGO-Batman-Legacy-of-the-Dark-Knight"
+    },
+    {
+      "name": "h9-tec/llm-systems-engineering-roadmap",
+      "stars": 75,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/h9-tec/llm-systems-engineering-roadmap"
+    }
+  ]
+}
