@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-26T15:21:49.039Z",
+    "session": "PM",
+    "trend_summary": {
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 15,
+      "CORE_PRAGMATISM": 3,
+      "TALENT_GROWTH": 2,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "stars": 205,
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+      "name": "aresthehacker/Assassin-s-Creed-Black-Flag",
+      "stars": 106,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aresthehacker/Assassin-s-Creed-Black-Flag"
+    },
+    {
+      "name": "Alfattah07/Acrobat-Editor-2026",
+      "stars": 99,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Alfattah07/Acrobat-Editor-2026"
+    },
+    {
+      "name": "shriddha/LEGO-Batman-Legacy-of-the-Dark-Knight",
+      "stars": 79,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/shriddha/LEGO-Batman-Legacy-of-the-Dark-Knight"
+    },
+    {
+      "name": "h9-tec/llm-systems-engineering-roadmap",
+      "stars": 61,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/h9-tec/llm-systems-engineering-roadmap"
+    }
+  ]
+}
