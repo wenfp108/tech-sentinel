@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-27T21:28:27.129Z",
+    "session": "PM",
+    "trend_summary": {
+      "TALENT_GROWTH": 4,
+      "VIRAL_GIANT": 6,
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_UNCATEGORIZED": 8,
+      "KNOWLEDGE_BASE": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "avaco-cloud/Vercel-XHTTP",
+      "stars": 353,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/avaco-cloud/Vercel-XHTTP"
+    },
+    {
+      "name": "PolyPulse-Analytics/hyperliquid-trading-bot",
+      "stars": 250,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PolyPulse-Analytics/hyperliquid-trading-bot"
+    },
+    {
+      "name": "SignalBot-Labs/aster-bot",
+      "stars": 250,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SignalBot-Labs/aster-bot"
+    },
+    {
+      "name": "NyxTides/ppt-image-first",
+      "stars": 247,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/NyxTides/ppt-image-first"
+    },
+    {
+      "name": "evanklem/evanflow",
+      "stars": 214,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/evanklem/evanflow"
+    },
+    {
+      "name": "vthinkxie/illustrated-explainer-spec",
+      "stars": 203,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vthinkxie/illustrated-explainer-spec"
+    },
+    {
+      "name": "alefinvest/polymarket-arbitrage-bot",
+      "stars": 162,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alefinvest/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "sweriko/ai4anim-webgpu",
+      "stars": 137,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sweriko/ai4anim-webgpu"
+    },
+    {
+      "name": "Muzma86/Legend-OF-Zelda-Twilight-Princess-For-PC",
+      "stars": 47,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Muzma86/Legend-OF-Zelda-Twilight-Princess-For-PC"
+    }
+  ]
+}
