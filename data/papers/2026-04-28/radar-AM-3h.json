@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-28T03:11:11.419Z",
+    "total_captured": 19,
+    "TRENDING_DIRECTIONS": [
+      "Python (programming language) (Heat:529)",
+      "Toolbox (Heat:529)",
+      "Software (Heat:529)",
+      "Electric power system (Heat:529)",
+      "Renewable energy (Heat:529)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 10,
+      "BIO_REVOLUTION": 10,
+      "PARADIGM_SHIFT": 1,
+      "AI_CORE": 3
+    }
+  },
+  "items": [
+    {
+      "title": "PyPSA: Python for Power System Analysis",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 528,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19690618",
+      "reason": "Velocity: 528 citations",
+      "publication_date": "2026-04-22"
+    },
+    {
+      "title": "A Minimal Asymmetric Dark Matter Model with Higgs-Portal Mediation A GeV-Scale Counterpart to Visible Matter",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 465,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19666836",
+      "reason": "Velocity: 465 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "Effect of fermentation on nutritional and anti-nutritional properties of fermenting Soy beans and the antagonistic effect of the fermenting organism on selected pathogens",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 39,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19550532",
+      "reason": "Velocity: 39 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "HγC N2: Structured Near-Critical Bands and Residual Phenomenology in the HγC Framework",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 24,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19684932",
+      "reason": "Velocity: 24 citations",
+      "publication_date": "2026-04-21"
+    },
+    {
+      "title": "Maximum Entropy Semi-Supervised Inverse Reinforcement Learning",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 20,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2604.20074",
+      "reason": "Velocity: 20 citations",
+      "publication_date": "2026-04-22"
+    },
+    {
+      "title": "Event-based Simultaneous Localization and Mapping: A Comprehensive Survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "International Journal of Computer Vision",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s11263-026-02845-9.pdf",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-04-25"
+    },
+    {
+      "title": "Bias in Large Language Models: Origin, Evaluation, and Mitigation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Electronics",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://www.mdpi.com/2079-9292/15/9/1824/pdf?version=1777040052",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-04-24"
+    },
+    {
+      "title": "Ontologie du passage. Architecture générale du système",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19699102",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-04-22"
+    },
+    {
+      "title": "On two ways to use determinantal point processes for Monte Carlo integration",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv.org",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2604.19698",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-04-21"
+    },
+    {
+      "title": "Non-Relativistic Reduction of the Existence Equation and Observable Deviations from the Gross-Pitaevskii Limit",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19638425",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-04-25"
+    },
+    {
+      "title": "Quantum Many-Body Scars as Temporal Phase Closure of the Existence Equation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19327776",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-04-25"
+    },
+    {
+      "title": "Fractional Quantum Hall States as Spatial Phase Closure of the Existence Equation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19329294",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-04-25"
+    },
+    {
+      "title": "Helical Rydberg Scars as Mixed-Dimensional Phase Closure of the Existence Equation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19329296",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-04-25"
+    },
+    {
+      "title": "HopfionSeries Paper III - Two Constants from One Knot: The Fine Structure Constant and the Linking Scale as Exact Predictions of the Icosahedral WZW Condensate",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19478629",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "Tabular Data Augmentation for Machine Learning: Progress and Prospects of Embracing Generative AI",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1145/3808692",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-23"
+    },
+    {
+      "title": "Revisiting Recent Progress in the Karch-Randall Braneworld",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Classical and Quantum Gravity",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2306.15671",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-21"
+    },
+    {
+      "title": "HγC O1: Diagnostic Morphology of Structured Near-Critical Bands in Galactic Phenomenology",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19795475",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-26"
+    },
+    {
+      "title": "SymTh for non-finite symmetries",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of High Energy Physics",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/JHEP04(2026)153.pdf",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-20"
+    },
+    {
+      "title": "Beckers Collection (Aachen) - Ushabti UB-014: Ushabti of Hori I (Tell Basta) (Preliminary Version)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19222672",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-26"
+    }
+  ]
+}
