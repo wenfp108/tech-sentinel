@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-28T10:30:17.128Z",
+    "session": "AM",
+    "trend_summary": {
+      "TALENT_GROWTH": 3,
+      "VIRAL_GIANT": 1,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 11,
+      "CODE_LEVERAGE": 2,
+      "CORE_PRAGMATISM": 3,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "evanklem/evanflow",
+      "stars": 285,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/evanklem/evanflow"
+    },
+    {
+      "name": "6551-Team/ai-auto-trading",
+      "stars": 123,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/6551-Team/ai-auto-trading"
+    },
+    {
+      "name": "DanOps-1/gpt-pp-team",
+      "stars": 95,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DanOps-1/gpt-pp-team"
+    },
+    {
+      "name": "bitvoxing/Tomodachi-Life-Living-the-Dream-PC-Port",
+      "stars": 93,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bitvoxing/Tomodachi-Life-Living-the-Dream-PC-Port"
+    },
+    {
+      "name": "Nareshkkkk/Lossless-Scaling-LSFG",
+      "stars": 91,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Nareshkkkk/Lossless-Scaling-LSFG"
+    },
+    {
+      "name": "mostafamo123/Pragmata-Reframework",
+      "stars": 49,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mostafamo123/Pragmata-Reframework"
+    },
+    {
+      "name": "homer66/Windows-Xbox-Mode",
+      "stars": 49,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/homer66/Windows-Xbox-Mode"
+    }
+  ]
+}
