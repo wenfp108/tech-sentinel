@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-28T21:52:16.455Z",
+    "session": "PM",
+    "trend_summary": {
+      "TALENT_GROWTH": 5,
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 21,
+      "CORE_PRAGMATISM": 3,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 3
+    }
+  },
+  "items": [
+    {
+      "name": "nexu-io/open-design",
+      "stars": 448,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/nexu-io/open-design"
+    },
+    {
+      "name": "evanklem/evanflow",
+      "stars": 312,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/evanklem/evanflow"
+    },
+    {
+      "name": "DanOps-1/gpt-pp-team",
+      "stars": 212,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DanOps-1/gpt-pp-team"
+    },
+    {
+      "name": "bitvoxing/Tomodachi-Life-Living-the-Dream-PC-Port",
+      "stars": 146,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bitvoxing/Tomodachi-Life-Living-the-Dream-PC-Port"
+    },
+    {
+      "name": "Nareshkkkk/Lossless-Scaling-LSFG",
+      "stars": 144,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Nareshkkkk/Lossless-Scaling-LSFG"
+    },
+    {
+      "name": "mostafamo123/Pragmata-Reframework",
+      "stars": 104,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mostafamo123/Pragmata-Reframework"
+    },
+    {
+      "name": "homer66/Windows-Xbox-Mode",
+      "stars": 100,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/homer66/Windows-Xbox-Mode"
+    },
+    {
+      "name": "6551-Team/ai-auto-trading",
+      "stars": 52,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/6551-Team/ai-auto-trading"
+    },
+    {
+      "name": "99xAgency/GodModeSkill",
+      "stars": 51,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/99xAgency/GodModeSkill"
+    }
+  ]
+}
