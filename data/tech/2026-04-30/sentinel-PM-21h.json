@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-30T21:44:15.298Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 8,
+      "TALENT_GROWTH": 6,
+      "KNOWLEDGE_BASE": 4,
+      "VIRAL_UNCATEGORIZED": 17,
+      "TECH_ACCELERATOR": 4,
+      "CODE_LEVERAGE": 1,
+      "CORE_PRAGMATISM": 5
+    }
+  },
+  "items": [
+    {
+      "name": "theori-io/copy-fail-CVE-2026-31431",
+      "stars": 1288,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431"
+    },
+    {
+      "name": "willchen96/mike",
+      "stars": 482,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/willchen96/mike"
+    },
+    {
+      "name": "Fokkyp/SoftwareCopyright-Skill",
+      "stars": 478,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill"
+    },
+    {
+      "name": "t8y2/dbx",
+      "stars": 379,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/t8y2/dbx"
+    },
+    {
+      "name": "deepseek-ai/Thinking-with-Visual-Primitives",
+      "stars": 375,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deepseek-ai/Thinking-with-Visual-Primitives"
+    },
+    {
+      "name": "amirshaker000/netlify-relay",
+      "stars": 231,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/amirshaker000/netlify-relay"
+    },
+    {
+      "name": "skydoves/compose-performance-skills",
+      "stars": 204,
+      "tags": [
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/skydoves/compose-performance-skills"
+    },
+    {
+      "name": "rootsecdev/cve_2026_31431",
+      "stars": 202,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rootsecdev/cve_2026_31431"
+    },
+    {
+      "name": "endless-sky-team/ai-trading-agent",
+      "stars": 133,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/endless-sky-team/ai-trading-agent"
+    },
+    {
+      "name": "NoFxAi-OS/hyperliquid-trading-bot",
+      "stars": 132,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NoFxAi-OS/hyperliquid-trading-bot"
+    },
+    {
+      "name": "Julpygo/Claude-Code-AI-Design",
+      "stars": 103,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Julpygo/Claude-Code-AI-Design"
+    },
+    {
+      "name": "Senabayu08989/Stable-Diffusion-AI-Free",
+      "stars": 97,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free"
+    },
+    {
+      "name": "Lanxi-G/Tomodachi-Life-Living-The-Dream-For-PC",
+      "stars": 97,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Lanxi-G/Tomodachi-Life-Living-The-Dream-For-PC"
+    },
+    {
+      "name": "WL-DF/Legend-OF-Zelda-Twilight-Princess-PC",
+      "stars": 87,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/WL-DF/Legend-OF-Zelda-Twilight-Princess-PC"
+    },
+    {
+      "name": "tgies/copy-fail-c",
+      "stars": 85,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tgies/copy-fail-c"
+    },
+    {
+      "name": "PKU-YuanGroup/TIDE",
+      "stars": 56,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PKU-YuanGroup/TIDE"
+    },
+    {
+      "name": "i12bp8/wmbuster",
+      "stars": 51,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/i12bp8/wmbuster"
+    }
+  ]
+}
