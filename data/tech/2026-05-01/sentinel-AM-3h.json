@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-01T03:12:20.712Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 7,
+      "TALENT_GROWTH": 5,
+      "KNOWLEDGE_BASE": 4,
+      "VIRAL_UNCATEGORIZED": 20,
+      "TECH_ACCELERATOR": 4,
+      "CODE_LEVERAGE": 1,
+      "CORE_PRAGMATISM": 4
+    }
+  },
+  "items": [
+    {
+      "name": "theori-io/copy-fail-CVE-2026-31431",
+      "stars": 1538,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431"
+    },
+    {
+      "name": "willchen96/mike",
+      "stars": 690,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/willchen96/mike"
+    },
+    {
+      "name": "Fokkyp/SoftwareCopyright-Skill",
+      "stars": 486,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill"
+    },
+    {
+      "name": "t8y2/dbx",
+      "stars": 390,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/t8y2/dbx"
+    },
+    {
+      "name": "amirshaker000/netlify-relay",
+      "stars": 264,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/amirshaker000/netlify-relay"
+    },
+    {
+      "name": "rootsecdev/cve_2026_31431",
+      "stars": 262,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rootsecdev/cve_2026_31431"
+    },
+    {
+      "name": "skydoves/compose-performance-skills",
+      "stars": 214,
+      "tags": [
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/skydoves/compose-performance-skills"
+    },
+    {
+      "name": "endless-sky-team/ai-trading-agent",
+      "stars": 137,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/endless-sky-team/ai-trading-agent"
+    },
+    {
+      "name": "NoFxAi-OS/hyperliquid-trading-bot",
+      "stars": 136,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NoFxAi-OS/hyperliquid-trading-bot"
+    },
+    {
+      "name": "Julpygo/Claude-Code-AI-Design",
+      "stars": 117,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Julpygo/Claude-Code-AI-Design"
+    },
+    {
+      "name": "tgies/copy-fail-c",
+      "stars": 112,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tgies/copy-fail-c"
+    },
+    {
+      "name": "Senabayu08989/Stable-Diffusion-AI-Free",
+      "stars": 109,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free"
+    },
+    {
+      "name": "WL-DF/Legend-OF-Zelda-Twilight-Princess-PC",
+      "stars": 102,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/WL-DF/Legend-OF-Zelda-Twilight-Princess-PC"
+    },
+    {
+      "name": "PKU-YuanGroup/TIDE",
+      "stars": 58,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PKU-YuanGroup/TIDE"
+    },
+    {
+      "name": "i12bp8/wmbuster",
+      "stars": 54,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/i12bp8/wmbuster"
+    }
+  ]
+}
