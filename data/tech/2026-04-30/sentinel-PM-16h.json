@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-30T16:12:00.444Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "TALENT_GROWTH": 6,
+      "VIRAL_UNCATEGORIZED": 14,
+      "KNOWLEDGE_BASE": 3,
+      "TECH_ACCELERATOR": 4,
+      "CORE_PRAGMATISM": 4
+    }
+  },
+  "items": [
+    {
+      "name": "theori-io/copy-fail-CVE-2026-31431",
+      "stars": 933,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431"
+    },
+    {
+      "name": "Fokkyp/SoftwareCopyright-Skill",
+      "stars": 383,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill"
+    },
+    {
+      "name": "t8y2/dbx",
+      "stars": 350,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/t8y2/dbx"
+    },
+    {
+      "name": "willchen96/mike",
+      "stars": 270,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/willchen96/mike"
+    },
+    {
+      "name": "endless-sky-team/ai-trading-agent",
+      "stars": 90,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/endless-sky-team/ai-trading-agent"
+    },
+    {
+      "name": "NoFxAi-OS/hyperliquid-trading-bot",
+      "stars": 88,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NoFxAi-OS/hyperliquid-trading-bot"
+    },
+    {
+      "name": "Julpygo/Claude-Code-AI-Design",
+      "stars": 75,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Julpygo/Claude-Code-AI-Design"
+    },
+    {
+      "name": "Senabayu08989/Stable-Diffusion-AI-Free",
+      "stars": 74,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free"
+    },
+    {
+      "name": "Lanxi-G/Tomodachi-Life-Living-The-Dream-For-PC",
+      "stars": 73,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Lanxi-G/Tomodachi-Life-Living-The-Dream-For-PC"
+    },
+    {
+      "name": "WL-DF/Legend-OF-Zelda-Twilight-Princess-PC",
+      "stars": 65,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/WL-DF/Legend-OF-Zelda-Twilight-Princess-PC"
+    },
+    {
+      "name": "tgies/copy-fail-c",
+      "stars": 48,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tgies/copy-fail-c"
+    },
+    {
+      "name": "PKU-YuanGroup/TIDE",
+      "stars": 43,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PKU-YuanGroup/TIDE"
+    }
+  ]
+}
