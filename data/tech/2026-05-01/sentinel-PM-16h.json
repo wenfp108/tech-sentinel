@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-01T16:06:10.020Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "KNOWLEDGE_BASE": 2,
+      "CORE_PRAGMATISM": 4,
+      "TALENT_GROWTH": 4,
+      "TECH_ACCELERATOR": 1,
+      "VIRAL_UNCATEGORIZED": 5
+    }
+  },
+  "items": [
+    {
+      "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
+      "stars": 295,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735"
+    },
+    {
+      "name": "Edosaqw/Tomodachi-Life-Living-The-Dream-PC",
+      "stars": 105,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Edosaqw/Tomodachi-Life-Living-The-Dream-PC"
+    },
+    {
+      "name": "lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release",
+      "stars": 105,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release"
+    },
+    {
+      "name": "MasnoNi/Invincible-VS-Game-Release-Desktop",
+      "stars": 101,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MasnoNi/Invincible-VS-Game-Release-Desktop"
+    },
+    {
+      "name": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
+      "stars": 99,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/hamzerbug-wq/Animal-Crossing-New-Horizons-PC"
+    }
+  ]
+}
