@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-02T03:05:29.174Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "KNOWLEDGE_BASE": 2,
+      "CORE_PRAGMATISM": 6,
+      "TALENT_GROWTH": 7,
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_UNCATEGORIZED": 17
+    }
+  },
+  "items": [
+    {
+      "name": "darrylmorley/whatcable",
+      "stars": 509,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/darrylmorley/whatcable"
+    },
+    {
+      "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
+      "stars": 380,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735"
+    },
+    {
+      "name": "mattpocock/dictionary-of-ai-coding",
+      "stars": 347,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mattpocock/dictionary-of-ai-coding"
+    },
+    {
+      "name": "UzenUPozitiv4ik/gpt-image-2-skill",
+      "stars": 230,
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/UzenUPozitiv4ik/gpt-image-2-skill"
+    },
+    {
+      "name": "Edosaqw/Tomodachi-Life-Living-The-Dream-PC",
+      "stars": 150,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Edosaqw/Tomodachi-Life-Living-The-Dream-PC"
+    },
+    {
+      "name": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
+      "stars": 149,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/hamzerbug-wq/Animal-Crossing-New-Horizons-PC"
+    },
+    {
+      "name": "lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release",
+      "stars": 148,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release"
+    },
+    {
+      "name": "MasnoNi/Invincible-VS-Game-Release-Desktop",
+      "stars": 147,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MasnoNi/Invincible-VS-Game-Release-Desktop"
+    },
+    {
+      "name": "warpdot-dev/composio",
+      "stars": 110,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/warpdot-dev/composio"
+    },
+    {
+      "name": "lukiIabs/trading-agents",
+      "stars": 109,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lukiIabs/trading-agents"
+    },
+    {
+      "name": "cH1LLa/Photoshop-v27.6",
+      "stars": 54,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cH1LLa/Photoshop-v27.6"
+    },
+    {
+      "name": "ridha61/Lossless-Scaling-Upscaler-FPS",
+      "stars": 54,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ridha61/Lossless-Scaling-Upscaler-FPS"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-02T03:05:30.193Z",
+    "total_captured": 22,
+    "TRENDING_DIRECTIONS": [
+      "Power (physics) (Heat:159)",
+      "Identity (music) (Heat:151)",
+      "Action (physics) (Heat:144)",
+      "Second-language acquisition (Heat:142)",
+      "Argument (complex analysis) (Heat:142)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 10,
+      "BIO_REVOLUTION": 7,
+      "PARADIGM_SHIFT": 7,
+      "AI_CORE": 2,
+      "SPACE_DEFENSE": 1,
+      "STRATEGIC_ENERGY": 2
+    }
+  },
+  "items": [
+    {
+      "title": "An Identity Approach to Second Language Acquisition",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 141,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.4324/9781003426516-4",
+      "reason": "Velocity: 141 citations",
+      "publication_date": "2026-04-27"
+    },
+    {
+      "title": "Efficient learning by implicit exploration in bandit problems with side observations",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv.org",
+      "metrics": {
+        "citations": 130,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2604.24555",
+      "reason": "Velocity: 130 citations",
+      "publication_date": "2026-04-27"
+    },
+    {
+      "title": "The Standard Model from the CM Point of y² = x³ + 1",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 34,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/1706.08749",
+      "reason": "Velocity: 34 citations",
+      "publication_date": "2026-04-28"
+    },
+    {
+      "title": "LUME: Eliminating Cognitive Distance - A Deterministic Natural-Language Programming Language with Intent-Resolving Compilation, Voice Input, Certified Security, and Synthetic Organism Runtime",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 33,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19382282",
+      "reason": "Velocity: 33 citations",
+      "publication_date": "2026-04-27"
+    },
+    {
+      "title": "Event-based Simultaneous Localization and Mapping: A Comprehensive Survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "International Journal of Computer Vision",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s11263-026-02845-9.pdf",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-04-25"
+    },
+    {
+      "title": "Genesis 3D-HLBM: A Symmetry-Constrained Discrete Lattice Model with Bounded Energy Dynamics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19784150",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-04-26"
+    },
+    {
+      "title": "Bias in Large Language Models: Origin, Evaluation, and Mitigation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Electronics",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://www.mdpi.com/2079-9292/15/9/1824/pdf?version=1777040052",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-04-24"
+    },
+    {
+      "title": "Non-Relativistic Reduction of the Existence Equation and Observable Deviations from the Gross-Pitaevskii Limit",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19638425",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-04-25"
+    },
+    {
+      "title": "Quantum Many-Body Scars as Temporal Phase Closure of the Existence Equation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19327776",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-04-25"
+    },
+    {
+      "title": "Fractional Quantum Hall--Like Sector Structure as Spatial Phase Closure of the Existence Equation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19329294",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-04-25"
+    },
+    {
+      "title": "Helical Rydberg Scars as Mixed-Dimensional Phase Closure of the Existence Equation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19329296",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-04-25"
+    },
+    {
+      "title": "HγC O1: Diagnostic Morphology of Structured Near-Critical Bands in Galactic Phenomenology",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19795475",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-04-26"
+    },
+    {
+      "title": "Stress-Testing the Preferred SO(10)-Compatible QDL Completion: Failure Modes, Alternatives, and Robustness",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19762215",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-25"
+    },
+    {
+      "title": "Executable Gauge-Running Hardening of the QDL–SO10–1 Grand-Unification Benchmark: Revised Coupling Closure, Calibrated Threshold Targets, and Proton-Decay Rescaling",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://QDLPhysics.org",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-25"
+    },
+    {
+      "title": "Beckers Collection (Aachen) - Ushabti UB-014: Ushabti of Hori I (Tell Basta) (Preliminary Version)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19222672",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-26"
+    },
+    {
+      "title": "An SO(10)-Compatible QDL Grand-Unification Benchmark with Two-Loop Running, Threshold Matching, and Proton-Decay Exposure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://QDLPhysics.org",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-24"
+    },
+    {
+      "title": "A Particle Swarm Optimization based Fuzzy Logic Control for Photovoltaic System",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "International Journal of Engineering & Technology",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE",
+        "STRATEGIC_ENERGY",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.sciencepubco.com/index.php/IJET/article/download/22799/11276",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-25"
+    },
+    {
+      "title": "EA-HET-01: Heteronymy Is a Function, Not a Name — Trust-Marker Laundering, Alias Capture, and Functional Provenance",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19822790",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-27"
+    },
+    {
+      "title": "Low-Energy Phenomenology Closure of the Preferred SO(10)-Compatible QDL Completion",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19744877",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-24"
+    },
+    {
+      "title": "The Theosophical Imagination",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "UvA-DARE (University of Amsterdam)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://pure.uva.nl/ws/files/44561319/The_Theosophical_Imagination.pdf",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-04-28"
+    }
+  ]
+}
