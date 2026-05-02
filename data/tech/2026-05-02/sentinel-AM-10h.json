@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-02T10:12:24.746Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "TECH_ACCELERATOR": 2,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 8,
+      "CORE_PRAGMATISM": 2,
+      "TALENT_GROWTH": 3
+    }
+  },
+  "items": [
+    {
+      "name": "darrylmorley/whatcable",
+      "stars": 708,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/darrylmorley/whatcable"
+    },
+    {
+      "name": "mattpocock/dictionary-of-ai-coding",
+      "stars": 391,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mattpocock/dictionary-of-ai-coding"
+    },
+    {
+      "name": "warpdot-dev/composio",
+      "stars": 129,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/warpdot-dev/composio"
+    },
+    {
+      "name": "lukiIabs/trading-agents",
+      "stars": 128,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lukiIabs/trading-agents"
+    },
+    {
+      "name": "cH1LLa/Photoshop-v27.6",
+      "stars": 79,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cH1LLa/Photoshop-v27.6"
+    },
+    {
+      "name": "ridha61/Lossless-Scaling-Upscaler-FPS",
+      "stars": 79,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ridha61/Lossless-Scaling-Upscaler-FPS"
+    }
+  ]
+}
