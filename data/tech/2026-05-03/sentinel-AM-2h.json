@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-03T02:51:59.252Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 32,
+      "TECH_ACCELERATOR": 6,
+      "CODE_LEVERAGE": 3,
+      "TALENT_GROWTH": 9,
+      "KNOWLEDGE_BASE": 1,
+      "CORE_PRAGMATISM": 3
+    }
+  },
+  "items": [
+    {
+      "name": "darrylmorley/whatcable",
+      "stars": 1202,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/darrylmorley/whatcable"
+    },
+    {
+      "name": "mattpocock/dictionary-of-ai-coding",
+      "stars": 623,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mattpocock/dictionary-of-ai-coding"
+    },
+    {
+      "name": "warpdot-dev/composio",
+      "stars": 163,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/warpdot-dev/composio"
+    },
+    {
+      "name": "lukiIabs/trading-agents",
+      "stars": 162,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lukiIabs/trading-agents"
+    },
+    {
+      "name": "mosheuralif4-alt/Homm-Olden-Era-Mod-Kit",
+      "stars": 149,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mosheuralif4-alt/Homm-Olden-Era-Mod-Kit"
+    },
+    {
+      "name": "nikchirkov/Xbox-UI-Reimagined",
+      "stars": 148,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nikchirkov/Xbox-UI-Reimagined"
+    },
+    {
+      "name": "cH1LLa/Photoshop-v27.6",
+      "stars": 147,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cH1LLa/Photoshop-v27.6"
+    },
+    {
+      "name": "S-Lee-P/Pragmata-RTX-Rebirth",
+      "stars": 148,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/S-Lee-P/Pragmata-RTX-Rebirth"
+    },
+    {
+      "name": "ridha61/Lossless-Scaling-Upscaler-FPS",
+      "stars": 144,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ridha61/Lossless-Scaling-Upscaler-FPS"
+    },
+    {
+      "name": "anvie/evonic",
+      "stars": 76,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/anvie/evonic"
+    },
+    {
+      "name": "marchinthesun/cluster-performance-engine",
+      "stars": 65,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/marchinthesun/cluster-performance-engine"
+    },
+    {
+      "name": "matthart1983/syswatch",
+      "stars": 61,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/matthart1983/syswatch"
+    }
+  ]
+}
