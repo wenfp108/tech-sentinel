@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-04T21:47:04.870Z",
+    "total_captured": 17,
+    "TRENDING_DIRECTIONS": [
+      "Artificial neural network (Heat:178)",
+      "Pattern recognition (psychology) (Heat:178)",
+      "Quantum (Heat:156)",
+      "Identity (music) (Heat:151)",
+      "Power (physics) (Heat:150)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 10,
+      "PARADIGM_SHIFT": 1,
+      "BIO_REVOLUTION": 6
+    }
+  },
+  "items": [
+    {
+      "title": "A Recurrent Latent Variable Model for Sequential Data",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 148,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/1506.02216.pdf",
+      "reason": "Velocity: 148 citations",
+      "publication_date": "2026-05-02"
+    },
+    {
+      "title": "An Identity Approach to Second Language Acquisition",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 141,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.4324/9781003426516-4",
+      "reason": "Velocity: 141 citations",
+      "publication_date": "2026-04-27"
+    },
+    {
+      "title": "Efficient learning by implicit exploration in bandit problems with side observations",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv.org",
+      "metrics": {
+        "citations": 130,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2604.24555",
+      "reason": "Velocity: 130 citations",
+      "publication_date": "2026-04-27"
+    },
+    {
+      "title": "Bayesian policy gradient and actor-critic algorithms",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv.org",
+      "metrics": {
+        "citations": 34,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2604.27563",
+      "reason": "Velocity: 34 citations",
+      "publication_date": "2026-04-30"
+    },
+    {
+      "title": "LUME: Eliminating Cognitive Distance - A Deterministic Natural-Language Programming Language with Intent-Resolving Compilation, Voice Input, Certified Security, and Synthetic Organism Runtime",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 33,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19382282",
+      "reason": "Velocity: 33 citations",
+      "publication_date": "2026-04-27"
+    },
+    {
+      "title": "Semi-supervised learning with max-margin graph cuts",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2604.26818",
+      "reason": "Velocity: 28 citations",
+      "publication_date": "2026-04-29"
+    },
+    {
+      "title": "Sympathy or the Devil: Renaissance Magic and the Ambivalence of Idols",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "UvA-DARE (University of Amsterdam)",
+      "metrics": {
+        "citations": 20,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19980290",
+      "reason": "Velocity: 20 citations",
+      "publication_date": "2026-05-02"
+    },
+    {
+      "title": "Causal Attribution Patterns for Achievement Outcomes: Individual Differences, Possible Types and Their Origins",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.4324/9781003758167-8",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-04-29"
+    },
+    {
+      "title": "OGRe: An Object-Oriented General Relativity Package for Mathematica",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19971568",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-05-02"
+    },
+    {
+      "title": "EA-HET-01: Heteronymy Is a Function, Not a Name — Trust-Marker Laundering, Alias Capture, and Functional Provenance",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19822790",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-04-27"
+    },
+    {
+      "title": "Complex Multiplication as a Transcendence Predicate for Degree-2 Polynomial Continued Fractions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19931635",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-05-01"
+    },
+    {
+      "title": "Complex Multiplication as a Transcendence Predicate for Degree-2 Polynomial Continued Fractions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19937196",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-05-01"
+    },
+    {
+      "title": "The Theosophical Imagination",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "UvA-DARE (University of Amsterdam)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://pure.uva.nl/ws/files/44561319/The_Theosophical_Imagination.pdf",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-04-28"
+    },
+    {
+      "title": "Vacuum Mechanics: How the Quaternion Finally Made the Standard Model Make Sense",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234951",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2029-03-26"
+    },
+    {
+      "title": "Emergent Nonequilibrium Vacuum Response Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19836665",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-04-28"
+    },
+    {
+      "title": "SΔϕ-48 — AI Drift as Authority-Vacancy: Transition Instability under the Absence of Final Arbitration",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19845226",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-04-28"
+    },
+    {
+      "title": "Relational Verification for AI Indexing: Schema.org, OAI-PMH, and JSON-LD Extensions for Metadata Packet Infrastructure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.w3.org/TR/did-core/",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-04-28"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-04T21:47:04.036Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 3,
+      "VIRAL_GIANT": 4,
+      "TECH_ACCELERATOR": 5,
+      "VIRAL_UNCATEGORIZED": 9,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "aattaran/deepclaude",
+      "stars": 713,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aattaran/deepclaude"
+    },
+    {
+      "name": "WeritoP/LInjector-FORKED-",
+      "stars": 459,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WeritoP/LInjector-FORKED-"
+    },
+    {
+      "name": "WeritoP/FL-STUDIO-PATCHER",
+      "stars": 451,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WeritoP/FL-STUDIO-PATCHER"
+    },
+    {
+      "name": "JustLikeCheese/LGBT-Prompt",
+      "stars": 362,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/JustLikeCheese/LGBT-Prompt"
+    },
+    {
+      "name": "Kappaemme-git/codex-startup-pressure-test-skill",
+      "stars": 302,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Kappaemme-git/codex-startup-pressure-test-skill"
+    },
+    {
+      "name": "raiyanyahya/how-to-train-your-gpt",
+      "stars": 127,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/raiyanyahya/how-to-train-your-gpt"
+    },
+    {
+      "name": "Composio-HQ/polymarket-kalshi-arbitrage-bot",
+      "stars": 64,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Composio-HQ/polymarket-kalshi-arbitrage-bot"
+    },
+    {
+      "name": "bestpracticaI/kalshi-ai-trading-bot",
+      "stars": 63,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bestpracticaI/kalshi-ai-trading-bot"
+    },
+    {
+      "name": "pixelxzen/phantom-motion",
+      "stars": 47,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pixelxzen/phantom-motion"
+    },
+    {
+      "name": "HowieWang1121/Socratic-Education-System",
+      "stars": 41,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HowieWang1121/Socratic-Education-System"
+    }
+  ]
+}
