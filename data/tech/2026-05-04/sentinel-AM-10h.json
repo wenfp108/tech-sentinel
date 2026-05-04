@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-04T10:27:12.048Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "VIRAL_UNCATEGORIZED": 3
+    }
+  },
+  "items": [
+    {
+      "name": "WeritoP/FL-STUDIO-PATCHER",
+      "stars": 450,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WeritoP/FL-STUDIO-PATCHER"
+    },
+    {
+      "name": "JustLikeCheese/LGBT-Prompt",
+      "stars": 222,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/JustLikeCheese/LGBT-Prompt"
+    },
+    {
+      "name": "Kappaemme-git/codex-startup-pressure-test-skill",
+      "stars": 205,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Kappaemme-git/codex-startup-pressure-test-skill"
+    }
+  ]
+}
