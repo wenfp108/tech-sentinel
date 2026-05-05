@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-05T16:01:53.676Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "TECH_ACCELERATOR": 6,
+      "CODE_LEVERAGE": 3,
+      "VIRAL_UNCATEGORIZED": 14,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "WeritoP/LInjector-FORKED-",
+      "stars": 460,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WeritoP/LInjector-FORKED-"
+    },
+    {
+      "name": "WeritoP/FL-STUDIO-PATCHER",
+      "stars": 459,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WeritoP/FL-STUDIO-PATCHER"
+    },
+    {
+      "name": "Composio-HQ/polymarket-kalshi-arbitrage-bot",
+      "stars": 166,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Composio-HQ/polymarket-kalshi-arbitrage-bot"
+    },
+    {
+      "name": "bestpracticaI/kalshi-ai-trading-bot",
+      "stars": 163,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bestpracticaI/kalshi-ai-trading-bot"
+    },
+    {
+      "name": "nikolinakovacevic1/MLB-The-Show-26-PC",
+      "stars": 110,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nikolinakovacevic1/MLB-The-Show-26-PC"
+    },
+    {
+      "name": "joshawome/chainreason",
+      "stars": 97,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/joshawome/chainreason"
+    },
+    {
+      "name": "butthtio/solidity-cot-auditor",
+      "stars": 93,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/butthtio/solidity-cot-auditor"
+    },
+    {
+      "name": "evanphi7/lighthouse-router",
+      "stars": 72,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/evanphi7/lighthouse-router"
+    },
+    {
+      "name": "pixelxzen/phantom-motion",
+      "stars": 52,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pixelxzen/phantom-motion"
+    }
+  ]
+}
