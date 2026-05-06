@@ -1,6 +1,7 @@
 import { Octokit } from "@octokit/rest";
 import fs from 'fs';
 import path from 'path';
+import { withRetry } from './shared/retry.js';
 
 const CONFIG = {
     owner: process.env.REPO_OWNER,
@@ -32,8 +33,8 @@ async function run() {
     const bjTime = new Date(now.getTime() + 8 * 60 * 60 * 1000);
     const hour = bjTime.getUTCHours();
     const ampm = hour < 12 ? 'AM' : 'PM';
-    const timeLabel = `${ampm}-${hour}h`; 
-    const dateStr = bjTime.toISOString().split('T')[0];
+    const timeLabel = `${ampm}-${hour}h`;
+    const dateStr = `${bjTime.getUTCFullYear()}-${String(bjTime.getUTCMonth() + 1).padStart(2, '0')}-${String(bjTime.getUTCDate()).padStart(2, '0')}`;
 
     console.log(`🚀 Sentinel [${timeLabel}] 启动侦察...`);
 
@@ -41,9 +42,12 @@ async function run() {
         const yesterday = new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString().split('T')[0];
         const query = `stars:>40 created:>=${yesterday}`;
 
-        const { data } = await octokit.search.repos({
-            q: query, sort: 'stars', order: 'desc', per_page: 50
-        });
+        const { data } = await withRetry(
+            () => octokit.search.repos({
+                q: query, sort: 'stars', order: 'desc', per_page: 50
+            }),
+            { label: 'GitHub Search API' }
+        );
 
         const stats = {}; 
         const eliteItems = [];
@@ -110,7 +114,7 @@ async function run() {
         }
 
     } catch (error) {
-        console.error("❌ Sentinel Scan Failed:", error);
+        console.error(`❌ Sentinel Scan Failed: ${error.message}`);
         process.exit(1);
     }
 }

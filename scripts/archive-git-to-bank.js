@@ -18,14 +18,15 @@ async function archiveGitData() {
         { local: 'papers', bank: 'papers/global' }
     ];
 
-    // 1. 搬运资产
+    // 1. 搬运资产，并验证完整性
+    let totalCopied = 0;
+    let totalFailed = 0;
+
     targets.forEach(t => {
         const localCategoryPath = path.join(LOCAL_DATA, t.local);
         const bankCategoryPath = path.join(BANK_ROOT, t.bank);
 
-        // 如果本地存在该分类目录
         if (fs.existsSync(localCategoryPath)) {
-            // 获取该分类下所有的日期文件夹
             const dateFolders = fs.readdirSync(localCategoryPath).filter(f => {
                 const fullPath = path.join(localCategoryPath, f);
                 return fs.statSync(fullPath).isDirectory();
@@ -34,11 +35,10 @@ async function archiveGitData() {
             dateFolders.forEach(dateFolder => {
                 const sourcePath = path.join(localCategoryPath, dateFolder);
                 const targetPath = path.join(bankCategoryPath, dateFolder);
-                
+
                 const files = fs.readdirSync(sourcePath).filter(f => f.endsWith('.json'));
-                
+
                 if (files.length > 0) {
-                    // 确保央行对应的日期目录存在
                     if (!fs.existsSync(targetPath)) {
                         fs.mkdirSync(targetPath, { recursive: true });
                     }
@@ -46,29 +46,49 @@ async function archiveGitData() {
                     files.forEach(file => {
                         const srcFile = path.join(sourcePath, file);
                         const destFile = path.join(targetPath, file);
-                        
-                        // 复制文件 (覆盖模式)
-                        fs.copyFileSync(srcFile, destFile);
-                        console.log(`✅ [${t.local}/${dateFolder}] 已搬运: ${file}`);
+                        try {
+                            fs.copyFileSync(srcFile, destFile);
+                            const srcSize = fs.statSync(srcFile).size;
+                            const destSize = fs.statSync(destFile).size;
+                            if (srcSize !== destSize) {
+                                console.error(`❌ [${t.local}/${dateFolder}] 校验失败: ${file} (src=${srcSize}, dest=${destSize})`);
+                                totalFailed++;
+                            } else {
+                                console.log(`✅ [${t.local}/${dateFolder}] 已搬运: ${file} (${srcSize} bytes)`);
+                                totalCopied++;
+                            }
+                        } catch (err) {
+                            console.error(`❌ [${t.local}/${dateFolder}] 搬运失败: ${file} - ${err.message}`);
+                            totalFailed++;
+                        }
                     });
                 }
             });
         }
     });
 
-    // 2. 强制焚毁前线战场
-    console.log("🔥 正在清理前线战场...");
+    // 2. 只有全部搬运成功才清理
+    if (totalFailed > 0) {
+        console.error(`🛑 检测到 ${totalFailed} 个文件搬运失败，跳过清理以保护数据！`);
+        return;
+    }
+
+    if (totalCopied === 0) {
+        console.log("💤 今日无数据需要搬运，跳过清理。");
+        return;
+    }
+
+    console.log(`🔥 全部 ${totalCopied} 个文件搬运验证通过，执行本地清理...`);
     if (fs.existsSync(LOCAL_DATA)) {
         const items = fs.readdirSync(LOCAL_DATA);
         items.forEach(item => {
-            if (item.startsWith('.git')) return; 
-
+            if (item.startsWith('.git')) return;
             const itemPath = path.join(LOCAL_DATA, item);
             try {
                 fs.rmSync(itemPath, { recursive: true, force: true });
-                console.log(`🗑️ 已彻底删除: ${item}`);
+                console.log(`🗑️ 已清理: ${item}`);
             } catch (err) {
-                console.error(`❌ 清理失败 ${item}:`, err);
+                console.error(`❌ 清理失败 ${item}: ${err.message}`);
             }
         });
     }

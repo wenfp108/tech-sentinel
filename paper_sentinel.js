@@ -1,6 +1,7 @@
 import axios from 'axios';
 import fs from 'fs';
 import path from 'path';
+import { withRetry } from './shared/retry.js';
 
 // --- 📡 前哨雷达配置 (Frontline Radar) ---
 const CONFIG = {
@@ -52,8 +53,8 @@ async function run() {
     const bjTime = new Date(now.getTime() + 8 * 60 * 60 * 1000);
     const hour = bjTime.getUTCHours();
     const ampm = hour < 12 ? 'AM' : 'PM';
-    const timeLabel = `${ampm}-${hour}h`; 
-    const dateStr = bjTime.toISOString().split('T')[0];
+    const timeLabel = `${ampm}-${hour}h`;
+    const dateStr = `${bjTime.getUTCFullYear()}-${String(bjTime.getUTCMonth() + 1).padStart(2, '0')}-${String(bjTime.getUTCDate()).padStart(2, '0')}`;
 
     const startDate = new Date(now.getTime() - CONFIG.LOOKBACK_DAYS * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
     
@@ -74,8 +75,14 @@ async function run() {
 
         // 并行请求
         const [hotRes, nuclearRes] = await Promise.all([
-            axios.get(hotUrl, { headers: { 'User-Agent': `mailto:${CONFIG.CONTACT_EMAIL}` } }),
-            axios.get(nuclearUrl, { headers: { 'User-Agent': `mailto:${CONFIG.CONTACT_EMAIL}` } })
+            withRetry(
+                () => axios.get(hotUrl, { headers: { 'User-Agent': `mailto:${CONFIG.CONTACT_EMAIL}` } }),
+                { label: 'OpenAlex Hot Net' }
+            ),
+            withRetry(
+                () => axios.get(nuclearUrl, { headers: { 'User-Agent': `mailto:${CONFIG.CONTACT_EMAIL}` } }),
+                { label: 'OpenAlex Nuclear Net' }
+            )
         ]);
 
         // 🔥 数据合并与去重
