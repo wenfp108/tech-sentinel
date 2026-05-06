@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-06T10:25:52.702Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 5,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 8,
+      "KNOWLEDGE_BASE": 4,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "WeritoP/BetterNitroDiscord",
+      "stars": 462,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WeritoP/BetterNitroDiscord"
+    },
+    {
+      "name": "XBuilderLAB/cheat-on-content",
+      "stars": 295,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/XBuilderLAB/cheat-on-content"
+    },
+    {
+      "name": "aidenboomhero/Subnautica-2-PS5-Port",
+      "stars": 85,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aidenboomhero/Subnautica-2-PS5-Port"
+    },
+    {
+      "name": "Ajai53200/DeepSeek-V4-Pro-App",
+      "stars": 82,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ajai53200/DeepSeek-V4-Pro-App"
+    },
+    {
+      "name": "freq-trades/polymarket-trading-bot-v2",
+      "stars": 69,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/freq-trades/polymarket-trading-bot-v2"
+    },
+    {
+      "name": "freq-trades/hyperliquid-trading-bot",
+      "stars": 67,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/freq-trades/hyperliquid-trading-bot"
+    },
+    {
+      "name": "JDMEXX/polymarket-bot",
+      "stars": 41,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JDMEXX/polymarket-bot"
+    }
+  ]
+}
