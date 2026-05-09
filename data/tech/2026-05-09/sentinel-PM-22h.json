@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-09T22:32:43.587Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 25,
+      "TECH_ACCELERATOR": 3,
+      "CORE_PRAGMATISM": 1,
+      "KNOWLEDGE_BASE": 2,
+      "TALENT_GROWTH": 2,
+      "CODE_LEVERAGE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "vercel-labs/zero-native",
+      "stars": 1188,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vercel-labs/zero-native"
+    },
+    {
+      "name": "Ping89/MT5EA-Forex-Trading",
+      "stars": 169,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ping89/MT5EA-Forex-Trading"
+    },
+    {
+      "name": "gar212/VoidStrap-Roblox",
+      "stars": 169,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/gar212/VoidStrap-Roblox"
+    },
+    {
+      "name": "CristianRO2003/Tomodachi-Share-Discover-Share-Mii",
+      "stars": 169,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CristianRO2003/Tomodachi-Share-Discover-Share-Mii"
+    },
+    {
+      "name": "nickvasilescu/hermes-desktop-os1",
+      "stars": 120,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nickvasilescu/hermes-desktop-os1"
+    },
+    {
+      "name": "duguying/100M",
+      "stars": 46,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/duguying/100M"
+    },
+    {
+      "name": "stablemarkk/rpow_cli_miner",
+      "stars": 45,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/stablemarkk/rpow_cli_miner"
+    }
+  ]
+}
