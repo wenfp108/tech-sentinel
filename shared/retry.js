@@ -2,7 +2,7 @@
  * 通用重试包装器
  */
 
-export async function withRetry(fn, { maxRetries = 3, delay = 2000, label = 'request' } = {}) {
+export async function withRetry(fn, { maxRetries = 3, delay = 10000, label = 'request' } = {}) {
     for (let attempt = 1; attempt <= maxRetries; attempt++) {
         try {
             return await fn();

@@ -12,7 +12,7 @@ const CONFIG = {
     MIN_IMPACT_FACTOR: 20, 
     
     // 门槛 B (敏锐)：对于 ArXiv 或普通期刊，只要有 1 个引用就算“早期爆发”
-    MIN_EARLY_CITATIONS: 1, 
+    MIN_EARLY_CITATIONS: 3,
     
     CONTACT_EMAIL: process.env.CONTACT_EMAIL || 'sentinel@architect.alpha' 
 };
@@ -73,17 +73,16 @@ async function run() {
     try {
         console.log("⚡ 发起双轨探测...");
 
-        // 并行请求
-        const [hotRes, nuclearRes] = await Promise.all([
-            withRetry(
-                () => axios.get(hotUrl, { headers: { 'User-Agent': `mailto:${CONFIG.CONTACT_EMAIL}` } }),
-                { label: 'OpenAlex Hot Net' }
-            ),
-            withRetry(
-                () => axios.get(nuclearUrl, { headers: { 'User-Agent': `mailto:${CONFIG.CONTACT_EMAIL}` } }),
-                { label: 'OpenAlex Nuclear Net' }
-            )
-        ]);
+        // 串行请求，避免触发限流
+        const hotRes = await withRetry(
+            () => axios.get(hotUrl, { headers: { 'User-Agent': `mailto:${CONFIG.CONTACT_EMAIL}` } }),
+            { label: 'OpenAlex Hot Net' }
+        );
+        await new Promise(r => setTimeout(r, 3000)); // 间隔 3 秒
+        const nuclearRes = await withRetry(
+            () => axios.get(nuclearUrl, { headers: { 'User-Agent': `mailto:${CONFIG.CONTACT_EMAIL}` } }),
+            { label: 'OpenAlex Nuclear Net' }
+        );
 
         // 🔥 数据合并与去重
         const rawPapers = [...hotRes.data.results, ...nuclearRes.data.results];
