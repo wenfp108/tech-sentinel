@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-10T15:30:46.462Z",
+    "total_captured": 9,
+    "TRENDING_DIRECTIONS": [
+      "Set (abstract data type) (Heat:80)",
+      "Polynomial (Heat:79)",
+      "Icosahedral symmetry (Heat:59)",
+      "Constant (computer programming) (Heat:59)",
+      "Dimensionless quantity (Heat:59)"
+    ],
+    "strategy_summary": {
+      "SPACE_DEFENSE": 1,
+      "STRATEGIC_ENERGY": 1,
+      "PARADIGM_SHIFT": 1,
+      "NEXT_COMPUTING": 3,
+      "BIO_REVOLUTION": 3
+    }
+  },
+  "items": [
+    {
+      "title": "2I Foundations: The Geometric Origin of Dimensionless Constants",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 58,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18085101",
+      "reason": "Velocity: 58 citations",
+      "publication_date": "2026-05-06"
+    },
+    {
+      "title": "Numerical study of the ITER divertor plasma with the B2-EIRENE code package",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Dokumentenrepositorium der RUB (Ruhr University Bochum)",
+      "metrics": {
+        "citations": 45,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://hss-opus.ub.ruhr-uni-bochum.de/opus4/files/1446/diss.pdf",
+      "reason": "Velocity: 45 citations",
+      "publication_date": "2026-05-04"
+    },
+    {
+      "title": "LUME: Eliminating Cognitive Distance - A Deterministic Natural-Language Programming Language with Intent-Resolving Compilation, Voice Input, Certified Security, and Synthetic Organism Runtime",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 33,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19382282",
+      "reason": "Velocity: 33 citations",
+      "publication_date": "2026-05-07"
+    },
+    {
+      "title": "Bandits on graphs and structures",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv.org",
+      "metrics": {
+        "citations": 26,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2605.03493",
+      "reason": "Velocity: 26 citations",
+      "publication_date": "2026-05-05"
+    },
+    {
+      "title": "Resonant Vacuum Architecture (RVA): A High-Confidence Pre-Geometric Framework for Matter Emergence and Unified Scaling",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 22,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20001299",
+      "reason": "Velocity: 22 citations",
+      "publication_date": "2026-05-03"
+    },
+    {
+      "title": "Addendum 3: p‑Biased Fourier Expansion for the 3‑SAT Spin System",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20047701",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-05-06"
+    },
+    {
+      "title": "Dodecad Heteronym Provenance Registry v1.0 — Consolidated Registry of the Twelve Heteronymic Positions of the Crimson Hexagonal Archive",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20041159",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-05-05"
+    },
+    {
+      "title": "Addendum 6 v2: Rigorous Overlap Concentration and the Overlap Gap Property (Ghirlanda–Guerra identities and Panchenko ultrametricity for the Poisson‑cloned 3‑SAT model)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20051285",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-05-06"
+    },
+    {
+      "title": "Cooperative learning strategies to teach nutrition to geriatric nursing staff",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Archivos Latinoamericanos de Nutrición",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.37527/2008.58.1.004",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-05-05"
+    }
+  ]
+}

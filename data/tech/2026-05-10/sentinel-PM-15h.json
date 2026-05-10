@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-10T15:30:45.590Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 3,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 13,
+      "KNOWLEDGE_BASE": 3,
+      "TALENT_GROWTH": 2,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "nickvasilescu/hermes-desktop-os1",
+      "stars": 269,
+      "full_text": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nickvasilescu/hermes-desktop-os1"
+    },
+    {
+      "name": "alchaincyf/huashu-md-html",
+      "stars": 207,
+      "full_text": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/huashu-md-html"
+    },
+    {
+      "name": "MusiCode1/obsidian-web",
+      "stars": 59,
+      "full_text": "Run Obsidian's desktop app in a standard browser — no Electron needed",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MusiCode1/obsidian-web"
+    },
+    {
+      "name": "LYiHub/OpenClaw-AWD-Arena",
+      "stars": 46,
+      "full_text": "An automated Attack-with-Defense platform where LLM-powered agents compete in real-time.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/LYiHub/OpenClaw-AWD-Arena"
+    }
+  ]
+}
