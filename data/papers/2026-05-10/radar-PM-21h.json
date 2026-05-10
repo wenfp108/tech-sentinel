@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-10T21:06:41.542Z",
+    "total_captured": 12,
+    "TRENDING_DIRECTIONS": [
+      "Closure (psychology) (Heat:96)",
+      "Set (abstract data type) (Heat:80)",
+      "Polynomial (Heat:79)",
+      "Icosahedral symmetry (Heat:59)",
+      "Constant (computer programming) (Heat:59)"
+    ],
+    "strategy_summary": {
+      "SPACE_DEFENSE": 1,
+      "STRATEGIC_ENERGY": 1,
+      "PARADIGM_SHIFT": 1,
+      "NEXT_COMPUTING": 2,
+      "BIO_REVOLUTION": 6,
+      "AI_CORE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "2I Foundations: The Geometric Origin of Dimensionless Constants",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 58,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18085101",
+      "reason": "Velocity: 58 citations",
+      "publication_date": "2026-05-06"
+    },
+    {
+      "title": "Numerical study of the ITER divertor plasma with the B2-EIRENE code package",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Dokumentenrepositorium der RUB (Ruhr University Bochum)",
+      "metrics": {
+        "citations": 45,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://hss-opus.ub.ruhr-uni-bochum.de/opus4/files/1446/diss.pdf",
+      "reason": "Velocity: 45 citations",
+      "publication_date": "2026-05-04"
+    },
+    {
+      "title": "LUME: Eliminating Cognitive Distance - A Deterministic Natural-Language Programming Language with Intent-Resolving Compilation, Voice Input, Certified Security, and Synthetic Organism Runtime",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 33,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19382282",
+      "reason": "Velocity: 33 citations",
+      "publication_date": "2026-05-07"
+    },
+    {
+      "title": "Bandits on graphs and structures",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv.org",
+      "metrics": {
+        "citations": 26,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2605.03493",
+      "reason": "Velocity: 26 citations",
+      "publication_date": "2026-05-05"
+    },
+    {
+      "title": "Resonant Vacuum Architecture (RVA): A High-Confidence Pre-Geometric Framework for Matter Emergence and Unified Scaling",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 22,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20001299",
+      "reason": "Velocity: 22 citations",
+      "publication_date": "2026-05-03"
+    },
+    {
+      "title": "Addendum 3: p‑Biased Fourier Expansion for the 3‑SAT Spin System",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20047701",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-05-06"
+    },
+    {
+      "title": "Dodecad Heteronym Provenance Registry v1.0 — Consolidated Registry of the Twelve Heteronymic Positions of the Crimson Hexagonal Archive",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20041159",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-05-05"
+    },
+    {
+      "title": "QDL Operator Governance as a Reproducible SMEFT Matrix Audit: Modular Sector Selection, Anomalous-Dimension Closure, and Violation Taxonomy",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20087107",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-05-08"
+    },
+    {
+      "title": "SΔϕ-57 — Lent Thought: Thought Ownership, World-Binding, and Cost Attribution in Human-AI Reasoning",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20047922",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-05-06"
+    },
+    {
+      "title": "Addendum 6 v2: Rigorous Overlap Concentration and the Overlap Gap Property (Ghirlanda–Guerra identities and Panchenko ultrametricity for the Poisson‑cloned 3‑SAT model)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20051285",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-05-06"
+    },
+    {
+      "title": "QDL Closure of Classical Gravity: Einstein–Hilbert Minimality, Bianchi Conservation, Geodesic Motion, Keplerian QDC Recovery, and the Planck–Electroweak Hierarchy",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20088462",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-05-08"
+    },
+    {
+      "title": "QDL Spectrum Selection as a Conditional Standard Model Theorem: Gauge Seed Minimality, Hypercharge Closure, Anomaly Cancellation, and One-Generation Matter Completion",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20086341",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-05-08"
+    }
+  ]
+}
