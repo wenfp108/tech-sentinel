@@ -80,6 +80,7 @@ async function run() {
                 eliteItems.push({
                     name: repo.full_name,
                     stars: repo.stargazers_count,
+                    description: repo.description || '',
                     tags: tags,
                     reason: forceKeep ? "FORCE_KEEP" : "STRATEGY",
                     url: repo.html_url
