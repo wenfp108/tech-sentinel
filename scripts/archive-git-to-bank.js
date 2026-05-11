@@ -9,16 +9,11 @@ async function archiveGitData() {
 
     console.log(`📅 启动收割程序...`);
 
-    // 定义要搬运的业务线
     const targets = [
-        // 1. GitHub 代码情报 -> 存入央行 github/tech
         { local: 'tech', bank: 'github/tech' },
-        
-        // 2. 论文前沿情报 -> 存入央行 papers/global (✅ 新增路线)
         { local: 'papers', bank: 'papers/global' }
     ];
 
-    // 1. 搬运资产，并验证完整性
     let totalCopied = 0;
     let totalFailed = 0;
 
@@ -34,7 +29,11 @@ async function archiveGitData() {
 
             dateFolders.forEach(dateFolder => {
                 const sourcePath = path.join(localCategoryPath, dateFolder);
-                const targetPath = path.join(bankCategoryPath, dateFolder);
+                // 解析 YYYY-MM-DD 为层级目录
+                const [y, m, d] = dateFolder.split('-');
+                const targetPath = (y && m && d)
+                    ? path.join(bankCategoryPath, y, m, d)
+                    : path.join(bankCategoryPath, dateFolder);
 
                 const files = fs.readdirSync(sourcePath).filter(f => f.endsWith('.json'));
 
@@ -67,7 +66,6 @@ async function archiveGitData() {
         }
     });
 
-    // 2. 只有全部搬运成功才清理
     if (totalFailed > 0) {
         console.error(`🛑 检测到 ${totalFailed} 个文件搬运失败，跳过清理以保护数据！`);
         return;
