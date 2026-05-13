@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-13T10:40:23.966Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 7,
+      "CORE_PRAGMATISM": 6,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 2,
+      "VIRAL_UNCATEGORIZED": 6
+    }
+  },
+  "items": [
+    {
+      "name": "ywnd1144/Gopay_plus_automatic",
+      "stars": 544,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ywnd1144/Gopay_plus_automatic"
+    },
+    {
+      "name": "RadianceToadAmend/Fortnite-Cheats-2026",
+      "stars": 521,
+      "full_text": "⭐️ Fortnite Cheats 2026 | Aimbot ESP WH | Triggerbot NoRecoil Glow | Skin Changer | AntiAFK Auto Farm Heal | Mod Menu Loader Injector | Full Version Latest Build Pro | PC Epic Windows 10/11 ⭐️",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/RadianceToadAmend/Fortnite-Cheats-2026"
+    },
+    {
+      "name": "RadianceToadAmend/ARC-Raiders-External-Tool",
+      "stars": 521,
+      "full_text": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/RadianceToadAmend/ARC-Raiders-External-Tool"
+    },
+    {
+      "name": "patchfighterway90/cs2-external-overlay",
+      "stars": 519,
+      "full_text": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/patchfighterway90/cs2-external-overlay"
+    },
+    {
+      "name": "Nightmare-Eclipse/YellowKey",
+      "stars": 313,
+      "full_text": "YellowKey Bitlocker Bypass Vulnerability",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Nightmare-Eclipse/YellowKey"
+    },
+    {
+      "name": "chrisbanes/skills",
+      "stars": 246,
+      "full_text": "Skills for Kotlin, Jetpack Compose, and Android development",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/chrisbanes/skills"
+    },
+    {
+      "name": "ltyzen/KMSAutoTool",
+      "stars": 237,
+      "full_text": "System license utility Windows product key manager Office license assistant Volume Licensing tool HWID management system deployment utility desktop OS setup enterprise license emulator digital license helper software repository installer package system verification tool.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ltyzen/KMSAutoTool"
+    },
+    {
+      "name": "TheRunicDev/MaaNTE",
+      "stars": 235,
+      "full_text": "MaaNTE Neverness to Everness (NTE) MAAFramework  强力驱动！QQ交流群 异环小助手，由 Automation assistant for Neverness to Everness Auto fishing, auto-sell fish, auto-buy bait. Features: auto coffee making, cafe revenue extraction, auto-skip story dialogue, auto-claim daily rewards.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TheRunicDev/MaaNTE"
+    },
+    {
+      "name": "sunyouzhi2003/LSFG-Desktop",
+      "stars": 228,
+      "full_text": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sunyouzhi2003/LSFG-Desktop"
+    },
+    {
+      "name": "manojmidhul92-art/Umbrella-HWID",
+      "stars": 224,
+      "full_text": "Advanced HWID changer. Bypass Vanguard, EAC, BattlEye, Ricochet. Features: Disk serials spoofing, BIOS/Baseboard UUID change, MAC address randomize, Monitor ID masking. Registry cleaner, trace remover, permanent/temporary mode. Kernel-level protection, one-click spoofer, anti-cheat bypass.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/manojmidhul92-art/Umbrella-HWID"
+    },
+    {
+      "name": "mark9-droid/TomodachiPC",
+      "stars": 222,
+      "full_text": "Tomodachi Life Living The Dream PC: Ultimate Mii manager and life simulator. Virtual island community, custom apartment editor, food preferences database, gift system. Mii personality maker, character interaction logs, voice synthesizer, QR code gallery, daily events tracker, dream collection, island news.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mark9-droid/TomodachiPC"
+    },
+    {
+      "name": "yaassin12/DeepSeek-V4-Pro-App",
+      "stars": 221,
+      "full_text": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App"
+    },
+    {
+      "name": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+      "stars": 218,
+      "full_text": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript.",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PHjont/Wallpaper-Engine-Live-wallpaper-engine"
+    },
+    {
+      "name": "ZJunCher/xiaoyan-ai-dev-assistant",
+      "stars": 91,
+      "full_text": "基于 RAG 混合检索与多轮记忆的 AI 研发助手，支持团队知识问答，也适合新手学习 RAG 应用开发。",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ZJunCher/xiaoyan-ai-dev-assistant"
+    }
+  ]
+}
