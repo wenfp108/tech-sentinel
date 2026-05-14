@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-14T10:40:40.866Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 12,
+      "CORE_PRAGMATISM": 2,
+      "TALENT_GROWTH": 1,
+      "TECH_ACCELERATOR": 3,
+      "CODE_LEVERAGE": 1,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "name": "v12-security/pocs",
+      "stars": 203,
+      "full_text": "poc it like it's hot",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/v12-security/pocs"
+    },
+    {
+      "name": "GAwesome-Bot/polymarket-trading-bot-v2",
+      "stars": 202,
+      "full_text": "polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot, polymarket trading bot, polymarket copy trading bot",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/GAwesome-Bot/polymarket-trading-bot-v2"
+    },
+    {
+      "name": "PlaceNL2026/best-of-algorithmic-trading",
+      "stars": 201,
+      "full_text": "algorithmic trading curated list quant finance trading bots backtesting technical analysis crypto open-source freqtrade hummingbot fintech Python TypeScript resources MCP quantopian-style rankings",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PlaceNL2026/best-of-algorithmic-trading"
+    },
+    {
+      "name": "lucasfrre/BongoCat-Desktop",
+      "stars": 133,
+      "full_text": "BongoCat: Interactive stream overlay. Mouse and keyboard tracker, tablet pen pressure, osu! playstyle mode. Custom skin editor, transparent background, OBS studio plugin, gamepad support. Keypress visualizer, RGB lighting sync, emote animations, desktop pet, live reaction tool, WASD mapping.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lucasfrre/BongoCat-Desktop"
+    },
+    {
+      "name": "python-telegramBot/ai-auto-trading",
+      "stars": 110,
+      "full_text": "AI trading bot crypto LLM agent quantitative trading automated trading algorithmic trading Binance Gate.io TypeScript Node.js VoltAgent crypto bot risk management multi-strategy",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/python-telegramBot/ai-auto-trading"
+    },
+    {
+      "name": "matthewjmandel/Olivia",
+      "stars": 84,
+      "full_text": "A memory-grounded language model — built from the life of someone who mattered.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/matthewjmandel/Olivia"
+    },
+    {
+      "name": "simonlin1212/TradingAgents-astock",
+      "stars": 79,
+      "full_text": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/simonlin1212/TradingAgents-astock"
+    },
+    {
+      "name": "PlaceNL2026/okx-agent-trade-kit",
+      "stars": 70,
+      "full_text": "OKX trading MCP CLI cryptocurrency spot futures swap AI agent Model Context Protocol Cursor Claude npm automated trading crypto API toolkit TypeScript open-source DeFi CEX",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PlaceNL2026/okx-agent-trade-kit"
+    },
+    {
+      "name": "dexhorthy/shannon",
+      "stars": 65,
+      "full_text": "alternative to claude -p that lifecycles interactive sessions in tmux",
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dexhorthy/shannon"
+    },
+    {
+      "name": "Evokoa/pgGraph",
+      "stars": 60,
+      "full_text": "Open-source graph database superpowers for your existing Postgres data.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Evokoa/pgGraph"
+    }
+  ]
+}
