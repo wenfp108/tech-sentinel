@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-16T03:23:56.997Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 3,
+      "TALENT_GROWTH": 8,
+      "VIRAL_GIANT": 11,
+      "KNOWLEDGE_BASE": 7,
+      "CORE_PRAGMATISM": 1,
+      "VIRAL_UNCATEGORIZED": 20,
+      "TECH_ACCELERATOR": 6
+    }
+  },
+  "items": [
+    {
+      "name": "yetone/native-feel-skill",
+      "stars": 1007,
+      "full_text": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yetone/native-feel-skill"
+    },
+    {
+      "name": "trong776/Roblox-Hub-2026",
+      "stars": 522,
+      "full_text": "Developer utilities for Roblox game testing — Lua tools for exploring game mechanics and performance. MIT License.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/trong776/Roblox-Hub-2026"
+    },
+    {
+      "name": "S4rdenz/gta-5-mod-menu",
+      "stars": 516,
+      "full_text": "🚀 Dominate GTA V servers with this free, reliable FiveM mod menu featuring ESP, aimbot, and more, designed for Steam and Epic Games versions.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/S4rdenz/gta-5-mod-menu"
+    },
+    {
+      "name": "trong776/gta-5-mod-menu",
+      "stars": 498,
+      "full_text": "External game enhancement for GTA V single-player. ImGui overlay, no injection, minimal FPS impact. Windows x64, C++17.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/trong776/gta-5-mod-menu"
+    },
+    {
+      "name": "B3hnamR/PsiphonOverMITM",
+      "stars": 408,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/B3hnamR/PsiphonOverMITM"
+    },
+    {
+      "name": "Juwluuu/Subnautica-2-Release",
+      "stars": 379,
+      "full_text": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Juwluuu/Subnautica-2-Release"
+    },
+    {
+      "name": "mcjavarp/Manager2026",
+      "stars": 377,
+      "full_text": "Free IDM. Browser integration, Chrome extension, Firefox addon, Edge module. Download accelerator, segment downloading, resume capability, scheduler. Video grabber, stream detector, batch download. Trial reset, registry cleaner, site analyzer, grabber guide, portable, dark mode.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mcjavarp/Manager2026"
+    },
+    {
+      "name": "jiaoyanming0-bot/OPAutoClicker",
+      "stars": 375,
+      "full_text": "OP Auto Clicker: Fast click interval, milliseconds, seconds. Left, right, middle button. keyboard auto clicker Single, double, triple click. Repeat until stopped, fixed count. Current location, pick coordinates. Hotkey trigger, start stop shortcut. Record playback, macro, Roblox AFK, Minecraft, mouse emulator, portable. ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jiaoyanming0-bot/OPAutoClicker"
+    },
+    {
+      "name": "DARKHOLEUM/VoidStrap-For-Roblox",
+      "stars": 373,
+      "full_text": "VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, AniWatch layout, Nvidia Profile Inspector, .NET 10. Font sharpening, skybox changer, Join-Game Notify, AppSettings JSON, client optimization.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/DARKHOLEUM/VoidStrap-For-Roblox"
+    },
+    {
+      "name": "0xdeadbeefnetwork/ssh-keysign-pwn",
+      "stars": 328,
+      "full_text": "Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. Pre-31e62c2ebbfd kernels.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn"
+    },
+    {
+      "name": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
+      "stars": 250,
+      "full_text": "Windows utility that restores standard keyboard shortcuts and window management capabilities during restricted browser sessions.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CometBisonCrack/LockDown-Browser-Bypass-Tool"
+    },
+    {
+      "name": "Harshit-pruthi/sklauncher-minecraft",
+      "stars": 203,
+      "full_text": "Download SkLauncher Download: Modern Minecraft launcher. Offline mode, premium login, custom skins setup, cape manager, profile creator. Supports Fabric, Forge, Quilt, NeoForge, OptiFine, Iris shaders. Java 21 path, memory allocation, modpack manager, game directory, auto-update, fluent UI themes, portable.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Harshit-pruthi/sklauncher-minecraft"
+    },
+    {
+      "name": "cat9999aaa/thinshell",
+      "stars": 201,
+      "full_text": "thinshell",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cat9999aaa/thinshell"
+    },
+    {
+      "name": "Callous-0923/agent-study",
+      "stars": 137,
+      "full_text": "28章AI Agent全栈课程：从ReAct循环到Claude Code逆向、MCP/A2A协议、RAG、DSPy、生产可观测性——全部为可运行Python文件，面试导向。",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Callous-0923/agent-study"
+    },
+    {
+      "name": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
+      "stars": 107,
+      "full_text": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/POLYMARKET-TRADER-LAB/Polymarket-trading-bot"
+    },
+    {
+      "name": "DEV-OCR/polymarket-arbitrage-trading-bot",
+      "stars": 107,
+      "full_text": "polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket  bot, ",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DEV-OCR/polymarket-arbitrage-trading-bot"
+    },
+    {
+      "name": "POLYMARKET-SPORTS/Polymarket-trading-bot",
+      "stars": 81,
+      "full_text": "polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket arbitrage bot, polymarket copy trading bot polymarket  bot, ",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/POLYMARKET-SPORTS/Polymarket-trading-bot"
+    },
+    {
+      "name": "money-takers/polymarket-arbitrage-trading-bot",
+      "stars": 73,
+      "full_text": "polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket arbitrage bot, polymarket trading bot polymarket  bot, ",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/money-takers/polymarket-arbitrage-trading-bot"
+    },
+    {
+      "name": "Siva-Chidambaram12/kalshi-trading-bot",
+      "stars": 66,
+      "full_text": "🏗 AI trading system for Kalshi prediction markets. kalshi trading bot kalshi trading bot kalshi botFeatures Grok-4 integration, multi-agent decision making, portfolio optimization, and real-time market analysis. Educational/research purposes only kalshi trading bot kalshi bot",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Siva-Chidambaram12/kalshi-trading-bot"
+    },
+    {
+      "name": "agentic-in/elephant-agent",
+      "stars": 52,
+      "full_text": "Personal-Model First Self Evolving AI Agent 🐘",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/agentic-in/elephant-agent"
+    },
+    {
+      "name": "boona13/mykonos-island-voxels",
+      "stars": 51,
+      "full_text": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/boona13/mykonos-island-voxels"
+    }
+  ]
+}
