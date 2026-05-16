@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-16T21:11:22.778Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "VIRAL_GIANT": 9,
+      "TALENT_GROWTH": 6,
+      "TECH_ACCELERATOR": 2,
+      "VIRAL_UNCATEGORIZED": 14,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "vercel-labs/zero",
+      "stars": 584,
+      "full_text": "The programming language for agents",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/vercel-labs/zero"
+    },
+    {
+      "name": "trong776/gta-5-mod-menu",
+      "stars": 497,
+      "full_text": "External game enhancement for GTA V single-player. ImGui overlay, no injection, minimal FPS impact. Windows x64, C++17.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/trong776/gta-5-mod-menu"
+    },
+    {
+      "name": "DenisSergeevitch/agents-best-practices",
+      "stars": 417,
+      "full_text": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DenisSergeevitch/agents-best-practices"
+    },
+    {
+      "name": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
+      "stars": 368,
+      "full_text": "Windows utility that restores standard keyboard shortcuts and window management capabilities during restricted browser sessions.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CometBisonCrack/LockDown-Browser-Bypass-Tool"
+    },
+    {
+      "name": "SubamanojJ-2004/gta-5-mod-menu",
+      "stars": 359,
+      "full_text": "Ultimate Enhancement Toolkit for GTA V — powerful mod menu with ESP, vehicle spawner, recovery features, and clean UI",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SubamanojJ-2004/gta-5-mod-menu"
+    },
+    {
+      "name": "Harshit-pruthi/sklauncher-minecraft",
+      "stars": 357,
+      "full_text": "Download SkLauncher Download: Modern Minecraft launcher. Offline mode, premium login, custom skins setup, cape manager, profile creator. Supports Fabric, Forge, Quilt, NeoForge, OptiFine, Iris shaders. Java 21 path, memory allocation, modpack manager, game directory, auto-update, fluent UI themes, portable.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Harshit-pruthi/sklauncher-minecraft"
+    },
+    {
+      "name": "dannyhsueh2/Forza-Horizon-6-Premium",
+      "stars": 356,
+      "full_text": "Forza Horizon 6 release date : PC system requirements, early access Steam. Premium Upgrade Bundle, Car Pass, VIP Membership. Japan map, Mt Fuji, Tokyo street racing, Touge Battles, JDM cars, Ferrari J50, Mazda Furai. Expansion 1, Expansion 2, I, , pre-load PC Steam, Game Pass Ultimate.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dannyhsueh2/Forza-Horizon-6-Premium"
+    },
+    {
+      "name": "zhilin1112/YellowKey-Bitlocker",
+      "stars": 355,
+      "full_text": "YellowKey BitLocker Bypass Vulnerability : Zero-day exploit, proof-of-concept PoC, Chaotic Eclipse GitHub. Windows 11 bypass, Windows Server 2022 2025. WinRE recovery image, FsTx directory, System Volume Information, USB drive files, winpeshl.ini deletion, Transactional NTFS flaw, CTRL key shell, TPM-only backdoor.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/zhilin1112/YellowKey-Bitlocker"
+    },
+    {
+      "name": "Alkih/Nightlight-Game-Launcher",
+      "stars": 350,
+      "full_text": "Nightlight Game Launcher: NLGL download, Rockstar Social Club bypass, GTA V Epic Games launch error, RDR2 offline play, GTA IV Social Club fix. Steam account switcher, Epic Online Services bypass, EOS SDK. dll, -nobattleye, -scOfflineMode, launch options, account manager, local backup, source code GitHub, onajlikezz, open source tool.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Alkih/Nightlight-Game-Launcher"
+    },
+    {
+      "name": "StrucksTech/Zelda-TP-Native-Port",
+      "stars": 349,
+      "full_text": "Zelda Twilight Princess PC: GameCube ROM download, Wii ISO, Wii U HD download. Dolphin emulator settings, Cemu setup guide, 60 FPS patch, 4K texture pack, widescreen hack. Heart pieces locations, Poe souls map, Golden bugs guide, Master Sword unlock, Snowpeak Ruins walkthrough, HD texture pack Henrico.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/StrucksTech/Zelda-TP-Native-Port"
+    },
+    {
+      "name": "RastProxy88/Vivid-R6-Cracked-2026",
+      "stars": 326,
+      "full_text": "External memory analysis framework for Rainbow Six Siege. Features ESP, aimbot, skeleton rendering via DirectX 11 overlay. Read-only operation with direct syscall stubs. Supports Y8S4 — Y9S2. C++17, x64, MIT license.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/RastProxy88/Vivid-R6-Cracked-2026"
+    },
+    {
+      "name": "agentic-in/elephant-agent",
+      "stars": 205,
+      "full_text": "Personal-Model First Self Evolving AI Agent 🐘",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/agentic-in/elephant-agent"
+    },
+    {
+      "name": "ahammadmejbah/Awesome-LLM-Datasets",
+      "stars": 56,
+      "full_text": "A curated collection of datasets for Large Language Models (LLMs), covering medical AI, NLP, multimodal learning, instruction tuning, reasoning, code generation, and evaluation benchmarks.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ahammadmejbah/Awesome-LLM-Datasets"
+    }
+  ]
+}
