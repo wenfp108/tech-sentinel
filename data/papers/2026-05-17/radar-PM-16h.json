@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-17T16:13:53.787Z",
+    "total_captured": 12,
+    "TRENDING_DIRECTIONS": [
+      "Unitary state (Heat:345)",
+      "Eigendecomposition of a matrix (Heat:345)",
+      "Eigenvalues and eigenvectors (Heat:345)",
+      "Unitary matrix (Heat:345)",
+      "Matrix (chemical analysis) (Heat:345)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 3,
+      "BIO_REVOLUTION": 7,
+      "AI_CORE": 1,
+      "PARADIGM_SHIFT": 2
+    }
+  },
+  "items": [
+    {
+      "title": "Axiom: A Householder-Parameterized Pure Unitary RNN for Long-Range Sequence Modeling",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 344,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20108465",
+      "reason": "Velocity: 344 citations",
+      "publication_date": "2026-05-10"
+    },
+    {
+      "title": "SΔϕ-56 — Transition Completion Cost: Friction Coefficients, Disclosure-to-Re-entry Cost, and FIP as TCC Differential (v1.3)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 32,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20116959",
+      "reason": "Velocity: 32 citations",
+      "publication_date": "2026-05-11"
+    },
+    {
+      "title": "Lattice models for phases and transitions with non-invertible symmetries",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "SciPost Physics",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.21468/scipostphys.20.5.134",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-05-13"
+    },
+    {
+      "title": "SΔϕ-64 — Language as Temporary Fixation: Declaration, Trace, Re-entry, and the Right and Responsibility of Inevitable Mistranslation (v1.1)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20120636",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-05-11"
+    },
+    {
+      "title": "Efecto de la temperatura en la regeneración de especies leñosas del Chaco Serrano e implicancias en la distribución actual y potencial de bosques",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Boletín de la Sociedad Argentina de Botánica",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.31055/1851.2372.v47.n3-4.52755",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-05-14"
+    },
+    {
+      "title": "SΔϕ-48 — AI Drift as Transition Governance Instability: Authority, Refusal, World-Binding, Editability, and Re-entry (v1.1, AI-Readable Package)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20204951",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-05-15"
+    },
+    {
+      "title": "SΔϕ-57 — Lent Thought: Thought Ownership, World-Binding, and Cost Attribution in Human-AI Reasoning (v1.1, AI-Readable Package)Attribution in Human-AI Reasoning",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20136541",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-05-12"
+    },
+    {
+      "title": "A Full Governance-UV Existence Proof and Benchmark Parameter Mapping for the Gauged Constant Vacuum-Mode (GCV) Framework",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18438489",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-05-10"
+    },
+    {
+      "title": "Toward a Structural Meta-Framework: V=N/D as a Cross-Domain Formalism Bridging Eastern Thought and Western Science",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20133620",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-05-12"
+    },
+    {
+      "title": "Dark Energy as Residual Vacuum Free Energy: A Thermodynamic Bound on the Cosmological Constant",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19036235",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-05-15"
+    },
+    {
+      "title": "The Radial Profile of RAR Residuals in SPARC Galaxies: Systematic Overprediction Inside r/r_d < 0.8",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20101412",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-05-10"
+    },
+    {
+      "title": "SΔϕ-55 — Transition Governance Alignment Index: Proportional Alignment, Rollback Cost Sensitivity, and Transition Preservation after SΔϕ-42 (v1.1 revised, AI-Readable Package)Quantification of Alignment after SΔϕ-42",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20132635",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-05-12"
+    }
+  ]
+}
