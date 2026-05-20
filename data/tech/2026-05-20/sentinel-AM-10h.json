@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-20T10:46:39.482Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "CORE_PRAGMATISM": 2,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 4
+    }
+  },
+  "items": [
+    {
+      "name": "Glazenovatag/hyperliquid-whale-order-tracking",
+      "stars": 372,
+      "full_text": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Glazenovatag/hyperliquid-whale-order-tracking"
+    },
+    {
+      "name": "FoundZiGu/GuJumpgate",
+      "stars": 321,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/FoundZiGu/GuJumpgate"
+    },
+    {
+      "name": "littlefrogyq/UE4SS-Subnautica-2",
+      "stars": 297,
+      "full_text": "UE4SS Subnautica 2: UE4SS download github latest version, Subnautica 2 UE5 mod loader setup, xinput1_4.dll dwmapi.dll injector error. REUE4SS UE4SS-settings.ini config, console modding commands, Subnautica 2 crashes on launch fix, dump SDK C++ blueprints, Live Viewport object spacer, GuiConsole visible toggle. Unreal Engine 5.5 compatibility,",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/littlefrogyq/UE4SS-Subnautica-2"
+    },
+    {
+      "name": "nhutdang198/AI-Final-fantasy-6-remake",
+      "stars": 289,
+      "full_text": "ai final fantasy 6 remake: Release download free github fan made game pcwatch viral 3d trailer, , hironobu sakaguchi awesome tweet reaction, square enix 20 years kitase. desusanJP x video, sabin phantom train suplex ai, tina terra theme bgm teaser, ai slop controversy reddit, akitoshi kawazu response, play pixel remaster hd graphics mod.",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nhutdang198/AI-Final-fantasy-6-remake"
+    },
+    {
+      "name": "bishopscode/Yoshi-and-the-Mysterious-Book-PC",
+      "stars": 281,
+      "full_text": "Yoshi and the Mysterious Book review metacritic release date PC: download yoshi game ryujinx yuzu emulator config, yosshī to fukashigi no zukan rom, prod keys title keys zip. nintendo switch 2 emulator pc, shaders cache free download, fitgirl repack  rumors, good-feel mr e encyclopedia, controls mapping keyboard, 60 fps hack mo",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bishopscode/Yoshi-and-the-Mysterious-Book-PC"
+    },
+    {
+      "name": "SalhaNabil/CloakBrowser",
+      "stars": 272,
+      "full_text": "CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie isolation, session import export, user-agent switcher, puppeteer playwright automation api, profile sharing, web scraping free, github ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SalhaNabil/CloakBrowser"
+    }
+  ]
+}
