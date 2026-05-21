@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-22T03:47:03.935Z",
+    "session": "AM",
+    "trend_summary": {
+      "TALENT_GROWTH": 3,
+      "VIRAL_GIANT": 6,
+      "KNOWLEDGE_BASE": 2,
+      "CODE_LEVERAGE": 2,
+      "TECH_ACCELERATOR": 5,
+      "VIRAL_UNCATEGORIZED": 19,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "thananon/9arm-skills",
+      "stars": 1153,
+      "full_text": "",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/thananon/9arm-skills"
+    },
+    {
+      "name": "kageroumado/phosphene",
+      "stars": 525,
+      "full_text": "A video wallpaper engine for macOS Tahoe",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/kageroumado/phosphene"
+    },
+    {
+      "name": "uktrash/LSFG-Desktop",
+      "stars": 412,
+      "full_text": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/uktrash/LSFG-Desktop"
+    },
+    {
+      "name": "CylinderChairman/aida64",
+      "stars": 397,
+      "full_text": "aida64 unlocker extreme edition",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CylinderChairman/aida64"
+    },
+    {
+      "name": "ZettPW/KMSTools",
+      "stars": 378,
+      "full_text": "windows tool, office 2026 perpetual license command, net download, digital entitlement permanent custom host ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ZettPW/KMSTools"
+    },
+    {
+      "name": "internetkafe/vpnhostinglist",
+      "stars": 256,
+      "full_text": "vps hosting list / список ссылок на vps хостинги | RemnaWave / 3X-UI / MarzBan / PasarGuard",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/internetkafe/vpnhostinglist"
+    },
+    {
+      "name": "texsellix/polymarket-trading-bot",
+      "stars": 245,
+      "full_text": "Polymarket from your terminal. Copy whales, run autonomous strategies, place orders with one command. CLI-only, no dashboard, no setup.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/texsellix/polymarket-trading-bot"
+    },
+    {
+      "name": "kouhxp/yapsnap",
+      "stars": 172,
+      "full_text": "Snap any video URL or audio file into plaintext. No GPU. No cloud. One command.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kouhxp/yapsnap"
+    },
+    {
+      "name": "OpenYSMDev/OpenYSM",
+      "stars": 86,
+      "full_text": "A mod that modifies the vanilla player model",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OpenYSMDev/OpenYSM"
+    },
+    {
+      "name": "DEEIX-AI/DEEIX-Chat",
+      "stars": 56,
+      "full_text": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DEEIX-AI/DEEIX-Chat"
+    },
+    {
+      "name": "afumu/openteam",
+      "stars": 49,
+      "full_text": "A Chrome extension for orchestrating local AI-agent team workflows across web AI services.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/afumu/openteam"
+    },
+    {
+      "name": "Cortex-AI-Network/crypto-arbitrage-bot-automated-trading",
+      "stars": 45,
+      "full_text": "🤖 Cortex AI: #1 AI Trading Bot for Crypto, Forex & Stocks. Automated Arbitrage Engine v3.4. Works on Solana, TON, Binance & Bybit. Best Free Crypto Trading Bot 2026.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading"
+    },
+    {
+      "name": "shootthesound/ComfyUI-Angelo",
+      "stars": 44,
+      "full_text": "Click-to-refine + smart inpaint sampler node for ComfyUI (FLUX 2 Klein). One node: generate, then click / paint / drag to refine, or do location-guided whole-image edits.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/shootthesound/ComfyUI-Angelo"
+    },
+    {
+      "name": "Unclecheng-li/poc-lab",
+      "stars": 43,
+      "full_text": "Recent CVE PoC & reproduction scripts. Focused on high-severity vulnerabilities across Linux kernel, Windows, macOS and more.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Unclecheng-li/poc-lab"
+    }
+  ]
+}
