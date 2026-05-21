@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-21T22:53:53.586Z",
+    "session": "PM",
+    "trend_summary": {
+      "TALENT_GROWTH": 2,
+      "VIRAL_GIANT": 6,
+      "KNOWLEDGE_BASE": 2,
+      "CODE_LEVERAGE": 2,
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_UNCATEGORIZED": 16
+    }
+  },
+  "items": [
+    {
+      "name": "thananon/9arm-skills",
+      "stars": 1116,
+      "full_text": "",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/thananon/9arm-skills"
+    },
+    {
+      "name": "kageroumado/phosphene",
+      "stars": 465,
+      "full_text": "A video wallpaper engine for macOS Tahoe",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/kageroumado/phosphene"
+    },
+    {
+      "name": "uktrash/LSFG-Desktop",
+      "stars": 383,
+      "full_text": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/uktrash/LSFG-Desktop"
+    },
+    {
+      "name": "CylinderChairman/aida64",
+      "stars": 368,
+      "full_text": "aida64 unlocker extreme edition",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CylinderChairman/aida64"
+    },
+    {
+      "name": "ZettPW/KMSTools",
+      "stars": 355,
+      "full_text": "windows tool, office 2026 perpetual license command, net download, digital entitlement permanent custom host ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ZettPW/KMSTools"
+    },
+    {
+      "name": "internetkafe/vpnhostinglist",
+      "stars": 255,
+      "full_text": "vps hosting list / список ссылок на vps хостинги | RemnaWave / 3X-UI / MarzBan / PasarGuard",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/internetkafe/vpnhostinglist"
+    },
+    {
+      "name": "texsellix/polymarket-trading-bot",
+      "stars": 244,
+      "full_text": "Polymarket from your terminal. Copy whales, run autonomous strategies, place orders with one command. CLI-only, no dashboard, no setup.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/texsellix/polymarket-trading-bot"
+    },
+    {
+      "name": "kouhxp/yapsnap",
+      "stars": 164,
+      "full_text": "Snap any video URL or audio file into plaintext. No GPU. No cloud. One command.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kouhxp/yapsnap"
+    },
+    {
+      "name": "OpenYSMDev/OpenYSM",
+      "stars": 80,
+      "full_text": "A mod that modifies the vanilla player model",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OpenYSMDev/OpenYSM"
+    },
+    {
+      "name": "DEEIX-AI/DEEIX-Chat",
+      "stars": 45,
+      "full_text": "An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DEEIX-AI/DEEIX-Chat"
+    },
+    {
+      "name": "afumu/openteam",
+      "stars": 41,
+      "full_text": "A Chrome extension for orchestrating local AI-agent team workflows across web AI services.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/afumu/openteam"
+    }
+  ]
+}
