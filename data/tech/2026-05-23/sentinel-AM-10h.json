@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-23T10:34:45.135Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 4,
+      "VIRAL_UNCATEGORIZED": 26,
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "Jawaz-Keyzor/CS2-External-Cheat-2026",
+      "stars": 338,
+      "full_text": "External gameplay assistant for CS2. Provides visual overlay through screen capture analysis — wall transparency visualization, sound radar, grenade trajectory helper. No memory access, no injection. Educational project for studying computer vision and overlay rendering.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Jawaz-Keyzor/CS2-External-Cheat-2026"
+    },
+    {
+      "name": "0xSero/codex-shim",
+      "stars": 234,
+      "full_text": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xSero/codex-shim"
+    },
+    {
+      "name": "unprovable/ShadowCat",
+      "stars": 160,
+      "full_text": "Single file optical file transfer using a browser",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/unprovable/ShadowCat"
+    },
+    {
+      "name": "thesammy26/polymarket-arbitrage-bot",
+      "stars": 130,
+      "full_text": "Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot polymarket trading bot bot",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/thesammy26/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "md0070/polymarket-arbitrage-trading-bot",
+      "stars": 82,
+      "full_text": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/md0070/polymarket-arbitrage-trading-bot"
+    }
+  ]
+}
