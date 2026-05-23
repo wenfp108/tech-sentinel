@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-23T16:10:45.416Z",
+    "session": "PM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 5,
+      "VIRAL_UNCATEGORIZED": 27,
+      "CODE_LEVERAGE": 2,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "Jawaz-Keyzor/CS2-External-Cheat-2026",
+      "stars": 338,
+      "full_text": "External gameplay assistant for CS2. Provides visual overlay through screen capture analysis — wall transparency visualization, sound radar, grenade trajectory helper. No memory access, no injection. Educational project for studying computer vision and overlay rendering.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Jawaz-Keyzor/CS2-External-Cheat-2026"
+    },
+    {
+      "name": "0xSero/codex-shim",
+      "stars": 266,
+      "full_text": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xSero/codex-shim"
+    },
+    {
+      "name": "unprovable/ShadowCat",
+      "stars": 171,
+      "full_text": "Single file optical file transfer using a browser",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/unprovable/ShadowCat"
+    },
+    {
+      "name": "thesammy26/polymarket-arbitrage-bot",
+      "stars": 136,
+      "full_text": "Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot Polymarket trading bot polymarket trading bot bot",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/thesammy26/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "md0070/polymarket-arbitrage-trading-bot",
+      "stars": 81,
+      "full_text": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/md0070/polymarket-arbitrage-trading-bot"
+    },
+    {
+      "name": "chefkannofriend-source/lcb-baker-agent",
+      "stars": 80,
+      "full_text": "Claude Code subagent for pastry recipe lookup and Baker's Percentage calculation",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/chefkannofriend-source/lcb-baker-agent"
+    },
+    {
+      "name": "jianshuo/ccglass",
+      "stars": 52,
+      "full_text": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jianshuo/ccglass"
+    }
+  ]
+}
