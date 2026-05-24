@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-24T10:46:20.096Z",
+    "total_captured": 15,
+    "TRENDING_DIRECTIONS": [
+      "Leverage (statistics) (Heat:152)",
+      "Time series (Heat:152)",
+      "Series (stratigraphy) (Heat:137)",
+      "Context (archaeology) (Heat:129)",
+      "Language model (Heat:129)"
+    ],
+    "strategy_summary": {
+      "AI_CORE": 5,
+      "BIO_REVOLUTION": 11,
+      "PARADIGM_SHIFT": 2,
+      "SPACE_DEFENSE": 2,
+      "NEXT_COMPUTING": 3
+    }
+  },
+  "items": [
+    {
+      "title": "TimeLLM: Time Series Forecasting by Reprogramming Large Language Models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 128,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://arxiv.org/pdf/2310.01728",
+      "reason": "Velocity: 128 citations",
+      "publication_date": "2026-05-18"
+    },
+    {
+      "title": "TSLANet: Rethinking Transformers for Time Series Representation Learning",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 22,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2404.08472",
+      "reason": "Velocity: 22 citations",
+      "publication_date": "2026-05-18"
+    },
+    {
+      "title": "Capacity Overflow, Effective Stochasticity, and Phase-B Invariants: Critical Deficit, Markov Closure, and Invariant Selection under Finite Projection",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 22,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20250367",
+      "reason": "Velocity: 22 citations",
+      "publication_date": "2026-05-17"
+    },
+    {
+      "title": "TA-14 Promotion Boundary Doctrine — Generation Is Not Promotion: Admissibility, Binding, Commit, and Consequence Formation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://github.com/greggbutlerac-debug/ta14-admissible-execution-gate",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-05-17"
+    },
+    {
+      "title": "ugp-lean: A Machine-Checked Formalization of the Universal Generative Principle",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION",
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19433538",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-05-18"
+    },
+    {
+      "title": "Boundary Maintenance and the Second Law under Finite Memory: Irreversible Record Reuse, Entropy Ledgers, and Operational Time Arrows",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20255129",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-05-17"
+    },
+    {
+      "title": "Interface Schema Specification V1: Four-Layer Working Note (Restricted)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20310016",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-05-20"
+    },
+    {
+      "title": "Integrated error-suppressed pipeline for quantum optimization of nontrivial binary combinatorial optimization problems on gate-model hardware at the 156-qubit scale",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "New Journal of Physics",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://iopscience.iop.org/article/10.1088/1367-2630/ae7150/pdf",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-05-21"
+    },
+    {
+      "title": "Amendment LXXXVI — Phi_migration Validation: Empirical Cross-Reference of Bird Migration Wave Days vs. Phi_atmo Gradient Threshold Crossings, Great Plains Corridor 2019–2023",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20279010",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-05-19"
+    },
+    {
+      "title": "The Single-Owner Discount: Provenance Concentration and Epistemic Class Reproduction in Generative Search",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://patents.google.com/patent/US11769017",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-05-19"
+    },
+    {
+      "title": "SYSTEM YOSHIMITSU KATAYAMA from MASATADA KATAYAMA: A Framework for Civilizational Operating System Design Through Cultural Inheritance",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20317658",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-05-21"
+    },
+    {
+      "title": "Temporal connectivity: Coping with foreseen and unforeseen delays",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Discrete Applied Mathematics",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SAND.2022.17",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-05-18"
+    },
+    {
+      "title": "Cryptographic Attestation for AI Agent Governance under the EU AI Act: A Survey of Approaches and Standards",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20185410",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-05-17"
+    },
+    {
+      "title": "Functional Stability Theory II: Chemical Stability and Autocatalytic Selection (DRAFT)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20130563",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-05-19"
+    },
+    {
+      "title": "Functional Decomposition of the Four Fundamental Interactions: A Minimal Physical Distinction-Operation Closure for Finite Distinction Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20274519",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-05-18"
+    }
+  ]
+}
