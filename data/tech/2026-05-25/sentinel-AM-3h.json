@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-25T03:09:42.170Z",
+    "session": "AM",
+    "trend_summary": {
+      "TALENT_GROWTH": 7,
+      "CAREER_MOVES": 1,
+      "VIRAL_GIANT": 3,
+      "TECH_ACCELERATOR": 6,
+      "VIRAL_UNCATEGORIZED": 30,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "name": "bonus-2026/casino-bonus",
+      "stars": 359,
+      "full_text": "Casino Bonus guide featuring a $250 USD no deposit welcome reward for new users with promo code DROP. Explore crypto casino bonuses, cashback systems, welcome offers, and gaming platform features",
+      "tags": [
+        "TALENT_GROWTH",
+        "CAREER_MOVES",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bonus-2026/casino-bonus"
+    },
+    {
+      "name": "Mclisterjoeh2o/yellowkey-bitlocker",
+      "stars": 203,
+      "full_text": "yellowkey  bitlocker github vulnerability  bypass  cve-2026-45585 windows 11 security zero day exploit winre recovery mode poc nightmare eclipse chaotic eclipse exploit tool usb attack encryption hack script mitigation guide fstx winpeshl shell unpatched fix tool",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Mclisterjoeh2o/yellowkey-bitlocker"
+    },
+    {
+      "name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+      "stars": 201,
+      "full_text": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App"
+    },
+    {
+      "name": "RayceAnderson/tomodachi-pc",
+      "stars": 200,
+      "full_text": "tomodachi life pc living  the dream windows  free patch notes update ryujinx emulator rom nsp xci mii creator life simulator 60fps mod graphics config save file setup guide fix crash",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/RayceAnderson/tomodachi-pc"
+    },
+    {
+      "name": "Alpha-Vector-Core/polymarket-arbitrage-trading-bot",
+      "stars": 79,
+      "full_text": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Alpha-Vector-Core/polymarket-arbitrage-trading-bot"
+    },
+    {
+      "name": "Quantum-Probability-Forge/polymarket-arbitrage-trading-bot",
+      "stars": 79,
+      "full_text": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Quantum-Probability-Forge/polymarket-arbitrage-trading-bot"
+    },
+    {
+      "name": "Signal-Market-Engine/polymarket-arbitrage-trading-bot",
+      "stars": 79,
+      "full_text": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Signal-Market-Engine/polymarket-arbitrage-trading-bot"
+    },
+    {
+      "name": "real-Elysia886/Todo-Tree-Next",
+      "stars": 64,
+      "full_text": "Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code",
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/real-Elysia886/Todo-Tree-Next"
+    },
+    {
+      "name": "Abirami-19/taskloom-kanban",
+      "stars": 51,
+      "full_text": "Taskloom is a production-grade realtime collaborative Kanban SaaS platform built with Next.js 15, Supabase, PostgreSQL, Tailwind CSS, Zustand, and Framer Motion. It features realtime task synchronization, drag-and-drop workflows, workspace collaboration, analytics dashboards, authentication, modern SaaS architecture.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Abirami-19/taskloom-kanban"
+    },
+    {
+      "name": "itskeerthana20-sudo/CLEANDIGI",
+      "stars": 43,
+      "full_text": "CleanDigi is a smart digital cleaning app designed to help users organize and optimize their devices effortlessly. It removes junk files, clears cache, manages storage, and improves device performance with a simple and user friendly interface. The app helps keep phones fast, clean, and efficient for everyday use.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/itskeerthana20-sudo/CLEANDIGI"
+    }
+  ]
+}
