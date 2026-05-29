@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-29T17:43:23.288Z",
+    "session": "PM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 6,
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 16,
+      "TALENT_GROWTH": 4,
+      "KNOWLEDGE_BASE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "alfiyahkamilah1239298/WallpaperDownloader-26",
+      "stars": 399,
+      "full_text": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26"
+    },
+    {
+      "name": "Sophomoresty/gemini-web2api",
+      "stars": 314,
+      "full_text": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Sophomoresty/gemini-web2api"
+    },
+    {
+      "name": "MatinSenPai/SenPaiScanner",
+      "stars": 278,
+      "full_text": "A light-weight scanner for Cloudflare IPs, written in Golang",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MatinSenPai/SenPaiScanner"
+    },
+    {
+      "name": "Michaelliv/pi-dynamic-workflows",
+      "stars": 249,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Michaelliv/pi-dynamic-workflows"
+    },
+    {
+      "name": "ShadowSpread/polymarket-auto-trading",
+      "stars": 235,
+      "full_text": "polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, ",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ShadowSpread/polymarket-auto-trading"
+    },
+    {
+      "name": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
+      "stars": 139,
+      "full_text": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app"
+    },
+    {
+      "name": "modelstudioai/cli",
+      "stars": 105,
+      "full_text": "Official Model Studio CLI（阿里云百炼 CLI）built for AI Agent frameworks, exposing models, search, multimodal, and workflow capabilities as structured tool calls.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/modelstudioai/cli"
+    },
+    {
+      "name": "ATOM00blue/machine-learning-library",
+      "stars": 92,
+      "full_text": "A hand-curated library of the best machine learning education — 590 docs (78 arXiv papers, 474 course lectures from Stanford/MIT/Karpathy/fast.ai, 38 explainer articles), normalized to Markdown with full provenance. A clean ML corpus/dataset for learning, RAG, and fine-tuning.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ATOM00blue/machine-learning-library"
+    },
+    {
+      "name": "OnlyTerp/prompt-cache-skills",
+      "stars": 69,
+      "full_text": "Drop-in prompt-caching fixes for the LLM agent harness you use. Point your AI coding agent at this repo and it ships the patches.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OnlyTerp/prompt-cache-skills"
+    },
+    {
+      "name": "PolyMomentum-Labs/.github",
+      "stars": 42,
+      "full_text": "Official docs for PolyMomentum — Polymarket CLOB V2 integration, trading strategies, bot architecture, and OpenClaw/MCP AI workflows.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PolyMomentum-Labs/.github"
+    }
+  ]
+}
