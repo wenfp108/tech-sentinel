@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-05-30T21:17:36.130Z",
+    "session": "PM",
+    "trend_summary": {
+      "CAREER_MOVES": 1,
+      "VIRAL_GIANT": 4,
+      "TECH_ACCELERATOR": 5,
+      "VIRAL_UNCATEGORIZED": 29,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "bonus-2026/crypto-casino-bonus",
+      "stars": 312,
+      "full_text": "Explore the best Crypto Casino Bonus - including no deposit welcome bonuses. Learn about Bitcoin casino rewards, free spins, cashback offers, crypto payments, mobile gaming, and responsible online casino promotions.",
+      "tags": [
+        "CAREER_MOVES",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bonus-2026/crypto-casino-bonus"
+    },
+    {
+      "name": "Allanlv5324F/Lossless-Scaling-Github",
+      "stars": 214,
+      "full_text": "lossless scaling steam github lsfg frame generation",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Allanlv5324F/Lossless-Scaling-Github"
+    },
+    {
+      "name": "rasoir0591/Crosshair-X",
+      "stars": 212,
+      "full_text": "crosshair x steam download custom crosshair free overlay extension torrent valorant cs2 apex pro settings windows ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rasoir0591/Crosshair-X"
+    },
+    {
+      "name": "yuyefeiyu/yt-downloader",
+      "stars": 205,
+      "full_text": "youtube downloader yt downloader mp3 converter 4k video download yt-dlp github free download windows 11 android apk",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/yuyefeiyu/yt-downloader"
+    },
+    {
+      "name": "fxyz666/LogicPipe",
+      "stars": 195,
+      "full_text": "LogicPipe 是一个面向边缘多设备协同 LLM 推理的开源软件项目，提供离线管线规划、分布式 stage 权重加载、依赖感知任务调度和上下文 KV cache 复用能力。",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/fxyz666/LogicPipe"
+    },
+    {
+      "name": "defi-ape/polymarket-kalshi-arbitrage-bot",
+      "stars": 111,
+      "full_text": "15-minute prediction market arbitrage bot: poll Kalshi Trade API and Polymarket CLOB, detect YES/UP spreads and late-resolution gaps, expose Express /status, and place Polymarket buys via @polymarket/clob-client.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/defi-ape/polymarket-kalshi-arbitrage-bot"
+    },
+    {
+      "name": "steeliron550-ui/search-bibtex",
+      "stars": 104,
+      "full_text": "[PolyCite] 基于多智能体协同、多源汇聚的论文引用元数据检索工具 A command-line tool for quickly scraping BibTeX information from computer science conferences and journals, optimized for LLM Multi-Agents.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/steeliron550-ui/search-bibtex"
+    },
+    {
+      "name": "AITabby/opencodex",
+      "stars": 84,
+      "full_text": "Local gateway for Codex Desktop — custom API, web dashboard, Vision Bridge",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AITabby/opencodex"
+    },
+    {
+      "name": "dexoryn-china/polymarket-arbitrage-bot",
+      "stars": 42,
+      "full_text": "Polymarket 机器人 Polymarket 交易机器人 Polymarket 套利机器人 Polymarket AI机器人 Polymarket AI交易机器人 polymarket bot polymarket trading bot polymarket arbitrage bot polymarket AI agent trading bot Polymarket 机器人 Polymarket 交易机器人 Polymarket 套利机器人 Polymarket AI机器人 Polymarket AI交易机器人 polymarket bot polymarket trading bot polymarket arbitrage bot polymarket AI agent ",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dexoryn-china/polymarket-arbitrage-bot"
+    }
+  ]
+}
