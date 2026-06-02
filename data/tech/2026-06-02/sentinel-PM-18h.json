@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-02T18:13:03.412Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TALENT_GROWTH": 2,
+      "VIRAL_UNCATEGORIZED": 25,
+      "TECH_ACCELERATOR": 3,
+      "KNOWLEDGE_BASE": 3
+    }
+  },
+  "items": [
+    {
+      "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
+      "stars": 336,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas"
+    },
+    {
+      "name": "870238472001/Canva-Pro-Crack",
+      "stars": 112,
+      "full_text": "Canva Pro - Drag-and-drop design tool with templates, brand kit, background remover, and Magic Studio AI.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/870238472001/Canva-Pro-Crack"
+    },
+    {
+      "name": "couragec/llm-intern-skill",
+      "stars": 54,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/couragec/llm-intern-skill"
+    },
+    {
+      "name": "F001net/polymarket-trade-bot",
+      "stars": 52,
+      "full_text": "Polymarket arbitrage trading bot Polymarket arbitrage betting bot Polymarket arbitrage trading bot Polymarket arbitrage betting bot Polymarket arbitrage trading bot Polymarket arbitrage betting bot Polymarket arbitrage trading bot Polymarket arbitrage betting bot Polymarket arbitrage trading bot",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/F001net/polymarket-trade-bot"
+    }
+  ]
+}
