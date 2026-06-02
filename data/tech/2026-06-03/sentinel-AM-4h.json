@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-03T04:40:42.147Z",
+    "session": "AM",
+    "trend_summary": {
+      "CORE_PRAGMATISM": 1,
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 20,
+      "KNOWLEDGE_BASE": 4,
+      "TECH_ACCELERATOR": 2,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "b-nnett/goose",
+      "stars": 598,
+      "full_text": "Goose Swift proof-of-concept README",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/b-nnett/goose"
+    },
+    {
+      "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
+      "stars": 404,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas"
+    },
+    {
+      "name": "VAST-AI-Research/TripoSplat",
+      "stars": 217,
+      "full_text": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/VAST-AI-Research/TripoSplat"
+    },
+    {
+      "name": "870238472001/Canva-Pro-Crack",
+      "stars": 108,
+      "full_text": "Canva Pro - Drag-and-drop design tool with templates, brand kit, background remover, and Magic Studio AI.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/870238472001/Canva-Pro-Crack"
+    },
+    {
+      "name": "couragec/llm-intern-skill",
+      "stars": 68,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/couragec/llm-intern-skill"
+    }
+  ]
+}
