@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-03T00:12:26.960Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CORE_PRAGMATISM": 3,
+      "VIRAL_UNCATEGORIZED": 38,
+      "TALENT_GROWTH": 1,
+      "TECH_ACCELERATOR": 2,
+      "KNOWLEDGE_BASE": 5,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
+      "stars": 386,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas"
+    },
+    {
+      "name": "b-nnett/goose",
+      "stars": 325,
+      "full_text": "Goose Swift proof-of-concept README",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/b-nnett/goose"
+    },
+    {
+      "name": "870238472001/Canva-Pro-Crack",
+      "stars": 112,
+      "full_text": "Canva Pro - Drag-and-drop design tool with templates, brand kit, background remover, and Magic Studio AI.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/870238472001/Canva-Pro-Crack"
+    },
+    {
+      "name": "delgadonatalia39986749/FL-Product-Version-25",
+      "stars": 85,
+      "full_text": "FL Studio 25 Producer Suite (2026) — Advanced audio engine optimization and offline licensing environment. Unlock All-Plugins Edition features, AI-Stem Separation, and ultra-low latency ASIO performance for professional music production.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/delgadonatalia39986749/FL-Product-Version-25"
+    },
+    {
+      "name": "zpvyomutboduroglu062577/Skeet-CC-Game-Sense-2026",
+      "stars": 84,
+      "full_text": "Skeet-CS2 (2026) — The most sophisticated internal framework for CS2. Featuring low-latency ESP rendering, advanced hitscan telemetry, and a legendary UI. Experience the gold standard of game analytics and visual modification.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zpvyomutboduroglu062577/Skeet-CC-Game-Sense-2026"
+    },
+    {
+      "name": "couragec/llm-intern-skill",
+      "stars": 68,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/couragec/llm-intern-skill"
+    }
+  ]
+}
