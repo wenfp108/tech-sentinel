@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-04T00:27:42.464Z",
+    "session": "AM",
+    "trend_summary": {
+      "CORE_PRAGMATISM": 1,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 18,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 2,
+      "CAREER_MOVES": 2
+    }
+  },
+  "items": [
+    {
+      "name": "b-nnett/goose",
+      "stars": 1327,
+      "full_text": "Goose Swift proof-of-concept README",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/b-nnett/goose"
+    },
+    {
+      "name": "SenhorH/tab-labeler",
+      "stars": 475,
+      "full_text": "Rename browser tabs locally and bring order to chaotic sessions.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SenhorH/tab-labeler"
+    },
+    {
+      "name": "cpaczek/skylight",
+      "stars": 461,
+      "full_text": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cpaczek/skylight"
+    },
+    {
+      "name": "jd-opensource/JoyAI-Echo",
+      "stars": 230,
+      "full_text": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo"
+    },
+    {
+      "name": "Soul-AILab/SoulX-Transcriber",
+      "stars": 125,
+      "full_text": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Soul-AILab/SoulX-Transcriber"
+    },
+    {
+      "name": "TheStageAI/edge-lm",
+      "stars": 72,
+      "full_text": "Tiny llms optimised for edge deployment ",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TheStageAI/edge-lm"
+    }
+  ]
+}
