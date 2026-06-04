@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-04T17:48:41.263Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 12,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "tastyeffectco/sandboxes",
+      "stars": 210,
+      "full_text": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tastyeffectco/sandboxes"
+    },
+    {
+      "name": "xevrion-v2/agent-playground",
+      "stars": 46,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/xevrion-v2/agent-playground"
+    }
+  ]
+}
