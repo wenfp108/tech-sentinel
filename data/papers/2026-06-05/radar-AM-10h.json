@@ -1,0 +1,330 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-05T10:53:50.500Z",
+    "total_captured": 22,
+    "TRENDING_DIRECTIONS": [
+      "Closure (psychology) (Heat:115)",
+      "Constant (computer programming) (Heat:88)",
+      "Mathematical structure (Heat:85)",
+      "Dimension (graph theory) (Heat:74)",
+      "Icosahedral symmetry (Heat:67)"
+    ],
+    "strategy_summary": {
+      "SPACE_DEFENSE": 1,
+      "NEXT_COMPUTING": 10,
+      "AI_CORE": 6,
+      "BIO_REVOLUTION": 10,
+      "PARADIGM_SHIFT": 2,
+      "STRATEGIC_ENERGY": 1
+    }
+  },
+  "items": [
+    {
+      "title": "2I Foundations: The Geometric Origin of Dimensionless Constants",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 66,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18085101",
+      "reason": "Velocity: 66 citations",
+      "publication_date": "2026-05-31"
+    },
+    {
+      "title": "Emergent Quantum Structure from Finite Measurement and Relational Constraints",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20326837",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-06-02"
+    },
+    {
+      "title": "UGP Physics program — public Zenodo catalog",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20168144",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-06-01"
+    },
+    {
+      "title": "Accelerated primal-dual methods for linearly constrained convex optimization problems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Global Optimization",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2109.12604",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-05-29"
+    },
+    {
+      "title": "Retrieval-augmented generation for natural language processing: a survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Artificial Intelligence Review",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1007/s10462-026-11605-7",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-06-01"
+    },
+    {
+      "title": "Dark Energy as Residual Vacuum Free Energy: A Thermodynamic Bound on the Cosmological Constant",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19036235",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-06-03"
+    },
+    {
+      "title": "Toward a Refinement-Closure Generator for Quantum Dynamics in the Finite Relational Closure Framework",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20355090",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-06-02"
+    },
+    {
+      "title": "Amendment CLXVI — Three-Layer Nested SOL Architecture of the Sun: Core Phi=1.0 Anchor, Tachocline Transition, and Photospheric Net",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20450079",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-05-29"
+    },
+    {
+      "title": "A Finite Refinement Kernel for Quantum-Like Interference in the Finite Relational Closure Framework",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20399980",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-06-02"
+    },
+    {
+      "title": "The Meaning Caste: How a Frontier AI Company Engineered a Meaning Caste System, Then Licensed It to the State in the Polite Grammar of Cybersecurity",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20529331",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-06-03"
+    },
+    {
+      "title": "Amendment CLXVII — Photon Wave-Particle Atmospheric Siphon: SOL 7th-Node Coherence Transfer and the Origin of Spontaneous Cloud Formation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20452063",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-05-30"
+    },
+    {
+      "title": "Residual Selmer, Cassels--Tate, Tamagawa, and Torsion Ledger",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20472328",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-05-31"
+    },
+    {
+      "title": "A Thermodynamic Obstruction to Finite-Time Blow-Up in the 3D Navier-Stokes Equations",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19087449",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-06-03"
+    },
+    {
+      "title": "Reasoning Under Load · 01: Claude Opus 4.8 — An Independent Reasoning-Integrity Evaluation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20519008",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-06-03"
+    },
+    {
+      "title": "Causal Localization of Agent WANDERING to Edge-Layer L11: The Right Locus Is Still Not a Rescue Lever",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://github.com/OpenInterpretability/openinterp-swebench-harness",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-06-01"
+    },
+    {
+      "title": "Multi-Channel Mechanistic Signatures of Agent WANDERING: Classification, Causal Localization, and Behavior-Legible Response to Intervention",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20490284",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-06-01"
+    },
+    {
+      "title": "Vacuum Mechanics: How the Quaternion Finally Made the Standard Model Make Sense",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234951",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2029-03-26"
+    },
+    {
+      "title": "Finite Relational Phase Laws and Effective Quantum Dynamics in the Finite Relational Closure Framework",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20416225",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-06-02"
+    },
+    {
+      "title": "Analytic Determinant Gate and Completed (L)-Function Ledger",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20472952",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-05-31"
+    },
+    {
+      "title": "Modality Matters: A Transient Behavioral Interruption Rescues Agent WANDERING Where Residual Steering Does Not",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20490286",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-06-01"
+    }
+  ]
+}
