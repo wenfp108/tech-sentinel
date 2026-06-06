@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-06T21:20:53.654Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 1,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 15,
+      "TECH_ACCELERATOR": 4,
+      "CORE_PRAGMATISM": 3
+    }
+  },
+  "items": [
+    {
+      "name": "CWS6206/ai-coding-starter-kit",
+      "stars": 261,
+      "full_text": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CWS6206/ai-coding-starter-kit"
+    },
+    {
+      "name": "iampedii/WhiteDNS-Wizard",
+      "stars": 79,
+      "full_text": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/iampedii/WhiteDNS-Wizard"
+    },
+    {
+      "name": "alfhamdy515-svg/monkemodmanager-windows-installer-2",
+      "stars": 75,
+      "full_text": "Simple and clean standalone desktop installation wizard for MonkeModManager on Windows PC. Easily manage, organize, and update your VR cosmetic configurations.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alfhamdy515-svg/monkemodmanager-windows-installer-2"
+    },
+    {
+      "name": "Flavian2222/lunarclientminecraft-windows-installer",
+      "stars": 75,
+      "full_text": "Simple and clean desktop setup wizard for LunarClientMinecraft on Windows PC. Easily optimize game performance, manage your mods, and launch your sandbox worlds.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Flavian2222/lunarclientminecraft-windows-installer"
+    },
+    {
+      "name": "nmaacm/SkeetGame-4",
+      "stars": 65,
+      "full_text": "Skeet-CS2 (2026) — The most sophisticated internal framework for CS2. Featuring low-latency ESP rendering, advanced hitscan telemetry, and a legendary UI. Experience the gold standard of game analytics and visual modification.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nmaacm/SkeetGame-4"
+    },
+    {
+      "name": "biplobroy01/kmspisco-v2-portable",
+      "stars": 65,
+      "full_text": "Enterprise-grade management utility for Microsoft Key Management Service (KMS) environments. Features license audit logs, host activation monitoring, and deployment orchestration for large-scale IT infrastructure.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/biplobroy01/kmspisco-v2-portable"
+    },
+    {
+      "name": "zengxiao-he/tessera",
+      "stars": 48,
+      "full_text": "From teacher to tiles — a from-scratch LLM distillation & serving engine: custom Triton/CUDA kernels, FSDP distillation, paged-KV continuous batching, speculative decoding, a Rust gateway, a JAX oracle, and interpretability tooling.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zengxiao-he/tessera"
+    },
+    {
+      "name": "lucifer1004/VeloQ",
+      "stars": 46,
+      "full_text": "Agent-friendly GPU profile-query CLI",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lucifer1004/VeloQ"
+    }
+  ]
+}
