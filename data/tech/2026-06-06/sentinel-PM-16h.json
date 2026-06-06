@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-06T16:27:36.367Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 1,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 13,
+      "CORE_PRAGMATISM": 2,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "CWS6206/ai-coding-starter-kit",
+      "stars": 261,
+      "full_text": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CWS6206/ai-coding-starter-kit"
+    },
+    {
+      "name": "alfhamdy515-svg/monkemodmanager-windows-installer-2",
+      "stars": 75,
+      "full_text": "Simple and clean standalone desktop installation wizard for MonkeModManager on Windows PC. Easily manage, organize, and update your VR cosmetic configurations.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alfhamdy515-svg/monkemodmanager-windows-installer-2"
+    },
+    {
+      "name": "Flavian2222/lunarclientminecraft-windows-installer",
+      "stars": 75,
+      "full_text": "Simple and clean desktop setup wizard for LunarClientMinecraft on Windows PC. Easily optimize game performance, manage your mods, and launch your sandbox worlds.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Flavian2222/lunarclientminecraft-windows-installer"
+    },
+    {
+      "name": "iampedii/WhiteDNS-Wizard",
+      "stars": 70,
+      "full_text": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/iampedii/WhiteDNS-Wizard"
+    },
+    {
+      "name": "lucifer1004/VeloQ",
+      "stars": 43,
+      "full_text": "Agent-friendly GPU profile-query CLI",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lucifer1004/VeloQ"
+    }
+  ]
+}
