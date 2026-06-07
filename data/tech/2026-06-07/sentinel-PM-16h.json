@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-07T16:48:44.636Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 7,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "12britz/awesome-free-models",
+      "stars": 69,
+      "full_text": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/12britz/awesome-free-models"
+    }
+  ]
+}
