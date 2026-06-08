@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-09T04:06:58.884Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "CODE_LEVERAGE": 2,
+      "TALENT_GROWTH": 2,
+      "TECH_ACCELERATOR": 2,
+      "VIRAL_UNCATEGORIZED": 9
+    }
+  },
+  "items": [
+    {
+      "name": "NoopApp/noop",
+      "stars": 511,
+      "full_text": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/NoopApp/noop"
+    },
+    {
+      "name": "JimLiu/baoyu-design",
+      "stars": 510,
+      "full_text": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JimLiu/baoyu-design"
+    },
+    {
+      "name": "GordenSun/GordenSuperPPTSkills",
+      "stars": 360,
+      "full_text": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills"
+    },
+    {
+      "name": "JFGAtlas/aethergate-pro",
+      "stars": 201,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/JFGAtlas/aethergate-pro"
+    },
+    {
+      "name": "beijingcao/binance-deribit-btc",
+      "stars": 178,
+      "full_text": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/beijingcao/binance-deribit-btc"
+    },
+    {
+      "name": "TwoSevenOneT/EDRChoker",
+      "stars": 135,
+      "full_text": "A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from connecting to the server.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TwoSevenOneT/EDRChoker"
+    },
+    {
+      "name": "amap-cvlab/ABot-Earth-0.5",
+      "stars": 54,
+      "full_text": "Generative 3D Earth Model by AMap-cvlab",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/amap-cvlab/ABot-Earth-0.5"
+    }
+  ]
+}
