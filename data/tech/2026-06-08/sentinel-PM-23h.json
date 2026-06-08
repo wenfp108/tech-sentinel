@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-08T23:38:48.182Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "VIRAL_GIANT": 2,
+      "TALENT_GROWTH": 6,
+      "VIRAL_UNCATEGORIZED": 19,
+      "TECH_ACCELERATOR": 6,
+      "KNOWLEDGE_BASE": 3
+    }
+  },
+  "items": [
+    {
+      "name": "JimLiu/baoyu-design",
+      "stars": 494,
+      "full_text": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JimLiu/baoyu-design"
+    },
+    {
+      "name": "NoopApp/noop",
+      "stars": 467,
+      "full_text": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/NoopApp/noop"
+    },
+    {
+      "name": "GordenSun/GordenSuperPPTSkills",
+      "stars": 307,
+      "full_text": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills"
+    },
+    {
+      "name": "beijingcao/binance-deribit-btc",
+      "stars": 174,
+      "full_text": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/beijingcao/binance-deribit-btc"
+    },
+    {
+      "name": "TwoSevenOneT/EDRChoker",
+      "stars": 116,
+      "full_text": "A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from connecting to the server.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TwoSevenOneT/EDRChoker"
+    },
+    {
+      "name": "Titanbraindex/Disk-Drill-Pro-Recovery",
+      "stars": 97,
+      "full_text": "Disk Drill Professional - The premier data recovery software for Windows. Easily recover deleted files, photos, videos, and documents from any storage device with advanced deep scanning.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Titanbraindex/Disk-Drill-Pro-Recovery"
+    },
+    {
+      "name": "Dimensiontashop/Claude-Mythos-AI-App",
+      "stars": 85,
+      "full_text": "Claude Mythos AI Anthropic App desktop free pro opus frontend client API wrapper Claude 3.5 Sonnet Opus LLM chatbot roleplay jailbreak uncensored character prompt templates",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Dimensiontashop/Claude-Mythos-AI-App"
+    },
+    {
+      "name": "Platetrometro/Stellar-Data-Recovery-Premium",
+      "stars": 76,
+      "full_text": "Stellar Data Recovery Premium - The most trusted software to recover lost or deleted data from Windows drives and external storage media. Includes built-in photo and video repair capabilities.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Platetrometro/Stellar-Data-Recovery-Premium"
+    },
+    {
+      "name": "Platedaengage/cinema-3ds-manager",
+      "stars": 70,
+      "full_text": "Easy-to-use Cinema 3ds toolkit for managing, viewing, and organizing your 3D projects and media files on Windows.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Platedaengage/cinema-3ds-manager"
+    },
+    {
+      "name": "amap-cvlab/ABot-Earth-0.5",
+      "stars": 51,
+      "full_text": "Generative 3D Earth Model by AMap-cvlab",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/amap-cvlab/ABot-Earth-0.5"
+    }
+  ]
+}
