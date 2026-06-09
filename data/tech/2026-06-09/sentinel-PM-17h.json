@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-09T17:32:02.721Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 9,
+      "TALENT_GROWTH": 5,
+      "VIRAL_UNCATEGORIZED": 26,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "xiaohuailabs/xiaohu-video-translate",
+      "stars": 243,
+      "full_text": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate"
+    },
+    {
+      "name": "apple/coreai-models",
+      "stars": 182,
+      "full_text": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/apple/coreai-models"
+    },
+    {
+      "name": "Tencent-Hunyuan/UniRL",
+      "stars": 135,
+      "full_text": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Tencent-Hunyuan/UniRL"
+    },
+    {
+      "name": "mestankunter321391207/SketchUp-Vortex-Pro-2026",
+      "stars": 75,
+      "full_text": "⭐️ SketchUp Pro — full lifetime activated 3D modeling software. Intuitive and powerful tool for architecture, interior design, engineering and game design. Includes advanced rendering, layout tools and vast 3D Warehouse support on Windows 10/11. ⭐️",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mestankunter321391207/SketchUp-Vortex-Pro-2026"
+    },
+    {
+      "name": "amap-cvlab/ABot-Earth-0.5",
+      "stars": 74,
+      "full_text": "Generative 3D Earth Model by AMap-cvlab",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/amap-cvlab/ABot-Earth-0.5"
+    },
+    {
+      "name": "Grabgreplait/uncensored-ai-image-video-generator",
+      "stars": 68,
+      "full_text": "Uncensored AI is a cutting-edge Windows application that leverages artificial intelligence to transform creative ideas into stunning visual content. Our tool provides an intuitive interface for generating, editing, and enhancing images and videos using state-of-the-art AI technologies.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Grabgreplait/uncensored-ai-image-video-generator"
+    },
+    {
+      "name": "canwhite/MicroRAG",
+      "stars": 52,
+      "full_text": "The minimal implementation of rag",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/canwhite/MicroRAG"
+    },
+    {
+      "name": "minjie05/KnowBase_AI",
+      "stars": 50,
+      "full_text": "基于 RAG的商品知识问答系统",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/minjie05/KnowBase_AI"
+    },
+    {
+      "name": "apple/foundation-models-utilities",
+      "stars": 49,
+      "full_text": "Emerging and experimental patterns for building with the Foundation Models framework",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/apple/foundation-models-utilities"
+    },
+    {
+      "name": "xuansenpa1/skillrevise",
+      "stars": 46,
+      "full_text": "Official release for SkillRevise: trace-conditioned revision of LLM-authored agent skills",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/xuansenpa1/skillrevise"
+    }
+  ]
+}
