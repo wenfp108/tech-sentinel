@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-09T10:39:29.457Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 6,
+      "TECH_ACCELERATOR": 3,
+      "KNOWLEDGE_BASE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "apple/coreai-models",
+      "stars": 99,
+      "full_text": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/apple/coreai-models"
+    },
+    {
+      "name": "amap-cvlab/ABot-Earth-0.5",
+      "stars": 61,
+      "full_text": "Generative 3D Earth Model by AMap-cvlab",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/amap-cvlab/ABot-Earth-0.5"
+    },
+    {
+      "name": "Grabgreplait/uncensored-ai-image-video-generator",
+      "stars": 51,
+      "full_text": "Uncensored AI is a cutting-edge Windows application that leverages artificial intelligence to transform creative ideas into stunning visual content. Our tool provides an intuitive interface for generating, editing, and enhancing images and videos using state-of-the-art AI technologies.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Grabgreplait/uncensored-ai-image-video-generator"
+    }
+  ]
+}
