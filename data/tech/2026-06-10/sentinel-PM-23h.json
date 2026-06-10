@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-10T23:21:22.004Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "TECH_ACCELERATOR": 4,
+      "CODE_LEVERAGE": 2,
+      "CORE_PRAGMATISM": 1,
+      "VIRAL_UNCATEGORIZED": 11,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "MSNightmare/RoguePlanet",
+      "stars": 721,
+      "full_text": "RoguePlanet Windows Defender Vulnerability",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MSNightmare/RoguePlanet"
+    },
+    {
+      "name": "shadcn/improve",
+      "stars": 338,
+      "full_text": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/shadcn/improve"
+    },
+    {
+      "name": "jmmy9609-design/gpt-pp",
+      "stars": 313,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jmmy9609-design/gpt-pp"
+    },
+    {
+      "name": "valkor-ai/loom",
+      "stars": 187,
+      "full_text": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/valkor-ai/loom"
+    },
+    {
+      "name": "sweetgersquiltion785/Microsoft",
+      "stars": 116,
+      "full_text": "",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sweetgersquiltion785/Microsoft"
+    },
+    {
+      "name": "AbdelStark/awesome-jepa",
+      "stars": 71,
+      "full_text": "Curated resources for JEPA (Joint Embedding Predictive Architecture) world models and self-supervised learning",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AbdelStark/awesome-jepa"
+    },
+    {
+      "name": "danking6/veltoc",
+      "stars": 59,
+      "full_text": "Veltoc Model 01 is a ESP32 powered, retro-inspired environmental monitor with an E-Ink display. It can monitor temperature, humidity and air pressure. Connect to wifi to also display the current time.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/danking6/veltoc"
+    },
+    {
+      "name": "minjie05/KnowBase_AI",
+      "stars": 57,
+      "full_text": "基于 RAG的商品知识问答系统",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/minjie05/KnowBase_AI"
+    },
+    {
+      "name": "xuanyuanzhifeng/ai-video-agent",
+      "stars": 56,
+      "full_text": "AI生成图片轮播视频和HTML动画视频",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/xuanyuanzhifeng/ai-video-agent"
+    }
+  ]
+}
