@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-11T23:47:34.833Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_UNCATEGORIZED": 15,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 3,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "XiaomiMiMo/MiMo-Code",
+      "stars": 3859,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/XiaomiMiMo/MiMo-Code"
+    },
+    {
+      "name": "shadcn/improve",
+      "stars": 1558,
+      "full_text": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/shadcn/improve"
+    },
+    {
+      "name": "Sinotrade/shioaji-pro-app",
+      "stars": 141,
+      "full_text": "Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trade & drag-to-reprice, flash order ladder, stop/take-profit triggers, customizable drag-and-drop workspace",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Sinotrade/shioaji-pro-app"
+    },
+    {
+      "name": "rino-kardianus-hamin/Valorant-UX",
+      "stars": 108,
+      "full_text": "Aimbot & Ragebot hack: Perfect accuracy and automated high-speed elimination modes.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rino-kardianus-hamin/Valorant-UX"
+    },
+    {
+      "name": "vinayaklatthe/microsoft-security-skills",
+      "stars": 46,
+      "full_text": "Curated Microsoft Security skills for AI agents - Defender, Sentinel, Entra, Purview, Intune, Security Copilot",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/vinayaklatthe/microsoft-security-skills"
+    }
+  ]
+}
