@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-13T16:51:04.529Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 3,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 15,
+      "CAREER_MOVES": 1,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "stars": 1053,
+      "full_text": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "name": "lenucksi/aur-malware-check",
+      "stars": 310,
+      "full_text": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lenucksi/aur-malware-check"
+    },
+    {
+      "name": "DanMcInerney/architect-loop",
+      "stars": 253,
+      "full_text": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DanMcInerney/architect-loop"
+    },
+    {
+      "name": "orange2ai/renwei-writing",
+      "stars": 244,
+      "full_text": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/orange2ai/renwei-writing"
+    },
+    {
+      "name": "blader/arbitrage",
+      "stars": 79,
+      "full_text": "A Claude Code skill for token arbitrage: keep premium model tokens for judgment, dispatch all code-writing to codex.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/blader/arbitrage"
+    }
+  ]
+}
