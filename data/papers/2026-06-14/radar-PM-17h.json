@@ -1,0 +1,326 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-14T17:24:58.522Z",
+    "total_captured": 20,
+    "TRENDING_DIRECTIONS": [
+      "Corporate governance (Heat:551)",
+      "Portfolio (Heat:537)",
+      "Coherence (philosophical gambling strategy) (Heat:537)",
+      "Allocative efficiency (Heat:537)",
+      "Interpretability (Heat:448)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 10,
+      "STRATEGIC_ENERGY": 1,
+      "AI_CORE": 4,
+      "BIO_REVOLUTION": 6,
+      "SPACE_DEFENSE": 1,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Magnetic, thermal and rotational evolution of isolated neutron stars",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Living Reviews in Computational Astrophysics",
+      "metrics": {
+        "citations": 95,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1007/s41115-026-00028-4",
+      "reason": "Velocity: 95 citations",
+      "publication_date": "2026-06-09"
+    },
+    {
+      "title": "Designing the Meaning Infrastructure: Governing Interpretation in AI-Driven Institutions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 89,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18494690",
+      "reason": "Velocity: 89 citations",
+      "publication_date": "2026-06-12"
+    },
+    {
+      "title": "Making Meaning Measurable: How to See Coherence in Decision Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 89,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18486778",
+      "reason": "Velocity: 89 citations",
+      "publication_date": "2026-06-12"
+    },
+    {
+      "title": "The Sovereign Spine: A New Theory of Institutional Coherence and Agency",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 88,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18649453",
+      "reason": "Velocity: 88 citations",
+      "publication_date": "2026-06-12"
+    },
+    {
+      "title": "Decision Velocity and the Compression of Detectability: Translation Half-Life in Institutional Governance",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 80,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18770887",
+      "reason": "Velocity: 80 citations",
+      "publication_date": "2026-06-12"
+    },
+    {
+      "title": "The Coherence Advantage: Why Good Organizations Drift — and How It Can Be Studied",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 71,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18773479",
+      "reason": "Velocity: 71 citations",
+      "publication_date": "2026-06-12"
+    },
+    {
+      "title": "Detecting Strategic Drift Before Outcome Failure: A Longitudinal Governance Diagnostic",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 67,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18758416",
+      "reason": "Velocity: 67 citations",
+      "publication_date": "2026-06-12"
+    },
+    {
+      "title": "The Coherence Advantage: Why Good Organizations Drift — and What Leaders See Too Late",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 46,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18722320",
+      "reason": "Velocity: 46 citations",
+      "publication_date": "2026-06-12"
+    },
+    {
+      "title": "ugp-lean: A Machine-Checked Formalization of the Universal Generative Principle",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 42,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION",
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19433538",
+      "reason": "Velocity: 42 citations",
+      "publication_date": "2026-06-13"
+    },
+    {
+      "title": "HuntGPT: Integrating Machine Learning-Based Anomaly Detection and Explainable AI with Large Language Models (LLMs)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Telecom",
+      "metrics": {
+        "citations": 39,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.3390/telecom7030073",
+      "reason": "Velocity: 39 citations",
+      "publication_date": "2026-06-08"
+    },
+    {
+      "title": "Fibonacci Causal Loop Theory: The Golden Ratio as the Stable Attractor of Necessity Recursion — Framework and Falsifiable Predictions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 25,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18904095",
+      "reason": "Velocity: 25 citations",
+      "publication_date": "2026-06-13"
+    },
+    {
+      "title": "UGP Physics program — public Zenodo catalog",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20168144",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-06-13"
+    },
+    {
+      "title": "The Policy Distortion Factor Phi: Decomposing Routing Efficiency in Delay-Tolerant Networks",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18836604",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-06-13"
+    },
+    {
+      "title": "The Bootstrap Spacetime Lattice: From Self-Reference to Physical Scales via Icosahedral Geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18524255",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-06-13"
+    },
+    {
+      "title": "Spectral Geometry of the Poincaré Homology Sphere",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18817872",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-06-13"
+    },
+    {
+      "title": "A Taxonomy of AI Governance Approaches: Distinguishing Visibility, Alignment, and Authorization",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18275969",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-06-13"
+    },
+    {
+      "title": "Functional Stability Theory II: Chemical Stability and Autocatalytic Selection",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20130563",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-06-13"
+    },
+    {
+      "title": "The Minimal Discrete Geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19433595",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-06-08"
+    },
+    {
+      "title": "The Universe as Zoll Manifold: Lattice Redshift from Icosahedral Geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18354057",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-06-13"
+    },
+    {
+      "title": "Capture and Excision: Five Observations on Composition-Layer Authorial Suppression",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20596667",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-06-08"
+    }
+  ]
+}
