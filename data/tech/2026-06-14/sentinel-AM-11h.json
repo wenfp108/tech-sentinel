@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-14T11:29:47.389Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 9,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "eli-labz/Third-Eye",
+      "stars": 285,
+      "full_text": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/eli-labz/Third-Eye"
+    },
+    {
+      "name": "mrtooher/fable-mode",
+      "stars": 199,
+      "full_text": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mrtooher/fable-mode"
+    },
+    {
+      "name": "privatenumber/mac-ocr",
+      "stars": 73,
+      "full_text": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/privatenumber/mac-ocr"
+    }
+  ]
+}
