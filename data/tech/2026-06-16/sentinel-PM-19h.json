@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-16T19:01:47.439Z",
+    "session": "PM",
+    "trend_summary": {
+      "TALENT_GROWTH": 2,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 30,
+      "CODE_LEVERAGE": 2,
+      "KNOWLEDGE_BASE": 4,
+      "CORE_PRAGMATISM": 8,
+      "TECH_ACCELERATOR": 8
+    }
+  },
+  "items": [
+    {
+      "name": "alchaincyf/loop-engineering-orange-book",
+      "stars": 414,
+      "full_text": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/loop-engineering-orange-book"
+    },
+    {
+      "name": "dongshuyan/compass-skills",
+      "stars": 107,
+      "full_text": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dongshuyan/compass-skills"
+    },
+    {
+      "name": "renee-jia/scholar-loop",
+      "stars": 87,
+      "full_text": "An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/renee-jia/scholar-loop"
+    },
+    {
+      "name": "Nitz1947/Skeet-CC-Game-Sense-2026",
+      "stars": 75,
+      "full_text": "Skeet-CS2 (2026) — The most sophisticated internal framework for CS2. Featuring low-latency ESP rendering, advanced hitscan telemetry, and a legendary UI. Experience the gold standard of game analytics and visual modification.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Nitz1947/Skeet-CC-Game-Sense-2026"
+    },
+    {
+      "name": "VILDEV0205/Steam-KG-2026M1",
+      "stars": 75,
+      "full_text": "Professional developer toolkit for managing, auditing, and organizing Steam product keys and digital distribution assets for indie publishers.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/VILDEV0205/Steam-KG-2026M1"
+    },
+    {
+      "name": "ratters69/Vanguard-Vision-Version-Pro-2026",
+      "stars": 75,
+      "full_text": "Vanguard Vision (2026) — High-performance external computer vision framework for Valorant. Features ultra-low latency color detection, Arduino/HID mouse automation support, and a kernel-safe visual overlay.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ratters69/Vanguard-Vision-Version-Pro-2026"
+    },
+    {
+      "name": "rsz-arch/Saturn-FN-SWPR-2026-Latest",
+      "stars": 75,
+      "full_text": "A secure, local project toolkit for managing and documenting Fortnite cosmetic templates for educational and personal customization purposes.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rsz-arch/Saturn-FN-SWPR-2026-Latest"
+    },
+    {
+      "name": "kingofdwarfs/DeepFake-AI-RealTime",
+      "stars": 74,
+      "full_text": "An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kingofdwarfs/DeepFake-AI-RealTime"
+    },
+    {
+      "name": "TFommy/CapCut-Pro-26",
+      "stars": 74,
+      "full_text": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TFommy/CapCut-Pro-26"
+    },
+    {
+      "name": "kenshicage26/FL-Product-Version-25",
+      "stars": 74,
+      "full_text": "FL Studio 25 Producer Suite (2026) — Advanced audio engine optimization and offline licensing environment. Unlock All-Plugins Edition features, AI-Stem Separation, and ultra-low latency ASIO performance for professional music production.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kenshicage26/FL-Product-Version-25"
+    },
+    {
+      "name": "senayoub871-pixel/FPS-Tweak-26",
+      "stars": 74,
+      "full_text": "The easiest FPS Booster for Windows. Optimize your system for better gaming performance, reduce input lag, and get more frames in one click.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/senayoub871-pixel/FPS-Tweak-26"
+    },
+    {
+      "name": "sanjitchandra2000-prog/WallEng-Fetch-Downloader-2026",
+      "stars": 74,
+      "full_text": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sanjitchandra2000-prog/WallEng-Fetch-Downloader-2026"
+    },
+    {
+      "name": "MohammdKopa/discord-server-booster-2026",
+      "stars": 74,
+      "full_text": "Discord Nexus Booster 2026 — Advanced Community Scaling & Engagement Automation Suite. High-speed Server Boosting via Token Synchronization, Automated Reward Management, and Infinite Invite Tracking. Cloud-based Infrastructure for Rapid Community Growth.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MohammdKopa/discord-server-booster-2026"
+    },
+    {
+      "name": "sadeqebrahimi/SpotAd-2026",
+      "stars": 73,
+      "full_text": "SpotiNexus Framework — Advanced High-Fidelity Audio Streamer & Local Metadata Researcher. Experimental Lossless Playback Suite with Integrated Buffer Optimization and Session Persistence. Open-source high-performance multimedia engine for 2026.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sadeqebrahimi/SpotAd-2026"
+    },
+    {
+      "name": "priyankmakwana88/Youtube-Hyperion-Client-2",
+      "stars": 73,
+      "full_text": "YouTube Hyperion (2026) — Ultimate Open-Source Desktop Client for YouTube. Features Native Ad-Blocking, 4K Video Downloader, Background Audio Playback, and SponsorBlock Integration. High-Performance Media Suite for Windows, Linux, and macOS.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/priyankmakwana88/Youtube-Hyperion-Client-2"
+    },
+    {
+      "name": "niladrighoshal/kmspisco-v2-portable",
+      "stars": 73,
+      "full_text": "Enterprise-grade management utility for Microsoft Key Management Service (KMS) environments. Features license audit logs, host activation monitoring, and deployment orchestration for large-scale IT infrastructure.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/niladrighoshal/kmspisco-v2-portable"
+    },
+    {
+      "name": "Matzepol/sketchfab-downloader-utility",
+      "stars": 73,
+      "full_text": "📦 Easy-to-use SketchFab Downloader for Windows. Save, view, and back up 3D models and assets onto your PC locally with a simple, automated .exe setup.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Matzepol/sketchfab-downloader-utility"
+    }
+  ]
+}
