@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-17T18:45:46.044Z",
+    "session": "PM",
+    "trend_summary": {
+      "PARADIGM_SHIFT": 1,
+      "VIRAL_UNCATEGORIZED": 32,
+      "TECH_ACCELERATOR": 13,
+      "KNOWLEDGE_BASE": 3,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "Plaer1/junction",
+      "stars": 496,
+      "full_text": "VS Code chat sidebar for local AI coding agents",
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Plaer1/junction"
+    },
+    {
+      "name": "AspectTurtle/Canva-Pro-Desktop-Installer",
+      "stars": 98,
+      "full_text": "One-command setup for Canva Pro Desktop — premium templates, Brand Kit, Background Remover, Magic Resize and 100M+ assets",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AspectTurtle/Canva-Pro-Desktop-Installer"
+    },
+    {
+      "name": "BreakerMansion31/UnlockTool-FRP-Bypass-2026",
+      "stars": 77,
+      "full_text": "One-liner to install Unlock Tool 2026 — bypass FRP lock, remove screen lock, flash firmware on Samsung, Xiaomi, Huawei and 1000+ models",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BreakerMansion31/UnlockTool-FRP-Bypass-2026"
+    },
+    {
+      "name": "basiliskravenrespect/Vegas-Pro-Video-Editor-2026",
+      "stars": 74,
+      "full_text": "One-command installer for Vegas Pro 2026 — professional video editing with GPU rendering, color grading, VFX compositing and Fairlight audio",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/basiliskravenrespect/Vegas-Pro-Video-Editor-2026"
+    },
+    {
+      "name": "Shieldkofeel/AutoCAD-2026-Full-Setup",
+      "stars": 74,
+      "full_text": "One-liner to install AutoCAD 2026 — professional 2D drafting and 3D modeling with DWG support and specialized toolsets",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Shieldkofeel/AutoCAD-2026-Full-Setup"
+    },
+    {
+      "name": "boogu-project/Boogu-Image",
+      "stars": 71,
+      "full_text": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/boogu-project/Boogu-Image"
+    },
+    {
+      "name": "Noumena-Network/code",
+      "stars": 59,
+      "full_text": "Noumena's internal version of your favorite coding tui but improved and optimized for our inference stack",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Noumena-Network/code"
+    },
+    {
+      "name": "MarinaTurkey53/Canva-Pro-Premium-Desktop",
+      "stars": 52,
+      "full_text": "Canva Pro 2026 — design platform with AI image generator, Brand Kit, Magic Resize and 100 million stock photos",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MarinaTurkey53/Canva-Pro-Premium-Desktop"
+    },
+    {
+      "name": "Turquoisephocomplete/Cinema-4D-Studio-2026-Setup",
+      "stars": 51,
+      "full_text": "One-liner setup for Cinema 4D 2026 — professional 3D modeling, animation, MoGraph toolset and Redshift GPU rendering",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Turquoisephocomplete/Cinema-4D-Studio-2026-Setup"
+    },
+    {
+      "name": "DeciBuffaloShift/Disk-Drill-File-Recovery-Wizard",
+      "stars": 51,
+      "full_text": "Disk Drill Pro — deep scan recovery for deleted photos, videos and documents from formatted drives and corrupted storage",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DeciBuffaloShift/Disk-Drill-File-Recovery-Wizard"
+    },
+    {
+      "name": "VarnishCartwright/AutoCAD-2026-Engineering-Suite",
+      "stars": 51,
+      "full_text": "AutoCAD 2026 — 2D drafting, 3D modeling, architecture toolset, mechanical toolset and cloud collaboration",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/VarnishCartwright/AutoCAD-2026-Engineering-Suite"
+    },
+    {
+      "name": "StokerReminisce/MATLAB-R2026a-Full-Toolboxes",
+      "stars": 51,
+      "full_text": "MATLAB R2026a with Simulink — model-based design, signal processing, computer vision, robotics and parallel computing",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/StokerReminisce/MATLAB-R2026a-Full-Toolboxes"
+    },
+    {
+      "name": "DrizzleIguana/Fortnite-Cosmetic-Swapper-Free",
+      "stars": 50,
+      "full_text": "Fortnite cosmetic swapper — swap any skin, emote, pickaxe and glider with drag-and-drop interface, auto-revert and full Chapter 6 support",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DrizzleIguana/Fortnite-Cosmetic-Swapper-Free"
+    },
+    {
+      "name": "BehemothLanceForce/Cinema-4D-2026-MoGraph-Renderer",
+      "stars": 50,
+      "full_text": "Cinema 4D 2026 — MoGraph toolset, character rigging, Pyro simulation and integrated Redshift GPU renderer",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BehemothLanceForce/Cinema-4D-2026-MoGraph-Renderer"
+    }
+  ]
+}
