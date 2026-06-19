@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-19T11:48:01.341Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 4,
+      "VIRAL_UNCATEGORIZED": 33,
+      "KNOWLEDGE_BASE": 6,
+      "TALENT_GROWTH": 9
+    }
+  },
+  "items": [
+    {
+      "name": "MstKail/polymarket-trading-bot-services-polyedge365",
+      "stars": 217,
+      "full_text": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365"
+    },
+    {
+      "name": "Thorntrorefinery/Autodesk-Revit-2026",
+      "stars": 107,
+      "full_text": "Autodesk Revit 2026 workflow — BIM models, sheets and coordination packages on Windows.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Thorntrorefinery/Autodesk-Revit-2026"
+    },
+    {
+      "name": "0xSero/glm-5.2-sm120",
+      "stars": 72,
+      "full_text": "GLM-5.2-NVFP4-REAP-469B serving on SM120 (4× RTX PRO 6000 Blackwell) — one-command vLLM launch recipe, 250K context, DeepSeek Sparse Attention + MTP speculative decode",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xSero/glm-5.2-sm120"
+    },
+    {
+      "name": "abdokhalil5555/AgenticDeFi-Trainer",
+      "stars": 43,
+      "full_text": "Autonomous AI Agent Swarm framework with x402 self-executing wallets. Empowers LLM-driven agents to trade, bridge, and manage crypto treasuries without human intervention. The ultimate Agentic DeFi toolkit for 2026.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/abdokhalil5555/AgenticDeFi-Trainer"
+    }
+  ]
+}
