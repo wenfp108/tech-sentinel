@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-22T19:43:14.811Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 38,
+      "TALENT_GROWTH": 1,
+      "TECH_ACCELERATOR": 9
+    }
+  },
+  "items": [
+    {
+      "name": "kanavtwtgg/birds.cafe",
+      "stars": 241,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/kanavtwtgg/birds.cafe"
+    },
+    {
+      "name": "HKUDS/AgentSpace",
+      "stars": 125,
+      "full_text": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HKUDS/AgentSpace"
+    },
+    {
+      "name": "jay0078-gif/Paralives-Ultimate-Trainer-2026",
+      "stars": 60,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jay0078-gif/Paralives-Ultimate-Trainer-2026"
+    },
+    {
+      "name": "nguyendang0106/Paralives-Ultimate-Trainer-2026",
+      "stars": 60,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nguyendang0106/Paralives-Ultimate-Trainer-2026"
+    },
+    {
+      "name": "githublsy/Arbitrum-Arbitrage-Bot-2026",
+      "stars": 60,
+      "full_text": "Free, open-source arbitrage bot for Arbitrum L2 – scans Uniswap V3, Camelot, PancakeSwap for profitable trades. Features MEV protection, flash loans, and Telegram alerts.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/githublsy/Arbitrum-Arbitrage-Bot-2026"
+    },
+    {
+      "name": "iam7cn/Paralives-Ultimate-Trainer-2026",
+      "stars": 60,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/iam7cn/Paralives-Ultimate-Trainer-2026"
+    },
+    {
+      "name": "faizhameed/Paralives-Ultimate-Trainer-2026",
+      "stars": 60,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/faizhameed/Paralives-Ultimate-Trainer-2026"
+    },
+    {
+      "name": "helena-maia/Arbitrum-Arbitrage-Bot-2026",
+      "stars": 60,
+      "full_text": "Free, open-source arbitrage bot for Arbitrum L2 – scans Uniswap V3, Camelot, PancakeSwap for profitable trades. Features MEV protection, flash loans, and Telegram alerts.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/helena-maia/Arbitrum-Arbitrage-Bot-2026"
+    },
+    {
+      "name": "Edouard-LARROCHE/Arbitrum-Arbitrage-Bot-2026",
+      "stars": 60,
+      "full_text": "Free, open-source arbitrage bot for Arbitrum L2 – scans Uniswap V3, Camelot, PancakeSwap for profitable trades. Features MEV protection, flash loans, and Telegram alerts.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Edouard-LARROCHE/Arbitrum-Arbitrage-Bot-2026"
+    },
+    {
+      "name": "Jackchen-code/Arbitrum-Arbitrage-Bot-2026",
+      "stars": 60,
+      "full_text": "Free, open-source arbitrage bot for Arbitrum L2 – scans Uniswap V3, Camelot, PancakeSwap for profitable trades. Features MEV protection, flash loans, and Telegram alerts.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Jackchen-code/Arbitrum-Arbitrage-Bot-2026"
+    },
+    {
+      "name": "seh4835/Arbitrum-Arbitrage-Bot-2026",
+      "stars": 60,
+      "full_text": "Free, open-source arbitrage bot for Arbitrum L2 – scans Uniswap V3, Camelot, PancakeSwap for profitable trades. Features MEV protection, flash loans, and Telegram alerts.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/seh4835/Arbitrum-Arbitrage-Bot-2026"
+    }
+  ]
+}
