@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-23T10:44:58.233Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 16,
+      "TALENT_GROWTH": 1,
+      "CAREER_MOVES": 1,
+      "CORE_PRAGMATISM": 1,
+      "TECH_ACCELERATOR": 4
+    }
+  },
+  "items": [
+    {
+      "name": "HKUDS/AgentSpace",
+      "stars": 237,
+      "full_text": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HKUDS/AgentSpace"
+    },
+    {
+      "name": "BohemiaInteractive/CWR",
+      "stars": 96,
+      "full_text": "Arma: Cold War Assault Remastered Source Code Repository.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BohemiaInteractive/CWR"
+    },
+    {
+      "name": "FieldofStrawberries/claude-code-fable-5-free-app",
+      "stars": 83,
+      "full_text": "claude fable 5 free api ai chatbot anthropic model chat online web api github download desktop client  access premium account login trial alternative prompt generative text ui version beta assistant",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/FieldofStrawberries/claude-code-fable-5-free-app"
+    },
+    {
+      "name": "pipilikam/pro-dc-reader-pdf-editor",
+      "stars": 83,
+      "full_text": " pro reader pdf editor converter merge split sign fill document ocr compress page extract form stamp comment tools creator software suite application desktop print scan digital secure web",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pipilikam/pro-dc-reader-pdf-editor"
+    },
+    {
+      "name": "trotsky1997/OpenFugu",
+      "stars": 56,
+      "full_text": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/trotsky1997/OpenFugu"
+    },
+    {
+      "name": "Simpl3x3/ESEILANE",
+      "stars": 53,
+      "full_text": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Simpl3x3/ESEILANE"
+    }
+  ]
+}
