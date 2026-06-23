@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-23T22:37:43.640Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 34,
+      "TECH_ACCELERATOR": 12,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "HKUDS/AgentSpace",
+      "stars": 294,
+      "full_text": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HKUDS/AgentSpace"
+    },
+    {
+      "name": "bozhouDev/codex-orange-book",
+      "stars": 258,
+      "full_text": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bozhouDev/codex-orange-book"
+    },
+    {
+      "name": "Sam50x/Paralives-Ultimate-Trainer-2026_v_2",
+      "stars": 160,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Sam50x/Paralives-Ultimate-Trainer-2026_v_2"
+    },
+    {
+      "name": "muneeb1097m/Paralives-Ultimate-Trainer-2026_v_2",
+      "stars": 160,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/muneeb1097m/Paralives-Ultimate-Trainer-2026_v_2"
+    },
+    {
+      "name": "M-S-ibrahim/Paralives-Ultimate-Trainer-2026_v_2",
+      "stars": 160,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/M-S-ibrahim/Paralives-Ultimate-Trainer-2026_v_2"
+    },
+    {
+      "name": "sanjoy9875/Paralives-Ultimate-Trainer-2026_v_2",
+      "stars": 160,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sanjoy9875/Paralives-Ultimate-Trainer-2026_v_2"
+    },
+    {
+      "name": "maatallah/Paralives-Ultimate-Trainer-2026_v_2",
+      "stars": 158,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/maatallah/Paralives-Ultimate-Trainer-2026_v_2"
+    },
+    {
+      "name": "The-Young-Swag/Paralives-Ultimate-Trainer-2026_v_2",
+      "stars": 156,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/The-Young-Swag/Paralives-Ultimate-Trainer-2026_v_2"
+    },
+    {
+      "name": "ma7mod7/Paralives-Ultimate-Trainer-2026_v_2",
+      "stars": 156,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ma7mod7/Paralives-Ultimate-Trainer-2026_v_2"
+    },
+    {
+      "name": "tuanvit/Paralives-Ultimate-Trainer-2026_v_2",
+      "stars": 156,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tuanvit/Paralives-Ultimate-Trainer-2026_v_2"
+    },
+    {
+      "name": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
+      "stars": 155,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/we9lii/Paralives-Ultimate-Trainer-2026_v_2"
+    },
+    {
+      "name": "marufboy/Paralives-Ultimate-Trainer-2026_v_2",
+      "stars": 154,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/marufboy/Paralives-Ultimate-Trainer-2026_v_2"
+    },
+    {
+      "name": "ar813/Paralives-Ultimate-Trainer-2026_v_2",
+      "stars": 154,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ar813/Paralives-Ultimate-Trainer-2026_v_2"
+    },
+    {
+      "name": "dfra9/Paralives-Ultimate-Trainer-2026_v_2",
+      "stars": 151,
+      "full_text": "Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dfra9/Paralives-Ultimate-Trainer-2026_v_2"
+    },
+    {
+      "name": "BohemiaInteractive/CWR",
+      "stars": 142,
+      "full_text": "Arma: Cold War Assault Remastered Source Code Repository.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BohemiaInteractive/CWR"
+    },
+    {
+      "name": "Johell1NS/browser-search",
+      "stars": 101,
+      "full_text": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Self-hosted, free, unlimited.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Johell1NS/browser-search"
+    }
+  ]
+}
