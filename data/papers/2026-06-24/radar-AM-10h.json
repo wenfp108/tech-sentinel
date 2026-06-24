@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-24T10:45:37.437Z",
+    "total_captured": 24,
+    "TRENDING_DIRECTIONS": [
+      "Limit (mathematics) (Heat:98)",
+      "Zero (linguistics) (Heat:78)",
+      "Metric (unit) (Heat:70)",
+      "Dimension (graph theory) (Heat:65)",
+      "Invariant (physics) (Heat:63)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 11,
+      "BIO_REVOLUTION": 14,
+      "AI_CORE": 4
+    }
+  },
+  "items": [
+    {
+      "title": "Large AdS black holes from QFT",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of the Korean Physical Society",
+      "metrics": {
+        "citations": 58,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s40042-026-01671-z.pdf",
+      "reason": "Velocity: 58 citations",
+      "publication_date": "2026-06-19"
+    },
+    {
+      "title": "The Minimal Discrete Geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 38,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19433595",
+      "reason": "Velocity: 38 citations",
+      "publication_date": "2026-06-21"
+    },
+    {
+      "title": "The Fractal Coupling Flow of the Minimal Discrete Épure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 20,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19630557",
+      "reason": "Velocity: 20 citations",
+      "publication_date": "2026-06-21"
+    },
+    {
+      "title": "Quantum State Preparation without Coherent Arithmetic",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical Review Letters",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2210.14892",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-06-18"
+    },
+    {
+      "title": "UGP Physics program — public Zenodo catalog",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20168144",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-06-21"
+    },
+    {
+      "title": "From Auditability to Redundant Records: Public Finality in a Consistency-Constrained Information History",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20724948",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-06-17"
+    },
+    {
+      "title": "Geometric Accretion Limits in Early Universe Supermassive Black Holes: A Falsifiable Prediction from Information Tension Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20776361",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-06-20"
+    },
+    {
+      "title": "Delayed Finality and the Black Hole Information Problem",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20728612",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-06-17"
+    },
+    {
+      "title": "A Generativist Reformulation of the Riemann Hypothesis: Self-Dual Emergence, Periodic Spectral Correspondence, and the Inevitability of the Critical Line 1/2",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20741956",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-06-18"
+    },
+    {
+      "title": "Beckers Collection (Aachen) - Ushabti UB-014: Ushabti of Hori I (Tell Basta)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19222672",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-06-18"
+    },
+    {
+      "title": "Topology as a Bridge: The Unification of the Discrete and the Continuous",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20769319",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-06-20"
+    },
+    {
+      "title": "The Yang-Mills Existence and Mass Gap: Non-Abelian Emergence and the Energy-Spectrum Signature of Topological Charge Locking",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20755554",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-06-19"
+    },
+    {
+      "title": "Form, Not Granted: A Sparse-Autoencoder Autopsy Shows the Agent's Commit-Locus 'Authorization Direction' Is a Surface-Form Artifact --- and an All-Layer Sweep Leaves the Deeper Question Open (v2)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20724650",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-06-17"
+    },
+    {
+      "title": "Versioned Meaning: How to Make Ontologies Audit-Stable",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18328587",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-06-18"
+    },
+    {
+      "title": "Records as Codes: Erasure-Correcting Redundancy, Broadcast Redundancy, and the Architecture of Recoverability",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20754985",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-06-19"
+    },
+    {
+      "title": "Vacuum Mechanics: How the Quaternion Finally Made the Standard Model Make Sense",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234951",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2029-03-26"
+    },
+    {
+      "title": "Triality and the Three Generations: Beyond Duality on the Minimal Discrete Épure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20790355",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-06-22"
+    },
+    {
+      "title": "The Wolf Boy and the Language Model: Model Collapse as Substrate-Agnostic Capacity Loss",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20751354",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-06-19"
+    },
+    {
+      "title": "The Missing Second Manuscript: Phase X as Philological Reconstruction of the Lost Transition in Marx's Economic and Philosophic Manuscripts of 1844 (EA-SEI-PHASEX-LACUNA-01 v1.1)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20737443",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-06-17"
+    },
+    {
+      "title": "The Observer as a Record-Bearing Subsystem",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20768174",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-06-20"
+    }
+  ]
+}
