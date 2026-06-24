@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-24T16:58:19.391Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TECH_ACCELERATOR": 5,
+      "CAREER_MOVES": 1,
+      "VIRAL_UNCATEGORIZED": 14,
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 4,
+      "KNOWLEDGE_BASE": 3,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "bozhouDev/codex-orange-book",
+      "stars": 839,
+      "full_text": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bozhouDev/codex-orange-book"
+    },
+    {
+      "name": "Valorant-AI/valorant-ai-aimbot-undetected",
+      "stars": 270,
+      "full_text": "Master Valorant with an undetectable AI aimbot and hardware-driven ESP overlay. Explore neural-network precision, Vanguard-safe external architecture, and humanized aiming algorithms designed for competitive dominance. Join our private Discord for instant access.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Valorant-AI/valorant-ai-aimbot-undetected"
+    },
+    {
+      "name": "goehou/tabbit-toy",
+      "stars": 241,
+      "full_text": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/goehou/tabbit-toy"
+    },
+    {
+      "name": "nova452/ComfyUI-ConditioningKrea2Rebalance",
+      "stars": 147,
+      "full_text": "A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance"
+    },
+    {
+      "name": "dama-cyber/Casting-Workflow",
+      "stars": 116,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dama-cyber/Casting-Workflow"
+    },
+    {
+      "name": "Simpl3x3/ESEILANE",
+      "stars": 105,
+      "full_text": "High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Simpl3x3/ESEILANE"
+    },
+    {
+      "name": "ObsidianOwl123/AgentLens",
+      "stars": 80,
+      "full_text": "Lightweight AI context compressor for LLM agents",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ObsidianOwl123/AgentLens"
+    },
+    {
+      "name": "entropykit/entropia",
+      "stars": 50,
+      "full_text": "A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/entropykit/entropia"
+    },
+    {
+      "name": "vancyland/DataClaw0",
+      "stars": 47,
+      "full_text": "DataClaw: Agentic Tailoring Multimodal Data from Raw Streams — coming soon (code, weights, dataset & DataClaw-val upon acceptance).",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/vancyland/DataClaw0"
+    },
+    {
+      "name": "SolidPondSwell/UmbrellaAssistant-Dota2",
+      "stars": 46,
+      "full_text": "Lightweight Dota 2 companion application with movement prediction, ability range visualization, vision status monitoring, last hit assistance, path suggestions, and real-time performance dashboard, umbrella assistant.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SolidPondSwell/UmbrellaAssistant-Dota2"
+    }
+  ]
+}
