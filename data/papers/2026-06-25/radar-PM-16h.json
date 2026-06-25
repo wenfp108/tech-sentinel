@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-25T16:52:30.868Z",
+    "total_captured": 24,
+    "TRENDING_DIRECTIONS": [
+      "Limit (mathematics) (Heat:98)",
+      "Zero (linguistics) (Heat:85)",
+      "Metric (unit) (Heat:70)",
+      "Dimension (graph theory) (Heat:65)",
+      "Entropy (arrow of time) (Heat:59)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 8,
+      "BIO_REVOLUTION": 16,
+      "AI_CORE": 3,
+      "SPACE_DEFENSE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Large AdS black holes from QFT",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of the Korean Physical Society",
+      "metrics": {
+        "citations": 58,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s40042-026-01671-z.pdf",
+      "reason": "Velocity: 58 citations",
+      "publication_date": "2026-06-19"
+    },
+    {
+      "title": "The Minimal Discrete Geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 38,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19433595",
+      "reason": "Velocity: 38 citations",
+      "publication_date": "2026-06-21"
+    },
+    {
+      "title": "The Fractal Coupling Flow of the Minimal Discrete Épure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 20,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19630557",
+      "reason": "Velocity: 20 citations",
+      "publication_date": "2026-06-21"
+    },
+    {
+      "title": "Quantum State Preparation without Coherent Arithmetic",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical Review Letters",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2210.14892",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-06-18"
+    },
+    {
+      "title": "UGP Physics program — public Zenodo catalog",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20168144",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-06-21"
+    },
+    {
+      "title": "Hochschild homology and the derived de Rham complex revisited",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Selecta Mathematica",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1007/s00029-026-01154-w",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-06-22"
+    },
+    {
+      "title": "Geometric Accretion Limits in Early Universe Supermassive Black Holes: A Falsifiable Prediction from Information Tension Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20776361",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-06-20"
+    },
+    {
+      "title": "Topology as a Bridge: The Unification of the Discrete and the Continuous",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20769319",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-06-20"
+    },
+    {
+      "title": "A Generativist Reformulation of the Riemann Hypothesis: Self-Dual Emergence, Periodic Spectral Correspondence, and the Inevitability of the Critical Line 1/2",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20741956",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-06-18"
+    },
+    {
+      "title": "Beckers Collection (Aachen) - Ushabti UB-014: Ushabti of Hori I (Tell Basta)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19222672",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-06-18"
+    },
+    {
+      "title": "Damping-Based Attitude Control of a Gyrostatic Satellite in Resistive Media",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.22055/jacm.2025.48699.5434",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-07-01"
+    },
+    {
+      "title": "BDPD⁰ — A Computational Laboratory for Generative Agents, Commons Dilemmas and More",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20813886",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-06-23"
+    },
+    {
+      "title": "The Yang-Mills Existence and Mass Gap: Non-Abelian Emergence and the Energy-Spectrum Signature of Topological Charge Locking",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20755554",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-06-19"
+    },
+    {
+      "title": "Hexad Computation: From Non-Abelian Emergence to a General Framework of Computation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20781861",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-06-21"
+    },
+    {
+      "title": "Versioned Meaning: How to Make Ontologies Audit-Stable",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18328587",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-06-18"
+    },
+    {
+      "title": "Records as Codes: Erasure-Correcting Redundancy, Broadcast Redundancy, and the Architecture of Recoverability",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20754985",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-06-19"
+    },
+    {
+      "title": "Vacuum Mechanics: How the Quaternion Finally Made the Standard Model Make Sense",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234951",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2029-03-26"
+    },
+    {
+      "title": "Triality and the Three Generations: Beyond Duality on the Minimal Discrete Épure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20790355",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-06-22"
+    },
+    {
+      "title": "The Wolf Boy and the Language Model: Model Collapse as Substrate-Agnostic Capacity Loss",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20751354",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-06-19"
+    },
+    {
+      "title": "A novel A-to-G mutation in circBDP1 alters adipocyte proliferation and differentiation and affects bovine carcass traits",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Zhejiang University SCIENCE B",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1631/jzus.b2500084",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-06-24"
+    }
+  ]
+}
