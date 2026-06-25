@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-25T10:45:53.759Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 9
+    }
+  },
+  "items": [
+    {
+      "name": "Yu9191/wloc",
+      "stars": 201,
+      "full_text": "Apple WLOC Location Spoofer",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Yu9191/wloc"
+    }
+  ]
+}
