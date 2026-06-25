@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-25T22:14:59.049Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 2,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 12,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "Yu9191/wloc",
+      "stars": 257,
+      "full_text": "Apple WLOC Location Spoofer",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Yu9191/wloc"
+    },
+    {
+      "name": "benchflow-ai/awesome-evals",
+      "stars": 243,
+      "full_text": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/benchflow-ai/awesome-evals"
+    },
+    {
+      "name": "PMTraderAdam/PMTraderAdam",
+      "stars": 229,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PMTraderAdam/PMTraderAdam"
+    },
+    {
+      "name": "samuto69/claude-ai-desktop-app",
+      "stars": 101,
+      "full_text": "free claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/samuto69/claude-ai-desktop-app"
+    },
+    {
+      "name": "FishCodeTech/muteki",
+      "stars": 67,
+      "full_text": "Project Muteki (無敵): autonomous multi-model CTF-solving AI agent swarm",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/FishCodeTech/muteki"
+    },
+    {
+      "name": "amplifthq/opentag",
+      "stars": 65,
+      "full_text": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/amplifthq/opentag"
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-25T22:15:00.146Z",
+    "total_captured": 20,
+    "TRENDING_DIRECTIONS": [
+      "Public health (Heat:145)",
+      "Epidemiology (Heat:102)",
+      "Limit (mathematics) (Heat:98)",
+      "Disease (Heat:98)",
+      "Class (philosophy) (Heat:94)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 2,
+      "STRATEGIC_ENERGY": 2,
+      "BIO_REVOLUTION": 13,
+      "PARADIGM_SHIFT": 1,
+      "AI_CORE": 3
+    }
+  },
+  "items": [
+    {
+      "title": "Large AdS black holes from QFT",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of the Korean Physical Society",
+      "metrics": {
+        "citations": 58,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s40042-026-01671-z.pdf",
+      "reason": "Velocity: 58 citations",
+      "publication_date": "2026-06-19"
+    },
+    {
+      "title": "Study 2 — Time-to-Guideline: Toxoplasma gondii and Psychiatry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 54,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20402623",
+      "reason": "Velocity: 54 citations",
+      "publication_date": "2026-06-24"
+    },
+    {
+      "title": "Closing the Mechanism Loop: A Unified Mechanistic Framework for Parasite-Associated Carcinogenesis",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 54,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20402672",
+      "reason": "Velocity: 54 citations",
+      "publication_date": "2026-06-24"
+    },
+    {
+      "title": "The Minimal Discrete Geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 38,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19433595",
+      "reason": "Velocity: 38 citations",
+      "publication_date": "2026-06-21"
+    },
+    {
+      "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 35,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3821637",
+      "reason": "Velocity: 35 citations",
+      "publication_date": "2026-06-23"
+    },
+    {
+      "title": "Study 13 — Cost-Effectiveness of Routine Toxoplasma gondii Serology at First-Episode Psychosis",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20402648",
+      "reason": "Velocity: 28 citations",
+      "publication_date": "2026-06-24"
+    },
+    {
+      "title": "Study 7 — Opisthorchis viverrini MDA and Cholangiocarcinoma Decline in Thailand: Interrupted Time Series",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20402636",
+      "reason": "Velocity: 28 citations",
+      "publication_date": "2026-06-24"
+    },
+    {
+      "title": "The Fractal Coupling Flow of the Minimal Discrete Épure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 20,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19630557",
+      "reason": "Velocity: 20 citations",
+      "publication_date": "2026-06-21"
+    },
+    {
+      "title": "Quantum State Preparation without Coherent Arithmetic",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical Review Letters",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2210.14892",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-06-18"
+    },
+    {
+      "title": "Plasmodium falciparum Malaria and Endemic Burkitt Lymphoma: A Systematic Review in IARC Monograph Format with Formal Evaluation for Reclassification from Group 2A to Group 1",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20402682",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-06-24"
+    },
+    {
+      "title": "UGP Physics program — public Zenodo catalog",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20168144",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-06-21"
+    },
+    {
+      "title": "Topology as a Bridge: The Unification of the Discrete and the Continuous",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20769319",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-06-20"
+    },
+    {
+      "title": "Ivermectin as a Direct Anti-Tumour Agent: Evidence, Mechanisms, and Application to Helminth-Associated Malignancies",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20402668",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-06-24"
+    },
+    {
+      "title": "Hochschild homology and the derived de Rham complex revisited",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Selecta Mathematica",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s00029-026-01154-w.pdf",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-06-22"
+    },
+    {
+      "title": "Geometric Accretion Limits in Early Universe Supermassive Black Holes: A Falsifiable Prediction from Information Tension Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20776361",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-06-20"
+    },
+    {
+      "title": "Standard Language Ideology in AI-Generated Language",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1145/3805689.3806504",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-06-23"
+    },
+    {
+      "title": "A Generativist Reformulation of the Riemann Hypothesis: Self-Dual Emergence, Periodic Spectral Correspondence, and the Inevitability of the Critical Line 1/2",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20741956",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-06-18"
+    },
+    {
+      "title": "Beckers Collection (Aachen) - Ushabti UB-014: Ushabti of Hori I (Tell Basta)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19222672",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-06-18"
+    },
+    {
+      "title": "Benzimidazole and Salicylanilide Antiparasitic Drugs as Repurposed Anti-Cancer Agents in Helminth-Associated Malignancies: A Mechanistic and Clinical Evidence Synthesis",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20402658",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-06-24"
+    },
+    {
+      "title": "Hexad Computation: From Non-Abelian Emergence to a General Framework of Computation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20781861",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-06-21"
+    }
+  ]
+}
