@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-27T16:30:15.756Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "TALENT_GROWTH": 5,
+      "VIRAL_UNCATEGORIZED": 16,
+      "KNOWLEDGE_BASE": 3,
+      "TECH_ACCELERATOR": 1,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "deepseek-ai/DeepSpec",
+      "stars": 261,
+      "full_text": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deepseek-ai/DeepSpec"
+    },
+    {
+      "name": "Pluviobyte/video-production-skills",
+      "stars": 259,
+      "full_text": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Pluviobyte/video-production-skills"
+    },
+    {
+      "name": "donoaccestag/boilerplates",
+      "stars": 55,
+      "full_text": "Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/donoaccestag/boilerplates"
+    },
+    {
+      "name": "hackonmon/agent-rules",
+      "stars": 54,
+      "full_text": "my personal agent rules and guidelines.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/hackonmon/agent-rules"
+    }
+  ]
+}
