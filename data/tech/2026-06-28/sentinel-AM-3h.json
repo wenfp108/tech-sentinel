@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-28T03:12:43.035Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 6,
+      "TALENT_GROWTH": 5,
+      "VIRAL_UNCATEGORIZED": 24,
+      "TECH_ACCELERATOR": 4,
+      "KNOWLEDGE_BASE": 6,
+      "CODE_LEVERAGE": 3
+    }
+  },
+  "items": [
+    {
+      "name": "deepseek-ai/DeepSpec",
+      "stars": 1124,
+      "full_text": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deepseek-ai/DeepSpec"
+    },
+    {
+      "name": "playPlumtown/Plumtown",
+      "stars": 354,
+      "full_text": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/playPlumtown/Plumtown"
+    },
+    {
+      "name": "Pluviobyte/video-production-skills",
+      "stars": 314,
+      "full_text": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Pluviobyte/video-production-skills"
+    },
+    {
+      "name": "xxniiinxx/coinflip-casino",
+      "stars": 237,
+      "full_text": "A full-stack, peer-to-peer coinflip betting game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB. ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xxniiinxx/coinflip-casino"
+    },
+    {
+      "name": "ivorpad/mercadona-cli",
+      "stars": 208,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ivorpad/mercadona-cli"
+    },
+    {
+      "name": "FossPrime/Steam-Controller-Auto-Charge",
+      "stars": 200,
+      "full_text": "Slam the controller into the magnetic puck until it charges",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge"
+    },
+    {
+      "name": "eli-labz/Godcoder",
+      "stars": 191,
+      "full_text": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/eli-labz/Godcoder"
+    },
+    {
+      "name": "donoaccestag/boilerplates",
+      "stars": 55,
+      "full_text": "Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/donoaccestag/boilerplates"
+    },
+    {
+      "name": "hackonmon/agent-rules",
+      "stars": 54,
+      "full_text": "my personal agent rules and guidelines.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/hackonmon/agent-rules"
+    },
+    {
+      "name": "zunmax/ritual-agent-deployment",
+      "stars": 53,
+      "full_text": "Deploy a recurring, self-funding sovereign AI agent on Ritual testnet with one command.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zunmax/ritual-agent-deployment"
+    },
+    {
+      "name": "MADEVAL/AngleCraft",
+      "stars": 46,
+      "full_text": "Turn dry expert topics into high-engagement content with 7+2 journalistic angle types. An AI skill for any LLM, any niche, any language.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MADEVAL/AngleCraft"
+    },
+    {
+      "name": "joelhooks/pi-bellwether",
+      "stars": 45,
+      "full_text": "Bellwether 🐏🔔 — Pi package for managing Herdr agents, panes, and runtime sessions from Pi",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/joelhooks/pi-bellwether"
+    },
+    {
+      "name": "VisitorBoost/website-traffic-generator",
+      "stars": 43,
+      "full_text": "Website Traffic Generator - An open-source Python tool for generating realistic website visitors with human behavior simulation, proxy rotation, and traffic source spoofing. Supports Google Analytics 4, custom referrers, multi-device fingerprinting, and concurrent headless browser sessions. Free SEO testing tool.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/VisitorBoost/website-traffic-generator"
+    }
+  ]
+}
