@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-28T21:25:29.866Z",
+    "session": "PM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 1,
+      "TALENT_GROWTH": 1,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 47,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "eli-labz/Godcoder",
+      "stars": 245,
+      "full_text": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/eli-labz/Godcoder"
+    },
+    {
+      "name": "VisitorBoost/website-traffic-generator",
+      "stars": 134,
+      "full_text": "Website Traffic Generator - An open-source Python tool for generating realistic website visitors with human behavior simulation, proxy rotation, and traffic source spoofing. Supports Google Analytics 4, custom referrers, multi-device fingerprinting, and concurrent headless browser sessions. Free SEO testing tool.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/VisitorBoost/website-traffic-generator"
+    }
+  ]
+}
