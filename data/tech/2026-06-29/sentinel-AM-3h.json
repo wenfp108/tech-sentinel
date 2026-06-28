@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-29T03:10:55.775Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 1,
+      "VIRAL_GIANT": 1,
+      "TALENT_GROWTH": 1,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 47
+    }
+  },
+  "items": [
+    {
+      "name": "eli-labz/Godcoder",
+      "stars": 245,
+      "full_text": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/eli-labz/Godcoder"
+    },
+    {
+      "name": "downclash/clash",
+      "stars": 229,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/downclash/clash"
+    }
+  ]
+}
