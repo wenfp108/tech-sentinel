@@ -1,0 +1,324 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-01T03:47:06.670Z",
+    "total_captured": 21,
+    "TRENDING_DIRECTIONS": [
+      "Public health (Heat:146)",
+      "Key (lock) (Heat:123)",
+      "Control (management) (Heat:119)",
+      "Epidemiology (Heat:103)",
+      "Quality (philosophy) (Heat:102)"
+    ],
+    "strategy_summary": {
+      "STRATEGIC_ENERGY": 2,
+      "BIO_REVOLUTION": 5,
+      "SPACE_DEFENSE": 1,
+      "NEXT_COMPUTING": 9,
+      "PARADIGM_SHIFT": 3,
+      "AI_CORE": 2
+    }
+  },
+  "items": [
+    {
+      "title": "Study 2 — Time-to-Guideline: Toxoplasma gondii and Psychiatry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 54,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20402623",
+      "reason": "Velocity: 54 citations",
+      "publication_date": "2026-06-24"
+    },
+    {
+      "title": "Closing the Mechanism Loop: A Unified Mechanistic Framework for Parasite-Associated Carcinogenesis",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 54,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20402672",
+      "reason": "Velocity: 54 citations",
+      "publication_date": "2026-06-24"
+    },
+    {
+      "title": "BU27 Microscopic Mean Vanishing and Orthogonal Covariance Cancellation under Dynamic Completeness and Single-Universe Boundary Consistency",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 47,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19632268",
+      "reason": "Velocity: 47 citations",
+      "publication_date": "2026-06-25"
+    },
+    {
+      "title": "Observation as Access: A Quantum Traction Theory Dissolution of the Measurement Problem",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 38,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20114403",
+      "reason": "Velocity: 38 citations",
+      "publication_date": "2026-06-26"
+    },
+    {
+      "title": "Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 35,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3821637",
+      "reason": "Velocity: 35 citations",
+      "publication_date": "2026-06-23"
+    },
+    {
+      "title": "Quality Engineering for Intelligence (Verification Intelligence series, Paper 3 of 12)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 34,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20973203",
+      "reason": "Velocity: 34 citations",
+      "publication_date": "2026-06-27"
+    },
+    {
+      "title": "The Recursive Hallucination Principle (Verification Intelligence series, Paper 2 of 12)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 34,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20973201",
+      "reason": "Velocity: 34 citations",
+      "publication_date": "2026-06-27"
+    },
+    {
+      "title": "Verification Intelligence (Verification Intelligence series, Paper 4 of 12)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 34,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20973205",
+      "reason": "Velocity: 34 citations",
+      "publication_date": "2026-06-27"
+    },
+    {
+      "title": "The Verification Substrate (Verification Intelligence series, Paper 5 of 12)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 34,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20973207",
+      "reason": "Velocity: 34 citations",
+      "publication_date": "2026-06-27"
+    },
+    {
+      "title": "The Verification Benchmarking Standard (Verification Intelligence series, Paper 11 of 12)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 31,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20973219",
+      "reason": "Velocity: 31 citations",
+      "publication_date": "2026-06-27"
+    },
+    {
+      "title": "Beyond AGI (Verification Intelligence series, Paper 8 of 12)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 31,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20973213",
+      "reason": "Velocity: 31 citations",
+      "publication_date": "2026-06-27"
+    },
+    {
+      "title": "Study 13 — Cost-Effectiveness of Routine Toxoplasma gondii Serology at First-Episode Psychosis",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20402648",
+      "reason": "Velocity: 28 citations",
+      "publication_date": "2026-06-24"
+    },
+    {
+      "title": "Discrete Geometric Physics. Volume 1: Computational Topodynamics of Media. Volume 2: From Chaos to Infinity. — Complete Theory in a Single Document",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20966653",
+      "reason": "Velocity: 28 citations",
+      "publication_date": "2026-06-27"
+    },
+    {
+      "title": "Study 7 — Opisthorchis viverrini MDA and Cholangiocarcinoma Decline in Thailand: Interrupted Time Series",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20402636",
+      "reason": "Velocity: 28 citations",
+      "publication_date": "2026-06-24"
+    },
+    {
+      "title": "Plasmodium falciparum Malaria and Endemic Burkitt Lymphoma: A Systematic Review in IARC Monograph Format with Formal Evaluation for Reclassification from Group 2A to Group 1",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20402682",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-06-26"
+    },
+    {
+      "title": "A Course in Interacting Particle Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Cambridge University Press eBooks",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/1703.10007",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-06-26"
+    },
+    {
+      "title": "Hamilton's Principle, Feynman's Path Integral, and the Action Quantum h = 2πℏ as Capacity-Rotor Theorems: A Parameter-Free Derivation from QTT Axioms A1--A7U",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20098143",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-06-26"
+    },
+    {
+      "title": "Ivermectin as a Direct Anti-Tumour Agent: Evidence, Mechanisms, and Application to Helminth-Associated Malignancies",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20402668",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-06-24"
+    },
+    {
+      "title": "From Rotor to Wavefunction: How Schrödinger's Cat Is Gone",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20119662",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-06-26"
+    },
+    {
+      "title": "Graph Neural Networks in EEG-Based Emotion Recognition: A Survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Lecture notes in computer science",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2402.01138",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-06-24"
+    }
+  ]
+}
