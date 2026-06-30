@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-06-30T17:24:20.294Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 16,
+      "TECH_ACCELERATOR": 3
+    }
+  },
+  "items": [
+    {
+      "name": "TianhangZhuzth/Fundamental-Ava",
+      "stars": 211,
+      "full_text": "Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava"
+    },
+    {
+      "name": "yashkhatri45/Meccha-Chameleon-Trainer-Mod-Overlay",
+      "stars": 120,
+      "full_text": "Windows external trainer for MECCHA CHAMELEON on Steam — auto camo, unlimited paint, god mode hider, seeker vision, pose lock, no-clip, and overlay controls for 2–10 player hide-and-seek lobbies.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yashkhatri45/Meccha-Chameleon-Trainer-Mod-Overlay"
+    },
+    {
+      "name": "SteelProductionPivot/MECCHA-CHAMELEON-VISION",
+      "stars": 84,
+      "full_text": "🦎 Meccha-Vision – visual enhancement tool for MECCHA CHAMELEON with ESP wallhack, aimbot, fly hack, teleport, god mode, and more. Dominate the hide-and-seek battlefield!",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SteelProductionPivot/MECCHA-CHAMELEON-VISION"
+    },
+    {
+      "name": "xuanxuan321/xuanxuan-prompts",
+      "stars": 57,
+      "full_text": "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/xuanxuan321/xuanxuan-prompts"
+    },
+    {
+      "name": "Praxis-Society/praxis-cloak",
+      "stars": 44,
+      "full_text": "On-device PII scrub + rehydration for cloud LLMs — chat with Claude/GPT while a local model swaps your PII out before the prompt is sent, then maps the answer back to your real entities. Built with Qwen.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Praxis-Society/praxis-cloak"
+    }
+  ]
+}
