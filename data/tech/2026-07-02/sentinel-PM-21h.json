@@ -1,0 +1,521 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-02T21:46:54.001Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 47,
+      "TECH_ACCELERATOR": 3,
+      "KNOWLEDGE_BASE": 6,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "asz798838958/FrciblyK12",
+      "stars": 269,
+      "full_text": "多线程全自动注册free 强上K12空间",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/asz798838958/FrciblyK12"
+    },
+    {
+      "name": "vidhitam/Data_Recovery",
+      "stars": 262,
+      "full_text": "Recover accidentally deleted files from HDD, SSD, USB, and memory cards. Quick and deep scan modes.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vidhitam/Data_Recovery"
+    },
+    {
+      "name": "smileyprathu/Color_Picker",
+      "stars": 261,
+      "full_text": "Pick colors from anywhere on screen, get hex/RGB values, and build color palettes. Perfect for designers.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/smileyprathu/Color_Picker"
+    },
+    {
+      "name": "JokiTsien/App_Store_Play_Store_Review_Bot",
+      "stars": 261,
+      "full_text": "Auto-post reviews and ratings for apps on Google Play and Apple App Store. Boost app rankings and credibility.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/JokiTsien/App_Store_Play_Store_Review_Bot"
+    },
+    {
+      "name": "CaptainCodex/Among_Us_Ghost_Mode",
+      "stars": 261,
+      "full_text": "See all roles, tasks, and chat logs in Among Us. Ghost vision, task tracker, role reveal, and chat logger. Host or client.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CaptainCodex/Among_Us_Ghost_Mode"
+    },
+    {
+      "name": "subairnifras/Audio_Equalizer__System-wide_",
+      "stars": 261,
+      "full_text": "System-wide audio equalizer with presets for music, movies, gaming, and custom bands. Enhance your sound experience.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/subairnifras/Audio_Equalizer__System-wide_"
+    },
+    {
+      "name": "sagarbabu9/Docker_Container_Manager",
+      "stars": 261,
+      "full_text": "Manage Docker containers, images, volumes, and networks with a simple GUI. Start, stop, restart, and view logs. Perfect for local development.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sagarbabu9/Docker_Container_Manager"
+    },
+    {
+      "name": "mariusboiti/Clipboard_Sync",
+      "stars": 260,
+      "full_text": "Sync clipboard content across multiple devices (PC, Android, iOS) via cloud. Share text, images, and files instantly.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mariusboiti/Clipboard_Sync"
+    },
+    {
+      "name": "dev-shamsali/Evade_-_Auto-Dodge___ESP",
+      "stars": 260,
+      "full_text": "Auto-dodge and ESP for Evade, the 3D nextbots survival game with 8.7 billion visits[reference:24]. Automatically dodge nextbots, see them through walls, and survive every round.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dev-shamsali/Evade_-_Auto-Dodge___ESP"
+    },
+    {
+      "name": "fadilr8/Bluesky_Auto-Reply___Like_Bot",
+      "stars": 260,
+      "full_text": "Automatically like and reply to posts on Bluesky. Boost engagement and connect with other users.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/fadilr8/Bluesky_Auto-Reply___Like_Bot"
+    },
+    {
+      "name": "Kr3n3r/ARC_Raiders_ESP___Aimbot",
+      "stars": 260,
+      "full_text": "ESP, aimbot, and radar hack for ARC Raiders (upcoming). See enemies, loot, and objectives through walls. Dominate the battlefield.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Kr3n3r/ARC_Raiders_ESP___Aimbot"
+    },
+    {
+      "name": "kishorekarthck/Discord_Server_Backup___Archive_Tool",
+      "stars": 260,
+      "full_text": "Backup entire Discord servers: save channels, messages, files, and member list. Archive your community data securely.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/kishorekarthck/Discord_Server_Backup___Archive_Tool"
+    },
+    {
+      "name": "31harihhh-jkn/DNS_Benchmark_Tool",
+      "stars": 260,
+      "full_text": "Test and benchmark DNS servers to find the fastest one for your location. Improve your internet browsing speed.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/31harihhh-jkn/DNS_Benchmark_Tool"
+    },
+    {
+      "name": "asistentededireccion-cmd/Doors_-_Auto-Survive___ESP",
+      "stars": 260,
+      "full_text": "Auto-survive and ESP for Doors, the horror game with daily runs. See all entities through walls, auto-heal, and survive every floor.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/asistentededireccion-cmd/Doors_-_Auto-Survive___ESP"
+    },
+    {
+      "name": "mysghiii/Email_Extractor",
+      "stars": 260,
+      "full_text": "Extract email addresses from websites, social media, and text files. Find leads for marketing campaigns.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mysghiii/Email_Extractor"
+    },
+    {
+      "name": "honorharger/DNS_Flusher",
+      "stars": 260,
+      "full_text": "Flush DNS cache, renew IP, and reset network settings. Fix DNS errors and improve internet connectivity.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/honorharger/DNS_Flusher"
+    },
+    {
+      "name": "Zahid275/Clair_Obscur__Expedition_33_Trainer",
+      "stars": 260,
+      "full_text": "Unlimited health, mana, and resources for Clair Obscur: Expedition 33. God mode, infinite items, and max experience. Dominate the turn-based battles.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Zahid275/Clair_Obscur__Expedition_33_Trainer"
+    },
+    {
+      "name": "buildsbyShlok/Berry_Avenue_RP_-_Auto-Farm___Money_Hack",
+      "stars": 260,
+      "full_text": "Auto-farm and money hack for Berry Avenue RP, the popular roleplay game. Farm money, unlock all houses and vehicles, and dominate the social experience.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/buildsbyShlok/Berry_Avenue_RP_-_Auto-Farm___Money_Hack"
+    },
+    {
+      "name": "scolwell/Captcha_Solver_AI",
+      "stars": 260,
+      "full_text": "Automatically solve text, image, and audio CAPTCHAs using AI. Supports reCAPTCHA, hCaptcha, and custom CAPTCHAs.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/scolwell/Captcha_Solver_AI"
+    },
+    {
+      "name": "zizou47/Command_Runner",
+      "stars": 260,
+      "full_text": "Run batch scripts, commands, and PowerShell scripts quickly. Save and reuse command sets.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/zizou47/Command_Runner"
+    },
+    {
+      "name": "lightningnull/Discord_Auto-Reaction___Moderation_Bot",
+      "stars": 260,
+      "full_text": "Automatically add reactions to messages and perform basic moderation (delete spam, warn users) on Discord servers.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lightningnull/Discord_Auto-Reaction___Moderation_Bot"
+    },
+    {
+      "name": "anilkumar7717/Dress_to_Impress_-_Auto-Vote___Fashion_Helper",
+      "stars": 260,
+      "full_text": "Auto-vote and fashion helper for Dress to Impress, the fashion competition game with the highest approval rating on the chart (70K-100K concurrent)[reference:15]. Get votes, unlock all items, and win every round.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/anilkumar7717/Dress_to_Impress_-_Auto-Vote___Fashion_Helper"
+    },
+    {
+      "name": "ogbeatzofficial1-lab/Brookhaven_RP_-_Auto_Farm___Money_Hack",
+      "stars": 259,
+      "full_text": "Ultimate trainer for Brookhaven RP, the most visited Roblox game with over 83 billion visits[reference:6][reference:7]. Automate money farming, unlock all houses and vehicles, and get unlimited in-game currency. Dominate the social roleplay experience.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ogbeatzofficial1-lab/Brookhaven_RP_-_Auto_Farm___Money_Hack"
+    },
+    {
+      "name": "johndev-robo/Color_Picker_with_Palette_Builder",
+      "stars": 259,
+      "full_text": "Pick colors from anywhere on screen, get Hex, RGB, HSL, and CMYK values. Build, save, and export color palettes for design projects.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/johndev-robo/Color_Picker_with_Palette_Builder"
+    },
+    {
+      "name": "Sarmadk20/Call_of_Duty__Warzone_Wallhack___Aimbot",
+      "stars": 259,
+      "full_text": "ESP, aimbot, and loot filter for Warzone 2.0. See enemies through walls, auto-aim, and highlight rare loot. Dominate Al Mazrah.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Sarmadk20/Call_of_Duty__Warzone_Wallhack___Aimbot"
+    },
+    {
+      "name": "Leonard-Anike/Catalog_Avatar_Creator_-_Unlimited_Robux___Items",
+      "stars": 259,
+      "full_text": "Unlimited Robux and items for Catalog Avatar Creator, the avatar customization game with 7 billion visits[reference:27]. Unlock all clothing, accessories, and create the perfect avatar.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Leonard-Anike/Catalog_Avatar_Creator_-_Unlimited_Robux___Items"
+    },
+    {
+      "name": "ahmadqalbi1991/Counter-Strike_2_TriggerBot___Glow_ESP",
+      "stars": 259,
+      "full_text": "Glow ESP, triggerbot, and aim assist for CS2. Highlight enemies through walls, auto-fire, and zero recoil. Anti-VAC bypass included.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ahmadqalbi1991/Counter-Strike_2_TriggerBot___Glow_ESP"
+    },
+    {
+      "name": "hanyusok/Environment_Variables_Editor",
+      "stars": 259,
+      "full_text": "Easily edit system and user environment variables. Add, remove, and modify PATH, and other variables. Validate entries and avoid duplicates.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hanyusok/Environment_Variables_Editor"
+    },
+    {
+      "name": "rayenamor434-max/Death_Stranding_2__On_the_Beach_Trainer",
+      "stars": 259,
+      "full_text": "Unlimited resources, stamina, and all structures for Death Stranding 2. Build ziplines, roads, and bridges instantly. Never tire and carry infinite weight.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rayenamor434-max/Death_Stranding_2__On_the_Beach_Trainer"
+    },
+    {
+      "name": "itz-rynx/Disk_Space_Visualizer",
+      "stars": 259,
+      "full_text": "Visualize disk space usage with interactive charts and maps. Quickly identify space hogs.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/itz-rynx/Disk_Space_Visualizer"
+    },
+    {
+      "name": "rogerdeveloper2009/Certificate_Manager",
+      "stars": 259,
+      "full_text": "Manage digital certificates: view, export, import, and delete. Monitor certificate expiration and generate self-signed certificates for development.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rogerdeveloper2009/Certificate_Manager"
+    },
+    {
+      "name": "Jabrail-Atakishiyev/Bluesky_Auto-Poster___Follow_Bot",
+      "stars": 259,
+      "full_text": "Automate posts and follows on Bluesky (AT Protocol). Schedule skeets, follow users, and engage with the decentralized social network.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Jabrail-Atakishiyev/Bluesky_Auto-Poster___Follow_Bot"
+    },
+    {
+      "name": "Ian-Kiprotich/Code_Formatter___Beautifier",
+      "stars": 259,
+      "full_text": "Automatically format and beautify code in various languages: Python, JavaScript, HTML, CSS, JSON, and more. Supports configurable indentation, spacing, and line wrapping.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Ian-Kiprotich/Code_Formatter___Beautifier"
+    },
+    {
+      "name": "asad7coder/Boot_Time_Manager",
+      "stars": 259,
+      "full_text": "Analyze and reduce Windows boot time. See which drivers and services delay startup, and manage them easily. Speed up your computer.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/asad7coder/Boot_Time_Manager"
+    },
+    {
+      "name": "ItsUnknown555/Dandy_s_World_-_Auto-Survive___ESP",
+      "stars": 259,
+      "full_text": "Auto-survive and ESP for Dandy's World, the horror survival game. See all monsters through walls, auto-heal, and survive every floor.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ItsUnknown555/Dandy_s_World_-_Auto-Survive___ESP"
+    },
+    {
+      "name": "hadiaimran1090/Duplicate_File_Cleaner",
+      "stars": 259,
+      "full_text": "Find and remove duplicate files by content, name, or size. Free up disk space efficiently.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hadiaimran1090/Duplicate_File_Cleaner"
+    },
+    {
+      "name": "didulos/Blue_Lock_Rivals_-_Auto-Farm___Aimbot",
+      "stars": 259,
+      "full_text": "Auto-farm and aimbot for Blue Lock Rivals, the anime-inspired soccer competition[reference:36][reference:37]. Farm points, score goals, and dominate the field.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/didulos/Blue_Lock_Rivals_-_Auto-Farm___Aimbot"
+    },
+    {
+      "name": "waruna834/API_Client___Tester",
+      "stars": 259,
+      "full_text": "Complete API testing tool for REST, GraphQL, and WebSocket. Send requests, inspect responses, and save collections. Similar to Postman but lightweight.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/waruna834/API_Client___Tester"
+    },
+    {
+      "name": "OsamaBinShah1/Baldur_s_Gate_3_Cheat_Collection",
+      "stars": 259,
+      "full_text": "Unlimited gold, all spells, dice roll manipulator, and infinite health for BG3. Always roll a 20, max level, and party never dies.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/OsamaBinShah1/Baldur_s_Gate_3_Cheat_Collection"
+    },
+    {
+      "name": "developerayush01/Facebook_Auto-Comment_Reply___Moderation",
+      "stars": 258,
+      "full_text": "Automatically reply to comments on Facebook posts and moderate discussions. Keep your page engaging and spam-free.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/developerayush01/Facebook_Auto-Comment_Reply___Moderation"
+    },
+    {
+      "name": "Tonnyspiel/Easy_Backup_Scheduler",
+      "stars": 258,
+      "full_text": "Schedule automatic backups of folders to external drives, network shares, or cloud. Simple interface with multiple profiles.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Tonnyspiel/Easy_Backup_Scheduler"
+    },
+    {
+      "name": "mohitsengarr/Facebook_Auto-Poster",
+      "stars": 256,
+      "full_text": "Automatically post content to Facebook groups, pages, and profiles. Schedule posts, add images/videos, and engage with comments.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mohitsengarr/Facebook_Auto-Poster"
+    },
+    {
+      "name": "thetechbox8-lgtm/File_Renamer",
+      "stars": 256,
+      "full_text": "Batch rename files with powerful rules: add prefix/suffix, replace text, renumber, and use metadata.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/thetechbox8-lgtm/File_Renamer"
+    },
+    {
+      "name": "jiu-hyun/Instagram_Story_Viewer___Downloader",
+      "stars": 255,
+      "full_text": "View and download Instagram stories anonymously. Download highlights, reels, and profile pictures. No account needed.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jiu-hyun/Instagram_Story_Viewer___Downloader"
+    },
+    {
+      "name": "freddyjmp/File_Merger___Splitter",
+      "stars": 255,
+      "full_text": "Merge multiple files into one, or split a large file into smaller parts. Useful for managing large files or joining split archives.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/freddyjmp/File_Merger___Splitter"
+    },
+    {
+      "name": "FelinGG/Instagram_Auto-Comment_Filter__Spam_Remover_",
+      "stars": 255,
+      "full_text": "Automatically hide or delete spam comments on your Instagram posts. Keep your comment section clean and professional.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/FelinGG/Instagram_Auto-Comment_Filter__Spam_Remover_"
+    },
+    {
+      "name": "nawras15/File_Integrity_Checker",
+      "stars": 255,
+      "full_text": "Check integrity of files by computing and verifying hashes (MD5, SHA1, SHA256). Detect file corruption and ensure data integrity.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/nawras15/File_Integrity_Checker"
+    },
+    {
+      "name": "Poulomijana/Genshin_Impact_Auto-Farm___Primogem_Collector",
+      "stars": 255,
+      "full_text": "Auto-farm, auto-quest, and primogem collector for Genshin Impact. Farm mobs, chests, and complete daily commissions automatically.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Poulomijana/Genshin_Impact_Auto-Farm___Primogem_Collector"
+    },
+    {
+      "name": "AbishakeC/Escape_from_Tarkov_ESP___Radar",
+      "stars": 255,
+      "full_text": "ESP and radar hack for Escape from Tarkov. See players, loot, and exits through walls. Avoid ambushes and extract successfully.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AbishakeC/Escape_from_Tarkov_ESP___Radar"
+    },
+    {
+      "name": "jgallego001/Hex_Editor",
+      "stars": 255,
+      "full_text": "View and edit raw binary data with a powerful hex editor. Search, replace, modify bytes, and parse data structures. Essential for reverse engineering and debugging.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jgallego001/Hex_Editor"
+    }
+  ]
+}
