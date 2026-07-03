@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-04T03:11:08.673Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "CODE_LEVERAGE": 3,
+      "TECH_ACCELERATOR": 5,
+      "CORE_PRAGMATISM": 2,
+      "VIRAL_UNCATEGORIZED": 12,
+      "TALENT_GROWTH": 3,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "xuchonglang/investing-for-beginners",
+      "stars": 454,
+      "full_text": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xuchonglang/investing-for-beginners"
+    },
+    {
+      "name": "uzairansaruzi/hermex",
+      "stars": 405,
+      "full_text": "Native iPhone app for your Hermes agent",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/uzairansaruzi/hermex"
+    },
+    {
+      "name": "asz798838958/FrciblyK12",
+      "stars": 377,
+      "full_text": "多线程全自动注册free 强上K12空间",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/asz798838958/FrciblyK12"
+    },
+    {
+      "name": "jmerelnyc/Talos",
+      "stars": 265,
+      "full_text": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jmerelnyc/Talos"
+    },
+    {
+      "name": "LinXiaoTao/FuckClaude",
+      "stars": 247,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LinXiaoTao/FuckClaude"
+    },
+    {
+      "name": "frecodecasti/gem5-branchpred",
+      "stars": 233,
+      "full_text": "This is an read-only mirror of the gem5 simulator. The upstream repository is stored in https://gem5.googlesource.com, code reviews should be submitted to https://gem5-review.googlesource.com/. The mirrors are synchronized every 15 minutes.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/frecodecasti/gem5-branchpred"
+    },
+    {
+      "name": "rolekkona/bghira-bark",
+      "stars": 232,
+      "full_text": "A 🍴 of a 🔊 Text-Prompted Generative Audio Model",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rolekkona/bghira-bark"
+    },
+    {
+      "name": "SuperJJ007/CSswitch",
+      "stars": 162,
+      "full_text": "让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通义千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SuperJJ007/CSswitch"
+    },
+    {
+      "name": "jamesob/local-llm",
+      "stars": 136,
+      "full_text": "Everything I know about running LLMs locally",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jamesob/local-llm"
+    },
+    {
+      "name": "tomicz/fable-5-train-opus-skills-after-it-retires",
+      "stars": 88,
+      "full_text": "Thsis is a prompt that will create skills by Fable 5 before it retires and your cheaper models can use those skills. ",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tomicz/fable-5-train-opus-skills-after-it-retires"
+    },
+    {
+      "name": "amitshekhariitbhu/ai-agents-tutorial",
+      "stars": 48,
+      "full_text": "Learn AI Agents step by step, from scratch - from function calling to agent loops to multi-agent systems, orchestration, and evaluation.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/amitshekhariitbhu/ai-agents-tutorial"
+    },
+    {
+      "name": "NX-AI/tirex-2",
+      "stars": 45,
+      "full_text": "TiRex-2: A Zero-Shot Timeseries Forecasting Model",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NX-AI/tirex-2"
+    },
+    {
+      "name": "lingbol088-spec/ReiPenFlow",
+      "stars": 44,
+      "full_text": "Codex skill for local sandbox, CTF, authorized pentest and reverse-engineering workflows.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lingbol088-spec/ReiPenFlow"
+    }
+  ]
+}
