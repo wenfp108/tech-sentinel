@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-03T21:51:32.405Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "CODE_LEVERAGE": 2,
+      "CORE_PRAGMATISM": 5,
+      "TECH_ACCELERATOR": 9,
+      "VIRAL_UNCATEGORIZED": 26,
+      "TALENT_GROWTH": 3,
+      "KNOWLEDGE_BASE": 3
+    }
+  },
+  "items": [
+    {
+      "name": "asz798838958/FrciblyK12",
+      "stars": 368,
+      "full_text": "多线程全自动注册free 强上K12空间",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/asz798838958/FrciblyK12"
+    },
+    {
+      "name": "xuchonglang/investing-for-beginners",
+      "stars": 364,
+      "full_text": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xuchonglang/investing-for-beginners"
+    },
+    {
+      "name": "uzairansaruzi/hermex",
+      "stars": 331,
+      "full_text": "Native iPhone app for your Hermes agent",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/uzairansaruzi/hermex"
+    },
+    {
+      "name": "LinXiaoTao/FuckClaude",
+      "stars": 202,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LinXiaoTao/FuckClaude"
+    },
+    {
+      "name": "frecodecasti/gem5-branchpred",
+      "stars": 180,
+      "full_text": "This is an read-only mirror of the gem5 simulator. The upstream repository is stored in https://gem5.googlesource.com, code reviews should be submitted to https://gem5-review.googlesource.com/. The mirrors are synchronized every 15 minutes.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/frecodecasti/gem5-branchpred"
+    },
+    {
+      "name": "rolekkona/bghira-bark",
+      "stars": 178,
+      "full_text": "A 🍴 of a 🔊 Text-Prompted Generative Audio Model",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rolekkona/bghira-bark"
+    },
+    {
+      "name": "SuperJJ007/CSswitch",
+      "stars": 153,
+      "full_text": "让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通义千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SuperJJ007/CSswitch"
+    },
+    {
+      "name": "Axisflucharge/FC-25-Mod-Manager",
+      "stars": 101,
+      "full_text": "🎯 FC-25-Mod-Manager – complete mod management solution for EA Sports FC 25. Features drag & drop import, load order control, conflict detection, mod store browser, BepInEx manager, and live editor. Simplify your modding experience!",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Axisflucharge/FC-25-Mod-Manager"
+    },
+    {
+      "name": "SeVipl8/Silent-Crypto-Miner",
+      "stars": 90,
+      "full_text": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SeVipl8/Silent-Crypto-Miner"
+    },
+    {
+      "name": "tomicz/fable-5-train-opus-skills-after-it-retires",
+      "stars": 79,
+      "full_text": "Thsis is a prompt that will create skills by Fable 5 before it retires and your cheaper models can use those skills. ",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tomicz/fable-5-train-opus-skills-after-it-retires"
+    },
+    {
+      "name": "larden5988/RDR2-Menu-PC-2026-Version",
+      "stars": 71,
+      "full_text": "Advanced instrumentation and spatial coordination framework designed for isolated sandbox evaluation, featuring custom memory allocation tracking, real-time vector matrix manipulation, and runtime UI component overlays.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/larden5988/RDR2-Menu-PC-2026-Version"
+    },
+    {
+      "name": "caeradorable269/FPS-Tweak-PC-Version-2026",
+      "stars": 71,
+      "full_text": "Advanced system telemetry and performance optimization suite featuring high-precision frame pacing filters, CPU core affinity orchestration, and automated graphics runtime priority hooks.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/caeradorable269/FPS-Tweak-PC-Version-2026"
+    },
+    {
+      "name": "brisbigcarl6115/Sounpad-Pro-Version-PC-2026",
+      "stars": 70,
+      "full_text": "Professional real-time audio playback routing framework featuring dynamic voice-chat virtualization, low-latency device driver level hooks, and synchronized hotkey macro configurations.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/brisbigcarl6115/Sounpad-Pro-Version-PC-2026"
+    },
+    {
+      "name": "Oft3r/agentic-trading-desk",
+      "stars": 65,
+      "full_text": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend · Momentum · Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Oft3r/agentic-trading-desk"
+    },
+    {
+      "name": "ArcticWolfXZ/claude-desktop-fable-51-macos",
+      "stars": 49,
+      "full_text": "Unlock the hidden Claude Fable 5.1 model on macOS",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ArcticWolfXZ/claude-desktop-fable-51-macos"
+    },
+    {
+      "name": "usaid-anxari/Telegram_Custom_Bot__No-Code_Builder_",
+      "stars": 45,
+      "full_text": "Build Telegram bots without coding. Use drag-and-drop interface to create commands, responses, and workflows. Perfect for non-developers.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/usaid-anxari/Telegram_Custom_Bot__No-Code_Builder_"
+    },
+    {
+      "name": "devakbarg/Smart_Disk_Defragmenter___Optimizer",
+      "stars": 44,
+      "full_text": "Defragment and optimize your hard drive using AI algorithms. Analyze usage patterns to arrange files for fastest access. Works with HDD, SSD, and NVMe drives.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/devakbarg/Smart_Disk_Defragmenter___Optimizer"
+    },
+    {
+      "name": "Sierra-Nichmanel/AI_Desktop_Assistant__Local_LLM_Agent_",
+      "stars": 44,
+      "full_text": "A powerful AI assistant that runs locally on your PC. Automate complex tasks: analyze files, draft emails, write code, schedule meetings, and control applications using natural language commands. No cloud dependency — full privacy.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Sierra-Nichmanel/AI_Desktop_Assistant__Local_LLM_Agent_"
+    },
+    {
+      "name": "anonimosptzs-sys/Real-Time_System_Monitor__Overlay_",
+      "stars": 44,
+      "full_text": "Display real-time system metrics on your screen or game overlay. Monitor CPU, GPU, RAM usage, temperature, and FPS while gaming or working.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/anonimosptzs-sys/Real-Time_System_Monitor__Overlay_"
+    }
+  ]
+}
