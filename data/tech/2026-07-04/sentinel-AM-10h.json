@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-04T10:26:38.360Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 1,
+      "VIRAL_UNCATEGORIZED": 17,
+      "PARADIGM_SHIFT": 1,
+      "CODE_LEVERAGE": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "xuchonglang/investing-for-beginners",
+      "stars": 485,
+      "full_text": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xuchonglang/investing-for-beginners"
+    },
+    {
+      "name": "jamesob/local-llm",
+      "stars": 356,
+      "full_text": "Everything I know about running LLMs locally",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jamesob/local-llm"
+    },
+    {
+      "name": "loyal-studio/Honami-Animation-System",
+      "stars": 48,
+      "full_text": "Honami Animation System is a complete, from-scratch alternative to Unity's built-in Animator. Designed for Unity 6, it gives you a powerful node-graph editor, built-in procedural rigging and seamless Timeline integration - all at zero runtime allocation cost.",
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/loyal-studio/Honami-Animation-System"
+    },
+    {
+      "name": "akseolabs-seo/fable-soul",
+      "stars": 45,
+      "full_text": "A judgment layer for AI coding agents - make your AI think, verify, and communicate like a senior engineer",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/akseolabs-seo/fable-soul"
+    }
+  ]
+}
