@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-06T03:08:38.142Z",
+    "session": "AM",
+    "trend_summary": {
+      "CORE_PRAGMATISM": 2,
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 6,
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 11
+    }
+  },
+  "items": [
+    {
+      "name": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "stars": 716,
+      "full_text": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
+    },
+    {
+      "name": "yynxxxxx/Codex-X",
+      "stars": 294,
+      "full_text": "Codex Switch & Instruct desktop manager",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/yynxxxxx/Codex-X"
+    },
+    {
+      "name": "CalmNoteDepot/MECCHA-CHAMELEON-VISION",
+      "stars": 251,
+      "full_text": "🎨 Meccha Chameleon Vision — Desktop Tool 2026",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CalmNoteDepot/MECCHA-CHAMELEON-VISION"
+    },
+    {
+      "name": "Pluviobyte/rnskill",
+      "stars": 174,
+      "full_text": "雪踏乌云的 AI Agent Skills 集合",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Pluviobyte/rnskill"
+    },
+    {
+      "name": "mixedsocialanger/MECCHA-CHAMELEON-VISION",
+      "stars": 101,
+      "full_text": "Meccha Vision Enhancer — Desktop Tool 2026",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mixedsocialanger/MECCHA-CHAMELEON-VISION"
+    },
+    {
+      "name": "ylvachifu1992/Silent-Crypto-Miner",
+      "stars": 96,
+      "full_text": "Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support and intelligent resource management. Create custom mining executables with configurable algorithms, cross-platform output, real-time monitoring, session persistence, thermal throttling, scheduling, and hashrate optimization.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ylvachifu1992/Silent-Crypto-Miner"
+    },
+    {
+      "name": "Miguok/fable-harness",
+      "stars": 76,
+      "full_text": "Make Claude Code work like a disciplined engineer: OODA, multi-party adversarial review, model routing, fail-then-pass. Distilled from Fable to reinforce the Opus harness.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Miguok/fable-harness"
+    },
+    {
+      "name": "514-labs/dnsglobe",
+      "stars": 55,
+      "full_text": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/514-labs/dnsglobe"
+    },
+    {
+      "name": "Glossapceiling/meccha-chameleon-vision",
+      "stars": 50,
+      "full_text": "🎨 Meccha Vision Assistant — Desktop Tool 2026",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Glossapceiling/meccha-chameleon-vision"
+    },
+    {
+      "name": "walkpod1007/claude-project-ops",
+      "stars": 45,
+      "full_text": "Battle-tested model-dispatch doctrine for Claude Code — portable ops rules that let Sonnet/Haiku reliably run projects. Iterated in real deployments, not one-shot generated.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/walkpod1007/claude-project-ops"
+    }
+  ]
+}
