@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-05T21:20:13.442Z",
+    "total_captured": 22,
+    "TRENDING_DIRECTIONS": [
+      "Reliability (semiconductor) (Heat:230)",
+      "Reliability theory (Heat:160)",
+      "Bounded function (Heat:159)",
+      "Python (programming language) (Heat:150)",
+      "Observer (physics) (Heat:99)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 16,
+      "AI_CORE": 3,
+      "BIO_REVOLUTION": 4,
+      "SPACE_DEFENSE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "V01.01 — Mirror Theory I: A Minimal Computational Theory of Recursive Observerhood",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 33,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21142534",
+      "reason": "Velocity: 33 citations",
+      "publication_date": "2026-07-02"
+    },
+    {
+      "title": "V01.04 — Mirror Mathematics I: A Constraint Calculus for Recursive Observerhood",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 33,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21155861",
+      "reason": "Velocity: 33 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Mirror Observerhood Lab I: Recursive Self-Model Reliability Improves Viability Under Self-Relevant Perturbation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 31,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21157523",
+      "reason": "Velocity: 31 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Mirror Observerhood Lab III: Actionable Reliability and Cost-Sensitive Repair in Viability-Constrained Agents",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 26,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21161631",
+      "reason": "Velocity: 26 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Mirror Observerhood Lab II: Channel-Decomposed Reliability and the Limits of Reliability Tracking Alone",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 25,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21159572",
+      "reason": "Velocity: 25 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Mirror Observerhood Lab V: Recursive Reliability Under Estimator Corruption",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 23,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21166653",
+      "reason": "Velocity: 23 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Mirror Observerhood Lab IV: Minimal Reliability Thresholds in Viability-Constrained Agents",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21164691",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "V01.05 — Mirror Mathematics II: Minimal Observer Thresholds",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21168072",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "A Taxonomy of AI Governance Approaches: Distinguishing Visibility, Alignment, and Authorization",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 20,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18275969",
+      "reason": "Velocity: 20 citations",
+      "publication_date": "2026-07-04"
+    },
+    {
+      "title": "Mirror Observerhood Lab VI: Neuro-Symbolic Persistence in Language-Like Agents",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21170478",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Mirror Observerhood Lab VII: Autobiographical Continuity Under Memory Injection and Goal Drift",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21171374",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Newton's Constant Is Not Primitive in Quantum Traction Theory: Artian Angular Capacity, Universal Endurance Ceilings, and G = ℓ_A² c³ / ℏ Without Planck-Length Circularity",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20057430",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "The Effect of Omitted Variables on the Sign of Regression Coefficients",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "American Economic Review",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2208.00552",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-06-30"
+    },
+    {
+      "title": "V01.03 — Mirror Theory III: Recursive Observerhood in Context",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21144252",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "No Dice: The Double-Slit Is Deterministic - Quantum Probability Is a Discrete Preimage Count",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21028524",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-06-29"
+    },
+    {
+      "title": "Persons Without a Global Self: Personhood and Diachronic Persistence as Record-Internal, Specification-Relative Continuity-Invariances in a Consistency-Constrained Information History",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21026414",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-06-29"
+    },
+    {
+      "title": "Public Quantum Records Without a Global Bookkeeper: Provenance-Admissible Standing for Redundant Quantum Records",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21054671",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-06-30"
+    },
+    {
+      "title": "The Sign Premise Is a State Clause: Pumped Baths, the de Sitter Thermostat, and the Limits of Scale Without Law",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://github.com/carlzimmerman/zimmerman-formula",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-07-02"
+    },
+    {
+      "title": "The Harmonics of the Integers: Number Theory as the Orbit Dynamics of the Doubling Fold",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21028824",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-06-29"
+    },
+    {
+      "title": "What a Self Is: The Hard Problem and the Binding Problem, Resolved as the Fold Reaching Unison",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21035855",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-06-29"
+    }
+  ]
+}
