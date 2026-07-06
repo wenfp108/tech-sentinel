@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-06T18:07:14.217Z",
+    "session": "PM",
+    "trend_summary": {
+      "CORE_PRAGMATISM": 2,
+      "VIRAL_GIANT": 2,
+      "TALENT_GROWTH": 1,
+      "VIRAL_UNCATEGORIZED": 14,
+      "TECH_ACCELERATOR": 2,
+      "CODE_LEVERAGE": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "514-labs/dnsglobe",
+      "stars": 396,
+      "full_text": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/514-labs/dnsglobe"
+    },
+    {
+      "name": "MaximeRivest/riddle",
+      "stars": 239,
+      "full_text": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MaximeRivest/riddle"
+    },
+    {
+      "name": "nagisanzenin/engram",
+      "stars": 205,
+      "full_text": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/nagisanzenin/engram"
+    },
+    {
+      "name": "Miguok/fable-harness",
+      "stars": 132,
+      "full_text": "Make Claude Code work like a disciplined engineer: OODA, multi-party adversarial review, model routing, fail-then-pass. Distilled from Fable to reinforce the Opus harness.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Miguok/fable-harness"
+    },
+    {
+      "name": "simonlin1212/Vibe-Research",
+      "stars": 110,
+      "full_text": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/simonlin1212/Vibe-Research"
+    },
+    {
+      "name": "lucid-softworks/lumen",
+      "stars": 104,
+      "full_text": "A from-scratch JavaScript engine in Rust — std only, zero deps, 100% test262 (53,376/53,376)",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lucid-softworks/lumen"
+    },
+    {
+      "name": "shaohua-pan/StarWAM",
+      "stars": 58,
+      "full_text": "A Generalizable Codebase for World-Action Models",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/shaohua-pan/StarWAM"
+    }
+  ]
+}
