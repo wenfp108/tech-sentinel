@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-07T10:36:18.152Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 11,
+      "KNOWLEDGE_BASE": 1,
+      "TECH_ACCELERATOR": 1,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "shaohua-pan/StarWAM",
+      "stars": 86,
+      "full_text": "A Generalizable Codebase for World-Action Models",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/shaohua-pan/StarWAM"
+    },
+    {
+      "name": "jiguang132/storyai-3d-director-desk",
+      "stars": 59,
+      "full_text": "A browser-based 3D director desk demo built with React, Vite, and Three.js.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jiguang132/storyai-3d-director-desk"
+    }
+  ]
+}
