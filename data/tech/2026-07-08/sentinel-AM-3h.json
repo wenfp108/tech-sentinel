@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-08T03:47:15.219Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TECH_ACCELERATOR": 6,
+      "TALENT_GROWTH": 3,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 14,
+      "CODE_LEVERAGE": 3
+    }
+  },
+  "items": [
+    {
+      "name": "Shpigford/knockoff",
+      "stars": 681,
+      "full_text": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Shpigford/knockoff"
+    },
+    {
+      "name": "Robbyant/lingbot-vision",
+      "stars": 311,
+      "full_text": "Self-supervised learning for spatial perception",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Robbyant/lingbot-vision"
+    },
+    {
+      "name": "V4bel/Januscape",
+      "stars": 227,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/V4bel/Januscape"
+    },
+    {
+      "name": "SmtimesIWndr/gdid-reversal",
+      "stars": 212,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SmtimesIWndr/gdid-reversal"
+    },
+    {
+      "name": "jiguang132/storyai-3d-director-desk",
+      "stars": 136,
+      "full_text": "A browser-based 3D director desk demo built with React, Vite, and Three.js.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jiguang132/storyai-3d-director-desk"
+    },
+    {
+      "name": "shaohua-pan/StarWAM",
+      "stars": 124,
+      "full_text": "A Generalizable Codebase for World-Action Models",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/shaohua-pan/StarWAM"
+    },
+    {
+      "name": "shlokkhemani/rabbithole",
+      "stars": 123,
+      "full_text": "An infinite canvas for learning — select text, ask, and answers branch out as documents. MCP server for Claude Code, Codex, and any agent.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/shlokkhemani/rabbithole"
+    },
+    {
+      "name": "olemeyer/rocketplaneIO",
+      "stars": 122,
+      "full_text": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/olemeyer/rocketplaneIO"
+    },
+    {
+      "name": "ninjahawk/Subtext",
+      "stars": 74,
+      "full_text": "To know what models don't say out loud.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ninjahawk/Subtext"
+    },
+    {
+      "name": "markfulton/claude-antigravity-agents",
+      "stars": 64,
+      "full_text": "A Claude Code skill that delegates coding, review, analysis, and research jobs to Google Antigravity CLI (agy) sub-agents — save tokens, use a second model, work in parallel.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/markfulton/claude-antigravity-agents"
+    },
+    {
+      "name": "l0ng-ai/tty7",
+      "stars": 46,
+      "full_text": "A GPU-rendered, daemon-backed terminal in pure Rust. Built on Zed's gpui and Alacritty's VT core.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/l0ng-ai/tty7"
+    }
+  ]
+}
