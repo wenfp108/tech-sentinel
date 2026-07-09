@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-09T10:28:17.438Z",
+    "total_captured": 30,
+    "TRENDING_DIRECTIONS": [
+      "Reliability (semiconductor) (Heat:230)",
+      "Bounded function (Heat:170)",
+      "Reliability theory (Heat:160)",
+      "Python (programming language) (Heat:150)",
+      "Core (optical fiber) (Heat:113)"
+    ],
+    "strategy_summary": {
+      "AI_CORE": 8,
+      "BIO_REVOLUTION": 7,
+      "SPACE_DEFENSE": 2,
+      "NEXT_COMPUTING": 21,
+      "ADVANCED_MATERIALS": 1,
+      "PARADIGM_SHIFT": 2
+    }
+  },
+  "items": [
+    {
+      "title": "ugp-lean: A Machine-Checked Formalization of the Universal Generative Principle",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 52,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION",
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19433538",
+      "reason": "Velocity: 52 citations",
+      "publication_date": "2026-07-06"
+    },
+    {
+      "title": "V01.01 — Mirror Theory I: A Minimal Computational Theory of Recursive Observerhood",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 33,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21142534",
+      "reason": "Velocity: 33 citations",
+      "publication_date": "2026-07-02"
+    },
+    {
+      "title": "V01.04 — Mirror Mathematics I: A Constraint Calculus for Recursive Observerhood",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 33,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21155861",
+      "reason": "Velocity: 33 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Mirror Observerhood Lab I: Recursive Self-Model Reliability Improves Viability Under Self-Relevant Perturbation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 31,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21157523",
+      "reason": "Velocity: 31 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Mirror Observerhood Lab III: Actionable Reliability and Cost-Sensitive Repair in Viability-Constrained Agents",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 26,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21161631",
+      "reason": "Velocity: 26 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Newton's Constant Is Not Primitive in Quantum Traction Theory: Artian Angular Capacity, Universal Endurance Ceilings, and G = ℓ_A² c³ / ℏ Without Planck-Length Circularity",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 26,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20057430",
+      "reason": "Velocity: 26 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Mirror Observerhood Lab II: Channel-Decomposed Reliability and the Limits of Reliability Tracking Alone",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 25,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21159572",
+      "reason": "Velocity: 25 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Mirror Observerhood Lab V: Recursive Reliability Under Estimator Corruption",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 23,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21166653",
+      "reason": "Velocity: 23 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Mirror Observerhood Lab IV: Minimal Reliability Thresholds in Viability-Constrained Agents",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21164691",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "V01.05 — Mirror Mathematics II: Minimal Observer Thresholds",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21168072",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "A Taxonomy of AI Governance Approaches: Distinguishing Visibility, Alignment, and Authorization",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18275969",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-07-04"
+    },
+    {
+      "title": "From Monitoring to Authorization: The Structural Shift in Agentic AI Governance",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18743974",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-07-06"
+    },
+    {
+      "title": "Mirror Observerhood Lab VI: Neuro-Symbolic Persistence in Language-Like Agents",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21170478",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Mirror Observerhood Lab VII: Autobiographical Continuity Under Memory Injection and Goal Drift",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21171374",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Execution-Time Authorization for AI Agents: A Formal Framework for Deterministic Governance Boundaries",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18764561",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-07-05"
+    },
+    {
+      "title": "UGP Physics program — public Zenodo catalog",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20168144",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-07-06"
+    },
+    {
+      "title": "Many-body superconductivity in topological flat bands",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Communications Physics",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "ADVANCED_MATERIALS",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.nature.com/articles/s42005-026-02732-2_reference.pdf",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-07-04"
+    },
+    {
+      "title": "Observability Is Not Enforcement: A Doctrinal Framework for Distinguishing Compliance Instrumentation from Runtime Authorization in AI Governance Architectures (Working Paper v1.1)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18663864",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-07-06"
+    },
+    {
+      "title": "V01.03 — Mirror Theory III: Recursive Observerhood in Context",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21144252",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-07-03"
+    },
+    {
+      "title": "Women Entrepreneurship Development in the Small and Medium Enterprises in Bangladesh: Prospects, Realities and Policies",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "International Journal of SME Development",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://ijsmed.smef.gov.bd/index.php/ijsmed/article/download/4/2",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-07-05"
+    }
+  ]
+}
