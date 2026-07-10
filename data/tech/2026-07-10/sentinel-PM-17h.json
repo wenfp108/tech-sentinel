@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-10T17:25:09.729Z",
+    "session": "PM",
+    "trend_summary": {
+      "TALENT_GROWTH": 1,
+      "VIRAL_UNCATEGORIZED": 47,
+      "PARADIGM_SHIFT": 1,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "liuc998/Midjourney-Free-Alternative-2026-AI-Image",
+      "stars": 100,
+      "full_text": "Midjourney Free Alternative AI Image - free AI image generation alternative to Midjourney.",
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/liuc998/Midjourney-Free-Alternative-2026-AI-Image"
+    },
+    {
+      "name": "calvince-254/File-Recovery-Software-2026-Free",
+      "stars": 100,
+      "full_text": "File Recovery Software Free - recover deleted or lost files from any storage device.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/calvince-254/File-Recovery-Software-2026-Free"
+    }
+  ]
+}
