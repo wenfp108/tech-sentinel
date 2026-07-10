@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-10T22:09:41.901Z",
+    "session": "PM",
+    "trend_summary": {
+      "TALENT_GROWTH": 4,
+      "VIRAL_UNCATEGORIZED": 21,
+      "TECH_ACCELERATOR": 4,
+      "KNOWLEDGE_BASE": 1,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "Elias569/fintech-dashboard",
+      "stars": 104,
+      "full_text": "fintech dashboard for personal finance management which track income and expenses, leverage AI-powered analytics, manage budgets and financial goals, enjoy a dark theme",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Elias569/fintech-dashboard"
+    },
+    {
+      "name": "Volumetenrectify/ae-motion-compiler",
+      "stars": 100,
+      "full_text": "Motion graphics automation framework for Adobe After Effects CC 2024+. Procedural keyframe generation, expression-based animation control, layer automation, and batch rendering. Scripting tools for animators and motion designers. Includes keyframe generators, expression builders, and render automation.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Volumetenrectify/ae-motion-compiler"
+    },
+    {
+      "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "stars": 79,
+      "full_text": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin"
+    },
+    {
+      "name": "dongguatanglinux/grok-build-auth",
+      "stars": 51,
+      "full_text": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dongguatanglinux/grok-build-auth"
+    },
+    {
+      "name": "jcranokc/app-monitor",
+      "stars": 49,
+      "full_text": "Local-first macOS app usage, storage, cleanup, update, and uninstall monitor.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jcranokc/app-monitor"
+    }
+  ]
+}
