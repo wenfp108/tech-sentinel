@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-11T10:07:11.469Z",
+    "session": "AM",
+    "trend_summary": {
+      "TALENT_GROWTH": 1,
+      "VIRAL_UNCATEGORIZED": 9,
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "dongguatanglinux/grok-build-auth",
+      "stars": 88,
+      "full_text": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dongguatanglinux/grok-build-auth"
+    },
+    {
+      "name": "CircleDuckScrew/claudefreemodel",
+      "stars": 50,
+      "full_text": "Free claude code use",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CircleDuckScrew/claudefreemodel"
+    },
+    {
+      "name": "VoidTherapist31/MecchaChameleon-MecchaBionix",
+      "stars": 48,
+      "full_text": "MecchaBionix is the ultimate exploitation suite for MECCHA CHAMELEON – the viral stealth hit with 10M+ copies sold and 340k peak players. Unlock a lethal arsenal: X-Ray Vision, Silent Lock, Zero Gravity, Shadow Step, Death Shield, Bottomless Chroma, and more. Dominate every lobby and reign as the undisputed master of disguise!",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/VoidTherapist31/MecchaChameleon-MecchaBionix"
+    }
+  ]
+}
