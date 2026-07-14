@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-14T15:53:15.332Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 13,
+      "TALENT_GROWTH": 1,
+      "TECH_ACCELERATOR": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "littledivy/mimic",
+      "stars": 796,
+      "full_text": "Intercept any app, then call it from Python like a library",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/littledivy/mimic"
+    },
+    {
+      "name": "Extraltodeus/J-Wash",
+      "stars": 74,
+      "full_text": "Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations with exportable results.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Extraltodeus/J-Wash"
+    },
+    {
+      "name": "UIseries/ai-robot",
+      "stars": 56,
+      "full_text": "RK3506 Voice Robot An embedded AI voice assistant running on the Rockchip RK3506 development board. Pure C, single-threaded event loop, zero dynamic memory allocation.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/UIseries/ai-robot"
+    }
+  ]
+}
