@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-14T09:58:41.550Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 12
+    }
+  },
+  "items": [
+    {
+      "name": "littledivy/mimic",
+      "stars": 701,
+      "full_text": "Intercept any app, then call it from Python like a library",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/littledivy/mimic"
+    }
+  ]
+}
