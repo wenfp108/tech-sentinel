@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-16T21:38:41.348Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 6,
+      "TALENT_GROWTH": 4,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 11,
+      "TECH_ACCELERATOR": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "stars": 4348,
+      "full_text": "Codex Dream Skin",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin"
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "stars": 346,
+      "full_text": "Your clothes, extracted and organized with gpt-image.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tandpfun/wardrobe"
+    },
+    {
+      "name": "my-take-dev/inspired-mino-design-skills",
+      "stars": 280,
+      "full_text": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/my-take-dev/inspired-mino-design-skills"
+    },
+    {
+      "name": "gabriel-azara/hyperliquid-tracker",
+      "stars": 257,
+      "full_text": "Get notified when big trades happen on Hyperliquid.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/gabriel-azara/hyperliquid-tracker"
+    },
+    {
+      "name": "robinhood-ape/robinhood-sniper-bot",
+      "stars": 217,
+      "full_text": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/robinhood-ape/robinhood-sniper-bot"
+    },
+    {
+      "name": "robinhood-ape/robinhood-noxa-bundler",
+      "stars": 217,
+      "full_text": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler"
+    },
+    {
+      "name": "pyang5166/gbro-collage-broll",
+      "stars": 192,
+      "full_text": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pyang5166/gbro-collage-broll"
+    },
+    {
+      "name": "alexafinode/claude-arbitrage-bot",
+      "stars": 81,
+      "full_text": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alexafinode/claude-arbitrage-bot"
+    },
+    {
+      "name": "SunkenCost/grok-regkit",
+      "stars": 70,
+      "full_text": "xAI/Grok account registration toolkit (browser + hybrid, SSO + CPA OIDC export)",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SunkenCost/grok-regkit"
+    },
+    {
+      "name": "sorryhumans/clawdmeter-plus",
+      "stars": 68,
+      "full_text": "A round AMOLED desk display for your live Claude Code usage, weather, background-agent health, and a daily voice greeting. ESP32-S3 + macOS BLE daemon. Fork of Clawdmeter.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sorryhumans/clawdmeter-plus"
+    }
+  ]
+}
