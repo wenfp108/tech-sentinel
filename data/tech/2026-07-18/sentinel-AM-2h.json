@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-18T02:59:24.733Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "TECH_ACCELERATOR": 6,
+      "CODE_LEVERAGE": 3,
+      "TALENT_GROWTH": 1,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 38
+    }
+  },
+  "items": [
+    {
+      "name": "tandpfun/wardrobe",
+      "stars": 849,
+      "full_text": "Your clothes, extracted and organized with gpt-image.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tandpfun/wardrobe"
+    },
+    {
+      "name": "PengZhang64/circuit-framework",
+      "stars": 474,
+      "full_text": "Circuit Framework — multi-agent LLM trading research system",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PengZhang64/circuit-framework"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "stars": 352,
+      "full_text": "yoink any video from your terminal. no shady ads.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/pablostanley/yoinks"
+    },
+    {
+      "name": "robinhood-ape/robinhood-sniper-bot",
+      "stars": 252,
+      "full_text": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/robinhood-ape/robinhood-sniper-bot"
+    },
+    {
+      "name": "robinhood-ape/robinhood-noxa-bundler",
+      "stars": 250,
+      "full_text": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler"
+    },
+    {
+      "name": "KlaatAI/klaatcode",
+      "stars": 104,
+      "full_text": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/KlaatAI/klaatcode"
+    },
+    {
+      "name": "MIgHTy-alIeN/Trading-Bot",
+      "stars": 89,
+      "full_text": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MIgHTy-alIeN/Trading-Bot"
+    },
+    {
+      "name": "Finderchangchang/codex-autoskin",
+      "stars": 80,
+      "full_text": "发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Finderchangchang/codex-autoskin"
+    },
+    {
+      "name": "chaservisiongirder/R6-Ultimate-Vision",
+      "stars": 70,
+      "full_text": "Ultimate vision tool for Rainbow Six Siege with ESP, Aimbot, Wallhack, No Recoil, Triggerbot and more. Dominate every match!",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/chaservisiongirder/R6-Ultimate-Vision"
+    },
+    {
+      "name": "WaterNegotiatorForm/RL-Ultimate-Vision",
+      "stars": 70,
+      "full_text": "Ultimate vision tool for Rocket League with Ball Predictor, Aimbot, Boost Manager, ESP and more. Dominate the field!",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/WaterNegotiatorForm/RL-Ultimate-Vision"
+    },
+    {
+      "name": "BranchMelody/FIFA-Texture-Mesh-Editor",
+      "stars": 70,
+      "full_text": "Advanced texture and mesh editor for EA Sports FC / FIFA with support for kits, faces, banners, and 3D models.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BranchMelody/FIFA-Texture-Mesh-Editor"
+    }
+  ]
+}
