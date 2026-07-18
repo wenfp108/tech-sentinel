@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-18T09:58:09.190Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 9,
+      "VIRAL_UNCATEGORIZED": 41,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "nethical6/conversation-steganography",
+      "stars": 277,
+      "full_text": "Use LLMS to hide secret messages inside normal-looking chat text",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nethical6/conversation-steganography"
+    },
+    {
+      "name": "MIgHTy-alIeN/Trading-Bot",
+      "stars": 179,
+      "full_text": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MIgHTy-alIeN/Trading-Bot"
+    },
+    {
+      "name": "KlaatAI/klaatcode",
+      "stars": 104,
+      "full_text": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/KlaatAI/klaatcode"
+    },
+    {
+      "name": "chaservisiongirder/R6-Ultimate-Vision",
+      "stars": 70,
+      "full_text": "Ultimate vision tool for Rainbow Six Siege with ESP, Aimbot, Wallhack, No Recoil, Triggerbot and more. Dominate every match!",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/chaservisiongirder/R6-Ultimate-Vision"
+    },
+    {
+      "name": "WaterNegotiatorForm/RL-Ultimate-Vision",
+      "stars": 70,
+      "full_text": "Ultimate vision tool for Rocket League with Ball Predictor, Aimbot, Boost Manager, ESP and more. Dominate the field!",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/WaterNegotiatorForm/RL-Ultimate-Vision"
+    },
+    {
+      "name": "BranchMelody/FIFA-Texture-Mesh-Editor",
+      "stars": 70,
+      "full_text": "Advanced texture and mesh editor for EA Sports FC / FIFA with support for kits, faces, banners, and 3D models.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BranchMelody/FIFA-Texture-Mesh-Editor"
+    },
+    {
+      "name": "hesse1213/FC26-Mod-Ultimate",
+      "stars": 70,
+      "full_text": "Ultimate mod manager for EA Sports FC 26 with all features unlocked – drag & drop, load order, conflict detection, live editor, and more.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/hesse1213/FC26-Mod-Ultimate"
+    },
+    {
+      "name": "CircuitSpawnIndicate/FIFA-Mod-Manager-Pro",
+      "stars": 70,
+      "full_text": "Professional mod manager for EA Sports FC / FIFA with drag & drop, load order control, and conflict detection.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CircuitSpawnIndicate/FIFA-Mod-Manager-Pro"
+    },
+    {
+      "name": "colorsrankgap/COD-Ultimate-Vision",
+      "stars": 70,
+      "full_text": "Ultimate vision tool for Call of Duty with ESP, Aimbot, Wallhack, No Recoil, Triggerbot and more. Dominate every match!",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/colorsrankgap/COD-Ultimate-Vision"
+    }
+  ]
+}

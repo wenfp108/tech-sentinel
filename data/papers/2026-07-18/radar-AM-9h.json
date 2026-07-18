@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-18T09:58:10.353Z",
+    "total_captured": 27,
+    "TRENDING_DIRECTIONS": [
+      "Quantum (Heat:146)",
+      "Core (optical fiber) (Heat:127)",
+      "Term (time) (Heat:120)",
+      "Coupling (piping) (Heat:96)",
+      "Calculus (dental) (Heat:72)"
+    ],
+    "strategy_summary": {
+      "AI_CORE": 4,
+      "BIO_REVOLUTION": 11,
+      "SPACE_DEFENSE": 2,
+      "NEXT_COMPUTING": 17,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "title": "ugp-lean: A Machine-Checked Formalization of the Universal Generative Principle",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 54,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION",
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19433538",
+      "reason": "Velocity: 54 citations",
+      "publication_date": "2026-07-14"
+    },
+    {
+      "title": "The Strong-Coupling Form and Electroweak Stiffness Quantization Theorems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 48,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://quantumtraction.org",
+      "reason": "Velocity: 48 citations",
+      "publication_date": "2026-07-11"
+    },
+    {
+      "title": "Newton's Constant Is Not Primitive in Quantum Traction Theory: Artian Angular Capacity, Universal Endurance Ceilings, and G = ℓ_A² c³ / ℏ Without Planck-Length Circularity",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 39,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20057430",
+      "reason": "Velocity: 39 citations",
+      "publication_date": "2026-07-11"
+    },
+    {
+      "title": "Human Restoration Theory: Core Architecture v1.0 - Definitions, Relations, Assumptions, Boundaries, and Testable Predictions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 26,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21392417",
+      "reason": "Velocity: 26 citations",
+      "publication_date": "2026-07-16"
+    },
+    {
+      "title": "Tropical Geometry of Phylogenetic Tree Space: A statistical Perspective",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Vietnam Journal of Mathematics",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s10013-026-00795-w.pdf",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-07-14"
+    },
+    {
+      "title": "A pre-registered, guard-cascaded instrument for retrodicting cross-field fusions in the arXiv corpus: nine artifact classes and a verdict-grade null for abstract-semantic fusion precursors",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 20,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2004.07180",
+      "reason": "Velocity: 20 citations",
+      "publication_date": "2026-07-13"
+    },
+    {
+      "title": "Planck-length metrology without Newton's constant: a zero-fit weak-sector reconstruction and adversarial provenance audit",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21190193",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-07-13"
+    },
+    {
+      "title": "A parameter-free derivation of the neutrino mass-squared ratio Δm²₃₁/Δm²₂₁ = 4π² cos²(π/8) in Quantum Traction Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19960813",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-07-11"
+    },
+    {
+      "title": "Mechanics of Load Conduction v0.1",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21393789",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-07-16"
+    },
+    {
+      "title": "Reliability, Cost, and Compensation v0.1",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21394060",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-07-16"
+    },
+    {
+      "title": "Comprehensive benchmarking of tools for nanopore-based detection of DNA methylation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Communications",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41467-026-75183-6_reference.pdf",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-07-15"
+    },
+    {
+      "title": "Development, Calibration, and Biological Memory v0.1",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21394379",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-07-16"
+    },
+    {
+      "title": "The Authorization Artifact Test: Applying the Impossibility Result to Ex-Ante Regulatory Regimes",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20013582",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-07-12"
+    },
+    {
+      "title": "Mathematical Foundations of the Danieletto Axiom (Paper 0 of the Danieletto Program)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21383692",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-07-15"
+    },
+    {
+      "title": "Genome-wide cline analysis identifies new locus contributing to a barrier to gene flow across an Antirrhinum hybrid zone",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PLoS Genetics",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1012173&type=printable",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-07-13"
+    },
+    {
+      "title": "MIRADOR: A Typed, Versioned Intermediate Representation for Auditable Mathematical Knowledge and Discovery",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21324524",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-07-12"
+    },
+    {
+      "title": "Artian's HVP Source-Access Reference Framework",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20732034",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-07-11"
+    },
+    {
+      "title": "Artian Lorentz Compliance and Radiative-Stability Audit: A1, the Absolute Background Clock, the exact Collins response, and SME closure in Quantum Traction Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21138337",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-11"
+    },
+    {
+      "title": "The Saturation Theorem: Axiomatic Constraints on Quantum Gravity from Cosmological Relaxation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19036188",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-12"
+    },
+    {
+      "title": "Phase-Flow Coherence (PFC v7)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.17797652",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-13"
+    }
+  ]
+}
