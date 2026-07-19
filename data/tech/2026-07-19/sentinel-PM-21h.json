@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-19T21:04:40.250Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 5,
+      "TALENT_GROWTH": 3,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 8,
+      "KNOWLEDGE_BASE": 3,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "lopopolo/harness-engineering",
+      "stars": 399,
+      "full_text": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lopopolo/harness-engineering"
+    },
+    {
+      "name": "xiejunjie524/handdraw-story-video",
+      "stars": 303,
+      "full_text": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xiejunjie524/handdraw-story-video"
+    },
+    {
+      "name": "RinDig/icm-architect",
+      "stars": 107,
+      "full_text": "Claude skill: design any process, idea, or problem into an ICM workspace (folder structure as agent architecture), or restructure an existing folder into one",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/RinDig/icm-architect"
+    },
+    {
+      "name": "joeseesun/qiaomu-cut-skill",
+      "stars": 90,
+      "full_text": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/joeseesun/qiaomu-cut-skill"
+    },
+    {
+      "name": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "stars": 80,
+      "full_text": "he optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean"
+    },
+    {
+      "name": "SeanJ1ang/design-judge-skills",
+      "stars": 66,
+      "full_text": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SeanJ1ang/design-judge-skills"
+    },
+    {
+      "name": "An0nUD4Y/Offensive-COM",
+      "stars": 48,
+      "full_text": "Research notes on Windows Component Object Model (COM) attack surface for offensive security and vulnerability research. Covers COM hijacking, elevation of privilege, DCOM lateral movement, and persistence primitives with exploitation steps.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/An0nUD4Y/Offensive-COM"
+    }
+  ]
+}
