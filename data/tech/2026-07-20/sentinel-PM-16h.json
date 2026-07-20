@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-20T16:48:23.704Z",
+    "session": "PM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 3,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 6,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "stars": 157,
+      "full_text": "he optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean"
+    },
+    {
+      "name": "lyu0805/OpenBrowser",
+      "stars": 71,
+      "full_text": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lyu0805/OpenBrowser"
+    },
+    {
+      "name": "elysiumintellegence/elysium-intelligence",
+      "stars": 61,
+      "full_text": "Elysium watches your data, feeds your models, and heals your pipelines — so your team ships decisions, not dashboards.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/elysiumintellegence/elysium-intelligence"
+    },
+    {
+      "name": "NullLabTests/software-periodic-table",
+      "stars": 51,
+      "full_text": "A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NullLabTests/software-periodic-table"
+    }
+  ]
+}
