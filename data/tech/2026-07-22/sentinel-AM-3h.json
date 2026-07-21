@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-22T03:11:32.947Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 5,
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 5,
+      "KNOWLEDGE_BASE": 3,
+      "PARADIGM_SHIFT": 1,
+      "VIRAL_UNCATEGORIZED": 30
+    }
+  },
+  "items": [
+    {
+      "name": "Blaizzy/nativ",
+      "stars": 576,
+      "full_text": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Blaizzy/nativ"
+    },
+    {
+      "name": "powerycy/goutoujunshi",
+      "stars": 327,
+      "full_text": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/powerycy/goutoujunshi"
+    },
+    {
+      "name": "paxlabs-inc/machine-genome",
+      "stars": 284,
+      "full_text": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/paxlabs-inc/machine-genome"
+    },
+    {
+      "name": "eli-labz/Agent-Execution-Partnership",
+      "stars": 251,
+      "full_text": "Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/eli-labz/Agent-Execution-Partnership"
+    },
+    {
+      "name": "Kritt-ai/open-kritt",
+      "stars": 223,
+      "full_text": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Kritt-ai/open-kritt"
+    },
+    {
+      "name": "realfishsam/agent-notch",
+      "stars": 204,
+      "full_text": "The open-source alternative to vibe-island",
+      "tags": [
+        "CODE_LEVERAGE",
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/realfishsam/agent-notch"
+    },
+    {
+      "name": "ni5arga/protestchat",
+      "stars": 146,
+      "full_text": "Encrypted messaging with no internet, no cell tower, and no server. Phones relay for each other over Bluetooth mesh, so it keeps working during internet shutdowns and inside cellular jammers",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ni5arga/protestchat"
+    },
+    {
+      "name": "dinosn/fastjson-jsontype-rce-lab",
+      "stars": 115,
+      "full_text": "Docker lab + one-payload exploit + defensive scanner for the fastjson 1.2.66-1.2.83 @JSONType remote-class-load RCE (SSRF->defineClass under Spring Boot LaunchedURLClassLoader; autoType OFF; parseObject binding is not a mitigation)",
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dinosn/fastjson-jsontype-rce-lab"
+    },
+    {
+      "name": "CrepitusAgent/Crepitus",
+      "stars": 61,
+      "full_text": "$CREP is collateral. Lock it into route reserves, mint synthetic equity positions backed by live oracle feeds, and trade on-chain stock exposure with no brokerage, no custodian, and no T+2 settlement.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CrepitusAgent/Crepitus"
+    },
+    {
+      "name": "qwe54158855/zhijianjingce",
+      "stars": 57,
+      "full_text": "A Novel Lightweight Generation-Detection Integrated Model for Wafer Defect Detection from Northeastern University at Qinhuangdao",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/qwe54158855/zhijianjingce"
+    }
+  ]
+}
