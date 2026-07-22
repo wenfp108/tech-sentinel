@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-22T10:06:23.058Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 3,
+      "PARADIGM_SHIFT": 1,
+      "VIRAL_UNCATEGORIZED": 8,
+      "TECH_ACCELERATOR": 2,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "realfishsam/agent-notch",
+      "stars": 223,
+      "full_text": "The open-source alternative to vibe-island",
+      "tags": [
+        "CODE_LEVERAGE",
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/realfishsam/agent-notch"
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "stars": 189,
+      "full_text": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Jakubantalik/thinking-orbs"
+    },
+    {
+      "name": "0xwilliamortiz/andrej-karpathy-skills",
+      "stars": 154,
+      "full_text": "Behavioral guardrails for Claude Code, distilled from Andrej Karpathy's field notes on where LLMs go wrong when they write software.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xwilliamortiz/andrej-karpathy-skills"
+    },
+    {
+      "name": "gnipbao/story-to-handdrawn-video",
+      "stars": 107,
+      "full_text": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video"
+    },
+    {
+      "name": "CrepitusAgent/Crepitus",
+      "stars": 61,
+      "full_text": "$CREP is collateral. Lock it into route reserves, mint synthetic equity positions backed by live oracle feeds, and trade on-chain stock exposure with no brokerage, no custodian, and no T+2 settlement.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CrepitusAgent/Crepitus"
+    }
+  ]
+}
