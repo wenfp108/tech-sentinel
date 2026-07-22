@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-23T03:05:29.179Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 4,
+      "VIRAL_GIANT": 3,
+      "PARADIGM_SHIFT": 1,
+      "TECH_ACCELERATOR": 6,
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 21,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "stars": 526,
+      "full_text": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Jakubantalik/thinking-orbs"
+    },
+    {
+      "name": "0xhype/hyperliquid-tracker",
+      "stars": 501,
+      "full_text": "Get notified when big trades happen on Hyperliquid.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/0xhype/hyperliquid-tracker"
+    },
+    {
+      "name": "gnipbao/story-to-handdrawn-video",
+      "stars": 387,
+      "full_text": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video"
+    },
+    {
+      "name": "chartup-solana-volume-bot/solanavolumebot",
+      "stars": 305,
+      "full_text": "Top-rated Solana volume bot and developer tools for DEX liquidity, maker activity, and holder management.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/chartup-solana-volume-bot/solanavolumebot"
+    },
+    {
+      "name": "AdelanSupport/adelan-support",
+      "stars": 273,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AdelanSupport/adelan-support"
+    },
+    {
+      "name": "realfishsam/agent-notch",
+      "stars": 243,
+      "full_text": "The open-source alternative to vibe-island",
+      "tags": [
+        "CODE_LEVERAGE",
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/realfishsam/agent-notch"
+    },
+    {
+      "name": "0xwilliamortiz/andrej-karpathy-skills",
+      "stars": 163,
+      "full_text": "Behavioral guardrails for Claude Code, distilled from Andrej Karpathy's field notes on where LLMs go wrong when they write software.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xwilliamortiz/andrej-karpathy-skills"
+    },
+    {
+      "name": "RainPPR/china-llms-anecdote-0721",
+      "stars": 105,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/RainPPR/china-llms-anecdote-0721"
+    },
+    {
+      "name": "ddcat-ai/open-ai-canvas",
+      "stars": 66,
+      "full_text": "面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ddcat-ai/open-ai-canvas"
+    },
+    {
+      "name": "CrepitusAgent/Crepitus",
+      "stars": 61,
+      "full_text": "$CREP is collateral. Lock it into route reserves, mint synthetic equity positions backed by live oracle feeds, and trade on-chain stock exposure with no brokerage, no custodian, and no T+2 settlement.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CrepitusAgent/Crepitus"
+    },
+    {
+      "name": "Evokoa/pgContext",
+      "stars": 60,
+      "full_text": "A full AI search engine, built into Postgres.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Evokoa/pgContext"
+    },
+    {
+      "name": "itshamzabendelladj/AIGuardSIEM",
+      "stars": 52,
+      "full_text": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/itshamzabendelladj/AIGuardSIEM"
+    },
+    {
+      "name": "neural-maze/production-ocr-course",
+      "stars": 46,
+      "full_text": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/neural-maze/production-ocr-course"
+    },
+    {
+      "name": "MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO",
+      "stars": 42,
+      "full_text": "vLLM 0.25.1 serving stack for poolside/Laguna-S-2.1-NVFP4 with DFlash speculative decoding — DGX Spark & RTX 6000 PRO",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO"
+    }
+  ]
+}
