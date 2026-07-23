@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-23T10:12:53.975Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 17,
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 1,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "ddcat-ai/open-ai-canvas",
+      "stars": 71,
+      "full_text": "面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ddcat-ai/open-ai-canvas"
+    },
+    {
+      "name": "neural-maze/production-ocr-course",
+      "stars": 60,
+      "full_text": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/neural-maze/production-ocr-course"
+    }
+  ]
+}
