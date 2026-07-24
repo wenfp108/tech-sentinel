@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-24T21:24:50.556Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 13,
+      "TALENT_GROWTH": 1,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "slvDev/esp32-ai",
+      "stars": 227,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/slvDev/esp32-ai"
+    },
+    {
+      "name": "RongleCat/grok-app",
+      "stars": 201,
+      "full_text": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/RongleCat/grok-app"
+    },
+    {
+      "name": "marcpope/cortendesk",
+      "stars": 45,
+      "full_text": "A web based, open-source console for managing the RustDesk OSS Server and Client.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/marcpope/cortendesk"
+    },
+    {
+      "name": "dboudreau00/Delpheed-Delphi-Call-Hijacker",
+      "stars": 45,
+      "full_text": "A Delphi-aware reverse-engineering toolkit — recover the class model from any Delphi PE, and unpack packed ones to get there.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dboudreau00/Delpheed-Delphi-Call-Hijacker"
+    }
+  ]
+}
