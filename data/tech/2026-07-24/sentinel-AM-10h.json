@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-24T10:09:38.881Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 6,
+      "TECH_ACCELERATOR": 3
+    }
+  },
+  "items": [
+    {
+      "name": "AnalystCare15/Meccha-Mirage",
+      "stars": 53,
+      "full_text": "Advanced ESP · Precision Aimbot · Movement Mastery · External Suite",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AnalystCare15/Meccha-Mirage"
+    },
+    {
+      "name": "BrandActivist/MecchaChameleon-ChromaReveal",
+      "stars": 52,
+      "full_text": "Ultimate ESP & Vision Suite · Wallhack · Player Tracking · Distance Meter · Ghost Vision",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BrandActivist/MecchaChameleon-ChromaReveal"
+    },
+    {
+      "name": "dboudreau00/Delpheed-Delphi-Call-Hijacker",
+      "stars": 45,
+      "full_text": "A Delphi-aware reverse-engineering toolkit — recover the class model from any Delphi PE, and unpack packed ones to get there.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dboudreau00/Delpheed-Delphi-Call-Hijacker"
+    }
+  ]
+}
