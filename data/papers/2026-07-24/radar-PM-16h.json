@@ -1,0 +1,296 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-24T16:15:54.029Z",
+    "total_captured": 18,
+    "TRENDING_DIRECTIONS": [
+      "Algebraic number (Heat:81)",
+      "Segmentation (Heat:80)",
+      "Subtraction (Heat:80)",
+      "Scale (ratio) (Heat:80)",
+      "Feature (linguistics) (Heat:80)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 4,
+      "AI_CORE": 3,
+      "BIO_REVOLUTION": 12,
+      "SPACE_DEFENSE": 1,
+      "PARADIGM_SHIFT": 2
+    }
+  },
+  "items": [
+    {
+      "title": "M2SNet: Multi-scale in Multi-scale Subtraction Network for Medical Image Segmentation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Machine Intelligence Research",
+      "metrics": {
+        "citations": 79,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s11633-026-1662-9.pdf",
+      "reason": "Velocity: 79 citations",
+      "publication_date": "2026-07-20"
+    },
+    {
+      "title": "ugp-lean: A Machine-Checked Formalization of the Universal Generative Principle",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 55,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION",
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19433538",
+      "reason": "Velocity: 55 citations",
+      "publication_date": "2026-07-21"
+    },
+    {
+      "title": "四大基本力的统一——激发模式、涡旋拓扑与真空压强一族(GST 系列·论文 5,v2.0)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21439512",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-07-19"
+    },
+    {
+      "title": "Three Readouts, One Surface Tile: Newton, Planck, and the Bekenstein Count as a Single Identity",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://quantumtraction.org",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-07-20"
+    },
+    {
+      "title": "物理直觉注记——一个独立研究者的图像、直觉与它们的命运(基态粒子海统一理论系列·附卷 A)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21435998",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-07-19"
+    },
+    {
+      "title": "Eco-evolutionary dynamics lead to functionally robust and redundant communities",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PLoS Computational Biology",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1014437&type=printable",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-07-21"
+    },
+    {
+      "title": "逻辑的现实析出与结构稳固 (基于动态固化的语言模型新范式)2.0",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21476628",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-07-21"
+    },
+    {
+      "title": "Reparatur von submissiver Entscheidungskraft — Rückkehr zum eigenen Wollen bei sexuell traumatisierten Frauen",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21413559",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-07-17"
+    },
+    {
+      "title": "Reparatur von submissiver Entscheidungskraft — Rückkehr zum eigenen Wollen bei sexuell traumatisierten Frauen",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21413560",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-07-17"
+    },
+    {
+      "title": "Strict Versus Fallback Qualification of Contiguous Intraday Boundaries Across Bullish Engulfing Risk-Reward Configurations in XAUUSD M15",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21412192",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-17"
+    },
+    {
+      "title": "Vacuum Mechanics: How the Quaternion Finally Made the Standard Model Make Sense",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234951",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2029-03-26"
+    },
+    {
+      "title": "From the SU(3) Gauge Group to Local Relativistic Spacetime Features",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21450547",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-20"
+    },
+    {
+      "title": "0921 Human skin rejuvenation via mRNA",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Investigative Dermatology",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.biorxiv.org/content/biorxiv/early/2024/11/13/2024.11.12.623261.full.pdf",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-07-21"
+    },
+    {
+      "title": "The Triadic Structure (Δ, Λ, Ψ): A Guide to the Series — Roadmap and Unified Demarcation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21219575",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-07-18"
+    },
+    {
+      "title": "The next generation sea-ice model neXtSIM, version 2",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Geoscientific model development",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5194/gmd-19-6467-2026",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-07-17"
+    },
+    {
+      "title": "Dimensional Geometry: A Theoretical Framework — v1.01 Sketch",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21421846",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-07-20"
+    },
+    {
+      "title": "PAPER-Γ: Dialectical Generative Algebra: A Novel Algebraic Framework for Generation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21413977",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-07-17"
+    },
+    {
+      "title": "Management of IgA nephropathy and the expanding role of immunomodulation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Kidney International Supplements",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1016/j.kisu.2026.01.002",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-07-20"
+    }
+  ]
+}
