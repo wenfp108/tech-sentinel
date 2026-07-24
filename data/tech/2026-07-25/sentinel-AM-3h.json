@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-25T03:16:55.912Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 19,
+      "TALENT_GROWTH": 3,
+      "TECH_ACCELERATOR": 2,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "slvDev/esp32-ai",
+      "stars": 319,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/slvDev/esp32-ai"
+    },
+    {
+      "name": "RongleCat/grok-app",
+      "stars": 237,
+      "full_text": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/RongleCat/grok-app"
+    },
+    {
+      "name": "CWS6206/EasySystemCleaner",
+      "stars": 122,
+      "full_text": "EasySystemCleaner Portable, original Windows 11 cleaning utility. Clean Windows temporary files, crash/error reports, thumbnail cache, browser caches and the Recycle Bin",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CWS6206/EasySystemCleaner"
+    },
+    {
+      "name": "marcpope/cortendesk",
+      "stars": 49,
+      "full_text": "A web based, open-source console for managing the RustDesk OSS Server and Client.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/marcpope/cortendesk"
+    },
+    {
+      "name": "dboudreau00/Delpheed-Delphi-Call-Hijacker",
+      "stars": 45,
+      "full_text": "A Delphi-aware reverse-engineering toolkit — recover the class model from any Delphi PE, and unpack packed ones to get there.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dboudreau00/Delpheed-Delphi-Call-Hijacker"
+    }
+  ]
+}
