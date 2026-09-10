@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-11T04:20:05.545Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_GIANT": 4,
+      "VIRAL_UNCATEGORIZED": 26,
+      "KNOWLEDGE_BASE": 2,
+      "CODE_LEVERAGE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "yureii1996/cek-probe-model",
+      "stars": 354,
+      "full_text": "Untuk cek model apakah maskingan atau bukan",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yureii1996/cek-probe-model"
+    },
+    {
+      "name": "yudaprasetya007/routeVSCODE",
+      "stars": 326,
+      "full_text": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yudaprasetya007/routeVSCODE"
+    },
+    {
+      "name": "mizzlelover/gongwen-gbt9704-skill",
+      "stars": 294,
+      "full_text": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill"
+    },
+    {
+      "name": "deepseek-ai/DeepSelect",
+      "stars": 228,
+      "full_text": "DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deepseek-ai/DeepSelect"
+    },
+    {
+      "name": "kevinzakka/mjbatch",
+      "stars": 207,
+      "full_text": "A Python library for running thousands of MuJoCo simulations in parallel on the CPU",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/kevinzakka/mjbatch"
+    },
+    {
+      "name": "deepseek-ai/deepseek-recipe",
+      "stars": 202,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deepseek-ai/deepseek-recipe"
+    },
+    {
+      "name": "viettranx/3dviz-pro-max",
+      "stars": 131,
+      "full_text": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/viettranx/3dviz-pro-max"
+    },
+    {
+      "name": "nftechie/stonkfly",
+      "stars": 109,
+      "full_text": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nftechie/stonkfly"
+    },
+    {
+      "name": "ngocdaobao/A-Survey-on-Looped-Transformers",
+      "stars": 92,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ngocdaobao/A-Survey-on-Looped-Transformers"
+    }
+  ]
+}
