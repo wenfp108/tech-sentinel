@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-14T04:09:43.974Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TECH_ACCELERATOR": 2,
+      "TALENT_GROWTH": 6,
+      "KNOWLEDGE_BASE": 5,
+      "VIRAL_UNCATEGORIZED": 35,
+      "CODE_LEVERAGE": 1,
+      "CORE_PRAGMATISM": 1,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "rizqinrr/viserys-agent",
+      "stars": 628,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rizqinrr/viserys-agent"
+    },
+    {
+      "name": "yifanzhang-pro/recurrent-looped-tranformer",
+      "stars": 469,
+      "full_text": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
+    },
+    {
+      "name": "Chuloo/mural",
+      "stars": 243,
+      "full_text": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Chuloo/mural"
+    },
+    {
+      "name": "zjwzcx/Awesome-Astra-Embodied-AI",
+      "stars": 210,
+      "full_text": "GPT-6 Astra for embodied AI and robotics.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
+    },
+    {
+      "name": "cobanov/awesome-fly",
+      "stars": 163,
+      "full_text": "A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cobanov/awesome-fly"
+    },
+    {
+      "name": "suoha888/CJ-DeFi-Handbook",
+      "stars": 103,
+      "full_text": "CJ DeFi 做市与套利实战手册 · 顶级高手 CJ（@gch_enbsbxbs）502篇推文体系化精解与全量开源数据集",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/suoha888/CJ-DeFi-Handbook"
+    },
+    {
+      "name": "Dr-TSNG/altdb",
+      "stars": 52,
+      "full_text": "A KernelSU module that provides alternative adb server over local network",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Dr-TSNG/altdb"
+    }
+  ]
+}
