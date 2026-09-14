@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-15T05:19:16.311Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 20,
+      "TECH_ACCELERATOR": 4,
+      "CORE_PRAGMATISM": 1,
+      "KNOWLEDGE_BASE": 2,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "anonymous-report-421/GPT-as-Policy",
+      "stars": 229,
+      "full_text": "GPT as Policy",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/anonymous-report-421/GPT-as-Policy"
+    },
+    {
+      "name": "nilbuild/page-mascot",
+      "stars": 202,
+      "full_text": "A mascot that watches the cursor and blinks when you poke it",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/nilbuild/page-mascot"
+    },
+    {
+      "name": "Matthew0822/ToolReplay",
+      "stars": 171,
+      "full_text": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Matthew0822/ToolReplay"
+    },
+    {
+      "name": "Speedstu/CUDA-for-AMD-Windows",
+      "stars": 123,
+      "full_text": "Run CUDA-targeted Windows applications on AMD GPUs with ZLUDA + ROCm/HIP.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows"
+    },
+    {
+      "name": "Made-In-Basement/ember",
+      "stars": 80,
+      "full_text": "An operating system written from scratch: boot sector, FAT filesystem, DOS-compatible interrupts, sound, a 32-bit runtime and a graphical desktop",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Made-In-Basement/ember"
+    },
+    {
+      "name": "bsab/sweden-mcp-servers",
+      "stars": 75,
+      "full_text": "A curated catalog of Model Context Protocol servers for Swedish data, laws and services.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bsab/sweden-mcp-servers"
+    },
+    {
+      "name": "jerryjliu/fly_ocr",
+      "stars": 70,
+      "full_text": "Printed-character recognition through a fixed fruit-fly connectome, with a small trained decoder, compound-eye replays and a full research report.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jerryjliu/fly_ocr"
+    },
+    {
+      "name": "gonzalezerik/topowall",
+      "stars": 44,
+      "full_text": "Topographic contour wallpapers from real elevation data, rendered on the GPU",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/gonzalezerik/topowall"
+    }
+  ]
+}
