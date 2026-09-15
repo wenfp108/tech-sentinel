@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-15T11:00:35.467Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 10,
+      "CORE_PRAGMATISM": 1,
+      "TECH_ACCELERATOR": 2,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "nilbuild/page-mascot",
+      "stars": 277,
+      "full_text": "A mascot that watches the cursor and blinks when you poke it",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/nilbuild/page-mascot"
+    },
+    {
+      "name": "Matthew0822/ToolReplay",
+      "stars": 168,
+      "full_text": "Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay, and scope overreach checks. Dependency-free Python CLI.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Matthew0822/ToolReplay"
+    },
+    {
+      "name": "999sian/melee-pc",
+      "stars": 102,
+      "full_text": "Native PC port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/melee on aurora. No game data; bring your own disc.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/999sian/melee-pc"
+    },
+    {
+      "name": "bsab/sweden-mcp-servers",
+      "stars": 75,
+      "full_text": "A curated catalog of Model Context Protocol servers for Swedish data, laws and services.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bsab/sweden-mcp-servers"
+    },
+    {
+      "name": "navaneethkrishnansuresh/Inference-Engineering",
+      "stars": 45,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/navaneethkrishnansuresh/Inference-Engineering"
+    }
+  ]
+}
