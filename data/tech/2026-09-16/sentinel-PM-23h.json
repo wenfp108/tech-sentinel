@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-16T23:58:31.368Z",
+    "session": "PM",
+    "trend_summary": {
+      "CORE_PRAGMATISM": 2,
+      "VIRAL_GIANT": 1,
+      "KNOWLEDGE_BASE": 3,
+      "VIRAL_UNCATEGORIZED": 19,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "saragordic/window-sweaters",
+      "stars": 382,
+      "full_text": "A macOS menu-bar app that dresses your windows in knitted borders.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/saragordic/window-sweaters"
+    },
+    {
+      "name": "FSECDEV/Threat-Intelligence-Hackers-Forums",
+      "stars": 279,
+      "full_text": "A directory of hacker forums",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/FSECDEV/Threat-Intelligence-Hackers-Forums"
+    },
+    {
+      "name": "FLModel/flm",
+      "stars": 70,
+      "full_text": "Train and chat with a frozen language model coupled to the full retained MaleCNS fly connectome.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/FLModel/flm"
+    },
+    {
+      "name": "walletgen-tony/WalletGen",
+      "stars": 51,
+      "full_text": "Generate and check Bitcoin and Ethereum wallets using BIP39, BIP44, and EVM protocols to identify balances and recover lost addresses across blockchain networks.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/walletgen-tony/WalletGen"
+    }
+  ]
+}
