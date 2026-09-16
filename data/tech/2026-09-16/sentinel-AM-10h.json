@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-16T10:57:08.504Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CORE_PRAGMATISM": 1,
+      "VIRAL_UNCATEGORIZED": 9,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "FSECDEV/Threat-Intelligence-Hackers-Forums",
+      "stars": 233,
+      "full_text": "A directory of hacker forums",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/FSECDEV/Threat-Intelligence-Hackers-Forums"
+    },
+    {
+      "name": "saragordic/window-sweaters",
+      "stars": 175,
+      "full_text": "A macOS menu-bar app that dresses your windows in knitted borders.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/saragordic/window-sweaters"
+    },
+    {
+      "name": "FLModel/flm",
+      "stars": 68,
+      "full_text": "Train and chat with a frozen language model coupled to the full retained MaleCNS fly connectome.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/FLModel/flm"
+    },
+    {
+      "name": "sam-v-hq99v4/deepseek-bypass-2026",
+      "stars": 44,
+      "full_text": "Unlock DeepSeek V3 and R1 Pro APIs with an OpenAI-compatible wrapper and rotating shared keys. Access powerful DeepSeek models with a simple API setup, flexible integration, and streamlined access for development, testing, and AI-powered applications.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sam-v-hq99v4/deepseek-bypass-2026"
+    }
+  ]
+}
