@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-17T18:49:46.270Z",
+    "total_captured": 11,
+    "TRENDING_DIRECTIONS": [
+      "Power (physics) (Heat:221)",
+      "Monarchy (Heat:211)",
+      "Politics (Heat:211)",
+      "Resource (disambiguation) (Heat:41)",
+      "Categorization (Heat:41)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 4,
+      "AI_CORE": 1,
+      "PARADIGM_SHIFT": 1,
+      "BIO_REVOLUTION": 6
+    }
+  },
+  "items": [
+    {
+      "title": "Religion and Power: Divine Kingship in the Ancient World and Beyond",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 210,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.83354/kgkp-w906",
+      "reason": "Velocity: 210 citations",
+      "publication_date": "2026-09-16"
+    },
+    {
+      "title": "Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 40,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3845797",
+      "reason": "Velocity: 40 citations",
+      "publication_date": "2026-09-15"
+    },
+    {
+      "title": "Morphology and Phylogeny of Four Marine Scuticociliates (Protista, Ciliophora), with Descriptions of Two New Species: Pleuronema elegans spec. nov. and Uronema orientalis spec. nov.",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://zenodo.org/record/8356852",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-09-10"
+    },
+    {
+      "title": "Genetic control of bone marrow transplantation in irradiated mice: classification of mouse strains according to their responsiveness to bone marrow allografts and xenografts",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PubMed",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.82135/tno-356090",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-09-15"
+    },
+    {
+      "title": "Beckers Collection (Aachen) - Ushabti UB-014: Ushabti of Hori I (Tell Basta)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19222672",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-09-16"
+    },
+    {
+      "title": "A block recycled Gmres method with investigations into aspects of solver performance",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "CALCOLO",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/1604.01713",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-09-11"
+    },
+    {
+      "title": "数的密度聚类理论:静力学核心 / Numbers as Density Clusters: The Static Core",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22773691",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-09-16"
+    },
+    {
+      "title": "自发比数理论:比值空间上的层级与自发动力学 / Spontaneous Ratio Structures: Hierarchy and Spontaneous Dynamics on the Ratio Space",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22783549",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-09-16"
+    },
+    {
+      "title": "The Hausdorff dimension of the spectrum of the Thue-Morse Hamiltonian",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2609.12782",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-09-11"
+    },
+    {
+      "title": "Beckers Collection (Aachen) - Ushabti UB-006: Usurped wooden ushabti with inscription",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18245544",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-09-16"
+    },
+    {
+      "title": "Spatial Modelling of Electric Vehicle Charging Demand and Impacts on Peak Household Electrical Load in Victoria, Australia",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "CSIRO",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.25919/n39g-pa93",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-09-11"
+    }
+  ]
+}
