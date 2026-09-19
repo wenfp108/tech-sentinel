@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-19T10:46:19.047Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 6,
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 14,
+      "CODE_LEVERAGE": 3,
+      "KNOWLEDGE_BASE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "stars": 386,
+      "full_text": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored"
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "stars": 269,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/NandhaKishorM/laya"
+    },
+    {
+      "name": "arvindear/wp2shell-PoC",
+      "stars": 237,
+      "full_text": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/arvindear/wp2shell-PoC"
+    },
+    {
+      "name": "fatwang2/awesome-jev",
+      "stars": 122,
+      "full_text": "A source-backed Jev project directory with a reusable Jev-only GitHub review workflow.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/fatwang2/awesome-jev"
+    },
+    {
+      "name": "cobanov/awesome-jev",
+      "stars": 121,
+      "full_text": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cobanov/awesome-jev"
+    },
+    {
+      "name": "featherless-ai/simple-jev",
+      "stars": 71,
+      "full_text": "Turn any open model into a classifier/jev endpoint",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/featherless-ai/simple-jev"
+    },
+    {
+      "name": "bespokelabsai/nimble",
+      "stars": 71,
+      "full_text": "Local typed decisions, contrastive data curation, and model evaluation.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bespokelabsai/nimble"
+    },
+    {
+      "name": "incoai/splash",
+      "stars": 57,
+      "full_text": "A local inference engine for Apple silicon, built around the model.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/incoai/splash"
+    },
+    {
+      "name": "dashscope-sdk/dashcope-sdk-python",
+      "stars": 47,
+      "full_text": "python sdk for dashscope [model studio](https://www.alibabacloud.com/en/product/modelstudio?_p_lc=1)",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dashscope-sdk/dashcope-sdk-python"
+    },
+    {
+      "name": "unicodef1wn/grokbot-field-notes",
+      "stars": 44,
+      "full_text": "Rules, playbooks, bot roles and a failure log from the xAI Grok Bot team's 72-hour live build. Drop AGENTS.md into your repo and go.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/unicodef1wn/grokbot-field-notes"
+    }
+  ]
+}
