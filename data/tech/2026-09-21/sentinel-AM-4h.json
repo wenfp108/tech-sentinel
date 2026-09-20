@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-21T04:10:38.831Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 6,
+      "KNOWLEDGE_BASE": 6,
+      "CAREER_MOVES": 1,
+      "VIRAL_GIANT": 11,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 25,
+      "TALENT_GROWTH": 3
+    }
+  },
+  "items": [
+    {
+      "name": "mizorewww/laya-mlx",
+      "stars": 1408,
+      "full_text": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mizorewww/laya-mlx"
+    },
+    {
+      "name": "v-modal/awesome-jev-tools",
+      "stars": 535,
+      "full_text": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/v-modal/awesome-jev-tools"
+    },
+    {
+      "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "stars": 484,
+      "full_text": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+      "tags": [
+        "CAREER_MOVES",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise"
+    },
+    {
+      "name": "newliver666/apk-reverse",
+      "stars": 453,
+      "full_text": "Suitable for Android APK reverse engineering analysis",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/newliver666/apk-reverse"
+    },
+    {
+      "name": "Haleclipse/CometixCode",
+      "stars": 325,
+      "full_text": "An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Haleclipse/CometixCode"
+    },
+    {
+      "name": "mizorewww/laya-coreml",
+      "stars": 320,
+      "full_text": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mizorewww/laya-coreml"
+    },
+    {
+      "name": "joeseesun/qiaomu-download",
+      "stars": 247,
+      "full_text": "通用在线视频下载与媒体提取技能。用户提供 YouTube/youtu.be、B站/bilibili/b23.tv、X/Twitter、Vimeo、TikTok、Instagram、Facebook、Twitch、Reddit 或其他 yt-dlp 支持的视频链接，并要求下载/保存视频、提取 audio/MP3、下载字幕、查看视频信息或更新 yt-dlp 时使用。微信视频号 weixin.qq.com/sph 链接转交 qiaomu-wx-video，绝不自动化操作微信客户端。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/joeseesun/qiaomu-download"
+    },
+    {
+      "name": "rmalde/minecraft-agent",
+      "stars": 242,
+      "full_text": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rmalde/minecraft-agent"
+    },
+    {
+      "name": "sutro-sh/jev-align",
+      "stars": 235,
+      "full_text": "Build calibrated AI Functions from human feedback using Jev and GEPA.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sutro-sh/jev-align"
+    },
+    {
+      "name": "HyNetworks/OpenGFW",
+      "stars": 234,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/HyNetworks/OpenGFW"
+    },
+    {
+      "name": "JamesKInner/Covalent-MAS",
+      "stars": 226,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/JamesKInner/Covalent-MAS"
+    },
+    {
+      "name": "shhivv/third-hand",
+      "stars": 222,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/shhivv/third-hand"
+    },
+    {
+      "name": "LSPosed/ZygiskNext",
+      "stars": 214,
+      "full_text": "Standalone implementation of Zygisk",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LSPosed/ZygiskNext"
+    },
+    {
+      "name": "huangbai-AI/post-production-skill",
+      "stars": 214,
+      "full_text": "用于 AI 视频后期特效创作的 Seedance 2.5 Skill，可生成电影级 VFX、创意转场、三维 UI、动态镜头与视觉合成提示词。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/huangbai-AI/post-production-skill"
+    },
+    {
+      "name": "Mak5er/AirCard-iOS",
+      "stars": 207,
+      "full_text": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Mak5er/AirCard-iOS"
+    },
+    {
+      "name": "FBddcz/embodied-jev",
+      "stars": 89,
+      "full_text": "EmbodiedJev: MuJoCo robot decision workbench with MiniCPM5-2B, Jev and compatible model APIs",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/FBddcz/embodied-jev"
+    },
+    {
+      "name": "Yinsongxu/LLM2Jev",
+      "stars": 75,
+      "full_text": "Adapt local language models into Jev-compatible structured decision engines with Choice, Score, and Noul outputs   powered by prefill-only binary inference.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Yinsongxu/LLM2Jev"
+    },
+    {
+      "name": "savka777/jev-use",
+      "stars": 66,
+      "full_text": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/savka777/jev-use"
+    }
+  ]
+}
