@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-20T10:58:25.670Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 1,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 13,
+      "CAREER_MOVES": 1,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "newliver666/apk-reverse",
+      "stars": 260,
+      "full_text": "Suitable for Android APK reverse engineering analysis",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/newliver666/apk-reverse"
+    },
+    {
+      "name": "v-modal/awesome-jev-tools",
+      "stars": 205,
+      "full_text": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/v-modal/awesome-jev-tools"
+    }
+  ]
+}
