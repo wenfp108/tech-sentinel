@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-22T18:48:43.793Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 6,
+      "VIRAL_UNCATEGORIZED": 20,
+      "CODE_LEVERAGE": 2,
+      "PARADIGM_SHIFT": 2,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "jev-chat/jev-chat-jarvis",
+      "stars": 2784,
+      "full_text": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis"
+    },
+    {
+      "name": "Rizzo-AI-Academy/rizzo-flow",
+      "stars": 297,
+      "full_text": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow"
+    },
+    {
+      "name": "jev-chat/jev-chat-windows",
+      "stars": 177,
+      "full_text": "微信（Windows 4.x）旁挂的回复辅助：窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jev-chat/jev-chat-windows"
+    },
+    {
+      "name": "TianyuCodings/JevHarness",
+      "stars": 126,
+      "full_text": "LLM-authored task-specific Jev harnesses with optional full-trajectory reward reflection and GEPA evolution.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TianyuCodings/JevHarness"
+    },
+    {
+      "name": "CTNicholas/jev-workflow-builder",
+      "stars": 102,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CTNicholas/jev-workflow-builder"
+    },
+    {
+      "name": "fstandhartinger/chat-seek-vscode",
+      "stars": 66,
+      "full_text": "Local VS Code search across Claude Code, Codex, and OpenCode chats with Laya reranking",
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/fstandhartinger/chat-seek-vscode"
+    },
+    {
+      "name": "HeyPuter/builder",
+      "stars": 66,
+      "full_text": "📦✨ AI Builder For Creating Sites and Apps! An open-source alternative to Lovable, Replit, v0, and similar platforms.",
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HeyPuter/builder"
+    },
+    {
+      "name": "malevrigns/agent-jev",
+      "stars": 54,
+      "full_text": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/malevrigns/agent-jev"
+    },
+    {
+      "name": "Michael-Jiahao-Zhang/game-the-llm-reviewer",
+      "stars": 52,
+      "full_text": "Defend sound research against LLM reviewer bias through meaning-preserving rewrites.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer"
+    },
+    {
+      "name": "freestylefly/WeChatBridge",
+      "stars": 42,
+      "full_text": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/freestylefly/WeChatBridge"
+    },
+    {
+      "name": "RenaGao/jev-dataops",
+      "stars": 41,
+      "full_text": "An open-source JEV-powered workbench for streaming data selection, quality evaluation, automatic LoRA training and held-out model evaluation.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/RenaGao/jev-dataops"
+    }
+  ]
+}
