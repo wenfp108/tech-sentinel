@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-23T10:56:23.043Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 2,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 47,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "kydlikebtc/awesome-jev",
+      "stars": 168,
+      "full_text": "805 verified examples of Jev — TypeSafe AI's System One decision model — indexed by the decision each one makes, not the blog that mentioned it. Every cited call site is re-read by CI each week. Bilingual EN/中文, JSON schema, and a cross-platform compatibility table.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kydlikebtc/awesome-jev"
+    },
+    {
+      "name": "lhlGitHub/threejs-architecture-effects",
+      "stars": 119,
+      "full_text": "An Agent Skill for building interactive, self-assembling 3D architecture with Three.js.  一个用 Three.js 生成可交互、可动态建造 3D 建筑的 Agent Skill。",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lhlGitHub/threejs-architecture-effects"
+    },
+    {
+      "name": "edison-land/paragravity",
+      "stars": 64,
+      "full_text": "Native, non-invasive parallel multi-account & sandbox manager for Google Antigravity",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/edison-land/paragravity"
+    }
+  ]
+}
