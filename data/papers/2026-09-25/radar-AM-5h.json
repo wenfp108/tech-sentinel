@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-25T05:03:04.909Z",
+    "total_captured": 11,
+    "TRENDING_DIRECTIONS": [
+      "Inflation (cosmology) (Heat:51)",
+      "Cosmic microwave background (Heat:51)",
+      "Anisotropy (Heat:51)",
+      "Calculus (dental) (Heat:44)",
+      "Eigenvalues and eigenvectors (Heat:41)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 7,
+      "NEXT_COMPUTING": 3,
+      "AI_CORE": 2
+    }
+  },
+  "items": [
+    {
+      "title": "Aramaic Ritual Texts from Persepolis",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 71,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.83354/dmtc-yq13",
+      "reason": "Velocity: 71 citations",
+      "publication_date": "2026-09-17"
+    },
+    {
+      "title": "How Gaussian can our Universe be?",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Apollo (University of Cambridge)",
+      "metrics": {
+        "citations": 33,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.repository.cam.ac.uk/bitstreams/316d120c-ec58-4fc0-9a85-712848389da5/download",
+      "reason": "Velocity: 33 citations",
+      "publication_date": "2026-09-17"
+    },
+    {
+      "title": "The Möbius and Klein Transforms: Spectral Analysis on Non-Orientable Manifolds",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 29,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21532594",
+      "reason": "Velocity: 29 citations",
+      "publication_date": "2026-09-17"
+    },
+    {
+      "title": "Post-hoc Interpretability of LDA on Hyperspectral Imagery: SHAP Attributions, Counterfactual Topic Flips, and LLM-judge Alignment under Token-Mass-Dispersion Asymmetry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 25,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21504113",
+      "reason": "Velocity: 25 citations",
+      "publication_date": "2026-09-19"
+    },
+    {
+      "title": "Hardware's Cut: The Non-Commuting Consequence Gate and the Guillotine of Thermodynamics (Document 134)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22908461",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-09-23"
+    },
+    {
+      "title": "Lifting primordial non-Gaussianity above the noise",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Apollo (University of Cambridge)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.repository.cam.ac.uk/bitstreams/0b8df6cb-1acb-4998-b37c-631c9ec7efe3/download",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-09-17"
+    },
+    {
+      "title": "Human Infrastructure as a Core Component of Metropolitan Resilience",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22892575",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-09-22"
+    },
+    {
+      "title": "Anchor Numbers: Completing Dynamic Number with the Anchor Primitive (Constructive Mathematics Series; E-system completion case No.1; Lean formalization, three heterogeneous anchored families, collapse of Cauchy dynamics)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22866459",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-09-21"
+    },
+    {
+      "title": "From Giga-Project to Metropolitan System: A Capability-Based Transition Model",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22892691",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-09-22"
+    },
+    {
+      "title": "The Generative Mechanism of Dimension: An Axiomatic Construction of Dimensional Conventions (Constructive Mathematics Series, Paper 6; Lean formalization, model-pair independence, numerical evidence)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22844311",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-09-19"
+    },
+    {
+      "title": "Where the character values of Sp(2m) at a torsion element fail to generate the ring of integers",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22813216",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-09-17"
+    }
+  ]
+}
