@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-25T00:20:27.729Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 7,
+      "VIRAL_GIANT": 12,
+      "TECH_ACCELERATOR": 9,
+      "TALENT_GROWTH": 3,
+      "CORE_PRAGMATISM": 3,
+      "CAREER_MOVES": 1,
+      "VIRAL_UNCATEGORIZED": 17,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "mikehasa/golive-skill",
+      "stars": 818,
+      "full_text": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mikehasa/golive-skill"
+    },
+    {
+      "name": "riba2534/claude-opus-5-5-demo",
+      "stars": 766,
+      "full_text": "claude-opus-5-5-demo",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo"
+    },
+    {
+      "name": "Contrastive-LM/CLM",
+      "stars": 598,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Contrastive-LM/CLM"
+    },
+    {
+      "name": "yetone/magpie",
+      "stars": 546,
+      "full_text": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yetone/magpie"
+    },
+    {
+      "name": "samyost1/3dicon",
+      "stars": 350,
+      "full_text": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/samyost1/3dicon"
+    },
+    {
+      "name": "852wa/JIZURA",
+      "stars": 318,
+      "full_text": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/852wa/JIZURA"
+    },
+    {
+      "name": "dgreenheck/tidewater",
+      "stars": 295,
+      "full_text": "Coastal town built with Opus 5.5",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dgreenheck/tidewater"
+    },
+    {
+      "name": "saragordic/rooms",
+      "stars": 239,
+      "full_text": "Switch between projects on your Mac. Every project is a room: its windows, laid out, one shortcut away.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/saragordic/rooms"
+    },
+    {
+      "name": "amitshekhariitbhu/ai-engineering-course",
+      "stars": 232,
+      "full_text": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course"
+    },
+    {
+      "name": "Aureliengmz/clearwater",
+      "stars": 232,
+      "full_text": "Real-time, photoreal shallow water in a single HTML file. WebGL2, no libraries, no build step.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Aureliengmz/clearwater"
+    },
+    {
+      "name": "BridgeDruidCompress/TauriKit",
+      "stars": 223,
+      "full_text": "Modern UI component kit for Rust desktop applications",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/BridgeDruidCompress/TauriKit"
+    },
+    {
+      "name": "BufferHerald/WarpLite",
+      "stars": 223,
+      "full_text": "Fast GPU-accelerated terminal and shell experience",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BufferHerald/WarpLite"
+    },
+    {
+      "name": "AutocratGirder/ClashDesk",
+      "stars": 223,
+      "full_text": "Modern cross-platform desktop client for proxy workflows",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AutocratGirder/ClashDesk"
+    },
+    {
+      "name": "BinaryDeliverer/CodexDesk",
+      "stars": 222,
+      "full_text": "Desktop companion for AI coding agents and Codex workflows",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BinaryDeliverer/CodexDesk"
+    },
+    {
+      "name": "BricklayerSurmount/DockForge",
+      "stars": 222,
+      "full_text": "Flexible dock and panel layout system for desktop apps",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/BricklayerSurmount/DockForge"
+    },
+    {
+      "name": "centralcashierboost/ZedLite",
+      "stars": 222,
+      "full_text": "Lightweight high-performance code editor built with Rust",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/centralcashierboost/ZedLite"
+    },
+    {
+      "name": "CassowaryDevelop/HelixEdit",
+      "stars": 221,
+      "full_text": "Modal code editor with LSP support written in Rust",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CassowaryDevelop/HelixEdit"
+    },
+    {
+      "name": "Behemothlyaoscillate/RustDeskPro",
+      "stars": 221,
+      "full_text": "Self-hosted remote desktop client for teams",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Behemothlyaoscillate/RustDeskPro"
+    },
+    {
+      "name": "AvenueSnowStep/ClaudePanel",
+      "stars": 221,
+      "full_text": "Desktop panel and toolkit for Claude and AI assistants",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AvenueSnowStep/ClaudePanel"
+    },
+    {
+      "name": "JohnHeibel/ClaudeAnimationBase",
+      "stars": 158,
+      "full_text": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase"
+    },
+    {
+      "name": "yu1745/wetype-ime-linux",
+      "stars": 147,
+      "full_text": "Linux port and Fcitx 5 integration for the WeType Android input engine",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yu1745/wetype-ime-linux"
+    },
+    {
+      "name": "yukitorido/short-video-generator-AI",
+      "stars": 94,
+      "full_text": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yukitorido/short-video-generator-AI"
+    },
+    {
+      "name": "asokurasu/text-humanizer",
+      "stars": 79,
+      "full_text": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/asokurasu/text-humanizer"
+    },
+    {
+      "name": "Liuziyu77/Valen",
+      "stars": 67,
+      "full_text": "Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Liuziyu77/Valen"
+    },
+    {
+      "name": "angusdevgo/Seep-Reverse-Lab",
+      "stars": 59,
+      "full_text": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/angusdevgo/Seep-Reverse-Lab"
+    },
+    {
+      "name": "togethercomputer/tev1",
+      "stars": 55,
+      "full_text": "Open-weight, Jev-inspired decision model finetuned on top of Qwen3.5 4B",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/togethercomputer/tev1"
+    },
+    {
+      "name": "mike007jd/voxel-musou",
+      "stars": 55,
+      "full_text": "Dynasty Warriors-style voxel action game in the browser: Zhao Yun vs 300 soldiers. Three.js, no build step.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mike007jd/voxel-musou"
+    },
+    {
+      "name": "1Panel-dev/laya-server",
+      "stars": 44,
+      "full_text": "A self-hosted API and web interface for Laya’s structured decision models, compatible with the TypeSafe Jev API format.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/1Panel-dev/laya-server"
+    }
+  ]
+}
