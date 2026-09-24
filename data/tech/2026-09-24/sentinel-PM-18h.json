@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-24T18:58:00.989Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 9,
+      "TECH_ACCELERATOR": 6,
+      "CODE_LEVERAGE": 5,
+      "CORE_PRAGMATISM": 3,
+      "VIRAL_UNCATEGORIZED": 13,
+      "TALENT_GROWTH": 3,
+      "CAREER_MOVES": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "riba2534/claude-opus-5-5-demo",
+      "stars": 743,
+      "full_text": "claude-opus-5-5-demo",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/riba2534/claude-opus-5-5-demo"
+    },
+    {
+      "name": "yetone/magpie",
+      "stars": 450,
+      "full_text": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yetone/magpie"
+    },
+    {
+      "name": "Contrastive-LM/CLM",
+      "stars": 384,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Contrastive-LM/CLM"
+    },
+    {
+      "name": "samyost1/3dicon",
+      "stars": 297,
+      "full_text": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/samyost1/3dicon"
+    },
+    {
+      "name": "852wa/JIZURA",
+      "stars": 270,
+      "full_text": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/852wa/JIZURA"
+    },
+    {
+      "name": "BridgeDruidCompress/TauriKit",
+      "stars": 223,
+      "full_text": "Modern UI component kit for Rust desktop applications",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/BridgeDruidCompress/TauriKit"
+    },
+    {
+      "name": "BufferHerald/WarpLite",
+      "stars": 223,
+      "full_text": "Fast GPU-accelerated terminal and shell experience",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BufferHerald/WarpLite"
+    },
+    {
+      "name": "AutocratGirder/ClashDesk",
+      "stars": 223,
+      "full_text": "Modern cross-platform desktop client for proxy workflows",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AutocratGirder/ClashDesk"
+    },
+    {
+      "name": "BinaryDeliverer/CodexDesk",
+      "stars": 222,
+      "full_text": "Desktop companion for AI coding agents and Codex workflows",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BinaryDeliverer/CodexDesk"
+    },
+    {
+      "name": "BricklayerSurmount/DockForge",
+      "stars": 222,
+      "full_text": "Flexible dock and panel layout system for desktop apps",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/BricklayerSurmount/DockForge"
+    },
+    {
+      "name": "centralcashierboost/ZedLite",
+      "stars": 222,
+      "full_text": "Lightweight high-performance code editor built with Rust",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/centralcashierboost/ZedLite"
+    },
+    {
+      "name": "CassowaryDevelop/HelixEdit",
+      "stars": 221,
+      "full_text": "Modal code editor with LSP support written in Rust",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CassowaryDevelop/HelixEdit"
+    },
+    {
+      "name": "Behemothlyaoscillate/RustDeskPro",
+      "stars": 221,
+      "full_text": "Self-hosted remote desktop client for teams",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Behemothlyaoscillate/RustDeskPro"
+    },
+    {
+      "name": "AvenueSnowStep/ClaudePanel",
+      "stars": 221,
+      "full_text": "Desktop panel and toolkit for Claude and AI assistants",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AvenueSnowStep/ClaudePanel"
+    },
+    {
+      "name": "mikehasa/golive-skill",
+      "stars": 204,
+      "full_text": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mikehasa/golive-skill"
+    },
+    {
+      "name": "amitshekhariitbhu/ai-engineering-course",
+      "stars": 188,
+      "full_text": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course"
+    },
+    {
+      "name": "yu1745/wetype-ime-linux",
+      "stars": 96,
+      "full_text": "Linux port and Fcitx 5 integration for the WeType Android input engine",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yu1745/wetype-ime-linux"
+    },
+    {
+      "name": "JohnHeibel/ClaudeAnimationBase",
+      "stars": 95,
+      "full_text": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JohnHeibel/ClaudeAnimationBase"
+    },
+    {
+      "name": "Liuziyu77/Valen",
+      "stars": 53,
+      "full_text": "Train a Jev-like multimodal model by yourself. System One Model, now with vision.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Liuziyu77/Valen"
+    },
+    {
+      "name": "1Panel-dev/laya-server",
+      "stars": 41,
+      "full_text": "A self-hosted API and web interface for Laya’s structured decision models, compatible with the TypeSafe Jev API format.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/1Panel-dev/laya-server"
+    }
+  ]
+}
