@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-25T18:58:33.834Z",
+    "session": "PM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 21,
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "tobi/disktree",
+      "stars": 496,
+      "full_text": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tobi/disktree"
+    },
+    {
+      "name": "Cosmicchibattle/zeroclaw-ui",
+      "stars": 201,
+      "full_text": "UI for Zeroclaw setup",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Cosmicchibattle/zeroclaw-ui"
+    },
+    {
+      "name": "ezmoney4scout/pixel-office",
+      "stars": 102,
+      "full_text": "A Windows desktop app for visual AI agent teamwork in a pixel-art office. Create PowerPoint, Word, Excel and PDF files, switch AI models with your own API keys, and approve plans before agents act.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ezmoney4scout/pixel-office"
+    },
+    {
+      "name": "mike007jd/voxel-musou",
+      "stars": 86,
+      "full_text": "Dynasty Warriors-style voxel action game in the browser: Zhao Yun vs 300 soldiers. Three.js, no build step.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mike007jd/voxel-musou"
+    },
+    {
+      "name": "architectds/collabosm",
+      "stars": 46,
+      "full_text": "Run Qwen3.8-Flash-Next (125B-A6B MoE) on ONE Colab A100-80GB High-RAM: pinned runtime, weights from HF, OpenAI-compatible endpoint, measured 2.8k-3.9k t/s prefill / 90-97 t/s decode, plus a verified pinned-RAM KV tier.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/architectds/collabosm"
+    }
+  ]
+}
