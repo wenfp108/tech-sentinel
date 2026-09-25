@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-26T00:20:45.915Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 4,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 22,
+      "CODE_LEVERAGE": 6,
+      "TALENT_GROWTH": 5,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "tobi/disktree",
+      "stars": 723,
+      "full_text": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tobi/disktree"
+    },
+    {
+      "name": "jankeesvw/omarchy-meeting-recorder",
+      "stars": 207,
+      "full_text": "Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on your own machine, with speakers, chapters and a player.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jankeesvw/omarchy-meeting-recorder"
+    },
+    {
+      "name": "diggerhq/shipvideo",
+      "stars": 109,
+      "full_text": "Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/diggerhq/shipvideo"
+    },
+    {
+      "name": "amitshekhariitbhu/ai-system-design",
+      "stars": 100,
+      "full_text": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/amitshekhariitbhu/ai-system-design"
+    },
+    {
+      "name": "mike007jd/voxel-musou",
+      "stars": 89,
+      "full_text": "Dynasty Warriors-style voxel action game in the browser: Zhao Yun vs 300 soldiers. Three.js, no build step.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mike007jd/voxel-musou"
+    },
+    {
+      "name": "win4r/MuseAI-Skills",
+      "stars": 87,
+      "full_text": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/win4r/MuseAI-Skills"
+    },
+    {
+      "name": "zouyuxuan122/dsh-our-free-model",
+      "stars": 68,
+      "full_text": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zouyuxuan122/dsh-our-free-model"
+    },
+    {
+      "name": "majidmanzarpour/blender-game-skills",
+      "stars": 65,
+      "full_text": "Claude Code agent skills for game dev in Blender. Turn concept art into rigged, game-ready 3D assets, measured against your references.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/majidmanzarpour/blender-game-skills"
+    },
+    {
+      "name": "architectds/collabosm",
+      "stars": 61,
+      "full_text": "Run Qwen3.8-Flash-Next (125B-A6B MoE) on ONE Colab A100-80GB High-RAM: pinned runtime, weights from HF, OpenAI-compatible endpoint, measured 2.8k-3.9k t/s prefill / 90-97 t/s decode, plus a verified pinned-RAM KV tier.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/architectds/collabosm"
+    },
+    {
+      "name": "bestagentkits/motion-video-skill",
+      "stars": 42,
+      "full_text": "Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and generated music. MIT.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bestagentkits/motion-video-skill"
+    }
+  ]
+}
