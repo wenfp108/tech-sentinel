@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-26T18:40:08.179Z",
+    "total_captured": 17,
+    "TRENDING_DIRECTIONS": [
+      "Calculus (dental) (Heat:44)",
+      "Service (business) (Heat:34)",
+      "Asymmetry (Heat:33)",
+      "Algebra over a field (Heat:31)",
+      "Work (physics) (Heat:30)"
+    ],
+    "strategy_summary": {
+      "AI_CORE": 3,
+      "BIO_REVOLUTION": 9,
+      "NEXT_COMPUTING": 5,
+      "PARADIGM_SHIFT": 2
+    }
+  },
+  "items": [
+    {
+      "title": "Post-hoc Interpretability of LDA on Hyperspectral Imagery: SHAP Attributions, Counterfactual Topic Flips, and LLM-judge Alignment under Token-Mass-Dispersion Asymmetry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 25,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21504113",
+      "reason": "Velocity: 25 citations",
+      "publication_date": "2026-09-19"
+    },
+    {
+      "title": "Hardware's Cut: The Non-Commuting Consequence Gate and the Guillotine of Thermodynamics (Document 134)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22908461",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-09-23"
+    },
+    {
+      "title": "The Authorization Artifact Test: Applying the Impossibility Result to Ex-Ante Authorization Requirements",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20013582",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-09-24"
+    },
+    {
+      "title": "Human Infrastructure as a Core Component of Metropolitan Resilience",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22892575",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-09-22"
+    },
+    {
+      "title": "Anchor Numbers: Completing Dynamic Number with the Anchor Primitive (Constructive Mathematics Series; E-system completion case No.1; Lean formalization, three heterogeneous anchored families, collapse of Cauchy dynamics)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22866459",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-09-21"
+    },
+    {
+      "title": "From Giga-Project to Metropolitan System: A Capability-Based Transition Model",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22892691",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-09-22"
+    },
+    {
+      "title": "The Generative Mechanism of Dimension: An Axiomatic Construction of Dimensional Conventions (Constructive Mathematics Series, Paper 6; Lean formalization, model-pair independence, numerical evidence)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22844311",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-09-19"
+    },
+    {
+      "title": "Quantum-inspired machine learning: a survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Computer Science Review",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1016/j.cosrev.2026.101072",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-09-23"
+    },
+    {
+      "title": "Rural/Urban Disparities in Pneumococcal Vaccine Service Delivery Among the Fee-for-Service Medicare Population",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "UKnowledge (University of Kentucky)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://uknowledge.uky.edu/ruhrc_reports/4",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-09-22"
+    },
+    {
+      "title": "High‐resolution spatial transcriptomic atlas of mouse soleus muscle: Unveiling single cell and subcellular heterogeneity in health and denervation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "FEBS Journal",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/febs.70726",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-09-21"
+    },
+    {
+      "title": "Three Regimes of Hadron Masses: GOR, Power Law, and the φ-ratio",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22839646",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-09-19"
+    },
+    {
+      "title": "The Silicon & Synapse Diptych: The Physical Cut and the Subtractive Airlock (Documents 134 & 135)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22908430",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-09-23"
+    },
+    {
+      "title": "Multi-Task Deep Recommender Systems: A Survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3846376",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-09-22"
+    },
+    {
+      "title": "Which Loops Can Carry a Burgers Vector? Selection Rules on Non-Orientable Geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21849262",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-09-21"
+    },
+    {
+      "title": "Vacuum Mechanics: How the Quaternion Finally Made the Standard Model Make Sense",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234951",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2029-03-26"
+    },
+    {
+      "title": "Efficient differential expression analysis of large-scale single-cell transcriptomics data using Dreamlet",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Communications",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41467-026-75680-8.pdf",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-09-23"
+    },
+    {
+      "title": "Detection Without Indicators: Agent-Originated Intrusion",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21770780",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-09-22"
+    }
+  ]
+}
