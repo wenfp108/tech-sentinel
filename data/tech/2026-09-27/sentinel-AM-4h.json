@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-27T04:33:01.225Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TECH_ACCELERATOR": 6,
+      "CODE_LEVERAGE": 6,
+      "TALENT_GROWTH": 7,
+      "VIRAL_UNCATEGORIZED": 28,
+      "KNOWLEDGE_BASE": 4,
+      "CORE_PRAGMATISM": 2
+    }
+  },
+  "items": [
+    {
+      "name": "supermemoryai/company-brain",
+      "stars": 465,
+      "full_text": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/supermemoryai/company-brain"
+    },
+    {
+      "name": "SpecterLouse/CapCut-Pro-macOS-Windows",
+      "stars": 432,
+      "full_text": "Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS)",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows"
+    },
+    {
+      "name": "amitshekhariitbhu/ai-system-design",
+      "stars": 375,
+      "full_text": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/amitshekhariitbhu/ai-system-design"
+    },
+    {
+      "name": "jamespolyakov9829/captcha-api",
+      "stars": 263,
+      "full_text": "Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface, with cost tracking and concurrent batch solves.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jamespolyakov9829/captcha-api"
+    },
+    {
+      "name": "win4r/MuseAI-Skills",
+      "stars": 242,
+      "full_text": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/win4r/MuseAI-Skills"
+    },
+    {
+      "name": "feitangyuan/onetake",
+      "stars": 168,
+      "full_text": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/feitangyuan/onetake"
+    },
+    {
+      "name": "Roberto02800/turnstile-token",
+      "stars": 143,
+      "full_text": "A small Python CLI and library for Cloudflare Turnstile token - discover the sitekey, create a cf-turnstile-response token, and replay the browser identity",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Roberto02800/turnstile-token"
+    },
+    {
+      "name": "jaydendavisnc/inkwave",
+      "stars": 120,
+      "full_text": "Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jaydendavisnc/inkwave"
+    },
+    {
+      "name": "ZacharyZhang-NY/OmaPhoto",
+      "stars": 108,
+      "full_text": "Layered image editor for Linux and Omarchy, a port of Compositor",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ZacharyZhang-NY/OmaPhoto"
+    },
+    {
+      "name": "architectds/collabosm",
+      "stars": 81,
+      "full_text": "Run Qwen3.8-Flash-Next (125B-A6B MoE) on ONE Colab A100-80GB High-RAM: pinned runtime, weights from HF, OpenAI-compatible endpoint, measured 2.8k-3.9k t/s prefill / 90-97 t/s decode, plus a verified pinned-RAM KV tier.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/architectds/collabosm"
+    },
+    {
+      "name": "JoinArtisanVent/x-scraper-no-api",
+      "stars": 71,
+      "full_text": "Free, self-hosted X (Twitter) scraper no API key, no credits. Uses your own browser session via Playwright. Export tweets, search results & timelines as LLM-ready JSON/CSV/Markdown. Ships an AI agent Skill for OpenClaw & Hermes.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JoinArtisanVent/x-scraper-no-api"
+    },
+    {
+      "name": "graygnatconsole/mcp-audit-tool",
+      "stars": 68,
+      "full_text": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/graygnatconsole/mcp-audit-tool"
+    },
+    {
+      "name": "bestagentkits/motion-video-skill",
+      "stars": 66,
+      "full_text": "Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and generated music. MIT.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bestagentkits/motion-video-skill"
+    },
+    {
+      "name": "hseoa/zakynthos-navagio-rootkit",
+      "stars": 56,
+      "full_text": "PoC for PUBG's anti-cheat Zakynthos's rootkit navagio.sys",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/hseoa/zakynthos-navagio-rootkit"
+    },
+    {
+      "name": "Kenton-GMI/sakuragaoka-station",
+      "stars": 48,
+      "full_text": "A walkable first-person anime cel-shaded Japanese sakura station town, fully procedural in plain three.js",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Kenton-GMI/sakuragaoka-station"
+    }
+  ]
+}
