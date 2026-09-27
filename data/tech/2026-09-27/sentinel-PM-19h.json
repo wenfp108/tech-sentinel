@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-27T19:13:41.674Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 6,
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 4,
+      "CORE_PRAGMATISM": 1,
+      "VIRAL_UNCATEGORIZED": 17,
+      "KNOWLEDGE_BASE": 2,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "feitangyuan/onetake",
+      "stars": 415,
+      "full_text": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/feitangyuan/onetake"
+    },
+    {
+      "name": "dzhng/jevgrep",
+      "stars": 369,
+      "full_text": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dzhng/jevgrep"
+    },
+    {
+      "name": "Rieranthony/product-film-skill",
+      "stars": 255,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Rieranthony/product-film-skill"
+    },
+    {
+      "name": "lemomo-ai/lemo-opuscar",
+      "stars": 241,
+      "full_text": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar"
+    },
+    {
+      "name": "jaydendavisnc/inkwave",
+      "stars": 203,
+      "full_text": "Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build step.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jaydendavisnc/inkwave"
+    },
+    {
+      "name": "gulelmatthews/Polymarket-Perpetual-Bot",
+      "stars": 156,
+      "full_text": "Polymarket trading bot for prediction markets — browse CLOB markets, watch the order book in the terminal, run edge detection, liquidity provision and cross-market arbitrage strategies with paper trading and risk limits. Educational open-source toolkit — not financial advice. Unofficial community project, not affiliated with Polymarket.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/gulelmatthews/Polymarket-Perpetual-Bot"
+    },
+    {
+      "name": "Roberto02800/turnstile-token",
+      "stars": 143,
+      "full_text": "A small Python CLI and library for Cloudflare Turnstile token - discover the sitekey, create a cf-turnstile-response token, and replay the browser identity",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Roberto02800/turnstile-token"
+    },
+    {
+      "name": "ZacharyZhang-NY/OmaPhoto",
+      "stars": 133,
+      "full_text": "Layered image editor for Linux and Omarchy, a port of Compositor",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ZacharyZhang-NY/OmaPhoto"
+    },
+    {
+      "name": "Jiarui-0410/multimodal-product-discovery",
+      "stars": 100,
+      "full_text": "Full-stack multimodal product retrieval and personalized reranking with CLIP, FAISS, Spring Boot, FastAPI, and PostgreSQL.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Jiarui-0410/multimodal-product-discovery"
+    },
+    {
+      "name": "JoinArtisanVent/x-scraper-no-api",
+      "stars": 91,
+      "full_text": "Free, self-hosted X (Twitter) scraper no API key, no credits. Uses your own browser session via Playwright. Export tweets, search results & timelines as LLM-ready JSON/CSV/Markdown. Ships an AI agent Skill for OpenClaw & Hermes.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JoinArtisanVent/x-scraper-no-api"
+    },
+    {
+      "name": "graygnatconsole/mcp-audit-tool",
+      "stars": 87,
+      "full_text": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/graygnatconsole/mcp-audit-tool"
+    },
+    {
+      "name": "AgentSystemLabs/agent-office",
+      "stars": 61,
+      "full_text": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AgentSystemLabs/agent-office"
+    }
+  ]
+}
