@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-29T06:51:50.402Z",
+    "session": "AM",
+    "trend_summary": {
+      "KNOWLEDGE_BASE": 4,
+      "VIRAL_GIANT": 5,
+      "VIRAL_UNCATEGORIZED": 30,
+      "CODE_LEVERAGE": 2,
+      "TALENT_GROWTH": 6,
+      "TECH_ACCELERATOR": 6,
+      "CAREER_MOVES": 2,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "yihui-dev/awesome-opus5-5-videos",
+      "stars": 697,
+      "full_text": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
+    },
+    {
+      "name": "xikhar/spiderbench",
+      "stars": 399,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xikhar/spiderbench"
+    },
+    {
+      "name": "tileshoutdipper/Discord-Booster-Server",
+      "stars": 361,
+      "full_text": "Discord Server Booster — Open-source automation tool and bot script designed to manage, track, and optimize Discord server boost perks role rewards, and community engagement.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tileshoutdipper/Discord-Booster-Server"
+    },
+    {
+      "name": "moguzbulbul/blueprint-animation",
+      "stars": 267,
+      "full_text": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/moguzbulbul/blueprint-animation"
+    },
+    {
+      "name": "brainbrick-trades/The-Quant-Trading-Vault",
+      "stars": 233,
+      "full_text": "5800+ trading strategies unlocked.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/brainbrick-trades/The-Quant-Trading-Vault"
+    },
+    {
+      "name": "zhuyansen/awesome-claude-video-skills",
+      "stars": 182,
+      "full_text": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zhuyansen/awesome-claude-video-skills"
+    },
+    {
+      "name": "JoasASantos/Offensive-Security-AI-Models",
+      "stars": 168,
+      "full_text": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models"
+    },
+    {
+      "name": "NaiveAI-Labs/Naive-N0.5-Flash",
+      "stars": 109,
+      "full_text": "Naive-N0.5-Flash is an open-weight 309B MoE model with 15.5B active parameters, built for coding and AI R&D.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NaiveAI-Labs/Naive-N0.5-Flash"
+    },
+    {
+      "name": "santtiago49/system-design-trainer",
+      "stars": 91,
+      "full_text": "Whiteboard for practicing system design interviews with a live capacity model",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/santtiago49/system-design-trainer"
+    },
+    {
+      "name": "lyuyiqi/open-jev-fast",
+      "stars": 65,
+      "full_text": "Faster inference backend for Open-Jev-27B: fused CUDA kernels, prefix tree, CUDA Graphs (B300, bf16)",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lyuyiqi/open-jev-fast"
+    },
+    {
+      "name": "MaximeRivest/tiny-classifiers",
+      "stars": 62,
+      "full_text": "Train a 17M-parameter text classifier in a minute, with labels from a big AI model, and know when it beats an API. Recipe, tutorial, results on 10 tasks, phone trainer.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MaximeRivest/tiny-classifiers"
+    },
+    {
+      "name": "Ephemera1117/ai-daily-rules-tutorial",
+      "stars": 54,
+      "full_text": "AI 日常调教/动态调整规则思路：人机恋向（主要是D/s向）教程。可以让 AI 老师管理日常规则并动态调整标准。适用于日常生活监督/调教/督学等场景。含思路讲解 + 完整代码实现（TimeReminderTransformer + MemoEntity + 工具描述提示词）",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ephemera1117/ai-daily-rules-tutorial"
+    },
+    {
+      "name": "disler/ten-levels-of-jev",
+      "stars": 43,
+      "full_text": "Ten levels of Jev, from one smart if statement to a coding agent that reaches for Jev on its own",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/disler/ten-levels-of-jev"
+    },
+    {
+      "name": "Y0oshi/lain-psx-decompiled",
+      "stars": 42,
+      "full_text": "Decompilation of Serial Experiments Lain (PlayStation) and a native Windows, macOS and Linux client",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Y0oshi/lain-psx-decompiled"
+    }
+  ]
+}
