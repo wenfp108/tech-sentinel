@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-29T19:58:49.639Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 18,
+      "TECH_ACCELERATOR": 3,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "KKKKhazix/AIHOT",
+      "stars": 2384,
+      "full_text": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/KKKKhazix/AIHOT"
+    },
+    {
+      "name": "firelex/jeff",
+      "stars": 826,
+      "full_text": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/firelex/jeff"
+    },
+    {
+      "name": "wy51ai/floorplan-3d",
+      "stars": 239,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/wy51ai/floorplan-3d"
+    },
+    {
+      "name": "openJiuwen-ai/iCode",
+      "stars": 213,
+      "full_text": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/openJiuwen-ai/iCode"
+    },
+    {
+      "name": "Ghentlesteve/dhis2-immunisation-audit",
+      "stars": 145,
+      "full_text": "Pulling DHIS2 immunisation data through the API, auditing its quality and comparing forecasting models against a baseline (Python, statsmodels, scikit-learn).",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ghentlesteve/dhis2-immunisation-audit"
+    },
+    {
+      "name": "santtiago49/system-design-trainer",
+      "stars": 101,
+      "full_text": "Whiteboard for practicing system design interviews with a live capacity model",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/santtiago49/system-design-trainer"
+    },
+    {
+      "name": "AkbarSheikh-debug/wondersnap",
+      "stars": 43,
+      "full_text": "Gesture-controlled 3D models made of 200k glowing GPU particles. MediaPipe hand tracking + hand-written WebGL2, runs in the browser.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AkbarSheikh-debug/wondersnap"
+    }
+  ]
+}
