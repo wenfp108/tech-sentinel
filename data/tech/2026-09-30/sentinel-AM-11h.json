@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-30T11:36:49.228Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "TECH_ACCELERATOR": 4,
+      "VIRAL_UNCATEGORIZED": 3,
+      "CORE_PRAGMATISM": 2,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "wy51ai/floorplan-3d",
+      "stars": 577,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/wy51ai/floorplan-3d"
+    },
+    {
+      "name": "pinkoctopusdesign/Discord-Server-Booster-Nitro",
+      "stars": 381,
+      "full_text": "Discord Server Booster Client is an automated management utility designed to streamline the process of applying Discord Nitro server boosts across multiple accounts or bot tokens to increase target server boost tiers automatically.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/pinkoctopusdesign/Discord-Server-Booster-Nitro"
+    },
+    {
+      "name": "Outsideglutweezers/Discord-Nitro-Generator",
+      "stars": 329,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Outsideglutweezers/Discord-Nitro-Generator"
+    },
+    {
+      "name": "PostHog/jeeves",
+      "stars": 291,
+      "full_text": "Jeeves – Reasoning improves Jev-like decision models",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PostHog/jeeves"
+    },
+    {
+      "name": "openai/mcp-extensions",
+      "stars": 263,
+      "full_text": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/openai/mcp-extensions"
+    },
+    {
+      "name": "deepseek-ai/DeepGEMM-Ascend",
+      "stars": 102,
+      "full_text": "DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/deepseek-ai/DeepGEMM-Ascend"
+    },
+    {
+      "name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold",
+      "stars": 91,
+      "full_text": "Qwen3.8 Flash Next on one DGX Spark (TensorFold)",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold"
+    },
+    {
+      "name": "deepseek-ai/DeepEP-Ascend",
+      "stars": 73,
+      "full_text": "A high-performance communication library for machine learning training and inference on Huawei Ascend NPUs.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/deepseek-ai/DeepEP-Ascend"
+    },
+    {
+      "name": "d4ncboz/museai",
+      "stars": 61,
+      "full_text": "High-performance OpenAI-compatible API gateway and bridge for muse.ai personal AI agents, ready for 9Router multi-model integration.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/d4ncboz/museai"
+    }
+  ]
+}
