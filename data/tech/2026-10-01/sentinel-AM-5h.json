@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-01T05:46:44.703Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 7,
+      "VIRAL_GIANT": 6,
+      "TALENT_GROWTH": 4,
+      "CORE_PRAGMATISM": 3,
+      "TECH_ACCELERATOR": 8,
+      "VIRAL_UNCATEGORIZED": 17,
+      "KNOWLEDGE_BASE": 1,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "feder-cr/dots",
+      "stars": 1930,
+      "full_text": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/feder-cr/dots"
+    },
+    {
+      "name": "wy51ai/floorplan-3d",
+      "stars": 922,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/wy51ai/floorplan-3d"
+    },
+    {
+      "name": "rehan-remade/universal-modder",
+      "stars": 730,
+      "full_text": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rehan-remade/universal-modder"
+    },
+    {
+      "name": "OpSafari/hypoarena",
+      "stars": 545,
+      "full_text": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/OpSafari/hypoarena"
+    },
+    {
+      "name": "openai/mcp-extensions",
+      "stars": 449,
+      "full_text": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/openai/mcp-extensions"
+    },
+    {
+      "name": "fsiaonma/elpis",
+      "stars": 423,
+      "full_text": "elpis",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/fsiaonma/elpis"
+    },
+    {
+      "name": "deepseek-ai/DeepGEMM-Ascend",
+      "stars": 375,
+      "full_text": "DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/deepseek-ai/DeepGEMM-Ascend"
+    },
+    {
+      "name": "PostHog/jeeves",
+      "stars": 336,
+      "full_text": "Jeeves – Reasoning improves Jev-like decision models",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PostHog/jeeves"
+    },
+    {
+      "name": "ZacharyZhang-NY/Ely-GPUI-Components",
+      "stars": 228,
+      "full_text": "A component library for GPUI, in light and dark. Every component runs live in the browser.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components"
+    },
+    {
+      "name": "fulldiagnose/antigravity-fixer",
+      "stars": 206,
+      "full_text": "Fix Antigravity 'not eligible' error - diagnose, clean credentials, auto-fix",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/fulldiagnose/antigravity-fixer"
+    },
+    {
+      "name": "deepseek-ai/DeepEP-Ascend",
+      "stars": 180,
+      "full_text": "A high-performance communication library for machine learning training and inference on Huawei Ascend NPUs.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/deepseek-ai/DeepEP-Ascend"
+    },
+    {
+      "name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold",
+      "stars": 117,
+      "full_text": "Qwen3.8 Flash Next on one DGX Spark (TensorFold)",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold"
+    },
+    {
+      "name": "composio-community/open-dot",
+      "stars": 116,
+      "full_text": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/composio-community/open-dot"
+    },
+    {
+      "name": "d4ncboz/museai",
+      "stars": 90,
+      "full_text": "High-performance OpenAI-compatible API gateway and bridge for muse.ai personal AI agents, ready for 9Router multi-model integration.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/d4ncboz/museai"
+    },
+    {
+      "name": "humaedihume/kantor-agent",
+      "stars": 90,
+      "full_text": "Kantor Agent: kantor 3D tanpa konfigurasi yang menampilkan Claude Code & subagent-nya bekerja (plugin Claude Code)",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/humaedihume/kantor-agent"
+    },
+    {
+      "name": "blackbearreloaded/ProsperoEden",
+      "stars": 79,
+      "full_text": "",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/blackbearreloaded/ProsperoEden"
+    },
+    {
+      "name": "mlc-ai/TIRx-harness",
+      "stars": 74,
+      "full_text": "An Open Compiler Harness for Agentic GPU Programming",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mlc-ai/TIRx-harness"
+    },
+    {
+      "name": "wenziai/wenzi-xhs-agent-skills",
+      "stars": 61,
+      "full_text": "文子的小红书 Agent Skills：从账号定位、选题标题、真人化改稿、图文规划到排期复盘的一套可安装工作流。",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/wenziai/wenzi-xhs-agent-skills"
+    },
+    {
+      "name": "VoltEmperorChaos/ai-agent-for-pc",
+      "stars": 50,
+      "full_text": "A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup required.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc"
+    },
+    {
+      "name": "sebasvcx/ViewportStencil",
+      "stars": 48,
+      "full_text": "Render models inside surfaces with ViewportFrames: ground cracks, holes and portals, without cutting anything.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sebasvcx/ViewportStencil"
+    },
+    {
+      "name": "gentlefress/OMEGA-0",
+      "stars": 42,
+      "full_text": "The offical code of ω-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/gentlefress/OMEGA-0"
+    }
+  ]
+}
