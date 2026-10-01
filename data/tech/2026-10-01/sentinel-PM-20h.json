@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-01T20:16:15.611Z",
+    "session": "PM",
+    "trend_summary": {
+      "TALENT_GROWTH": 3,
+      "VIRAL_GIANT": 3,
+      "CODE_LEVERAGE": 4,
+      "TECH_ACCELERATOR": 4,
+      "CORE_PRAGMATISM": 2,
+      "VIRAL_UNCATEGORIZED": 13,
+      "PARADIGM_SHIFT": 1,
+      "KNOWLEDGE_BASE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "rehan-remade/universal-modder",
+      "stars": 1227,
+      "full_text": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rehan-remade/universal-modder"
+    },
+    {
+      "name": "nanaism/yomiyasu",
+      "stars": 770,
+      "full_text": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nanaism/yomiyasu"
+    },
+    {
+      "name": "OpSafari/hypoarena",
+      "stars": 547,
+      "full_text": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/OpSafari/hypoarena"
+    },
+    {
+      "name": "ZacharyZhang-NY/Ely-GPUI-Components",
+      "stars": 259,
+      "full_text": "A component library for GPUI, in light and dark. Every component runs live in the browser.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components"
+    },
+    {
+      "name": "pengchujin/livecanvas",
+      "stars": 213,
+      "full_text": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/pengchujin/livecanvas"
+    },
+    {
+      "name": "deepseek-ai/DeepEP-Ascend",
+      "stars": 194,
+      "full_text": "A high-performance communication library for machine learning training and inference on Huawei Ascend NPUs.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/deepseek-ai/DeepEP-Ascend"
+    },
+    {
+      "name": "blackbearreloaded/ProsperoEden",
+      "stars": 140,
+      "full_text": "Experimental Eden port for PS5",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/blackbearreloaded/ProsperoEden"
+    },
+    {
+      "name": "wenziai/wenzi-xhs-agent-skills",
+      "stars": 128,
+      "full_text": "文子的小红书 Agent Skills：从账号定位、选题标题、真人化改稿、图文规划到排期复盘的一套可安装工作流。",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/wenziai/wenzi-xhs-agent-skills"
+    },
+    {
+      "name": "AFK-surf/Comma",
+      "stars": 93,
+      "full_text": "The sessionless, relentless personal agent. Open source alternative to Muse, Dots, Instinct and Town.",
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AFK-surf/Comma"
+    },
+    {
+      "name": "CharlesFeng0314/JEV_sees",
+      "stars": 68,
+      "full_text": "Eyes are All JEV Needs - real time visual devisions from RGB, video and RGB-D cameras.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CharlesFeng0314/JEV_sees"
+    },
+    {
+      "name": "MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold",
+      "stars": 57,
+      "full_text": "GLM-5.3-Flash EXL3 on 2x DGX Spark with TensorFold",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold"
+    },
+    {
+      "name": "VoltEmperorChaos/ai-agent-for-pc",
+      "stars": 46,
+      "full_text": "A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup required.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc"
+    }
+  ]
+}
