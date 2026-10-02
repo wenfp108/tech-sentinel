@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-02T19:44:58.658Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TALENT_GROWTH": 1,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 7,
+      "TECH_ACCELERATOR": 2,
+      "CODE_LEVERAGE": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "youcci/playport",
+      "stars": 204,
+      "full_text": "Wireless CarPlay in your browser — a server-side receiver that turns any screen on your network into a head unit.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/youcci/playport"
+    },
+    {
+      "name": "BootLoops-ai/bootloops",
+      "stars": 63,
+      "full_text": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BootLoops-ai/bootloops"
+    },
+    {
+      "name": "henrydennis/petal",
+      "stars": 46,
+      "full_text": "A fast, exact disk-space explorer for macOS with a live sunburst chart. Rust + GPUI.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/henrydennis/petal"
+    }
+  ]
+}
