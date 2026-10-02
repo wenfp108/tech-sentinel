@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-03T01:17:19.805Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 8,
+      "CODE_LEVERAGE": 4,
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_UNCATEGORIZED": 36
+    }
+  },
+  "items": [
+    {
+      "name": "kavdgaut/adobe-acrobat-pro2026",
+      "stars": 251,
+      "full_text": "Adobe Acrobat Standard & Pro Complete",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/kavdgaut/adobe-acrobat-pro2026"
+    },
+    {
+      "name": "GlueRhythmShield/Ableton-Live-12",
+      "stars": 222,
+      "full_text": "Revolutionizing professional music production with its comprehensive digital audio workstation and sound design suite capabilities.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/GlueRhythmShield/Ableton-Live-12"
+    },
+    {
+      "name": "youcci/playport",
+      "stars": 221,
+      "full_text": "Wireless CarPlay in your browser — a server-side receiver that turns any screen on your network into a head unit.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/youcci/playport"
+    },
+    {
+      "name": "Shardarcairn12/Discord-Server-Raider",
+      "stars": 215,
+      "full_text": "Evaluates Discord server data with precision and efficiency by leveraging unique AI algorithms that streamline real-time monitoring processes.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Shardarcairn12/Discord-Server-Raider"
+    },
+    {
+      "name": "SupplierRail/Microsoft-365",
+      "stars": 214,
+      "full_text": "Integrates Microsoft 365's suite of professional desktop software utilities into a seamless and efficient configuration, unlocking increased productivity...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SupplierRail/Microsoft-365"
+    },
+    {
+      "name": "Selfgledivider/Discord-Quest-Completer",
+      "stars": 211,
+      "full_text": "Enables seamless integration with professional desktop software utilities by automating Discord Quest Completer tasks, optimizing workflow and enhancing...",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Selfgledivider/Discord-Quest-Completer"
+    },
+    {
+      "name": "Shoreiucolonnade/KMS-Pico",
+      "stars": 210,
+      "full_text": "Kms Pico Free optimizes your desktop software utility configuration by providing a streamlined interface that enhances productivity and simplifies complex...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Shoreiucolonnade/KMS-Pico"
+    },
+    {
+      "name": "Anglekaflare/Ads-Blocker",
+      "stars": 208,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Anglekaflare/Ads-Blocker"
+    },
+    {
+      "name": "pondstewardhack/Discord-Nitro-Generator",
+      "stars": 206,
+      "full_text": "Unlocks premium Discord features without a subscription by manipulating the server's configuration settings.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/pondstewardhack/Discord-Nitro-Generator"
+    },
+    {
+      "name": "CoatDistributorHost/Adobe-Substance-3d",
+      "stars": 205,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CoatDistributorHost/Adobe-Substance-3d"
+    },
+    {
+      "name": "surfaceguardianway/Better-Discord",
+      "stars": 202,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/surfaceguardianway/Better-Discord"
+    },
+    {
+      "name": "graspdivinerdesign/BorisFX",
+      "stars": 125,
+      "full_text": "Revolutionize your video editing and post-production workflow with Borisfx's cutting-edge tools designed to streamline complex VFX processes and screen...",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/graspdivinerdesign/BorisFX"
+    },
+    {
+      "name": "HarborLocust/Ashampoo-Uninstaller",
+      "stars": 123,
+      "full_text": "Unlocks system-wide performance enhancements by meticulously managing software installations and deletions with Ashampoo Uninstaller, a professional...",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HarborLocust/Ashampoo-Uninstaller"
+    },
+    {
+      "name": "BootLoops-ai/bootloops",
+      "stars": 122,
+      "full_text": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BootLoops-ai/bootloops"
+    }
+  ]
+}
