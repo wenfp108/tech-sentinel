@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-03T11:26:11.934Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 3,
+      "VIRAL_UNCATEGORIZED": 13,
+      "TECH_ACCELERATOR": 1,
+      "TALENT_GROWTH": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "facebookincubator/muse-gadget-sdk",
+      "stars": 296,
+      "full_text": "Open source SDK to build Muse gadgets",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/facebookincubator/muse-gadget-sdk"
+    },
+    {
+      "name": "sganggs/Stronghold-Protocol",
+      "stars": 72,
+      "full_text": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sganggs/Stronghold-Protocol"
+    },
+    {
+      "name": "mkdir700/wx-ime-sdk",
+      "stars": 62,
+      "full_text": "微信输入法（WeType）跨设备剪贴板的独立 Rust 客户端",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mkdir700/wx-ime-sdk"
+    },
+    {
+      "name": "zzzz7788990213-ops/EvoVLM",
+      "stars": 60,
+      "full_text": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zzzz7788990213-ops/EvoVLM"
+    }
+  ]
+}
