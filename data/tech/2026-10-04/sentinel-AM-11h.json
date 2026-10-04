@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-04T11:53:42.456Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "TALENT_GROWTH": 1,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 9,
+      "TECH_ACCELERATOR": 1,
+      "CORE_PRAGMATISM": 2
+    }
+  },
+  "items": [
+    {
+      "name": "blendi-remade/agentcraft",
+      "stars": 218,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/blendi-remade/agentcraft"
+    },
+    {
+      "name": "Zhou-Yujing114514/deepseek-harness-linux",
+      "stars": 59,
+      "full_text": "First-class Linux packaging for DeepSeek Harness desktop — AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Zhou-Yujing114514/deepseek-harness-linux"
+    },
+    {
+      "name": "Itz-Anya/Image-Size-Reducer",
+      "stars": 56,
+      "full_text": "Image Size Reducer is a free, open-source image compression tool built to make image optimization simple, fast, and accessible. It allows users to reduce image file sizes directly in their browsers while maintaining control over quality and output settings.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Itz-Anya/Image-Size-Reducer"
+    },
+    {
+      "name": "OverkillLabs2/SoS-PS5",
+      "stars": 52,
+      "full_text": "God of War: Sons of Sparta (PS5) running on Windows through AnyPS5. Binary release, bring your own game files.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OverkillLabs2/SoS-PS5"
+    },
+    {
+      "name": "sinfiltros/AnyPad-PS5",
+      "stars": 50,
+      "full_text": "Free your PS5 from the DualSense — use DualShock 4, Xbox, Switch Pro, 8BitDo and any Bluetooth gamepad on a jailbroken PS5 / Libera tu PS5 del DualSense — usa mandos Bluetooth en una PS5 con jailbreak",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sinfiltros/AnyPad-PS5"
+    }
+  ]
+}
