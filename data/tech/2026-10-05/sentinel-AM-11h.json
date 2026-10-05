@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-05T11:38:33.957Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "VIRAL_UNCATEGORIZED": 16,
+      "CODE_LEVERAGE": 1,
+      "CORE_PRAGMATISM": 1,
+      "KNOWLEDGE_BASE": 1,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "kargulstudio/sales-crm",
+      "stars": 926,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/kargulstudio/sales-crm"
+    },
+    {
+      "name": "BlackCrewmanFringe/AutoCad",
+      "stars": 414,
+      "full_text": "Autocad is a professional desktop software utility that provides an intuitive interface to configure and manage complex projects with ease.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/BlackCrewmanFringe/AutoCad"
+    },
+    {
+      "name": "Blockadezoshack/Microsoft-Project",
+      "stars": 408,
+      "full_text": "Microsoft Project optimizes professional workflow management by providing a comprehensive project and resource planning tool that streamlines task...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Blockadezoshack/Microsoft-Project"
+    },
+    {
+      "name": "YXBwbWFya2V0/AppMarket",
+      "stars": 252,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/YXBwbWFya2V0/AppMarket"
+    },
+    {
+      "name": "shinshin86/mesh-avatar-studio",
+      "stars": 157,
+      "full_text": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio"
+    },
+    {
+      "name": "zeemscript/TrustMint",
+      "stars": 131,
+      "full_text": "Open-source toolkit for compliant real-world asset tokenization on Stellar.KYC registry, compliance engine, and asset templates for invoices, property shares, and carbon credits.",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zeemscript/TrustMint"
+    },
+    {
+      "name": "empero-org/homebrew-ai",
+      "stars": 66,
+      "full_text": "An intuitive console agent to fine-tune AI models with little to no experience required! ",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/empero-org/homebrew-ai"
+    },
+    {
+      "name": "jeantimex/tokyo",
+      "stars": 46,
+      "full_text": "A real-time 3D model of Tokyo in the browser, compiled from public data with procedural detail on top. Fly over the city, change the time of day, and watch the traffic, the trains and the birds.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jeantimex/tokyo"
+    }
+  ]
+}
