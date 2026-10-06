@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-07T06:10:53.455Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 3,
+      "KNOWLEDGE_BASE": 4,
+      "VIRAL_GIANT": 2,
+      "TECH_ACCELERATOR": 4,
+      "TALENT_GROWTH": 1,
+      "VIRAL_UNCATEGORIZED": 37
+    }
+  },
+  "items": [
+    {
+      "name": "elstongun/leviathan",
+      "stars": 624,
+      "full_text": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/elstongun/leviathan"
+    },
+    {
+      "name": "alchaincyf/huashu-art-motion",
+      "stars": 601,
+      "full_text": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/huashu-art-motion"
+    },
+    {
+      "name": "rit3zh/morphlet",
+      "stars": 215,
+      "full_text": "A native, morphing floating tray for React Native.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rit3zh/morphlet"
+    },
+    {
+      "name": "Henryfud/werm",
+      "stars": 197,
+      "full_text": "A 302 neuron network on the real C. elegans wiring diagram, with a steering layer for local language models.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Henryfud/werm"
+    },
+    {
+      "name": "Hiteater-wzm/eeo",
+      "stars": 146,
+      "full_text": "An open community where brands define themselves for AI",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Hiteater-wzm/eeo"
+    },
+    {
+      "name": "kandinskylab/kandinsky-6",
+      "stars": 127,
+      "full_text": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kandinskylab/kandinsky-6"
+    },
+    {
+      "name": "lonewolf0622/HelixSR",
+      "stars": 72,
+      "full_text": "Drop-in FSR 3.1 upscaler for Direct3D 12 that runs DLSS's network (Model E) on AMD GPUs",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lonewolf0622/HelixSR"
+    },
+    {
+      "name": "luoluo-121/neural-creator-dashboard",
+      "stars": 49,
+      "full_text": "创作神经网络看板与 Agent Skill｜学习及非商业使用，商业使用须另行授权；历史授权例外见 NOTICE",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/luoluo-121/neural-creator-dashboard"
+    },
+    {
+      "name": "canberk7/ema-lightning",
+      "stars": 46,
+      "full_text": "Tiny, fast and accurate Turkish text-to-speech. 8.6M parameters, 0.92% WER on Freya-TR-Eval, first audio in ~4 ms and 1,300× real time on one GPU. Streams audio, batches many callers on one GPU, and runs offline on a GPU or CPU.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/canberk7/ema-lightning"
+    }
+  ]
+}
