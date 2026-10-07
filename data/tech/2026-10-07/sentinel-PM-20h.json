@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-07T20:30:23.710Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TECH_ACCELERATOR": 2,
+      "VIRAL_UNCATEGORIZED": 18,
+      "TALENT_GROWTH": 1,
+      "CORE_PRAGMATISM": 4,
+      "CODE_LEVERAGE": 2,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "openai/math",
+      "stars": 7068,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/openai/math"
+    },
+    {
+      "name": "alchaincyf/huashu-art-motion",
+      "stars": 1214,
+      "full_text": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/huashu-art-motion"
+    },
+    {
+      "name": "alejandrobujan/tendedero",
+      "stars": 209,
+      "full_text": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alejandrobujan/tendedero"
+    },
+    {
+      "name": "Henryfud/werm",
+      "stars": 197,
+      "full_text": "A 302 neuron network on the real C. elegans wiring diagram, with a steering layer for local language models.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Henryfud/werm"
+    },
+    {
+      "name": "pingdotgg/ts-rust",
+      "stars": 122,
+      "full_text": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pingdotgg/ts-rust"
+    },
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "stars": 110,
+      "full_text": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver"
+    },
+    {
+      "name": "luoluo-121/neural-creator-dashboard",
+      "stars": 59,
+      "full_text": "创作神经网络看板与 Agent Skill｜学习及非商业使用，商业使用须另行授权；历史授权例外见 NOTICE",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/luoluo-121/neural-creator-dashboard"
+    },
+    {
+      "name": "storytold/wordcraft",
+      "stars": 57,
+      "full_text": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/storytold/wordcraft"
+    },
+    {
+      "name": "sisyphuslabs/omo-dori-mode-experimental",
+      "stars": 49,
+      "full_text": "Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sisyphuslabs/omo-dori-mode-experimental"
+    },
+    {
+      "name": "storytold/gridcraft",
+      "stars": 45,
+      "full_text": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/storytold/gridcraft"
+    },
+    {
+      "name": "storytold/deckcraft",
+      "stars": 44,
+      "full_text": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/storytold/deckcraft"
+    }
+  ]
+}
