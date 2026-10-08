@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-08T20:39:49.823Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 6,
+      "CORE_PRAGMATISM": 6,
+      "TECH_ACCELERATOR": 3,
+      "CODE_LEVERAGE": 5,
+      "VIRAL_UNCATEGORIZED": 29,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "alejandrobujan/tendedero",
+      "stars": 834,
+      "full_text": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alejandrobujan/tendedero"
+    },
+    {
+      "name": "LoreanXavier/pt-pc",
+      "stars": 755,
+      "full_text": "Native PC port of P.T. (runs from your own PS4 game files)",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LoreanXavier/pt-pc"
+    },
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "stars": 702,
+      "full_text": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver"
+    },
+    {
+      "name": "pingdotgg/ts-rust",
+      "stars": 608,
+      "full_text": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pingdotgg/ts-rust"
+    },
+    {
+      "name": "storytold/wordcraft",
+      "stars": 498,
+      "full_text": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/storytold/wordcraft"
+    },
+    {
+      "name": "bas3line/ascii",
+      "stars": 467,
+      "full_text": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bas3line/ascii"
+    },
+    {
+      "name": "storytold/cadcraft",
+      "stars": 448,
+      "full_text": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/storytold/cadcraft"
+    },
+    {
+      "name": "storytold/soundcraft",
+      "stars": 323,
+      "full_text": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/storytold/soundcraft"
+    },
+    {
+      "name": "storytold/gridcraft",
+      "stars": 316,
+      "full_text": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/storytold/gridcraft"
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "stars": 288,
+      "full_text": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mhtsec/ARTEX"
+    },
+    {
+      "name": "storytold/deckcraft",
+      "stars": 276,
+      "full_text": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/storytold/deckcraft"
+    },
+    {
+      "name": "gr8rstudio/gr8r-studio",
+      "stars": 275,
+      "full_text": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/gr8rstudio/gr8r-studio"
+    },
+    {
+      "name": "droogie/bbhost",
+      "stars": 185,
+      "full_text": "Definitive Bloodborne PC Experience",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/droogie/bbhost"
+    },
+    {
+      "name": "snuri00/psp-web-recomp",
+      "stars": 160,
+      "full_text": "PSP games in the browser without an emulator: static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/snuri00/psp-web-recomp"
+    },
+    {
+      "name": "Stellar-Promiscope/promiscope-contracts",
+      "stars": 129,
+      "full_text": "Promiscope Soroban contracts retained for legacy workflows; privacy-safe accountability contract design is tracked separately.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Stellar-Promiscope/promiscope-contracts"
+    },
+    {
+      "name": "Stellar-Promiscope/promiscope-backend",
+      "stars": 128,
+      "full_text": "Promiscope backend service. Accountability API migration is underway; existing routes still serve legacy product workflows.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Stellar-Promiscope/promiscope-backend"
+    },
+    {
+      "name": "Jakeschincariol/founder-skill",
+      "stars": 107,
+      "full_text": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Jakeschincariol/founder-skill"
+    },
+    {
+      "name": "beianchuqing111/agentic-kb",
+      "stars": 58,
+      "full_text": "法规/规程知识库智能体:混合检索(bge-m3 稠密+稀疏 → 服务端 RRF → 交叉编码器重排)+ GraphRAG + 带三道闸与审计的 ReAct 智能体。含检索质量评测设施、FastAPI 接口与 React 界面。",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/beianchuqing111/agentic-kb"
+    },
+    {
+      "name": "sisyphuslabs/omo-dori-mode-experimental",
+      "stars": 55,
+      "full_text": "Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sisyphuslabs/omo-dori-mode-experimental"
+    },
+    {
+      "name": "datologyai/zephon",
+      "stars": 55,
+      "full_text": "Fast, flexible, elastically deterministic data loading for foundation model training",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/datologyai/zephon"
+    }
+  ]
+}
