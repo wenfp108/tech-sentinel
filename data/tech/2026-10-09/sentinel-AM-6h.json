@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-09T06:45:23.711Z",
+    "session": "AM",
+    "trend_summary": {
+      "CORE_PRAGMATISM": 7,
+      "VIRAL_GIANT": 8,
+      "TECH_ACCELERATOR": 1,
+      "CODE_LEVERAGE": 5,
+      "TALENT_GROWTH": 2,
+      "VIRAL_UNCATEGORIZED": 29
+    }
+  },
+  "items": [
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "stars": 1000,
+      "full_text": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver"
+    },
+    {
+      "name": "alejandrobujan/tendedero",
+      "stars": 982,
+      "full_text": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alejandrobujan/tendedero"
+    },
+    {
+      "name": "LoreanXavier/pt-pc",
+      "stars": 960,
+      "full_text": "Native PC port of P.T. (runs from your own PS4 game files)",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LoreanXavier/pt-pc"
+    },
+    {
+      "name": "storytold/wordcraft",
+      "stars": 777,
+      "full_text": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/storytold/wordcraft"
+    },
+    {
+      "name": "storytold/cadcraft",
+      "stars": 708,
+      "full_text": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/storytold/cadcraft"
+    },
+    {
+      "name": "pingdotgg/ts-rust",
+      "stars": 686,
+      "full_text": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pingdotgg/ts-rust"
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "stars": 684,
+      "full_text": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mhtsec/ARTEX"
+    },
+    {
+      "name": "shadany7824/playgta5",
+      "stars": 676,
+      "full_text": "A source code for playgta5.com.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/shadany7824/playgta5"
+    },
+    {
+      "name": "bas3line/ascii",
+      "stars": 593,
+      "full_text": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bas3line/ascii"
+    },
+    {
+      "name": "storytold/gridcraft",
+      "stars": 519,
+      "full_text": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/storytold/gridcraft"
+    },
+    {
+      "name": "storytold/soundcraft",
+      "stars": 509,
+      "full_text": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/storytold/soundcraft"
+    },
+    {
+      "name": "storytold/deckcraft",
+      "stars": 438,
+      "full_text": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/storytold/deckcraft"
+    },
+    {
+      "name": "gr8rstudio/gr8r-studio",
+      "stars": 328,
+      "full_text": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/gr8rstudio/gr8r-studio"
+    },
+    {
+      "name": "noahdunnagan/fsearch",
+      "stars": 315,
+      "full_text": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/noahdunnagan/fsearch"
+    },
+    {
+      "name": "droogie/bbhost",
+      "stars": 272,
+      "full_text": "Definitive Bloodborne PC Experience",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/droogie/bbhost"
+    },
+    {
+      "name": "Nonco-Organization/multicoin-address-validator",
+      "stars": 231,
+      "full_text": "Useful library for validation of Bitcoin, Litecoin, Ethereum and other cryptocoin addresses",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Nonco-Organization/multicoin-address-validator"
+    },
+    {
+      "name": "snuri00/psp-web-recomp",
+      "stars": 182,
+      "full_text": "PSP games in the browser without an emulator: static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/snuri00/psp-web-recomp"
+    },
+    {
+      "name": "Jakeschincariol/founder-skill",
+      "stars": 142,
+      "full_text": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Jakeschincariol/founder-skill"
+    },
+    {
+      "name": "Stellar-Promiscope/promiscope-contracts",
+      "stars": 129,
+      "full_text": "Promiscope Soroban contracts retained for legacy workflows; privacy-safe accountability contract design is tracked separately.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Stellar-Promiscope/promiscope-contracts"
+    },
+    {
+      "name": "Stellar-Promiscope/promiscope-backend",
+      "stars": 128,
+      "full_text": "Promiscope backend service. Accountability API migration is underway; existing routes still serve legacy product workflows.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Stellar-Promiscope/promiscope-backend"
+    }
+  ]
+}

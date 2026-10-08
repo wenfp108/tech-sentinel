@@ -1,0 +1,326 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-09T06:45:25.293Z",
+    "total_captured": 22,
+    "TRENDING_DIRECTIONS": [
+      "Gene (Heat:25)",
+      "Context (archaeology) (Heat:25)",
+      "Clathrate hydrate (Heat:17)",
+      "Completion (oil and gas wells) (Heat:17)",
+      "Hydrate (Heat:17)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 9,
+      "PARADIGM_SHIFT": 8,
+      "NEXT_COMPUTING": 5,
+      "SPACE_DEFENSE": 2,
+      "STRATEGIC_ENERGY": 1,
+      "AI_CORE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "A thorium-229 optical nuclear clock with feedback loop",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SCIENCE_CORE"
+      ],
+      "url": "https://doi.org/10.1038/s41586-026-11084-4",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-10-07"
+    },
+    {
+      "title": "Hydrogen bonding in water under extreme confinement",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2402.17989",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-10-07"
+    },
+    {
+      "title": "Emerging markets, household heterogeneity, and exchange rate policy",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of International Economics",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1016/j.jinteco.2026.104340",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-10-01"
+    },
+    {
+      "title": "Inferring the Landscapes of Mutation and Recombination in the Common Marmoset ( Callithrix jacchus ) in the Presence of Twinning and Hematopoietic Chimerism",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "American Journal of Primatology",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajp.70208",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-10-01"
+    },
+    {
+      "title": "Alaska North Slope HYDRATE 02 Geo Data Well (GDW) Downhole Logging, Pressure Coring, and Completion Operations and Data",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Energy & Fuels",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://pubs.acs.org/enfuem/article-pdf/doi/10.1021/acs.energyfuels.6c00867/68729660/acs.energyfuels.6c00867.pdf",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-10-01"
+    },
+    {
+      "title": "Seer: Maximum Likelihood Regression for Learning-Speed Curves",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2610.02610",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-10-02"
+    },
+    {
+      "title": "Nonlinear interaction of three impulsive gravitational waves I: Main result and the geometric estimates",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "American Journal of Mathematics",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2101.08353",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-10-01"
+    },
+    {
+      "title": "Comparative analysis of mitochondrial proteomes across the tree of life",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Cell",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1016/j.cell.2026.08.029",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-10-01"
+    },
+    {
+      "title": "Systematic Neology: Evaluating When New Terms Help in Human-AI Work",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23133331",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-10-04"
+    },
+    {
+      "title": "Complex Organic Molecules in Protostars with ALMA Spectral Surveys (COMPASS)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Astronomy and Astrophysics",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1051/0004-6361/202558725",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-10-01"
+    },
+    {
+      "title": "Multiphysical Responses of a Gas Hydrate Reservoir to Extended-Duration Gas Production on the Alaska North Slope",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Energy & Fuels",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1021/acs.energyfuels.6c01456",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-01"
+    },
+    {
+      "title": "Complex Organic Molecules in Protostars with ALMA Spectral Surveys (COMPASS)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Astronomy and Astrophysics",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1051/0004-6361/202558751",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-01"
+    },
+    {
+      "title": "From the Euro-Mediterranean partnership to DG MENA: examining three decades of Euro-Mediterranean relations through the lenses of policy learning",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "International Politics",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1057/s41311-026-00772-7.pdf",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-06"
+    },
+    {
+      "title": "Mass as a Coordinate, Spin as a Label: An Anatomical Review of Reynaud's Dilatation of Souriau's Moment Map",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23164929",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-05"
+    },
+    {
+      "title": "A Survey of Deep Learning Based Software Refactoring",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2404.19226",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-03"
+    },
+    {
+      "title": "On L -embeddings and double covers of tori over local fields",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "American Journal of Mathematics",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/1907.05173",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-01"
+    },
+    {
+      "title": "Toward Secure Code Generation: Bridging Correctness and Security via Task-Adaptive Vulnerability Modeling and Execution-Based Benchmarking",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Proceedings of the ACM on software engineering.",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3832159?download=true",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-01"
+    },
+    {
+      "title": "Complex Organic Molecules in Protostars with ALMA Spectral Surveys (COMPASS)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Astronomy and Astrophysics",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1051/0004-6361/202558733",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-01"
+    },
+    {
+      "title": "Methylome-Wide Association Study of Obsessive-Compulsive Disorder",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://pure.au.dk/portal/en/publications/c0bd0c9a-499c-4500-a342-19409d626362",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-11-01"
+    },
+    {
+      "title": "Differentiable Bilevel Programming for Stackelberg Congestion Games",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Transportation Science",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2209.07618",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-10-07"
+    }
+  ]
+}
