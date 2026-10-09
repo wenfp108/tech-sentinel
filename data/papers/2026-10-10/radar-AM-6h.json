@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-10T06:08:12.358Z",
+    "total_captured": 18,
+    "TRENDING_DIRECTIONS": [
+      "Series (stratigraphy) (Heat:32)",
+      "Diagonal (Heat:19)",
+      "Finite set (Heat:19)",
+      "Bounded function (Heat:19)",
+      "Selection (genetic algorithm) (Heat:17)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 8,
+      "AI_CORE": 3,
+      "SPACE_DEFENSE": 4,
+      "NEXT_COMPUTING": 3,
+      "PARADIGM_SHIFT": 3,
+      "STRATEGIC_ENERGY": 1
+    }
+  },
+  "items": [
+    {
+      "title": "A thorium-229 optical nuclear clock with feedback loop",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SCIENCE_CORE"
+      ],
+      "url": "https://www.nature.com/articles/s41586-026-11084-4.pdf",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-10-07"
+    },
+    {
+      "title": "Hydrogen bonding in water under extreme confinement",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2402.17989",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-10-07"
+    },
+    {
+      "title": "Seer: Maximum Likelihood Regression for Learning-Speed Curves",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2610.02610",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-10-02"
+    },
+    {
+      "title": "FDCL Part III: Resistance and Diffusion on FDCL Graphs — Exact Flows and Harmonic Reduction",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23227300",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-10-08"
+    },
+    {
+      "title": "FDCL Part VIII: Hierarchical Networks and Feedback Control in FDCL Models — Exact Routing, Stability and Observation Conditions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23227336",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-10-08"
+    },
+    {
+      "title": "Systematic Neology: Evaluating When New Terms Help in Human-AI Work",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23133331",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-10-04"
+    },
+    {
+      "title": "From the Euro-Mediterranean partnership to DG MENA: examining three decades of Euro-Mediterranean relations through the lenses of policy learning",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "International Politics",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1057/s41311-026-00772-7.pdf",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-06"
+    },
+    {
+      "title": "Mass as a Coordinate, Spin as a Label: An Anatomical Review of Reynaud's Dilatation of Souriau's Moment Map",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23164929",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-05"
+    },
+    {
+      "title": "A Survey of Deep Learning Based Software Refactoring",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2404.19226",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-03"
+    },
+    {
+      "title": "Agentic Software Issue Resolution with Large Language Models: A Survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3849702?download=true",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-03"
+    },
+    {
+      "title": "UDCT v7.08 — Prior-art correction: the action-derived Hessian source term and screening by second derivatives of the Newtonian potential belong to Milgrom's generalized QUMOND (GQUMOND) class",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23117540",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-03"
+    },
+    {
+      "title": "Methylome-Wide Association Study of Obsessive-Compulsive Disorder",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://pure.au.dk/portal/en/publications/c0bd0c9a-499c-4500-a342-19409d626362",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-11-01"
+    },
+    {
+      "title": "Advancing mathematics research with AI-driven formal proof search",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Science",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://arxiv.org/pdf/2605.22763",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-10-08"
+    },
+    {
+      "title": "FDCL Part VI: Zeta Functions and Trace Growth on FDCL Graphs — Exact Determinants and Infinite-Volume Bounds",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23227322",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-10-08"
+    },
+    {
+      "title": "FDCL Part VII: Arithmetic Readouts and Prime-Set Structure in FDCL Models — Exact Obstructions and Finite-Field Reconstructions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23227330",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-10-08"
+    },
+    {
+      "title": "Differentiable Bilevel Programming for Stackelberg Congestion Games",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Transportation Science",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2209.07618",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-10-07"
+    },
+    {
+      "title": "Inverse-Scale Dini–Morrey Closure of the Absolute Vorticity Flux in Three Dimensions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22046376",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-10-07"
+    },
+    {
+      "title": "The Mass Plane and Its Closures: Stratification, Quantisation and Thermodynamics of the Weyl Orbit",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23165688",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-10-05"
+    }
+  ]
+}
