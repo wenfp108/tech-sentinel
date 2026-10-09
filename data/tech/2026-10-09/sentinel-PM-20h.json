@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-09T20:26:52.445Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 4,
+      "CORE_PRAGMATISM": 1,
+      "VIRAL_GIANT": 4,
+      "VIRAL_UNCATEGORIZED": 34,
+      "TECH_ACCELERATOR": 3,
+      "KNOWLEDGE_BASE": 1,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "mhtsec/ARTEX",
+      "stars": 1855,
+      "full_text": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mhtsec/ARTEX"
+    },
+    {
+      "name": "noahdunnagan/fsearch",
+      "stars": 849,
+      "full_text": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/noahdunnagan/fsearch"
+    },
+    {
+      "name": "ToiCF/CF-Workers-TGProxy",
+      "stars": 458,
+      "full_text": "基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstrap/session 令牌、多 lane WS 复用、AES-CTR 加密、自定义帧、流控与严格 CSP。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ToiCF/CF-Workers-TGProxy"
+    },
+    {
+      "name": "ThariqS/ai-newtab",
+      "stars": 394,
+      "full_text": "Claude generates a daily new tab page based on your browser history.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ThariqS/ai-newtab"
+    },
+    {
+      "name": "Nonco-Organization/multicoin-address-validator",
+      "stars": 231,
+      "full_text": "Useful library for validation of Bitcoin, Litecoin, Ethereum and other cryptocoin addresses",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Nonco-Organization/multicoin-address-validator"
+    },
+    {
+      "name": "thesysdev/open-intelligent-ui",
+      "stars": 230,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/thesysdev/open-intelligent-ui"
+    },
+    {
+      "name": "anthropics/oss-scanner",
+      "stars": 204,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/anthropics/oss-scanner"
+    },
+    {
+      "name": "Stellar-Kolo/kolo-backend",
+      "stars": 131,
+      "full_text": "WhatsApp-first Stellar backend for Kolo: wallet operations, Stellar payments, Soroban savings groups, and queued community messaging.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Stellar-Kolo/kolo-backend"
+    },
+    {
+      "name": "tcchen2026/VibeOffice",
+      "stars": 73,
+      "full_text": "A free office suite that runs in your browser, in the style of Office 2003. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tcchen2026/VibeOffice"
+    },
+    {
+      "name": "kutukam/autonomous-pentest-agent",
+      "stars": 48,
+      "full_text": "Autonomous Pentest Agent — LLM multi-agent autonomous penetration testing system (Go backend + Next.js UI). AGPL-3.0.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kutukam/autonomous-pentest-agent"
+    },
+    {
+      "name": "ZacharyZhang-NY/ElyOffice",
+      "stars": 45,
+      "full_text": "Offline-first desktop office suite in Rust and GPUI: documents, spreadsheets, presentations, PDF, Git, Markdown",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ZacharyZhang-NY/ElyOffice"
+    }
+  ]
+}
