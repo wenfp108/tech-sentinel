@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-11T11:30:56.999Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 1,
+      "CORE_PRAGMATISM": 1,
+      "VIRAL_UNCATEGORIZED": 14,
+      "PARADIGM_SHIFT": 1,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "marclou/mailcheap",
+      "stars": 520,
+      "full_text": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/marclou/mailcheap"
+    },
+    {
+      "name": "rociiu/talorys",
+      "stars": 425,
+      "full_text": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rociiu/talorys"
+    },
+    {
+      "name": "c22dev/muguet",
+      "stars": 319,
+      "full_text": "A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/c22dev/muguet"
+    },
+    {
+      "name": "Atoll92/agent-standup",
+      "stars": 73,
+      "full_text": "Your Claude Code session as a live, animated team call (VS Code extension)",
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Atoll92/agent-standup"
+    }
+  ]
+}
