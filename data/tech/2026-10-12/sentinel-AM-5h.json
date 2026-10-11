@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-12T05:22:41.223Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "CODE_LEVERAGE": 2,
+      "CORE_PRAGMATISM": 1,
+      "VIRAL_UNCATEGORIZED": 36,
+      "PARADIGM_SHIFT": 1,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 3,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "marclou/mailcheap",
+      "stars": 753,
+      "full_text": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/marclou/mailcheap"
+    },
+    {
+      "name": "rociiu/talorys",
+      "stars": 732,
+      "full_text": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rociiu/talorys"
+    },
+    {
+      "name": "c22dev/muguet",
+      "stars": 429,
+      "full_text": "A native Mach-O port for iOS/macOS of GTA V, with multiplayer",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/c22dev/muguet"
+    },
+    {
+      "name": "npwitk/Macintosh-Skeletal-Filled",
+      "stars": 358,
+      "full_text": "helllllllllloooo font! Turns out it's called Macintosh Skeleton",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/npwitk/Macintosh-Skeletal-Filled"
+    },
+    {
+      "name": "aindeev/agent-chrome-relay",
+      "stars": 251,
+      "full_text": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/aindeev/agent-chrome-relay"
+    },
+    {
+      "name": "LcodeCoder/CG-Claude",
+      "stars": 221,
+      "full_text": "A software that disguises the operating system's information",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LcodeCoder/CG-Claude"
+    },
+    {
+      "name": "Atoll92/agent-standup",
+      "stars": 127,
+      "full_text": "Your Claude Code session as a live, animated team call (VS Code extension, stand alone node server, locally, no additional token usage)",
+      "tags": [
+        "CODE_LEVERAGE",
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Atoll92/agent-standup"
+    },
+    {
+      "name": "Caldalis/MiniCPM-Math-harness",
+      "stars": 60,
+      "full_text": "built around a 2.5B math model that fits on one GPU or a laptop.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Caldalis/MiniCPM-Math-harness"
+    },
+    {
+      "name": "carreypro/ict-trading-model",
+      "stars": 51,
+      "full_text": "ICT and SMC market-structure validation skill with deterministic OHLCV scanning",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/carreypro/ict-trading-model"
+    },
+    {
+      "name": "inclusionAI/PolyOCR-Venus",
+      "stars": 43,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/inclusionAI/PolyOCR-Venus"
+    }
+  ]
+}
