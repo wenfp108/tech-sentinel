@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-12T22:11:45.706Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "CORE_PRAGMATISM": 2,
+      "TECH_ACCELERATOR": 3,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 33,
+      "CODE_LEVERAGE": 2,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "liseami/CCBaga",
+      "stars": 1356,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/liseami/CCBaga"
+    },
+    {
+      "name": "jwuthri-cloud/Tracely-ai",
+      "stars": 481,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai"
+    },
+    {
+      "name": "jhaizhou-ops/d2r-mobile",
+      "stars": 463,
+      "full_text": "Open-source iOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone and iPad — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS 兼容层",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile"
+    },
+    {
+      "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+      "stars": 396,
+      "full_text": "Introduction to Semiconductor Manufacturing",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction"
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "stars": 332,
+      "full_text": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zhuyansen/new-term-radar"
+    },
+    {
+      "name": "deeplethe/solid-glass",
+      "stars": 228,
+      "full_text": "A theme for shadcn/ui: thick, smoky panes with the weight of a solid surface and the clarity of glass.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deeplethe/solid-glass"
+    },
+    {
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "stars": 153,
+      "full_text": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+    },
+    {
+      "name": "Dushiqi1987/codex-remote-bridge",
+      "stars": 61,
+      "full_text": "本地 Codex 连接服务器 Codex CLI：通过 SSH 反向隧道共享本地 HTTP 代理或直连网络，适用于 AutoDL 等 GPU 科研服务器。含 Python 转发器、PowerShell 隧道脚本、中文教程与测试。",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Dushiqi1987/codex-remote-bridge"
+    },
+    {
+      "name": "merckhung/nt51_xfce4_embedded",
+      "stars": 54,
+      "full_text": "An embedded project using leaked Windows XP OS kernel + Linux userland (Syscall shim + Musl + Busybox + Xfce desktop)",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/merckhung/nt51_xfce4_embedded"
+    },
+    {
+      "name": "amoi-builds/dailyred",
+      "stars": 46,
+      "full_text": "A daily Pokémon FireRed battle against RED in the browser. Unofficial fan project; this repo holds only the patches and site code, no ROM.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/amoi-builds/dailyred"
+    }
+  ]
+}
