@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-12T11:54:52.454Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "VIRAL_UNCATEGORIZED": 14,
+      "KNOWLEDGE_BASE": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "liseami/CCBaga",
+      "stars": 549,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/liseami/CCBaga"
+    },
+    {
+      "name": "jwuthri-cloud/Tracely-ai",
+      "stars": 246,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai"
+    },
+    {
+      "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+      "stars": 215,
+      "full_text": "Introduction to Semiconductor Manufacturing",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction"
+    },
+    {
+      "name": "merckhung/nt51_xfce4_embedded",
+      "stars": 41,
+      "full_text": "An embedded project using leaked Windows XP OS kernel + Linux userland (Syscall shim + Musl + Busybox + Xfce desktop)",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/merckhung/nt51_xfce4_embedded"
+    }
+  ]
+}
