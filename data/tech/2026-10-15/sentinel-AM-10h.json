@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-15T10:50:38.549Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "TECH_ACCELERATOR": 4,
+      "VIRAL_UNCATEGORIZED": 31,
+      "PARADIGM_SHIFT": 1,
+      "TALENT_GROWTH": 2,
+      "CORE_PRAGMATISM": 1,
+      "CODE_LEVERAGE": 3,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "StoopwenpueNq/jackie-fmri-sim",
+      "stars": 469,
+      "full_text": "jackie-fmri-sim",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/StoopwenpueNq/jackie-fmri-sim"
+    },
+    {
+      "name": "Caho1/open-claude-ui",
+      "stars": 248,
+      "full_text": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。纯手写 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Caho1/open-claude-ui"
+    },
+    {
+      "name": "0xProbabillity/house-control",
+      "stars": 211,
+      "full_text": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xProbabillity/house-control"
+    },
+    {
+      "name": "assafkip/claudemy",
+      "stars": 122,
+      "full_text": "Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.",
+      "tags": [
+        "PARADIGM_SHIFT",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/assafkip/claudemy"
+    },
+    {
+      "name": "VallierDev/uu-remote-linux",
+      "stars": 94,
+      "full_text": "非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/VallierDev/uu-remote-linux"
+    },
+    {
+      "name": "caveman-ai/trim-1",
+      "stars": 75,
+      "full_text": "trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/caveman-ai/trim-1"
+    },
+    {
+      "name": "Pyramidsaintfall/valor-mortis-vram-graphics-profile-manager",
+      "stars": 47,
+      "full_text": "Windows utility repository for Valor Mortis VRAM-oriented graphics presets, texture and shadow profiles, resolution settings, GPU-specific configurations, and visual-performance profile management.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Pyramidsaintfall/valor-mortis-vram-graphics-profile-manager"
+    },
+    {
+      "name": "Separaterematch45/star-wars-galactic-racer-gpu-graphics-profile-manager",
+      "stars": 45,
+      "full_text": "Windows utility repository for STAR WARS: Galactic Racer graphics profiles, GPU-oriented presets, quality/performance switching, upscaling configuration workflows, and reusable settings management.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Separaterematch45/star-wars-galactic-racer-gpu-graphics-profile-manager"
+    },
+    {
+      "name": "Emberbinmagnify/valor-mortis-crash-startup-diagnostics",
+      "stars": 44,
+      "full_text": "Windows utility repository for Valor Mortis crash logs, startup troubleshooting, error-pattern review, graphics-reset workflows, and stability-oriented diagnostics.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Emberbinmagnify/valor-mortis-crash-startup-diagnostics"
+    },
+    {
+      "name": "StandardSong23/planet-zoo-2-blueprint-workshop-backup-manager",
+      "stars": 41,
+      "full_text": "Windows utility repository for Planet Zoo 2 blueprint backups, Workshop content snapshots, custom-building archives, habitat-template organization, and local restore workflows.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/StandardSong23/planet-zoo-2-blueprint-workshop-backup-manager"
+    },
+    {
+      "name": "VaultHelmsmanHut/planet-zoo-2-steam-deck-controller-profile-helper",
+      "stars": 41,
+      "full_text": "Windows utility repository for Planet Zoo 2 controller profiles, Steam Deck oriented layouts, sensitivity presets, button mapping, and handheld-friendly input configuration workflows.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/VaultHelmsmanHut/planet-zoo-2-steam-deck-controller-profile-helper"
+    }
+  ]
+}
