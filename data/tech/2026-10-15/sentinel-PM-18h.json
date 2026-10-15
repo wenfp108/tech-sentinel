@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-15T18:44:09.336Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "TECH_ACCELERATOR": 2,
+      "CORE_PRAGMATISM": 1,
+      "VIRAL_UNCATEGORIZED": 16,
+      "PARADIGM_SHIFT": 1,
+      "TALENT_GROWTH": 3,
+      "KNOWLEDGE_BASE": 1,
+      "CODE_LEVERAGE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "Caho1/open-claude-ui",
+      "stars": 514,
+      "full_text": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。纯手写 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Caho1/open-claude-ui"
+    },
+    {
+      "name": "ahwootech/BRUTAL",
+      "stars": 496,
+      "full_text": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ahwootech/BRUTAL"
+    },
+    {
+      "name": "StoopwenpueNq/jackie-fmri-sim",
+      "stars": 469,
+      "full_text": "jackie-fmri-sim",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/StoopwenpueNq/jackie-fmri-sim"
+    },
+    {
+      "name": "0xProbabillity/house-control",
+      "stars": 288,
+      "full_text": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xProbabillity/house-control"
+    },
+    {
+      "name": "MyLuxy/overdrive",
+      "stars": 275,
+      "full_text": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MyLuxy/overdrive"
+    },
+    {
+      "name": "chenglou/handwired",
+      "stars": 256,
+      "full_text": "Turn your regular JavaScript code into a neural net.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/chenglou/handwired"
+    },
+    {
+      "name": "VallierDev/uu-remote-linux",
+      "stars": 169,
+      "full_text": "非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/VallierDev/uu-remote-linux"
+    },
+    {
+      "name": "assafkip/claudemy",
+      "stars": 166,
+      "full_text": "Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, it researches the web and builds a course of 2-minute audio lessons with cited sources. A free Claude Code skill.",
+      "tags": [
+        "PARADIGM_SHIFT",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/assafkip/claudemy"
+    },
+    {
+      "name": "caveman-ai/trim-1",
+      "stars": 91,
+      "full_text": "trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/caveman-ai/trim-1"
+    },
+    {
+      "name": "Liu-PenPen/Agent-OS",
+      "stars": 52,
+      "full_text": "智能体操作系统Agent OS",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Liu-PenPen/Agent-OS"
+    },
+    {
+      "name": "JeffLi1993/open-growth-skills",
+      "stars": 45,
+      "full_text": "All in one AI Agent Skills for Growth",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JeffLi1993/open-growth-skills"
+    }
+  ]
+}
