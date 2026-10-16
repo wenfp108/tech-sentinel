@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-16T10:47:30.537Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "CODE_LEVERAGE": 1,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 26,
+      "TALENT_GROWTH": 1,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "chenglou/handwired",
+      "stars": 1118,
+      "full_text": "Turn your regular JavaScript code into a neural net.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/chenglou/handwired"
+    },
+    {
+      "name": "feder-cr/open_scion",
+      "stars": 722,
+      "full_text": "Open-source version of Scion: version control built for coding agents.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/feder-cr/open_scion"
+    },
+    {
+      "name": "Supermedo/uncharted_pc",
+      "stars": 700,
+      "full_text": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Supermedo/uncharted_pc"
+    },
+    {
+      "name": "ctresb/leis",
+      "stars": 238,
+      "full_text": "Todas as leis do Brasil",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ctresb/leis"
+    },
+    {
+      "name": "NeuroVision-Studio/NeuraVision",
+      "stars": 47,
+      "full_text": "NeuraVision — AI content generation platform (PHP backend engine: auth, credits, generation, analytics)",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NeuroVision-Studio/NeuraVision"
+    },
+    {
+      "name": "ShadowSwaps/REA-Reconstruction-Companion",
+      "stars": 43,
+      "full_text": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, portable installer, and validation workflows.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ShadowSwaps/REA-Reconstruction-Companion"
+    }
+  ]
+}
