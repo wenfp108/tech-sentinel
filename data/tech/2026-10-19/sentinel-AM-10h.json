@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-19T10:53:54.952Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "VIRAL_GIANT": 1,
+      "CORE_PRAGMATISM": 1,
+      "VIRAL_UNCATEGORIZED": 42,
+      "TECH_ACCELERATOR": 3,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "alchaincyf/huashu-motion",
+      "stars": 427,
+      "full_text": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alchaincyf/huashu-motion"
+    },
+    {
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "stars": 424,
+      "full_text": "初中数学知识图谱 + 前置诊断：课标对齐、人教版七–九、333 知识点、自适应诊断",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy"
+    },
+    {
+      "name": "SNO2207/WindowSmash",
+      "stars": 185,
+      "full_text": "Experimental Windows x64 native porting toolkit for Super Smash Bros. Ultimate: static AArch64 recompilation, a D3D11 runtime, and Local Wireless relay netplay.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SNO2207/WindowSmash"
+    },
+    {
+      "name": "Agent2API/agent2api",
+      "stars": 127,
+      "full_text": "Agent2API - 多提供商本地网关：把 WorkBuddy / 小浣熊 / CatPaw / AutoClaw 等客户端登录态包装成 OpenAI 兼容接口，附带账号管理、出站指纹脱敏与请求报表",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Agent2API/agent2api"
+    },
+    {
+      "name": "justrach/nanoui",
+      "stars": 118,
+      "full_text": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/justrach/nanoui"
+    },
+    {
+      "name": "llamaboi55/DragShift",
+      "stars": 110,
+      "full_text": "Convert and edit files with a liquid-glass radial menu: start dragging a file, press Shift, drop it on a slice. Windows, Mac and Linux.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/llamaboi55/DragShift"
+    },
+    {
+      "name": "kanaworksai-hue/audio-studio-mcp",
+      "stars": 101,
+      "full_text": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kanaworksai-hue/audio-studio-mcp"
+    }
+  ]
+}
