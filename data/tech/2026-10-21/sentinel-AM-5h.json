@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-21T05:08:44.013Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 25,
+      "TECH_ACCELERATOR": 3,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 18,
+      "PARADIGM_SHIFT": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "simbasjungles/free-my-tv",
+      "stars": 1616,
+      "full_text": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/simbasjungles/free-my-tv"
+    },
+    {
+      "name": "JoasASantos/REA-Prompts",
+      "stars": 867,
+      "full_text": "Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/JoasASantos/REA-Prompts"
+    },
+    {
+      "name": "ELY-Open-Source/ElyOffice",
+      "stars": 562,
+      "full_text": "Ely Office: offline-first desktop apps in Rust and GPUI",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ELY-Open-Source/ElyOffice"
+    },
+    {
+      "name": "VictorTaelin/uniichat",
+      "stars": 519,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/VictorTaelin/uniichat"
+    },
+    {
+      "name": "pengchujin/aerial-tv",
+      "stars": 513,
+      "full_text": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/pengchujin/aerial-tv"
+    },
+    {
+      "name": "stackedlol/ascii-sharks",
+      "stars": 492,
+      "full_text": "ascii shark components in typescript",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/stackedlol/ascii-sharks"
+    },
+    {
+      "name": "UniXNU/UniXNU",
+      "stars": 307,
+      "full_text": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/UniXNU/UniXNU"
+    },
+    {
+      "name": "vercel-labs/fx0",
+      "stars": 294,
+      "full_text": "A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/vercel-labs/fx0"
+    },
+    {
+      "name": "timhengc/mai-shen-zai-ci",
+      "stars": 282,
+      "full_text": "麦门封神榜｜你在麦门算老几？领取你的麦门专属身份",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/timhengc/mai-shen-zai-ci"
+    },
+    {
+      "name": "soumatheusgomes/editonny",
+      "stars": 271,
+      "full_text": "Local video editing through conversation. Created by Matheus Gomes.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/soumatheusgomes/editonny"
+    },
+    {
+      "name": "bitwarden-app312/.gitp3d",
+      "stars": 271,
+      "full_text": "bitwarden-for-mac-and-windows-pc-desktop-app",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bitwarden-app312/.gitp3d"
+    },
+    {
+      "name": "arc-tool/.github",
+      "stars": 271,
+      "full_text": "🔥 arc-raiders-cheats-mod-menu-hacks",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/arc-tool/.github"
+    },
+    {
+      "name": "cod-tool/.github",
+      "stars": 270,
+      "full_text": "🔥 call-of-duty-cheats-cod-mod-menu-hacks-warzone-and-black-ops",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cod-tool/.github"
+    },
+    {
+      "name": "fort-tool/.github",
+      "stars": 270,
+      "full_text": "🔥 fortnite-cheats-mod-menu-with-skin-changer-and-aim-esp-hacks",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/fort-tool/.github"
+    },
+    {
+      "name": "cs-tool-s/.github",
+      "stars": 270,
+      "full_text": "🔥 cs-2-cs2-skin-changer-skin-swapper-skinchanger-skinswapper-all-skins",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cs-tool-s/.github"
+    },
+    {
+      "name": "val-tools-c/.github",
+      "stars": 270,
+      "full_text": "🔥 valorant-cheats-mod-menu-with-aim-esp-wh-radar-hacks",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/val-tools-c/.github"
+    },
+    {
+      "name": "cs2-tools-new/.github",
+      "stars": 268,
+      "full_text": "🔥 cs-2-cs2-cheats-and-skin-changer-mod-menu-hacks-aim-esp-cs-go",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cs2-tools-new/.github"
+    },
+    {
+      "name": "fort-skins/.github",
+      "stars": 267,
+      "full_text": "🔥 fortnite-skin-swapper-skin-changer-for-all-skins",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/fort-skins/.github"
+    },
+    {
+      "name": "val-tools/.github",
+      "stars": 267,
+      "full_text": "🔥 valorant-weapon-skin-changer-swapper-all-skins",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/val-tools/.github"
+    },
+    {
+      "name": "lock-tool/.github",
+      "stars": 267,
+      "full_text": "🔥 deadlock-cheats-mod-menu-hacks-with-aim-and-esp",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lock-tool/.github"
+    },
+    {
+      "name": "dogs-tool/.github",
+      "stars": 266,
+      "full_text": "🔥 wardogs-cheats-mod-menu-with-aim-esp-wh-hacks",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dogs-tool/.github"
+    },
+    {
+      "name": "rbl-tools/.github",
+      "stars": 266,
+      "full_text": "🔥 roblox-scripts-executor-mod-menu-with-cheats-and-hacks",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rbl-tools/.github"
+    },
+    {
+      "name": "rbl-fps-tool/.github",
+      "stars": 266,
+      "full_text": "🔥 roblox-fps-unlocker-uncup-fps-boost-for-any-pc-ping-booster",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rbl-fps-tool/.github"
+    },
+    {
+      "name": "typecraft-dev/oma-cast",
+      "stars": 265,
+      "full_text": "omarchy rebuild of raycast",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/typecraft-dev/oma-cast"
+    },
+    {
+      "name": "apex-pro12/.github",
+      "stars": 262,
+      "full_text": "🔥 apex-legends-cheats-mod-menu-hacks",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/apex-pro12/.github"
+    },
+    {
+      "name": "Hugo-Dz/spritefusion-sprite-normals",
+      "stars": 258,
+      "full_text": "A tool to generate normal maps from any sprite and animated sprite sheet.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals"
+    },
+    {
+      "name": "dominikmartn/harp",
+      "stars": 254,
+      "full_text": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dominikmartn/harp"
+    },
+    {
+      "name": "ToomRamcharan/tv-vibehack",
+      "stars": 232,
+      "full_text": "Reverse-engineer any Android TV / Google TV: 100% fail-safe direct boot launcher, remote hotkey remapping, Realtek hardware passthrough & offline media player.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ToomRamcharan/tv-vibehack"
+    },
+    {
+      "name": "opentrap/opentrap",
+      "stars": 172,
+      "full_text": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/opentrap/opentrap"
+    },
+    {
+      "name": "kailashsr38/ascii-magic-art",
+      "stars": 156,
+      "full_text": "634 animated ASCII art pieces for web pages, READMEs, wallpapers and terminals. Browse them in your terminal with npx ascii-magic-art and add one to your project in one prompt.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kailashsr38/ascii-magic-art"
+    },
+    {
+      "name": "indexable-inc/ra-jit",
+      "stars": 147,
+      "full_text": "Rust compiler daemon on rust-analyzer: fast incremental cargo builds and live edits to running programs. Try: nix run github:indexable-inc/ra-jit",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/indexable-inc/ra-jit"
+    },
+    {
+      "name": "MZhao-ouo/Touchable",
+      "stars": 120,
+      "full_text": "A better gaming experience for Switch games ported to iOS.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MZhao-ouo/Touchable"
+    }
+  ]
+}
