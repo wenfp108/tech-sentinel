@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-20T18:49:05.145Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 11,
+      "TECH_ACCELERATOR": 4,
+      "CODE_LEVERAGE": 3,
+      "VIRAL_UNCATEGORIZED": 32,
+      "PARADIGM_SHIFT": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "simbasjungles/free-my-tv",
+      "stars": 838,
+      "full_text": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/simbasjungles/free-my-tv"
+    },
+    {
+      "name": "VictorTaelin/uniichat",
+      "stars": 440,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/VictorTaelin/uniichat"
+    },
+    {
+      "name": "AndreSzymanski15/ai-jailbreaks",
+      "stars": 437,
+      "full_text": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AndreSzymanski15/ai-jailbreaks"
+    },
+    {
+      "name": "ELY-Open-Source/ElyOffice",
+      "stars": 415,
+      "full_text": "Ely Office: offline-first desktop apps in Rust and GPUI",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ELY-Open-Source/ElyOffice"
+    },
+    {
+      "name": "JoasASantos/REA-Prompts",
+      "stars": 409,
+      "full_text": "Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/JoasASantos/REA-Prompts"
+    },
+    {
+      "name": "stackedlol/ascii-sharks",
+      "stars": 292,
+      "full_text": "ascii shark components in typescript",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/stackedlol/ascii-sharks"
+    },
+    {
+      "name": "bitwarden-app312/.gitp3d",
+      "stars": 271,
+      "full_text": "bitwarden-for-mac-and-windows-pc-desktop-app",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bitwarden-app312/.gitp3d"
+    },
+    {
+      "name": "arc-tool/.github",
+      "stars": 271,
+      "full_text": "🔥 arc-raiders-cheats-mod-menu-hacks",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/arc-tool/.github"
+    },
+    {
+      "name": "cod-tool/.github",
+      "stars": 270,
+      "full_text": "🔥 call-of-duty-cheats-cod-mod-menu-hacks-warzone-and-black-ops",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cod-tool/.github"
+    },
+    {
+      "name": "fort-tool/.github",
+      "stars": 270,
+      "full_text": "🔥 fortnite-cheats-mod-menu-with-skin-changer-and-aim-esp-hacks",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/fort-tool/.github"
+    },
+    {
+      "name": "cs2-tools-new/.github",
+      "stars": 268,
+      "full_text": "🔥 cs-2-cs2-cheats-and-skin-changer-mod-menu-hacks-aim-esp-cs-go",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cs2-tools-new/.github"
+    },
+    {
+      "name": "apex-pro12/.github",
+      "stars": 262,
+      "full_text": "🔥 apex-legends-cheats-mod-menu-hacks",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/apex-pro12/.github"
+    },
+    {
+      "name": "soumatheusgomes/editonny",
+      "stars": 235,
+      "full_text": "Local video editing through conversation. Created by Matheus Gomes.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/soumatheusgomes/editonny"
+    },
+    {
+      "name": "vercel-labs/fx0",
+      "stars": 226,
+      "full_text": "A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/vercel-labs/fx0"
+    },
+    {
+      "name": "C4rohan/Lampline",
+      "stars": 145,
+      "full_text": "Self-hosted voice agent platform: import your Dialogflow CX and CX Agent Studio agents, build and test them, and take calls on your own hardware. 20 model providers, phone and SIP through jambonz.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/C4rohan/Lampline"
+    },
+    {
+      "name": "opentrap/opentrap",
+      "stars": 104,
+      "full_text": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/opentrap/opentrap"
+    },
+    {
+      "name": "kailashsr38/ascii-magic-art",
+      "stars": 67,
+      "full_text": "634 animated ASCII art pieces for web pages, READMEs, wallpapers and terminals. Browse them in your terminal with npx ascii-magic-art and add one to your project in one prompt.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kailashsr38/ascii-magic-art"
+    },
+    {
+      "name": "MZhao-ouo/Touchable",
+      "stars": 66,
+      "full_text": "A better gaming experience for Switch games ported to iOS.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MZhao-ouo/Touchable"
+    }
+  ]
+}
