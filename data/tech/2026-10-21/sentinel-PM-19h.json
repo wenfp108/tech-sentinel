@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-21T19:01:01.701Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 4,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 35,
+      "TALENT_GROWTH": 6,
+      "KNOWLEDGE_BASE": 3,
+      "CAREER_MOVES": 2
+    }
+  },
+  "items": [
+    {
+      "name": "pengchujin/aerial-tv",
+      "stars": 1637,
+      "full_text": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/pengchujin/aerial-tv"
+    },
+    {
+      "name": "eagle-hq/EAGLE-4",
+      "stars": 560,
+      "full_text": "Official Inference Code of EAGLE-4",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/eagle-hq/EAGLE-4"
+    },
+    {
+      "name": "dominikmartn/harp",
+      "stars": 443,
+      "full_text": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dominikmartn/harp"
+    },
+    {
+      "name": "NVIDIA/flare-local-inference",
+      "stars": 318,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NVIDIA/flare-local-inference"
+    },
+    {
+      "name": "ELY-Open-Source/ELYTerminal",
+      "stars": 65,
+      "full_text": "A terminal on GPUI and Ely components",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ELY-Open-Source/ELYTerminal"
+    },
+    {
+      "name": "ApothecaryDirect53/rpocket-team-Dolphin",
+      "stars": 55,
+      "full_text": "Get Dolphin — the ultimate console emulator for Windows offering a free download to relive the magic of GameCube and Wii classics. Experience customizable controls and automatic game optimization for a nostalgic adventure. Download the latest release.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ApothecaryDirect53/rpocket-team-Dolphin"
+    }
+  ]
+}
