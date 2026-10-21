@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-22T00:27:51.407Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 6,
+      "TECH_ACCELERATOR": 5,
+      "CODE_LEVERAGE": 4,
+      "VIRAL_UNCATEGORIZED": 32,
+      "TALENT_GROWTH": 3,
+      "KNOWLEDGE_BASE": 2,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "pengchujin/aerial-tv",
+      "stars": 1938,
+      "full_text": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/pengchujin/aerial-tv"
+    },
+    {
+      "name": "eagle-hq/EAGLE-4",
+      "stars": 651,
+      "full_text": "Official Inference Code of EAGLE-4",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/eagle-hq/EAGLE-4"
+    },
+    {
+      "name": "ikow/php2shell-poc",
+      "stars": 617,
+      "full_text": "CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ikow/php2shell-poc"
+    },
+    {
+      "name": "dominikmartn/harp",
+      "stars": 496,
+      "full_text": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dominikmartn/harp"
+    },
+    {
+      "name": "NVIDIA/flare-local-inference",
+      "stars": 414,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NVIDIA/flare-local-inference"
+    },
+    {
+      "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "stars": 333,
+      "full_text": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC"
+    },
+    {
+      "name": "WoYun520/dsh-purge",
+      "stars": 254,
+      "full_text": "DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WoYun520/dsh-purge"
+    },
+    {
+      "name": "cs-tool-s/.github",
+      "stars": 244,
+      "full_text": "🔥 cs-2-cs2-skin-changer-skin-swapper-skinchanger-skinswapper-all-skins",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cs-tool-s/.github"
+    },
+    {
+      "name": "val-tools/.github",
+      "stars": 241,
+      "full_text": "🔥 valorant-weapon-skin-changer-swapper-all-skins",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/val-tools/.github"
+    },
+    {
+      "name": "lesnolie/Tigris",
+      "stars": 208,
+      "full_text": "Tigris — tvOS 26 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lesnolie/Tigris"
+    },
+    {
+      "name": "lovisdotio/motion2code",
+      "stars": 145,
+      "full_text": "Skills for coding agents: rebuild a motion design video as looping SVG + GSAP code, checked frame by frame against the source",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lovisdotio/motion2code"
+    },
+    {
+      "name": "duliangkuan/deepinfer-studio",
+      "stars": 111,
+      "full_text": "Browser-based educational inference simulator and learning workbench. No GPU required. Real server integration and desktop app planned.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/duliangkuan/deepinfer-studio"
+    },
+    {
+      "name": "Alejandros17487/ai-jailbreaks",
+      "stars": 99,
+      "full_text": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Alejandros17487/ai-jailbreaks"
+    },
+    {
+      "name": "ELY-Open-Source/ELYTerminal",
+      "stars": 71,
+      "full_text": "A terminal on GPUI and Ely components",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ELY-Open-Source/ELYTerminal"
+    }
+  ]
+}
