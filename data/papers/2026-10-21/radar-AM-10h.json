@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-21T10:58:23.548Z",
+    "total_captured": 17,
+    "TRENDING_DIRECTIONS": [
+      "Rank (graph theory) (Heat:29)",
+      "Algebra over a field (Heat:29)",
+      "Section (typography) (Heat:26)",
+      "Matrix (chemical analysis) (Heat:24)",
+      "Tensor (intrinsic definition) (Heat:24)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 10,
+      "SPACE_DEFENSE": 3,
+      "PARADIGM_SHIFT": 2,
+      "NEXT_COMPUTING": 4,
+      "AI_CORE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Capability of in vitro digestibility methods to predict in vivo digestibility of vegetal and animal proteins",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Archivos Latinoamericanos de Nutrición",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.37527/2016.66.1.001",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-10-15"
+    },
+    {
+      "title": "The Effect of a Fullerene Water Suspension on the Growth, Cell Viability, and Membrane Integrity of Escherichia coli B23",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open Collections",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.14288/ujemi.v14.204020",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-10-18"
+    },
+    {
+      "title": "立体矩阵的可认证计算与编码体系",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23430229",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-10-17"
+    },
+    {
+      "title": "The DICTO Ogdoecontahedron",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23404688",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-10-16"
+    },
+    {
+      "title": "Blockchain and Biometrics: Survey, GDPR Analysis, and Future Directions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Computers",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.3390/computers15100716",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-10-14"
+    },
+    {
+      "title": "统一矩阵论:直和结构原理与经典矩阵论的立体实现",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23430262",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-10-17"
+    },
+    {
+      "title": "结构化张量编码的大模型推理加速:字节瘦身与缓存驻留",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23430265",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-10-17"
+    },
+    {
+      "title": "Federated Distillation: A Survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3857792",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-10-14"
+    },
+    {
+      "title": "Intergenerational Family Counselling and Therapy: Concepts, Methods, Family Patterns, and Scientific Evidence",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23392211",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-15"
+    },
+    {
+      "title": "Fast quantum algorithm for differential equations",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical Review Research",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1103/2mlq-dbfg",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-19"
+    },
+    {
+      "title": "Surprisingly high redundancy in electronic structure data across materials explained by low intrinsic dimensionality",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "npj Computational Materials",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41524-026-02361-x",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-19"
+    },
+    {
+      "title": "六个领域的结构层验证:立体矩阵建模的可证伪检验",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23430282",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-17"
+    },
+    {
+      "title": "Multiagent Assortment Optimization in Sequential Matching Markets",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Mathematics of Operations Research",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://arxiv.org/pdf/2006.04313",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-15"
+    },
+    {
+      "title": "Tipping point forecasting in nonstationary dynamics on function spaces",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1073/pnas.2600331123",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-15"
+    },
+    {
+      "title": "What Does a Satellite Campaign Do? Momentum, the Labour Party and Jeremy Corbyn on Facebook in the 2017 General Election",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.31235/osf.io/hdqrg_v2",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-15"
+    },
+    {
+      "title": "Escalating competition in changing seas: baleen whales exploit killer whale prey herding",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Philosophical Transactions of the Royal Society B Biological Sciences",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://royalsocietypublishing.org/rstb/article-pdf/doi/10.1098/rstb.2025.0197/6170709/rstb.2025.0197.pdf",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-15"
+    },
+    {
+      "title": "Generating Actionable Data From Antimicrobial Resistance Surveillance: Insights From the Fleming Fund's International Experience",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Clinical Infectious Diseases",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1093/cid/ciag497",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-15"
+    }
+  ]
+}
