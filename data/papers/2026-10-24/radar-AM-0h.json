@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-24T00:17:57.728Z",
+    "total_captured": 23,
+    "TRENDING_DIRECTIONS": [
+      "Tensor (intrinsic definition) (Heat:48)",
+      "Gene (Heat:46)",
+      "Matrix (chemical analysis) (Heat:37)",
+      "Compactification (mathematics) (Heat:32)",
+      "Orbifold (Heat:32)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 10,
+      "BIO_REVOLUTION": 14,
+      "AI_CORE": 2,
+      "PARADIGM_SHIFT": 1,
+      "SPACE_DEFENSE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "The moduli space of multi-scale differentials",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Communications of the American Mathematical Society",
+      "metrics": {
+        "citations": 31,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1090/cams/78",
+      "reason": "Velocity: 31 citations",
+      "publication_date": "2026-10-20"
+    },
+    {
+      "title": "Generation-Heavy Hybrid Machine Translation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 29,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2610.25107",
+      "reason": "Velocity: 29 citations",
+      "publication_date": "2026-10-18"
+    },
+    {
+      "title": "State space model for new generation network alternative to transformers: a survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Visual Intelligence",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s44267-026-00133-1.pdf",
+      "reason": "Velocity: 28 citations",
+      "publication_date": "2026-10-21"
+    },
+    {
+      "title": "The Effect of a Fullerene Water Suspension on the Growth, Cell Viability, and Membrane Integrity of Escherichia coli B23",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open Collections",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.14288/ujemi.v14.204020",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-10-18"
+    },
+    {
+      "title": "立体矩阵的可认证计算与编码体系",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23430229",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-10-17"
+    },
+    {
+      "title": "New instantons for matrix models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "SciPost Physics",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.21468/scipostphys.21.4.098",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-10-21"
+    },
+    {
+      "title": "The DICTO Ogdoecontahedron",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23404688",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-10-16"
+    },
+    {
+      "title": "As Society Strives for Reduced Contact During the Pandemic, How Can Human Microchipping Help?",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.31219/osf.io/wqyu9_v1",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-10-22"
+    },
+    {
+      "title": "Low Energy Excitations in a [4]Triangulene Honeycomb Antiferromagnet",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACS Nano",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2301.06171",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-10-20"
+    },
+    {
+      "title": "统一矩阵论:直和结构原理与经典矩阵论的立体实现",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23430262",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-10-17"
+    },
+    {
+      "title": "Pachysternum capense, a new genus and species for Europe, and updated key to genera and subgenera of European Sphaeridiinae (Coleoptera: Hydrophilidae)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Klapalekiana",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.83318/7e45-hn24",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-10-20"
+    },
+    {
+      "title": "结构化张量编码的大模型推理加速:字节瘦身与缓存驻留",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23430265",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-10-17"
+    },
+    {
+      "title": "A quantitative-genetics formalization of latent human aptitude architecture",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23542254",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-10-21"
+    },
+    {
+      "title": "How small can a governed synthetic pool be? A minimum viable pool study with a pre-registered fidelity statistic",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23553155",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-22"
+    },
+    {
+      "title": "The Physics–Mathematics Transformation: A Conceptual Framework for Bidirectional Scientific Discovery",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23511876",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-20"
+    },
+    {
+      "title": "Space Phase-Locking Theory (SPLT) Part I: Topological Projection of the 6-Dimensional Base Manifold and Deduction of Dynamical Constants",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23494816",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-20"
+    },
+    {
+      "title": "Algebraic Derivation of Relativity based on Finite State-Update Capacity and Vacuum Permittivity-Permeability Modulation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23498327",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-20"
+    },
+    {
+      "title": "Space Phase-Locking Theory (SPLT) Part II: Geometric Reduction of Particle Mass Spectra and QED Scattering Cross-Section via Projective Continuum Mechanics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23496580",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-20"
+    },
+    {
+      "title": "Space Phase-Locking Theory (SPLT) Part II.5: Mass-Lifetime Duality of the Hadron Spectrum and Geometric Decay Deduction",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23496707",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-20"
+    },
+    {
+      "title": "Space Phase-Locking Theory (SPLT) Part IV: Space Phase-Locking Theory (SPLT) Part IV: Algebraic Approach to Standard Model Anomalies and a Parameter-Free Framework",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23498089",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-20"
+    }
+  ]
+}
