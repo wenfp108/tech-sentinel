@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-24T18:07:55.344Z",
+    "session": "PM",
+    "trend_summary": {
+      "TALENT_GROWTH": 2,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 21,
+      "TECH_ACCELERATOR": 3,
+      "CODE_LEVERAGE": 3,
+      "KNOWLEDGE_BASE": 2,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "appariciojunior/video-editor-skills",
+      "stars": 218,
+      "full_text": "Skills that teach Claude Code to be a first-pass video editor in DaVinci Resolve: transcript cuts, vlog pacing, B-roll, music & SFX, clean captions, motion graphics, YouTube export. CC BY-NC 4.0 (no commercial use).",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/appariciojunior/video-editor-skills"
+    },
+    {
+      "name": "df-tools-bn/.github",
+      "stars": 133,
+      "full_text": "🔥 defi-arbitrage-trading-bot 🔥",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/df-tools-bn/.github"
+    },
+    {
+      "name": "tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop",
+      "stars": 133,
+      "full_text": "🔥 cross-exchange-arbitrage-bot-pc-desktop 🔥",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop"
+    },
+    {
+      "name": "ravensclawx/HBLauncher",
+      "stars": 108,
+      "full_text": "SmileBASIC homebrew launcher and documented GPU app SDK, with Pico setup and a Hello World example.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ravensclawx/HBLauncher"
+    },
+    {
+      "name": "PandaSI-Labs/pandasi-agent",
+      "stars": 79,
+      "full_text": "Offline evidence-policy checker for PandaSI.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PandaSI-Labs/pandasi-agent"
+    },
+    {
+      "name": "samyeei/mosaico-learning-assistant",
+      "stars": 43,
+      "full_text": "ESP-Mosaico 学习助手：拍题选题、语音追问与朗读。v1.1.0 支持 Vibe Mode 0.2 / ABI 2。源码公开，禁止商用（PolyForm Noncommercial 1.0.0）。",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/samyeei/mosaico-learning-assistant"
+    }
+  ]
+}
