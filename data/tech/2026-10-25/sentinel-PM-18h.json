@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-25T18:33:16.405Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "TECH_ACCELERATOR": 6,
+      "TALENT_GROWTH": 3,
+      "KNOWLEDGE_BASE": 3,
+      "VIRAL_UNCATEGORIZED": 31,
+      "CODE_LEVERAGE": 5
+    }
+  },
+  "items": [
+    {
+      "name": "rddmwmddr/android-ad-cleaner",
+      "stars": 355,
+      "full_text": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner"
+    },
+    {
+      "name": "mirkobrombin/raven",
+      "stars": 302,
+      "full_text": "A Windows your apps recognize.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mirkobrombin/raven"
+    },
+    {
+      "name": "routerhubSI/glm-5.3-abliterated",
+      "stars": 294,
+      "full_text": "GLM 5.3 abliterated or uncensored API access with RouterHub. Browse 35 jailbreak prompt links, compare GLM models, and find SDK examples, coding-tool setup, pricing, and evaluation guides.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/routerhubSI/glm-5.3-abliterated"
+    },
+    {
+      "name": "songjianyang/xss-audit",
+      "stars": 294,
+      "full_text": "Static XSS audit skill with 14 layers of checks for React, TypeScript, and JavaScript projects.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/songjianyang/xss-audit"
+    },
+    {
+      "name": "routerhubSI/uncensored-ai-api",
+      "stars": 289,
+      "full_text": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/routerhubSI/uncensored-ai-api"
+    },
+    {
+      "name": "mizorewww/gdirect",
+      "stars": 278,
+      "full_text": "Rust Google Drive direct downloader using pinned libaria2",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mizorewww/gdirect"
+    },
+    {
+      "name": "xMazaki/unbloat-android-tv",
+      "stars": 217,
+      "full_text": "Slim down any Android TV (ads, telemetry) + minimalist Apple TV-style home screen. Reversible, one double-click. 🇫🇷 Allégez n'importe quelle TV Android (pubs, télémétrie) + écran d'accueil minimaliste façon Apple TV. Réversible, en un double-clic.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xMazaki/unbloat-android-tv"
+    },
+    {
+      "name": "wangrongding/tv-fresh",
+      "stars": 174,
+      "full_text": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/wangrongding/tv-fresh"
+    },
+    {
+      "name": "breakbrawlerheart/pixeluxe-ai",
+      "stars": 100,
+      "full_text": "PixeLuxe is an AI image generation interface built around a single idea: a consistent, cinematic visual direction — deep shadow, magenta light, confident framing — instead of generic model output.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/breakbrawlerheart/pixeluxe-ai"
+    },
+    {
+      "name": "aideveloper-web/Free-Deepseek",
+      "stars": 94,
+      "full_text": "Explore Free DeepSeek AI, a standalone AI application for users interested in artificial intelligence, conversational tools, and AI-assisted workflows.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aideveloper-web/Free-Deepseek"
+    },
+    {
+      "name": "KohakuBlueleaf/KohakUnlock",
+      "stars": 80,
+      "full_text": "Experimental NVIDIA tensor-compute unlock research: guarded TU102 initramfs port, offline tests, and Ampere reproduction notes",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/KohakuBlueleaf/KohakUnlock"
+    },
+    {
+      "name": "lordon1a/agents.md",
+      "stars": 77,
+      "full_text": "A drop-in AGENTS.md system prompt for coding agents: full execution, no hedging, no moralizing, no fade-to-black.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lordon1a/agents.md"
+    },
+    {
+      "name": "lillyguisnet/sam3-segmentation",
+      "stars": 71,
+      "full_text": "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills clients.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lillyguisnet/sam3-segmentation"
+    },
+    {
+      "name": "aideveloper-web/free-claude-code",
+      "stars": 62,
+      "full_text": "Explore Free Claude Code Fable 5.1 and discover AI-powered coding workflows, developer tools, and resources for modern software development.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aideveloper-web/free-claude-code"
+    },
+    {
+      "name": "aideveloper-web/chatgpt-free",
+      "stars": 51,
+      "full_text": "Access Free ChatGPT, Claude Code, and Deepseek to explore AI-powered conversations, coding assistance, and intelligent search capabilities. Discover tools and resources for productivity, software development, and AI-assisted workflows.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aideveloper-web/chatgpt-free"
+    },
+    {
+      "name": "nlzy/turing-unlock",
+      "stars": 47,
+      "full_text": "Unlock full speed FP16 tensor core of NVIDIA Turing GPUs",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nlzy/turing-unlock"
+    }
+  ]
+}
