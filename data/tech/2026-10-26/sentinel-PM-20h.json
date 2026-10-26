@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-26T20:06:29.481Z",
+    "session": "PM",
+    "trend_summary": {
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_GIANT": 8,
+      "CODE_LEVERAGE": 5,
+      "TECH_ACCELERATOR": 7,
+      "VIRAL_UNCATEGORIZED": 27,
+      "CORE_PRAGMATISM": 3,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "designfuchen/word-atlas",
+      "stars": 1260,
+      "full_text": "词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US audio, 14,596 example sentences and FSRS review. Free, open source, no login. Dataset CC BY 4.0.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/designfuchen/word-atlas"
+    },
+    {
+      "name": "mizorewww/gdirect",
+      "stars": 667,
+      "full_text": "Rust Google Drive direct downloader using pinned libaria2",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mizorewww/gdirect"
+    },
+    {
+      "name": "DenisSergeevitch/ex-ussr-kinship-research",
+      "stars": 663,
+      "full_text": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research"
+    },
+    {
+      "name": "KillaBoi/StealMyBitcoin-PoC",
+      "stars": 599,
+      "full_text": "A public release of the Steal My Bitcoin challenge",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC"
+    },
+    {
+      "name": "unclebob/ub-mode",
+      "stars": 545,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/unclebob/ub-mode"
+    },
+    {
+      "name": "misshexa66/OunceCake",
+      "stars": 395,
+      "full_text": "Tool to dump unencrypted romFS and exeFS for Switch 2 games",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/misshexa66/OunceCake"
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "stars": 326,
+      "full_text": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/andyhuo520/digital-human-koubo"
+    },
+    {
+      "name": "DrWhax/unfairplay",
+      "stars": 311,
+      "full_text": "Decrypt IPA's on MacOS",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/DrWhax/unfairplay"
+    },
+    {
+      "name": "free-cracks/Adobe-Acrobat-Pro",
+      "stars": 287,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/free-cracks/Adobe-Acrobat-Pro"
+    },
+    {
+      "name": "pro-tools-workspace/Canva-Pro",
+      "stars": 255,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/pro-tools-workspace/Canva-Pro"
+    },
+    {
+      "name": "KohakuBlueleaf/KohakUnlock",
+      "stars": 217,
+      "full_text": "Experimental NVIDIA tensor-compute unlock research: guarded TU102 initramfs port, offline tests, and Ampere reproduction notes",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/KohakuBlueleaf/KohakUnlock"
+    },
+    {
+      "name": "ZiChuanLan/agent-purge",
+      "stars": 214,
+      "full_text": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ZiChuanLan/agent-purge"
+    },
+    {
+      "name": "yaojingang/GEOInflow",
+      "stars": 191,
+      "full_text": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yaojingang/GEOInflow"
+    },
+    {
+      "name": "aideveloper-web/Free-Deepseek",
+      "stars": 110,
+      "full_text": "Explore Free DeepSeek AI, a standalone AI application for users interested in artificial intelligence, conversational tools, and AI-assisted workflows.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aideveloper-web/Free-Deepseek"
+    },
+    {
+      "name": "breakbrawlerheart/pixeluxe-ai",
+      "stars": 100,
+      "full_text": "PixeLuxe is an AI image generation interface built around a single idea: a consistent, cinematic visual direction — deep shadow, magenta light, confident framing — instead of generic model output.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/breakbrawlerheart/pixeluxe-ai"
+    },
+    {
+      "name": "heydeer/pngdeer",
+      "stars": 92,
+      "full_text": "Lossy PNG compression that picks the quality for each image. Command line and browser, same bytes.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/heydeer/pngdeer"
+    },
+    {
+      "name": "Aaryan-Kapoor/english-rs",
+      "stars": 69,
+      "full_text": "English, rewritten in Rust: grammar as trait bounds, pronouns as borrows, and englishc, a compiler with rustc-style diagnostics for prose",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Aaryan-Kapoor/english-rs"
+    },
+    {
+      "name": "smhanov/agentloop",
+      "stars": 67,
+      "full_text": "Everything you need for building an agent. A Go library for the LLM tool-calling loop with budgets, hooks, skills, and tracing.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/smhanov/agentloop"
+    },
+    {
+      "name": "BenDBSS/Riposte-Frontline-Source",
+      "stars": 54,
+      "full_text": "Source code of Riposte: Frontline, a free FPS that runs in the browser on desktop and mobile. Play at https://www.playriposte.com",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BenDBSS/Riposte-Frontline-Source"
+    },
+    {
+      "name": "josiahg2502-glitch/Smash4PC",
+      "stars": 51,
+      "full_text": "Super Smash Bros. for Wii U, natively on Windows: a static recompilation (bring your own game)",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/josiahg2502-glitch/Smash4PC"
+    },
+    {
+      "name": "Patch-gg/trompe",
+      "stars": 49,
+      "full_text": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Patch-gg/trompe"
+    }
+  ]
+}
