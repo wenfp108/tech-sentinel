@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-27T19:27:16.897Z",
+    "session": "PM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 7,
+      "CODE_LEVERAGE": 3,
+      "VIRAL_GIANT": 7,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 22,
+      "TALENT_GROWTH": 3,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "stars": 945,
+      "full_text": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/andyhuo520/digital-human-koubo"
+    },
+    {
+      "name": "yaojingang/GEOInflow",
+      "stars": 515,
+      "full_text": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yaojingang/GEOInflow"
+    },
+    {
+      "name": "martinkeith700/ruyiJS",
+      "stars": 397,
+      "full_text": "Run any site  from Python with the real mini AI headless browser , bypass any security anti-crawler , get the data and token you want",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/martinkeith700/ruyiJS"
+    },
+    {
+      "name": "andriu-kun/-wildrig-multi",
+      "stars": 362,
+      "full_text": "multi algo miner for AMD, NVIDIA and Intel gpu's wildrig-multi",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/andriu-kun/-wildrig-multi"
+    },
+    {
+      "name": "blakeandersonw/ai-app-playbook",
+      "stars": 293,
+      "full_text": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/blakeandersonw/ai-app-playbook"
+    },
+    {
+      "name": "free-cracks/Adobe-Acrobat-Pro",
+      "stars": 288,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/free-cracks/Adobe-Acrobat-Pro"
+    },
+    {
+      "name": "NyxFoundation/nyxis",
+      "stars": 282,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/NyxFoundation/nyxis"
+    },
+    {
+      "name": "Motionsites-AI/claude-skill",
+      "stars": 268,
+      "full_text": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Motionsites-AI/claude-skill"
+    },
+    {
+      "name": "kargulstudio/calender-app-design",
+      "stars": 268,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/kargulstudio/calender-app-design"
+    },
+    {
+      "name": "pro-tools-workspace/Canva-Pro",
+      "stars": 255,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/pro-tools-workspace/Canva-Pro"
+    },
+    {
+      "name": "piermark/omarchytv",
+      "stars": 220,
+      "full_text": "Omarchy-styled tiling launcher ecosystem for Android TV, Google TV, LG webOS, Android Mobile & Linux/macOS/Omarchy PCs",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/piermark/omarchytv"
+    },
+    {
+      "name": "DiaoOrg/awesome-supermimic",
+      "stars": 210,
+      "full_text": "A curated collection of SuperMimic implementations, extensions, demos, and resources.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/DiaoOrg/awesome-supermimic"
+    },
+    {
+      "name": "Andreas698/glm-5.3-uncensored",
+      "stars": 124,
+      "full_text": "GLM 5.3 Uncensored — 35 jailbreak prompt files, model guide and API access. One RouterHub key also covers GPT, Claude, DeepSeek, Qwen and Grok.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Andreas698/glm-5.3-uncensored"
+    },
+    {
+      "name": "giantbitmonitor/NextFilee",
+      "stars": 118,
+      "full_text": "Filee alternative: NextFilee is a faster, lightweight, and fully offline drag-and-drop file converter.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/giantbitmonitor/NextFilee"
+    },
+    {
+      "name": "martina9516/uncensored-ai-models",
+      "stars": 112,
+      "full_text": "Uncensored AI models from RouterHub — the website for one-key API access to Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/martina9516/uncensored-ai-models"
+    },
+    {
+      "name": "PierreTucker147/deepseek-uncensored",
+      "stars": 73,
+      "full_text": "DeepSeek Uncensored from RouterHub — the website for model guide and API access, with GPT, Claude, GLM, Qwen and Grok under one key.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PierreTucker147/deepseek-uncensored"
+    },
+    {
+      "name": "YotsuhaMeru/NeToRne",
+      "stars": 44,
+      "full_text": "AI Slop torne driver ",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/YotsuhaMeru/NeToRne"
+    }
+  ]
+}
