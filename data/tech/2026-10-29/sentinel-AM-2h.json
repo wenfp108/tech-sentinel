@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-29T02:04:31.449Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 6,
+      "CODE_LEVERAGE": 3,
+      "VIRAL_UNCATEGORIZED": 33,
+      "TECH_ACCELERATOR": 5,
+      "TALENT_GROWTH": 3,
+      "CAREER_MOVES": 1,
+      "KNOWLEDGE_BASE": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "anhao/ai-pose-gallery-zh",
+      "stars": 1759,
+      "full_text": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh"
+    },
+    {
+      "name": "smithjohn78390/tongjiang-lab",
+      "stars": 411,
+      "full_text": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/smithjohn78390/tongjiang-lab"
+    },
+    {
+      "name": "ChannelCooperStart/capri-ai",
+      "stars": 379,
+      "full_text": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ChannelCooperStart/capri-ai"
+    },
+    {
+      "name": "vaishantsah/watson-AI-osint-all-in-one",
+      "stars": 337,
+      "full_text": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one"
+    },
+    {
+      "name": "patch-gg/anymove",
+      "stars": 323,
+      "full_text": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/patch-gg/anymove"
+    },
+    {
+      "name": "NotRexed/SkyboundTotk",
+      "stars": 244,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/NotRexed/SkyboundTotk"
+    },
+    {
+      "name": "jacke-pp/open-yoki",
+      "stars": 201,
+      "full_text": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jacke-pp/open-yoki"
+    },
+    {
+      "name": "OpenBMB/MiniCPM-OCR",
+      "stars": 185,
+      "full_text": "An open-source OCR solution for fast, accurate document parsing with correctness assessment.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OpenBMB/MiniCPM-OCR"
+    },
+    {
+      "name": "MiniMax-AI/mcode-stack",
+      "stars": 140,
+      "full_text": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MiniMax-AI/mcode-stack"
+    },
+    {
+      "name": "oxnw/ai-phone",
+      "stars": 110,
+      "full_text": "A SIP phone daemon with local speech and language models on Apple Silicon.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/oxnw/ai-phone"
+    },
+    {
+      "name": "aa1143/NamiGPT",
+      "stars": 97,
+      "full_text": "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aa1143/NamiGPT"
+    },
+    {
+      "name": "athenaos-tech/athenaos-agent",
+      "stars": 91,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/athenaos-tech/athenaos-agent"
+    },
+    {
+      "name": "patch-gg/crowdbricks",
+      "stars": 88,
+      "full_text": "Batched NVIDIA MotionBricks: generate the motion of hundreds of characters in one model call.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/patch-gg/crowdbricks"
+    },
+    {
+      "name": "PierreTucker147/deepseek-uncensored",
+      "stars": 74,
+      "full_text": "DeepSeek Uncensored from RouterHub — the website for model guide and API access, with GPT, Claude, GLM, Qwen and Grok under one key.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PierreTucker147/deepseek-uncensored"
+    },
+    {
+      "name": "khanhduytran0/LiveSimBooter",
+      "stars": 62,
+      "full_text": "Boot iOS simulator on jailed iOS without JIT",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/khanhduytran0/LiveSimBooter"
+    }
+  ]
+}
