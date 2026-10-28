@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-28T19:58:23.076Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "CODE_LEVERAGE": 3,
+      "VIRAL_UNCATEGORIZED": 34,
+      "TECH_ACCELERATOR": 5,
+      "CAREER_MOVES": 1,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 1,
+      "CORE_PRAGMATISM": 2
+    }
+  },
+  "items": [
+    {
+      "name": "anhao/ai-pose-gallery-zh",
+      "stars": 1363,
+      "full_text": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh"
+    },
+    {
+      "name": "ChannelCooperStart/capri-ai",
+      "stars": 309,
+      "full_text": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ChannelCooperStart/capri-ai"
+    },
+    {
+      "name": "patch-gg/anymove",
+      "stars": 277,
+      "full_text": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/patch-gg/anymove"
+    },
+    {
+      "name": "vaishantsah/watson-AI-osint-all-in-one",
+      "stars": 276,
+      "full_text": "Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Open-source intelligence made simple: digital footprint check, username lookup, social media search. No account, no tracking. Site: watsonfind.icu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one"
+    },
+    {
+      "name": "smithjohn78390/tongjiang-lab",
+      "stars": 223,
+      "full_text": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/smithjohn78390/tongjiang-lab"
+    },
+    {
+      "name": "oxnw/ai-phone",
+      "stars": 88,
+      "full_text": "A SIP phone daemon with local speech and language models on Apple Silicon.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/oxnw/ai-phone"
+    },
+    {
+      "name": "OpenBMB/MiniCPM-OCR",
+      "stars": 79,
+      "full_text": "An open-source OCR solution for fast, accurate document parsing with correctness assessment.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OpenBMB/MiniCPM-OCR"
+    },
+    {
+      "name": "aa1143/NamiGPT",
+      "stars": 78,
+      "full_text": "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aa1143/NamiGPT"
+    },
+    {
+      "name": "PierreTucker147/deepseek-uncensored",
+      "stars": 74,
+      "full_text": "DeepSeek Uncensored from RouterHub — the website for model guide and API access, with GPT, Claude, GLM, Qwen and Grok under one key.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PierreTucker147/deepseek-uncensored"
+    },
+    {
+      "name": "athenaos-tech/athenaos-agent",
+      "stars": 64,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/athenaos-tech/athenaos-agent"
+    },
+    {
+      "name": "patch-gg/crowdbricks",
+      "stars": 64,
+      "full_text": "Batched NVIDIA MotionBricks: generate the motion of hundreds of characters in one model call.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/patch-gg/crowdbricks"
+    },
+    {
+      "name": "khanhduytran0/LiveSimBooter",
+      "stars": 52,
+      "full_text": "Boot iOS simulator on jailed iOS without JIT",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/khanhduytran0/LiveSimBooter"
+    },
+    {
+      "name": "S12cybersecurity/CredGuardRuntimeShutdown",
+      "stars": 47,
+      "full_text": "Runtime Credential Guard deactivation via \\\\LSA_ISO_DISABLE_CREDENTIAL_GUARD + LSASS NT hash extraction (Win11 24H2)",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/S12cybersecurity/CredGuardRuntimeShutdown"
+    },
+    {
+      "name": "meta-models/legal-agent-workshop",
+      "stars": 45,
+      "full_text": "Code for building an AI legal agent using Muse Code and Muse Spark",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/meta-models/legal-agent-workshop"
+    }
+  ]
+}
