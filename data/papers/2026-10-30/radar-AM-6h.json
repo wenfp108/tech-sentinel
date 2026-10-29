@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-30T06:20:17.025Z",
+    "total_captured": 22,
+    "TRENDING_DIRECTIONS": [
+      "Set (abstract data type) (Heat:281)",
+      "Image (mathematics) (Heat:264)",
+      "Generalization (Heat:242)",
+      "Benchmark (surveying) (Heat:242)",
+      "Quality (philosophy) (Heat:242)"
+    ],
+    "strategy_summary": {
+      "AI_CORE": 12,
+      "BIO_REVOLUTION": 8,
+      "PARADIGM_SHIFT": 2,
+      "NEXT_COMPUTING": 4
+    }
+  },
+  "items": [
+    {
+      "title": "Mean-Field Limit of Non-exchangeable Multi-agent Systems Over Hypergraphs with Unbounded Rank",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Nonlinear Science",
+      "metrics": {
+        "citations": 241,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "http://hdl.handle.net/10261/238214",
+      "reason": "Velocity: 241 citations",
+      "publication_date": "2026-10-23"
+    },
+    {
+      "title": "Inst-Inpaint: Instructing to Remove Objects with Diffusion Models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "International Journal of Computer Vision",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s11263-026-03110-9.pdf",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-10-26"
+    },
+    {
+      "title": "Estimating the marginal likelihood with Integrated nested Laplace approximation (INLA)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.68365/jrepstat.2026.9",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-10-26"
+    },
+    {
+      "title": "Agentic AI Assurance Test Taxonomy v1",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23587406",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-10-23"
+    },
+    {
+      "title": "Agentic AI Assurance Test Catalogue — Day 1 Addendum (Tests T1-001–T1-007)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23592356",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-10-23"
+    },
+    {
+      "title": "The Repair Saturates the Gate: Context Noise as a Degeneracy Diagnostic",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23685276",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-10-27"
+    },
+    {
+      "title": "Agentic AI Assurance Test Catalogue — Day 2 Addendum (Tests T1-008–T1-014)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23593960",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-10-23"
+    },
+    {
+      "title": "Agentic AI Assurance Test Catalogue — Day 3 Addendum (Tests T1-015–T2-003)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23594172",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-10-23"
+    },
+    {
+      "title": "The triangular lattice minimises the planar Yukawa energy at every density and for every finite mixture of screening lengths: kernel-checked corollaries of planar universal optimality, a human proof, and an exact-potential CVODE consistency study",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23646104",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-10-25"
+    },
+    {
+      "title": "Agentic AI Assurance Test Catalogue — Day 4 Addendum (Tests T2-004–T2-010)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23613370",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-10-24"
+    },
+    {
+      "title": "Agentic AI Assurance Test Catalogue — Day 5 Addendum (Tests T2-011–T3-003)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23613492",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-10-24"
+    },
+    {
+      "title": "谁在切时间轴:六十部世界史分期的门、位置与排他性,附一份自证方案 / Who Cuts the Timeline? Gates, Positions and Exclusivity in Sixty World-History Periodizations, with a Self-Application",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23573011",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-10-23"
+    },
+    {
+      "title": "How a Quantum Reality Gets Built: What Physics and the Older Teachings Each Say About the Observer's Part in Which Reality Becomes Real",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23560081",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-10-22"
+    },
+    {
+      "title": "The People Who Believe They Are Remembering Ancient Things",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23560344",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-10-22"
+    },
+    {
+      "title": "Reconfigurable intelligent surfaces with liquid crystal technology: a hardware design and communication perspective",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Frequenz",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2308.03065",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-10-25"
+    },
+    {
+      "title": "Agentic AI Assurance Test Catalogue — Day 6 Addendum (Tests T3-004–T3-010)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23613672",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-10-24"
+    },
+    {
+      "title": "As Society Strives for Reduced Contact During the Pandemic, How Can Human Microchipping Help?",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.31219/osf.io/wqyu9_v1",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-10-22"
+    },
+    {
+      "title": "Phylogenomics of Cypriniformes, the most diverse order of freshwater fishes: consensus, challenges and limitations",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Molecular Biology and Evolution",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msag261/72519525/msag261.pdf",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-10-26"
+    },
+    {
+      "title": "Agentic AI Assurance Test Catalogue — Day 7 Addendum (Tests T3-011–T4-003)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23613729",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-10-24"
+    },
+    {
+      "title": "Agentic AI Assurance Test Catalogue — Day 8 Addendum (Tests T4-004–T4-010)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23613797",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-10-24"
+    }
+  ]
+}
