@@ -1,0 +1,512 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-10-30T12:00:18.763Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 49,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "valentderah/totk-pc-recomp",
+      "stars": 643,
+      "full_text": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/valentderah/totk-pc-recomp"
+    },
+    {
+      "name": "paipiange/nvzhuang",
+      "stars": 383,
+      "full_text": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/paipiange/nvzhuang"
+    },
+    {
+      "name": "BryceYuuu/RUN",
+      "stars": 353,
+      "full_text": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/BryceYuuu/RUN"
+    },
+    {
+      "name": "UniteCuttlefishBolt/Canva-Pro",
+      "stars": 297,
+      "full_text": "Canva Pro 2026: Complete standalone setup with all features unlocked and ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/UniteCuttlefishBolt/Canva-Pro"
+    },
+    {
+      "name": "covesoulrhythm/Autodesk-3ds-MAX",
+      "stars": 238,
+      "full_text": "Autodesk 3Ds Max 2026 pre-configured full working installer. Ready-to-run desktop edition with all features activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/covesoulrhythm/Autodesk-3ds-MAX"
+    },
+    {
+      "name": "BoatwrightSpout/IOBIT-Driver-Booster",
+      "stars": 238,
+      "full_text": "Complete standalone setup for Iobit Driver Booster 2026. Ready-to-run installer with full functionality and pre-activation.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/BoatwrightSpout/IOBIT-Driver-Booster"
+    },
+    {
+      "name": "AspectPikemanPier/AnyUnlock",
+      "stars": 238,
+      "full_text": "Anyunlock 2026: Full working installer for professional desktop software utility configuration. Ready to run with all features activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AspectPikemanPier/AnyUnlock"
+    },
+    {
+      "name": "GumshoeRampart/Adobe-After-Effects",
+      "stars": 238,
+      "full_text": "Secure digital asset deployment pipeline 2026, complete standalone setup ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/GumshoeRampart/Adobe-After-Effects"
+    },
+    {
+      "name": "HerdWarlordExplode/AOMEI-Backupper",
+      "stars": 238,
+      "full_text": "Complete standalone setup of Aomei Backupper 2026, ready-to-run with all features pre-activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/HerdWarlordExplode/AOMEI-Backupper"
+    },
+    {
+      "name": "Knitchewhirl/Directory-Opus",
+      "stars": 238,
+      "full_text": "Directory Opus 2026: Full working installer with all essential utilities and features ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Knitchewhirl/Directory-Opus"
+    },
+    {
+      "name": "ProviderBolt/Discord-Server-Raider",
+      "stars": 238,
+      "full_text": "Discord Server Raider: Full working installer for automated server moderation and management tasks, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ProviderBolt/Discord-Server-Raider"
+    },
+    {
+      "name": "WyvernProvost/FL-Studio",
+      "stars": 238,
+      "full_text": "Complete standalone setup for FL Studio 2026, your go-to digital audio workstation, ready to run with all features unlocked.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WyvernProvost/FL-Studio"
+    },
+    {
+      "name": "PentagonShadeSky/Axie-Infinity-Bot",
+      "stars": 238,
+      "full_text": "Complete standalone setup for Axie Infinity Bot 2026. Full working installer with all features pre-activated, ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PentagonShadeSky/Axie-Infinity-Bot"
+    },
+    {
+      "name": "Attothroughzen/Autodesk-CFD",
+      "stars": 238,
+      "full_text": "Autodesk Cfd 2026 pre-configured desktop installation build, ready to run with all features activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Attothroughzen/Autodesk-CFD"
+    },
+    {
+      "name": "Ambererforum/Designcenter-NX",
+      "stars": 238,
+      "full_text": "Designcenter Nx 2026 complete standalone setup. Fully functional, pre-activated desktop installation ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Ambererforum/Designcenter-NX"
+    },
+    {
+      "name": "Harborlumill91/Honeypot-Detector",
+      "stars": 238,
+      "full_text": "Pre-activated desktop edition of Honeypot Detector 2026. Full working installer with all features ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Harborlumill91/Honeypot-Detector"
+    },
+    {
+      "name": "coastboulderdolmen/AutoCad",
+      "stars": 238,
+      "full_text": "Autocad 2026 complete standalone setup. Pre-activated desktop edition ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/coastboulderdolmen/AutoCad"
+    },
+    {
+      "name": "ChandlerVary38/Ads-Blocker",
+      "stars": 238,
+      "full_text": "Ads Blocker 2026 complete standalone setup. Full working installer with all features pre-activated, ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ChandlerVary38/Ads-Blocker"
+    },
+    {
+      "name": "Lusterkrilift/CorelDraw",
+      "stars": 238,
+      "full_text": "CorelDRAW 2026 professional desktop software utility configuration. Complete standalone setup with all tools and features pre-activated, ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Lusterkrilift/CorelDraw"
+    },
+    {
+      "name": "GrandNurseStretch/Genesis-Miner",
+      "stars": 238,
+      "full_text": "Genesis Miner 2026: Full working installer for professional desktop utility, ready to run with complete standalone setup.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/GrandNurseStretch/Genesis-Miner"
+    },
+    {
+      "name": "OperativeGallery/Adobe-Audition",
+      "stars": 238,
+      "full_text": "Complete standalone setup for Advanced Audio Workbench 2026. Secure digital asset deployment pipeline ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/OperativeGallery/Adobe-Audition"
+    },
+    {
+      "name": "Plateplaflange/Display-Fusion",
+      "stars": 238,
+      "full_text": "Display Fusion 2026 complete standalone setup. Ready-to-run, fully functional installation with all features pre-activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Plateplaflange/Display-Fusion"
+    },
+    {
+      "name": "energyczaradjust/Atas-Trading-Bot",
+      "stars": 238,
+      "full_text": "Complete standalone setup for Atas Trading Bot 2026. Ready-to-run desktop installation with all features pre-activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/energyczaradjust/Atas-Trading-Bot"
+    },
+    {
+      "name": "SpongeRevitalize94/Catia-Cad",
+      "stars": 238,
+      "full_text": "Catia Cad 2026 full working installer. Ready-to-run desktop configuration with complete standalone setup.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SpongeRevitalize94/Catia-Cad"
+    },
+    {
+      "name": "EmblemBrawlerRun/Hwid-Spoofer",
+      "stars": 238,
+      "full_text": "Pre-activated desktop edition of Hwid Spoofer Free 2026. Full working installer ready to run for professional desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/EmblemBrawlerRun/Hwid-Spoofer"
+    },
+    {
+      "name": "Massreportal/CapCut-for-Windows",
+      "stars": 238,
+      "full_text": "Capcut For Windows 2026: Full working installer with all features pre-activated, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Massreportal/CapCut-for-Windows"
+    },
+    {
+      "name": "RestraintMinister/Discord-Quest-Completer",
+      "stars": 238,
+      "full_text": "Discord Quest Completer 2026 - Full working installer for easy setup and seamless operation.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/RestraintMinister/Discord-Quest-Completer"
+    },
+    {
+      "name": "petawheelwrightseek/Adobe-Substance-3d",
+      "stars": 238,
+      "full_text": "Creative Studio App 2023: Full working installer with enhanced security features and streamlined deployment process.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/petawheelwrightseek/Adobe-Substance-3d"
+    },
+    {
+      "name": "tamemoosecomply/IBM-SPSS",
+      "stars": 238,
+      "full_text": "IBM SPSS Statistics 2026: Full working installer with all modules activated and ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tamemoosecomply/IBM-SPSS"
+    },
+    {
+      "name": "TagAmbassadorCall/DVD-Creator",
+      "stars": 238,
+      "full_text": "Complete standalone setup for Dvd Creator 2026, ready-to-run with all features fully activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TagAmbassadorCall/DVD-Creator"
+    },
+    {
+      "name": "sewmayordiscover/KeyShot-Pro",
+      "stars": 235,
+      "full_text": "Keyshot Pro 2026: Complete standalone setup with all features unlocked, ready for immediate use.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sewmayordiscover/KeyShot-Pro"
+    },
+    {
+      "name": "prismexecutiveadmire/Instagram-Liker-Bot",
+      "stars": 235,
+      "full_text": "Instagram Liker Bot 2026: Full working installer, ready-to-run desktop setup with complete functionality.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/prismexecutiveadmire/Instagram-Liker-Bot"
+    },
+    {
+      "name": "lavacorecoupling/Imei-Repair",
+      "stars": 233,
+      "full_text": "Complete standalone setup for Imei Repair Free, a ready-to-run desktop solution with full activation.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lavacorecoupling/Imei-Repair"
+    },
+    {
+      "name": "GasClerkNurse/LANDR-Plugin-Bundle",
+      "stars": 231,
+      "full_text": "Landr Plugin Bundle 2026: Full working installer with all plugins pre-installed and ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/GasClerkNurse/LANDR-Plugin-Bundle"
+    },
+    {
+      "name": "SpiritBewitch/Kontakt-8",
+      "stars": 224,
+      "full_text": "Kontakt 8: Complete standalone setup with all features pre-activated, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SpiritBewitch/Kontakt-8"
+    },
+    {
+      "name": "MarkBlah/smsofdeath",
+      "stars": 217,
+      "full_text": "remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writeup.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MarkBlah/smsofdeath"
+    },
+    {
+      "name": "ThunderEncoder/Melodyne-5",
+      "stars": 205,
+      "full_text": "Melodyne 5, a professional desktop software utility, is now available as a complete standalone setup for easy installation and use.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ThunderEncoder/Melodyne-5"
+    },
+    {
+      "name": "Barbpouncouple/Robux-Generator",
+      "stars": 201,
+      "full_text": "Robux Generator 2026: Full working installer, complete standalone setup with all features activated for immediate use.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Barbpouncouple/Robux-Generator"
+    },
+    {
+      "name": "ShogunAgora22/StartAll-Back",
+      "stars": 200,
+      "full_text": "Startall Back 2026 - Full working installer for professional desktop software utility configuration, ready to run with all features activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ShogunAgora22/StartAll-Back"
+    },
+    {
+      "name": "moondirectorserver/Sylenth-1",
+      "stars": 200,
+      "full_text": "Complete standalone setup for Sylenth 1, a professional desktop utility configuration. Ready-to-run installer with all features pre-activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/moondirectorserver/Sylenth-1"
+    },
+    {
+      "name": "PackBeatCompute/Discord-Server-Cloner",
+      "stars": 200,
+      "full_text": "Discord Server Cloner 2023: Full working installer with all features activated, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PackBeatCompute/Discord-Server-Cloner"
+    },
+    {
+      "name": "Tunnelmicall/Photo-Commander",
+      "stars": 200,
+      "full_text": "Photo Commander 2026: Pre-activated desktop edition with all tools ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Tunnelmicall/Photo-Commander"
+    },
+    {
+      "name": "Herdbricable37/Rust-External-Cheat",
+      "stars": 200,
+      "full_text": "Rust External 2026: Complete standalone setup for professional desktop utility configuration. Ready-to-run installer with all features pre-activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Herdbricable37/Rust-External-Cheat"
+    },
+    {
+      "name": "UpdateRopemakerVeil/Microsoft-Visio",
+      "stars": 200,
+      "full_text": "Microsoft Visio 2026: Full working installer with all features enabled, ready for a seamless desktop installation.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/UpdateRopemakerVeil/Microsoft-Visio"
+    },
+    {
+      "name": "meshharmonyrectifier/MusicMakerUnlimited",
+      "stars": 200,
+      "full_text": "Musicmakerunlimited 2026 - Full working installer with all features activated, ready for immediate desktop use.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/meshharmonyrectifier/MusicMakerUnlimited"
+    },
+    {
+      "name": "SmartHeroForce/MicroStation-2026",
+      "stars": 200,
+      "full_text": "Microstation 2026: Full working installer with all essential utilities and configurations, ready for immediate desktop installation.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SmartHeroForce/MicroStation-2026"
+    },
+    {
+      "name": "ClassDestroy/Ozone-12-Advanced",
+      "stars": 200,
+      "full_text": "Ozone 12 Advanced: Complete standalone setup with all features unlocked, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ClassDestroy/Ozone-12-Advanced"
+    },
+    {
+      "name": "ChampionStir/MultiAccountManager",
+      "stars": 200,
+      "full_text": "Multiaccountmanager 2026: Complete standalone setup for managing multiple accounts efficiently. Ready-to-run desktop installation.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ChampionStir/MultiAccountManager"
+    },
+    {
+      "name": "PassAttorney/SketchUp-Pro",
+      "stars": 200,
+      "full_text": "Sketchup Pro 2026 complete standalone setup, fully functional and ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PassAttorney/SketchUp-Pro"
+    },
+    {
+      "name": "gryphonfighterblaze/RX-11-Audio-Editor",
+      "stars": 200,
+      "full_text": "Rx 11 Audio Editor 2026: Complete standalone setup, pre-activated desktop edition ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/gryphonfighterblaze/RX-11-Audio-Editor"
+    }
+  ]
+}
