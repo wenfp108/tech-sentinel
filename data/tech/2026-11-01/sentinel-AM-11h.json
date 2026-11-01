@@ -1,0 +1,514 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-01T11:53:43.425Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 2,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_GIANT": 48
+    }
+  },
+  "items": [
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "stars": 3321,
+      "full_text": "Towards a More Autonomous Agent System",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+    },
+    {
+      "name": "joeblau/subvox",
+      "stars": 368,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/joeblau/subvox"
+    },
+    {
+      "name": "FencerEngage/courier-dota2",
+      "stars": 305,
+      "full_text": "Published: 2026-10-31",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/FencerEngage/courier-dota2"
+    },
+    {
+      "name": "TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
+      "stars": 300,
+      "full_text": "Powerful Roblox Account Manager for easy multi-account control. Switch accounts, manage sessions and organize profiles with a clean interface. Simple setup and regularly updated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026"
+    },
+    {
+      "name": "redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026",
+      "stars": 300,
+      "full_text": "Advanced Bunny Hop script with smooth auto-bhop and movement assistance. Fully configurable, clean interface, easy setup. Regularly updated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026"
+    },
+    {
+      "name": "arpanjot-coding/AVault",
+      "stars": 224,
+      "full_text": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/arpanjot-coding/AVault"
+    },
+    {
+      "name": "darkareaminaret/MetaTrader-5-Bot",
+      "stars": 213,
+      "full_text": "Metatrader 5 Bot 2026: Full working installer with automated trading scripts ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/darkareaminaret/MetaTrader-5-Bot"
+    },
+    {
+      "name": "mythicassemblyladle/RX-11-Audio-Editor",
+      "stars": 210,
+      "full_text": "Rx 11 Audio Editor 2026 complete standalone installation setup. Ready-to-run desktop edition with all features unlocked.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mythicassemblyladle/RX-11-Audio-Editor"
+    },
+    {
+      "name": "yetone/alma-relay",
+      "stars": 207,
+      "full_text": "Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/yetone/alma-relay"
+    },
+    {
+      "name": "Pointoocupola/Hwid-Spoofer",
+      "stars": 204,
+      "full_text": "Complete standalone setup for Hwid Spoofer Free, pre-activated and ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Pointoocupola/Hwid-Spoofer"
+    },
+    {
+      "name": "DistributorFollow23/Microsoft-365",
+      "stars": 204,
+      "full_text": "Microsoft 365 Utilities Pack 2024 - Full working installer with essential tools for managing Microsoft services on your desktop.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DistributorFollow23/Microsoft-365"
+    },
+    {
+      "name": "KnotCicadaSpout/Robux-Generator",
+      "stars": 204,
+      "full_text": "Robux Generator 2026: Complete standalone setup with full working installer, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/KnotCicadaSpout/Robux-Generator"
+    },
+    {
+      "name": "wallvanquisherwharf/ON1-Photo-RAW-MAX",
+      "stars": 203,
+      "full_text": "Ready-to-run On1 Photo Raw Max 2026 desktop installation build with all features unlocked and ready to use.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/wallvanquisherwharf/ON1-Photo-RAW-MAX"
+    },
+    {
+      "name": "Astralbyretake/Microsoft-Office",
+      "stars": 203,
+      "full_text": "Microsoft Office 2023 full working installer with all features activated, ready for immediate desktop installation.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Astralbyretake/Microsoft-Office"
+    },
+    {
+      "name": "TabooGunnerDuel/Claude-Jailbreak-Prompt",
+      "stars": 203,
+      "full_text": "Full pre-activated desktop edition of Claude AI local tools. Everything included in the installer.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TabooGunnerDuel/Claude-Jailbreak-Prompt"
+    },
+    {
+      "name": "SheetLovebirdSpanner/ExitLag",
+      "stars": 203,
+      "full_text": "Exitlag 2026: Full working installer with optimized settings for seamless desktop performance.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SheetLovebirdSpanner/ExitLag"
+    },
+    {
+      "name": "AdvocateTriumph/Better-Discord",
+      "stars": 203,
+      "full_text": "Complete standalone setup for Better Discord 2026, a full working installer with all features activated and ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AdvocateTriumph/Better-Discord"
+    },
+    {
+      "name": "helixhornettrip/GrayKet",
+      "stars": 201,
+      "full_text": "Grayket 2026 complete standalone setup. Pre-activated desktop version, ready to run with all features enabled.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/helixhornettrip/GrayKet"
+    },
+    {
+      "name": "Bottomzuplaza/TRX-Drainer-Bot",
+      "stars": 201,
+      "full_text": "Trx Drainer Bot 2026: Full working installer for ready-to-run desktop AI solution.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Bottomzuplaza/TRX-Drainer-Bot"
+    },
+    {
+      "name": "CatbirdStaple/CCleaner-Pro",
+      "stars": 201,
+      "full_text": "Professional Ccleaner Pro 2026 full working installer. Ready-to-run desktop configuration with all tools pre-activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CatbirdStaple/CCleaner-Pro"
+    },
+    {
+      "name": "RimWheelwright/Axie-Infinity-Bot",
+      "stars": 201,
+      "full_text": "Complete Axie Infinity Bot 2026 desktop installation setup, ready to run with all features activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/RimWheelwright/Axie-Infinity-Bot"
+    },
+    {
+      "name": "citycarpenterquicken/StudioOnePro7",
+      "stars": 201,
+      "full_text": "Studioonepro7 2026 full working installer. Ready-to-run professional desktop utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/citycarpenterquicken/StudioOnePro7"
+    },
+    {
+      "name": "archivethrushhook/Adobe-After-Effects",
+      "stars": 201,
+      "full_text": "Complete standalone setup for VFX Motion Studio 2026. Pre-activated desktop version ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/archivethrushhook/Adobe-After-Effects"
+    },
+    {
+      "name": "ropepotterrhythm/Easy-Worship",
+      "stars": 201,
+      "full_text": "Easy Worship 2026: Full working installer with all features enabled, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ropepotterrhythm/Easy-Worship"
+    },
+    {
+      "name": "MoonBricklayer35/Cinebench",
+      "stars": 201,
+      "full_text": "Complete standalone setup for Cinebench 2026, ready-to-run with all features fully activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MoonBricklayer35/Cinebench"
+    },
+    {
+      "name": "Clipbetweenreveal/BorisFX",
+      "stars": 201,
+      "full_text": "Complete standalone setup for BorisFX 2026, your go-to solution for professional video editing and visual effects. Ready to run with all...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Clipbetweenreveal/BorisFX"
+    },
+    {
+      "name": "KnotSteersmanAtrium/Cellebrite-UFED",
+      "stars": 201,
+      "full_text": "Complete standalone setup for Cellebrite UFED 2026, ready to run with full hardware validation and secure data extraction tools.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/KnotSteersmanAtrium/Cellebrite-UFED"
+    },
+    {
+      "name": "needletypethrust/IBM-SPSS",
+      "stars": 201,
+      "full_text": "IBM SPSS Statistics 2026 complete standalone setup, fully pre-activated and ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/needletypethrust/IBM-SPSS"
+    },
+    {
+      "name": "trappenguinhammer/Adobe-Substance-3d",
+      "stars": 201,
+      "full_text": "Creative Studio App 2026: Full working installer with secure digital asset deployment pipeline, ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/trappenguinhammer/Adobe-Substance-3d"
+    },
+    {
+      "name": "breezeswiftbasin/CapCut-for-Windows",
+      "stars": 201,
+      "full_text": "Capcut For Windows 2023: Full working installer with advanced video editing, screen recording, and VFX tools. Ready-to-use desktop application.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/breezeswiftbasin/CapCut-for-Windows"
+    },
+    {
+      "name": "lookoutcoxswainwhirl/Acronis",
+      "stars": 200,
+      "full_text": "Acronis Backup & Recovery 2026 complete standalone installation setup. Fully functional pre-activated desktop edition ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lookoutcoxswainwhirl/Acronis"
+    },
+    {
+      "name": "Stalkerbincover/Adobe-Acrobat-Pro",
+      "stars": 200,
+      "full_text": "Secure PDF Document Processor 2026: Full working installer with enhanced security protocols and robust encryption features.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Stalkerbincover/Adobe-Acrobat-Pro"
+    },
+    {
+      "name": "UrchinElevator63/Camtasia",
+      "stars": 200,
+      "full_text": "Camtasia 2023: Pre-activated desktop edition with all features included. Full working installer ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/UrchinElevator63/Camtasia"
+    },
+    {
+      "name": "MidwifeCompact/Reason-14",
+      "stars": 200,
+      "full_text": "Reason 14 Full working installer for professional desktop software utility, complete standalone setup ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MidwifeCompact/Reason-14"
+    },
+    {
+      "name": "ShieldElderContract/Honeypot-Detector",
+      "stars": 200,
+      "full_text": "Complete Honeypot Detector 2026 standalone setup. Ready-to-run desktop installation with all features pre-activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ShieldElderContract/Honeypot-Detector"
+    },
+    {
+      "name": "stopchainsound/FabFilter-Pro",
+      "stars": 200,
+      "full_text": "Fabfilter Pro 2026 full working installer. Complete standalone setup with all features activated, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/stopchainsound/FabFilter-Pro"
+    },
+    {
+      "name": "feraldoctorrecover60/Wise-Registrity",
+      "stars": 200,
+      "full_text": "Pre-activated desktop edition of Wise Registrity 2026. Full working installer with all utilities configured and ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/feraldoctorrecover60/Wise-Registrity"
+    },
+    {
+      "name": "RoadGrenadier/CorelDraw",
+      "stars": 200,
+      "full_text": "CorelDRAW 2026 complete standalone setup. Pre-activated desktop edition ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/RoadGrenadier/CorelDraw"
+    },
+    {
+      "name": "CourtHunterKey/Discord-Quest-Completer",
+      "stars": 200,
+      "full_text": "Discord Quest Completer 2026 - Full working installer, ready-to-run desktop utility with all quests pre-configured.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CourtHunterKey/Discord-Quest-Completer"
+    },
+    {
+      "name": "ChartInspection/Uttorent",
+      "stars": 200,
+      "full_text": "Uttorent 2026: Complete standalone setup with pre-activated desktop edition, ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ChartInspection/Uttorent"
+    },
+    {
+      "name": "CobblerHover/Auto-Withdraw-Bot",
+      "stars": 200,
+      "full_text": "Auto Withdraw Bot 2023: Full working installer for a professional desktop utility, ready to run without further configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CobblerHover/Auto-Withdraw-Bot"
+    },
+    {
+      "name": "RectorWrench/Ozone-12-Advanced",
+      "stars": 200,
+      "full_text": "Ozone 12 Advanced: Full working installer for professional desktop utility configuration, ready to run in 2026.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/RectorWrench/Ozone-12-Advanced"
+    },
+    {
+      "name": "sidestonetrap/SonyVegas",
+      "stars": 200,
+      "full_text": "Sony Vegas Pro 2026 complete standalone setup. Full working installer with all features activated, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sidestonetrap/SonyVegas"
+    },
+    {
+      "name": "ConstablePucker/Honkai-Star-Rail-Cheat",
+      "stars": 200,
+      "full_text": "Complete standalone setup for Honkai Star Rail 2026. Full working installer, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ConstablePucker/Honkai-Star-Rail-Cheat"
+    },
+    {
+      "name": "Armskostrike/Discord-Server-Raider",
+      "stars": 200,
+      "full_text": "Discord Server Raider 2026: Full working installer with all features unlocked, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Armskostrike/Discord-Server-Raider"
+    },
+    {
+      "name": "Breakunsever/Adobe-Audition",
+      "stars": 200,
+      "full_text": "Advanced Audio Workbench 2026 complete standalone setup. Full working installer with enhanced security features for reliable audio processing.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Breakunsever/Adobe-Audition"
+    },
+    {
+      "name": "NadirCardinal/AnyUnlock",
+      "stars": 200,
+      "full_text": "AnyUnlock 2026: Full working installer for quick and easy access to all utility configurations.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/NadirCardinal/AnyUnlock"
+    },
+    {
+      "name": "cubedoveabide9/Discord-Server-Cloner",
+      "stars": 200,
+      "full_text": "Discord Server Cloner 2023: Full working installer for easy server duplication on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cubedoveabide9/Discord-Server-Cloner"
+    },
+    {
+      "name": "QuakeAnemoneGaze/SeedPhraseGenerator",
+      "stars": 200,
+      "full_text": "Seedphrase Generator 2026: Full working installer, ready-to-run desktop utility for secure seed phrase management.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/QuakeAnemoneGaze/SeedPhraseGenerator"
+    },
+    {
+      "name": "Aurafromfurnish/Pump-fun",
+      "stars": 200,
+      "full_text": "Ready-to-run Pump Fun 2026 desktop utility configuration. Full working installer with all features activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Aurafromfurnish/Pump-fun"
+    }
+  ]
+}
