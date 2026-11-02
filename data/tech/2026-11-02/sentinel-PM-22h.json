@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-02T22:33:05.562Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "VIRAL_GIANT": 9,
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_UNCATEGORIZED": 35,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "caru-ini/stack-diagram",
+      "stars": 932,
+      "full_text": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/caru-ini/stack-diagram"
+    },
+    {
+      "name": "Balanov/uncut",
+      "stars": 540,
+      "full_text": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Balanov/uncut"
+    },
+    {
+      "name": "AssassinCreator/steam-stash-value-report-card",
+      "stars": 491,
+      "full_text": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card"
+    },
+    {
+      "name": "wideeyededi/uncensored-nsfw-ai-video-api",
+      "stars": 415,
+      "full_text": "Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-video / image-to-video: async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分计费、接入指南。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api"
+    },
+    {
+      "name": "Gezine/CivSwitch",
+      "stars": 408,
+      "full_text": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Gezine/CivSwitch"
+    },
+    {
+      "name": "mromidev/claude-animated-shorts",
+      "stars": 400,
+      "full_text": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mromidev/claude-animated-shorts"
+    },
+    {
+      "name": "mylea1/phongent",
+      "stars": 304,
+      "full_text": "基于 Mika 的 iOS / Android 多设备 agent 主控与安卓执行端",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mylea1/phongent"
+    },
+    {
+      "name": "maxwilsoneng2098t9/pdf-compressor-offline",
+      "stars": 300,
+      "full_text": "Offline PDF compressor for Windows 2026. Reduce PDF file size up to 90% with minimal quality loss. Supports batch mode, drag & drop and works without internet connection.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/maxwilsoneng2098t9/pdf-compressor-offline"
+    },
+    {
+      "name": "dankumarlab2090u1/minecraft-hack-menu-2026",
+      "stars": 300,
+      "full_text": "Minecraft Hack Menu 2026 — Powerful utility mod for 1.21.4 Fabric. KillAura, ESP, XRay, Flight, Scaffold, Crystal Aura and 150+ modules. Easy install, working November 2026.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dankumarlab2090u1/minecraft-hack-menu-2026"
+    },
+    {
+      "name": "nikita-s-x2001x7/photo-converter",
+      "stars": 300,
+      "full_text": "Photo Converter Pro 2026 – Fast and powerful image converter for Windows. Convert JPG, PNG, WEBP, BMP, TIFF and more. Batch processing, high quality and easy to use.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/nikita-s-x2001x7/photo-converter"
+    },
+    {
+      "name": "davidlopez-x05x8/minecraft-aim-assist",
+      "stars": 300,
+      "full_text": "Minecraft Aim Assist 2026 — Smooth aiming assistance for 1.21.4 Fabric. Adaptive tracking, customizable FOV, visibility check and clean UI. Easy install, regularly updated",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/davidlopez-x05x8/minecraft-aim-assist"
+    },
+    {
+      "name": "sleepy-zone/char-db-cn",
+      "stars": 279,
+      "full_text": "二次元角色换装库 · 中文版（发型 / 服装 / 姿势 / 组装）",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sleepy-zone/char-db-cn"
+    },
+    {
+      "name": "tubbydistrib/stake-monthly-bonus",
+      "stars": 193,
+      "full_text": "Stake monthly bonus explained: how the VIP reward is calculated, why reloads expire in 5 days, and how to check real value with an EV model.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tubbydistrib/stake-monthly-bonus"
+    },
+    {
+      "name": "elhajahmadj/offline-emergency-library",
+      "stars": 112,
+      "full_text": "One command downloads a complete offline, no-internet emergency library: local AI (CPU/GPU), document Q&A, full Wikipedia, offline maps for any country/region (default US), survival/repair/medical archives, and public-domain manuals. Asks only where to save.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/elhajahmadj/offline-emergency-library"
+    }
+  ]
+}
