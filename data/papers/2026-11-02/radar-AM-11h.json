@@ -1,0 +1,297 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-02T11:57:31.636Z",
+    "total_captured": 18,
+    "TRENDING_DIRECTIONS": [
+      "Task (project management) (Heat:36)",
+      "Set (abstract data type) (Heat:35)",
+      "Binary number (Heat:28)",
+      "Inpainting (Heat:22)",
+      "Pixel (Heat:22)"
+    ],
+    "strategy_summary": {
+      "AI_CORE": 3,
+      "BIO_REVOLUTION": 12,
+      "STRATEGIC_ENERGY": 2,
+      "NEXT_COMPUTING": 3,
+      "SPACE_DEFENSE": 1,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Inst-Inpaint: Instructing to Remove Objects with Diffusion Models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "International Journal of Computer Vision",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s11263-026-03110-9.pdf",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-10-26"
+    },
+    {
+      "title": "Estimating the marginal likelihood with Integrated nested Laplace approximation (INLA)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.68365/jrepstat.2026.9",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-10-26"
+    },
+    {
+      "title": "The Repair Saturates the Gate: Context Noise as a Degeneracy Diagnostic",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23685276",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-10-27"
+    },
+    {
+      "title": "The cultural origins of the demographic transition in France",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "The Economic Journal",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://academic.oup.com/ej/advance-article-pdf/doi/10.1093/ej/ueag140/72621486/ueag140.pdf",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-10-29"
+    },
+    {
+      "title": "Phylogenomics of Cypriniformes, the most diverse order of freshwater fishes: consensus, challenges and limitations",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Molecular Biology and Evolution",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://academic.oup.com/mbe/advance-article-pdf/doi/10.1093/molbev/msag261/72519525/msag261.pdf",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-10-26"
+    },
+    {
+      "title": "Entropy–Enthalpy Compensation in Electrocatalytic Rates",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACS Catalysis",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://pubs.acs.org/accacs/article-pdf/doi/10.1021/acscatal.6c05402/69028539/cs-2026-05402e.pdf",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-10-29"
+    },
+    {
+      "title": "Ultrasound neuromodulation hypotheses on the directionality of effects and community resource",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "eLife",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.7554/elife.100827.4",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "Foundations of Mathematics: An Introduction to Generative History Theory (GHT)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23662771",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-10-26"
+    },
+    {
+      "title": "Practical limitations on robustness and scalability of quantum Internet",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Quantum Information Processing",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s11128-026-05312-z.pdf",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "DICTO Janus c/h Pyrochlore",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23678750",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-27"
+    },
+    {
+      "title": "Running an Autonomous AI Agent on Quantitative Trading Research: Protocol, Supervision and Failure Modes",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Figshare",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.6084/m9.figshare.34781541",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-26"
+    },
+    {
+      "title": "The Frohmanian Symplectic Tether: Canonical Uniqueness on Coadjoint Orbits of SDiff(T3), Non-Degenerate Casimir Coupling, and Conditional Global Regularity via Quartic Young Absorption in Lean 4",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23652842",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-26"
+    },
+    {
+      "title": "Formalizing Fefferman's Official Periodic Navier-Stokes Problem (B) in Lean 4: Global Linear Strain Exclusion on T3, Biot-Savart Direction Depletion Identities, and Conditional Reductions via Beale-Kato-Majda",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23652840",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-26"
+    },
+    {
+      "title": "How Wise Is the Crowd? Timing and Selection Skill of Retail Social-Trading Portfolios",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Figshare",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.6084/m9.figshare.34781523",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-26"
+    },
+    {
+      "title": "Three Pre-Registered Bets: A One-Shot Out-of-Sample Test of Retail Strategy Candidates",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Figshare",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.6084/m9.figshare.34781529",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-26"
+    },
+    {
+      "title": "Fixation probabilities as absorption limits of matrix powers, kernel-checked: neutral Wright-Fisher, the Moran model with selection, the Price equation, and a fail-closed CVODE certificate",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23653849",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-26"
+    },
+    {
+      "title": "The Sandier-Serfaty triangular-lattice conjecture: an independent reproduction of a claimed finite certificate, an adversarial audit of the claimed reduction, and a Lean statement (no proof of the conjecture is claimed)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23653826",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-10-26"
+    },
+    {
+      "title": "Concentrating Solar Fuels Roadmap: Final report. Towards sustainable energy",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "CSIRO",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.25919/rfhx-ma62",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-10-28"
+    }
+  ]
+}

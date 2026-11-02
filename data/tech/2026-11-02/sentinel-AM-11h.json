@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-02T11:57:30.208Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "VIRAL_GIANT": 27,
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_UNCATEGORIZED": 12,
+      "KNOWLEDGE_BASE": 2,
+      "TALENT_GROWTH": 2,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "caru-ini/stack-diagram",
+      "stars": 525,
+      "full_text": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/caru-ini/stack-diagram"
+    },
+    {
+      "name": "CheetahEstimate/KMS-Pico",
+      "stars": 401,
+      "full_text": "Kms Pico Free 2026 - Complete standalone setup with full working installer, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CheetahEstimate/KMS-Pico"
+    },
+    {
+      "name": "Gezine/CivSwitch",
+      "stars": 335,
+      "full_text": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Gezine/CivSwitch"
+    },
+    {
+      "name": "Balanov/uncut",
+      "stars": 310,
+      "full_text": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Balanov/uncut"
+    },
+    {
+      "name": "Speedzyaminaret/UnlockTool",
+      "stars": 308,
+      "full_text": "Unlocktool 2026: Full working installer for professional desktop configuration utility, ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Speedzyaminaret/UnlockTool"
+    },
+    {
+      "name": "RouteMonarch/FRP-Unlock-Tool",
+      "stars": 300,
+      "full_text": "Complete standalone setup for Frp Unlock Tool 2026. Pre-activated desktop edition ready to run with all features enabled.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/RouteMonarch/FRP-Unlock-Tool"
+    },
+    {
+      "name": "armslocksmithamplify/PassFab-Unlocker",
+      "stars": 300,
+      "full_text": "Passfab Unlocker 2026 - Full working installer, ready-to-run desktop utility for password recovery and management.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/armslocksmithamplify/PassFab-Unlocker"
+    },
+    {
+      "name": "brighttortoiseday/Foneazy-Mobile",
+      "stars": 300,
+      "full_text": "Pre-activated desktop edition of Foneazy Mobile 2026. Complete standalone setup ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/brighttortoiseday/Foneazy-Mobile"
+    },
+    {
+      "name": "innershapepergola/IFunBox",
+      "stars": 300,
+      "full_text": "Complete standalone setup for Ifunbox 2026. Ready-to-run installation with all features unlocked.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/innershapepergola/IFunBox"
+    },
+    {
+      "name": "dankumarlab2090u1/minecraft-hack-menu-2026",
+      "stars": 300,
+      "full_text": "Minecraft Hack Menu 2026 — Powerful utility mod for 1.21.4 Fabric. KillAura, ESP, XRay, Flight, Scaffold, Crystal Aura and 150+ modules. Easy install, working November 2026.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dankumarlab2090u1/minecraft-hack-menu-2026"
+    },
+    {
+      "name": "Clampiaspiral/Scrcpy",
+      "stars": 300,
+      "full_text": "Scrcpy 2026: Full working installer for seamless Android device screen mirroring on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Clampiaspiral/Scrcpy"
+    },
+    {
+      "name": "glossnodeengage/Android-Unlocker",
+      "stars": 300,
+      "full_text": "Android Unlocker 2026: Full working installer with complete standalone setup, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/glossnodeengage/Android-Unlocker"
+    },
+    {
+      "name": "nikita-s-x2001x7/photo-converter",
+      "stars": 300,
+      "full_text": "Photo Converter Pro 2026 – Fast and powerful image converter for Windows. Convert JPG, PNG, WEBP, BMP, TIFF and more. Batch processing, high quality and easy to use.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/nikita-s-x2001x7/photo-converter"
+    },
+    {
+      "name": "tubbydistrib/stake-monthly-bonus",
+      "stars": 283,
+      "full_text": "Stake monthly bonus explained: how the VIP reward is calculated, why reloads expire in 5 days, and how to check real value with an EV model.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tubbydistrib/stake-monthly-bonus"
+    },
+    {
+      "name": "mylea1/phongent",
+      "stars": 219,
+      "full_text": "基于 Mika 的 iOS / Android 多设备 agent 主控与安卓执行端",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mylea1/phongent"
+    },
+    {
+      "name": "mromidev/claude-animated-shorts",
+      "stars": 215,
+      "full_text": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mromidev/claude-animated-shorts"
+    },
+    {
+      "name": "ConsciousnessVision/Touch-Copy",
+      "stars": 201,
+      "full_text": "Touch Copy 2026: Full working installer with enhanced copy-paste functionality and improved user interface.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ConsciousnessVision/Touch-Copy"
+    },
+    {
+      "name": "GuardSupporter/Dr.Fone-Unlock",
+      "stars": 201,
+      "full_text": "Dr.Fone Unlock 2026, a complete standalone setup ready to run, providing full functionality with no need for activation.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/GuardSupporter/Dr.Fone-Unlock"
+    },
+    {
+      "name": "Upgradekrodefeat30/DFT-Pro",
+      "stars": 200,
+      "full_text": "Complete standalone setup for Dft Pro 2026. Pre-activated desktop edition ready to run with all features included.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Upgradekrodefeat30/DFT-Pro"
+    },
+    {
+      "name": "KindPurify64/FonePaw-Unlocker",
+      "stars": 200,
+      "full_text": "Complete standalone setup for Fonepaw Unlocker 2026. Full working installer with all features pre-activated, ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/KindPurify64/FonePaw-Unlocker"
+    },
+    {
+      "name": "MetropolisMist/UnlockGo",
+      "stars": 200,
+      "full_text": "Unlockgo 2026 - Pre-activated desktop edition with full working installer, ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MetropolisMist/UnlockGo"
+    },
+    {
+      "name": "Rewindlespin/Aiseesoft-Unlocker",
+      "stars": 200,
+      "full_text": "Pre-activated desktop edition of Aiseesoft Unlocker 2026. Full working installer for easy setup.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Rewindlespin/Aiseesoft-Unlocker"
+    },
+    {
+      "name": "IllusionistGallery/iMobie-AnyTrans",
+      "stars": 200,
+      "full_text": "Imobie Anytrans 2026 complete standalone setup. Fully functional and ready to run with all features activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/IllusionistGallery/iMobie-AnyTrans"
+    },
+    {
+      "name": "Weightatstart/iMyFone",
+      "stars": 200,
+      "full_text": "Imyfone Desktop Utility 2023: Full working installer with all features pre-activated, ready for immediate use.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Weightatstart/iMyFone"
+    },
+    {
+      "name": "SolicitorGate/Chimera",
+      "stars": 200,
+      "full_text": "Chimera 2026: Full working installer with all utilities pre-configured and ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SolicitorGate/Chimera"
+    },
+    {
+      "name": "Fusenamoon77/SP-Flash-Tool",
+      "stars": 200,
+      "full_text": "Sp Flash Tool 2026: Complete standalone setup with all necessary drivers and utilities for efficient firmware flashing.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Fusenamoon77/SP-Flash-Tool"
+    },
+    {
+      "name": "PlumeVeteran/Tenorshare-4uKey",
+      "stars": 200,
+      "full_text": "Tenorshare 4Ukey 2026 - Full working installer for easy recovery and management of lost product keys.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PlumeVeteran/Tenorshare-4uKey"
+    },
+    {
+      "name": "SpringLadyDivide/IOS-Unlocker",
+      "stars": 200,
+      "full_text": "iOS Unlocker 2026: Full working installer for effortless device unlocking on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SpringLadyDivide/IOS-Unlocker"
+    },
+    {
+      "name": "Poltergeistzuplan/UltFone-Unlocker",
+      "stars": 200,
+      "full_text": "Ultfone Unlocker 2023: Full working installer with all tools pre-configured for immediate use on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Poltergeistzuplan/UltFone-Unlocker"
+    },
+    {
+      "name": "MeshSocialLift/FoneTrans",
+      "stars": 200,
+      "full_text": "Complete standalone setup for Fonetrans 2026, a professional desktop software utility configuration. Ready-to-run full working installer...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MeshSocialLift/FoneTrans"
+    },
+    {
+      "name": "elhajahmadj/offline-emergency-library",
+      "stars": 99,
+      "full_text": "One command downloads a complete offline, no-internet emergency library: local AI (CPU/GPU), document Q&A, full Wikipedia, offline maps for any country/region (default US), survival/repair/medical archives, and public-domain manuals. Asks only where to save.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/elhajahmadj/offline-emergency-library"
+    },
+    {
+      "name": "FapCraft-Remastered/fapcraft-remastered",
+      "stars": 73,
+      "full_text": "Unofficial FapCraft (Jenny Mod) remaster for Forge 1.18 - 1.21.11. Upgraded NPC AI, new character models, and expanded interactions.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/FapCraft-Remastered/fapcraft-remastered"
+    },
+    {
+      "name": "ravencaio/tlou-remastered-pc",
+      "stars": 46,
+      "full_text": "Native Windows PC port of The Last of Us Remastered (PS4, CUSA00552). Runs the game’s own x86-64 code on a custom runtime, with PS4 system libraries reimplemented and a Vulkan renderer based on shadPS4. Includes a launcher. No game files included: you need your own copy.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ravencaio/tlou-remastered-pc"
+    }
+  ]
+}
