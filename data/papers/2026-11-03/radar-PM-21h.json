@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-03T21:28:30.706Z",
+    "total_captured": 18,
+    "TRENDING_DIRECTIONS": [
+      "Gene (Heat:75)",
+      "Gene expression (Heat:43)",
+      "Archaea (Heat:38)",
+      "Simple (philosophy) (Heat:38)",
+      "Bacteria (Heat:38)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 13,
+      "AI_CORE": 3,
+      "PARADIGM_SHIFT": 3,
+      "NEXT_COMPUTING": 3,
+      "STRATEGIC_ENERGY": 1,
+      "SPACE_DEFENSE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Eukaryotes’ closest relatives are internally simple syntrophic peptidotrophic archaea",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 37,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41586-026-11170-7",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "Rare and common genetic variants shape single-cell immune gene expression",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41586-026-10721-2",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "Tandem repeat variation shapes immune cell type-specific gene expression",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1101/2024.11.02.621562",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "MCT1-dependent mitochondrial lactate import sustains cardiac metabolism",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.1038/s41586-026-11182-3",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "Connectome simulations identify a central pattern generator for fly walking",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1101/2025.09.12.675944",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "A Scalable Workflow for Extracting Species Interactions From Ecological Literature Using Large Language Models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Ecology and Evolution",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.74626",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-10-27"
+    },
+    {
+      "title": "FLAb2: Benchmarking reveals that protein AI models cannot yet consistently predict developability properties",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Patterns",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1016/j.patter.2026.101713",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-11-01"
+    },
+    {
+      "title": "Application of long short-term memory and convolutional neural networks for real-time bridge pier scour prediction",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Machine Learning and Data Science in Geotechnics",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.emerald.com/mlag/article-pdf/2/1/204/11942223/mlag-02-2026-0003en.pdf",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-10-30"
+    },
+    {
+      "title": "The Repair Saturates the Gate: Context Noise as a Degeneracy Diagnostic",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23685276",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-10-27"
+    },
+    {
+      "title": "The cultural origins of the demographic transition in France",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "The Economic Journal",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://academic.oup.com/ej/advance-article-pdf/doi/10.1093/ej/ueag140/72621486/ueag140.pdf",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-10-29"
+    },
+    {
+      "title": "Defining and measuring proximity to criticality based on univariate time series",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1073/pnas.2526984123",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "The efficiency of information gain by natural selection",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1073/pnas.2611968123",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-10-29"
+    },
+    {
+      "title": "The Impact of Ants and Vertebrate Predators on Arthropods and Plants: A Meta‐Analysis",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Ecology and Evolution",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.74527",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "Learning optimized sampling patterns for accelerated MRI reconstruction via diffusion models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of medical imaging",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13715940/",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "Anterior cingulate neurons perform parallel processing of fixated and peripheral information to guide information sampling and choice",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Communications",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.1038/s41467-026-78945-4",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-11-02"
+    },
+    {
+      "title": "Planetary-scale metagenomic analysis reveals CRISPR targeting dynamics across ecosystems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Microbiology",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41564-026-02480-7.pdf",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-10-29"
+    },
+    {
+      "title": "Survey of the human proteostasis network: the ubiquitin-proteasome system",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Autophagy",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/15548627.2026.2741092?needAccess=true",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-10-29"
+    },
+    {
+      "title": "Fulfillment by Platform: Competition and Upstream Market Power",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Operations Research",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.2139/ssrn.3859573",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-10-27"
+    }
+  ]
+}
