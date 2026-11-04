@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-04T21:39:35.234Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 4,
+      "VIRAL_GIANT": 8,
+      "CORE_PRAGMATISM": 2,
+      "TALENT_GROWTH": 1,
+      "VIRAL_UNCATEGORIZED": 35,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "stars": 2046,
+      "full_text": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/KKKKhazix/agent-autoloop"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "stars": 1037,
+      "full_text": "Entire MacOS running in your terminal.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/govijr/terminal-mac"
+    },
+    {
+      "name": "Minireel/HGhub",
+      "stars": 518,
+      "full_text": "YellowFruit third-party client",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Minireel/HGhub"
+    },
+    {
+      "name": "Chipwithinflash/watson-AI-osint-all-in-one",
+      "stars": 496,
+      "full_text": "Free OSINT search tool for Windows. 3100+ sources, one field, no terminal.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Chipwithinflash/watson-AI-osint-all-in-one"
+    },
+    {
+      "name": "brightsongwrath/personal-data-deletor-osint",
+      "stars": 432,
+      "full_text": "Ask 970 data brokers to delete your data. Free, local, no account, no server.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/brightsongwrath/personal-data-deletor-osint"
+    },
+    {
+      "name": "andrew-babo/muse4ai",
+      "stars": 387,
+      "full_text": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/andrew-babo/muse4ai"
+    },
+    {
+      "name": "PatchBuilderAmplify/stolen-crypto-tracer",
+      "stars": 312,
+      "full_text": "Paste a wallet or a transaction hash and follow stolen crypto to the exchange that can freeze it. Works across Bitcoin, Ethereum, TRON, BNB Chain and Solana. One-click report.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer"
+    },
+    {
+      "name": "Lostuaexpand/windows-animated-wallpapers",
+      "stars": 300,
+      "full_text": "High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS animations, low CPU usage, 4K support. Open-source and portable",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Lostuaexpand/windows-animated-wallpapers"
+    },
+    {
+      "name": "DeltaProviderGuide/auto-auction-bot-wow-forever",
+      "stars": 249,
+      "full_text": "A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever"
+    },
+    {
+      "name": "Badgenyamultiplexer/pc-game-fps-doctor",
+      "stars": 244,
+      "full_text": "One button: why the game stutters, why it lags and why it won't start. Pitstop measures with PresentMon, explains in plain words, fixes Windows only, and undoes every change in one click.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Badgenyamultiplexer/pc-game-fps-doctor"
+    },
+    {
+      "name": "StormSkinkGrip/game-ping-multipath-router",
+      "stars": 239,
+      "full_text": "Shortcut races your normal route against faster ones to the game server, sends only the game down the winner, and sends every packet twice so loss never becomes a lag spike. Not a VPN.",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/StormSkinkGrip/game-ping-multipath-router"
+    },
+    {
+      "name": "Renly1994/xiaotang-daozai",
+      "stars": 229,
+      "full_text": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Renly1994/xiaotang-daozai"
+    },
+    {
+      "name": "capri-com/Capri-AI",
+      "stars": 119,
+      "full_text": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/capri-com/Capri-AI"
+    },
+    {
+      "name": "abouchedidxcode/open-source-hands",
+      "stars": 113,
+      "full_text": "Make webcam hand games in the browser, or point your coding agent here and have it make one. MediaPipe hand tracking + a gesture engine + a starter game + a playbook.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/abouchedidxcode/open-source-hands"
+    }
+  ]
+}

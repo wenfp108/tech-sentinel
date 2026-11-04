@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-04T21:39:37.076Z",
+    "total_captured": 29,
+    "TRENDING_DIRECTIONS": [
+      "Gene (Heat:78)",
+      "Gene expression (Heat:46)",
+      "Population (Heat:46)",
+      "Control (management) (Heat:43)",
+      "Generative grammar (Heat:40)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 21,
+      "PARADIGM_SHIFT": 7,
+      "AI_CORE": 8,
+      "NEXT_COMPUTING": 5,
+      "STRATEGIC_ENERGY": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Eukaryotes’ closest relatives are internally simple syntrophic peptidotrophic archaea",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 38,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41586-026-11170-7",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "Rare and common genetic variants shape single-cell immune gene expression",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 30,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41586-026-10721-2",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "Connectome simulations identify a central pattern generator for fly walking",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1101/2025.09.12.675944",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "Tandem repeat variation shapes immune cell type-specific gene expression",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1101/2024.11.02.621562",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "MCT1-dependent mitochondrial lactate import sustains cardiac metabolism",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.1038/s41586-026-11182-3",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "Population-scale single-nucleus multi-omic profiling of skeletal muscle reveals extensive context-specific genetic regulation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Genetics",
+      "metrics": {
+        "citations": 22,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1101/2023.12.15.571696",
+      "reason": "Velocity: 22 citations",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "Integrated manufacturing platform for cortical organoids reveals early phosphatase and prefoldin dysregulation in MAPT V337M neurons",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "npj Dementia",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s44400-026-00147-y",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-11-03"
+    },
+    {
+      "title": "Dark Energy Survey year 6 results: Cosmological constraints from galaxy clustering and weak lensing",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical review. D/Physical review. D.",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2601.14559",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-11-02"
+    },
+    {
+      "title": "Supervising the search process produces reliable and generalizable information-seeking agents",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Communications",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41467-026-78807-z_reference.pdf",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "FLAb2: Benchmarking reveals that protein AI models cannot yet consistently predict developability properties",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Patterns",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1016/j.patter.2026.101713",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-11-01"
+    },
+    {
+      "title": "Defining and measuring proximity to criticality based on univariate time series",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1073/pnas.2526984123",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "A Survey of LLM-based Software Repair: Taxonomies, Design Paradigms, and Applications",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2506.23749",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-11-02"
+    },
+    {
+      "title": "From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Knowledge Discovery from Data",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2506.15170",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-10-29"
+    },
+    {
+      "title": "Generative assimilation and prediction for weather and climate",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "npj Climate and Atmospheric Science",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41612-026-01585-4.pdf",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-11-02"
+    },
+    {
+      "title": "Application of long short-term memory and convolutional neural networks for real-time bridge pier scour prediction",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Machine Learning and Data Science in Geotechnics",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.emerald.com/mlag/article-pdf/2/1/204/11942223/mlag-02-2026-0003en.pdf",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-10-30"
+    },
+    {
+      "title": "Learning optimized sampling patterns for accelerated MRI reconstruction via diffusion models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of medical imaging",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13715940/",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-10-28"
+    },
+    {
+      "title": "Reducing confirmation bias on controversial issues through LLM-generated multi-persona debates",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Information Processing & Management",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2412.04629",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-10-31"
+    },
+    {
+      "title": "Democratizing Optimization with Generative AI",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Operations Research",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.2139/ssrn.5511218",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-11-03"
+    },
+    {
+      "title": "The cultural origins of the demographic transition in France",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "The Economic Journal",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://academic.oup.com/ej/advance-article-pdf/doi/10.1093/ej/ueag140/72621486/ueag140.pdf",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-10-29"
+    },
+    {
+      "title": "A comprehensive survey on green blockchain: Developing the next generation of energy efficient and sustainable blockchain systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Sustainable Computing Informatics and Systems",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2210537926002143/pdf",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-10-29"
+    }
+  ]
+}
