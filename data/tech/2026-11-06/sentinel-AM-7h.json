@@ -1,0 +1,513 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-06T07:09:51.584Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 47,
+      "CORE_PRAGMATISM": 1,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "stars": 2279,
+      "full_text": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+    },
+    {
+      "name": "AtomIllusionistDwell/watson-username-footprint-finder",
+      "stars": 428,
+      "full_text": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder"
+    },
+    {
+      "name": "TagPhaseArcade/tiktok-uploader",
+      "stars": 426,
+      "full_text": "Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TagPhaseArcade/tiktok-uploader"
+    },
+    {
+      "name": "dragonwolfshovel/youtube-uploader",
+      "stars": 426,
+      "full_text": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dragonwolfshovel/youtube-uploader"
+    },
+    {
+      "name": "Lostuaexpand/windows-animated-wallpapers",
+      "stars": 426,
+      "full_text": "High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS animations, low CPU usage, 4K support. Open-source and portable",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Lostuaexpand/windows-animated-wallpapers"
+    },
+    {
+      "name": "DeltaProviderGuide/auto-auction-bot-wow-forever",
+      "stars": 422,
+      "full_text": "A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever"
+    },
+    {
+      "name": "MythicHokageRepel/steam-inventory-value-desktop",
+      "stars": 412,
+      "full_text": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop"
+    },
+    {
+      "name": "Wallbycontact/java-mod-rust-port-tool",
+      "stars": 408,
+      "full_text": "Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Wallbycontact/java-mod-rust-port-tool"
+    },
+    {
+      "name": "WoYun520/pixel-gif-sticker-pack",
+      "stars": 402,
+      "full_text": "A Codex skill for creating and verifying animated GIF sticker packs from character references.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WoYun520/pixel-gif-sticker-pack"
+    },
+    {
+      "name": "DawnShaperFrost90/slideshow-video-maker",
+      "stars": 400,
+      "full_text": "Slideshow Video Maker 2026: Complete standalone setup with all features unlocked and ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/DawnShaperFrost90/slideshow-video-maker"
+    },
+    {
+      "name": "MagpieDirect/imei-repair",
+      "stars": 400,
+      "full_text": "Free Imei Repair Tool 2023: Full working installer with all features activated, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MagpieDirect/imei-repair"
+    },
+    {
+      "name": "Nebularotunnel/Token-Sniper",
+      "stars": 391,
+      "full_text": "Advanced desktop analyzer for DEX activity. Monitors new liquidity pair creation, applies smart filters to detect potential scam and rugpull patterns, and provides real-time alerts. Clean interface, regularly updated",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Nebularotunnel/Token-Sniper"
+    },
+    {
+      "name": "ProsecutorBreed/portfolio-rebalancer",
+      "stars": 330,
+      "full_text": "Portfolio Rebalancer 2026: Full working installer with all tools and features ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ProsecutorBreed/portfolio-rebalancer"
+    },
+    {
+      "name": "beamechoinertia/fortnite-skin-swapper",
+      "stars": 330,
+      "full_text": "Fortnite Skin Swapper 2026 - Full working installer, ready-to-run desktop build with anti-ban system.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/beamechoinertia/fortnite-skin-swapper"
+    },
+    {
+      "name": "Surfacevicanopy/ifunbox",
+      "stars": 330,
+      "full_text": "Complete standalone setup for Ifunbox 2026. Ready-to-run desktop installation with all features pre-activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Surfacevicanopy/ifunbox"
+    },
+    {
+      "name": "SpyIllusionistRank/frp-unlock-tool",
+      "stars": 330,
+      "full_text": "Complete Frp Unlock Tool 2023 ready-to-run desktop installation build with all features unlocked.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SpyIllusionistRank/frp-unlock-tool"
+    },
+    {
+      "name": "AstralBursarProvide/fabfilter-total",
+      "stars": 330,
+      "full_text": "Fabfilter Total 2026: Full working installer with all features activated, ready for immediate desktop use.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AstralBursarProvide/fabfilter-total"
+    },
+    {
+      "name": "ToneCommanderWave/fabfilter-pro",
+      "stars": 330,
+      "full_text": "Fabfilter Pro 2026: Full working installer with all features activated, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ToneCommanderWave/fabfilter-pro"
+    },
+    {
+      "name": "PolishBitTweezers/serato-dj-pro",
+      "stars": 330,
+      "full_text": "Serato Dj Pro 2026 complete standalone setup. Ready-to-run, fully activated installation with all features included.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PolishBitTweezers/serato-dj-pro"
+    },
+    {
+      "name": "DenColonelWrinkle/ios-unlocker",
+      "stars": 304,
+      "full_text": "Complete standalone iOS Unlocker 2026 setup, ready to run with all features activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/DenColonelWrinkle/ios-unlocker"
+    },
+    {
+      "name": "Obsidiandruoversee/discord-quest-completer",
+      "stars": 302,
+      "full_text": "Discord Quest Completer 2026: Full working installer for easy desktop setup.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Obsidiandruoversee/discord-quest-completer"
+    },
+    {
+      "name": "Roninteeliminate/unlocktool",
+      "stars": 301,
+      "full_text": "Unlocktool 2026 - Full working installer with all features unlocked and ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Roninteeliminate/unlocktool"
+    },
+    {
+      "name": "ArenaSoldierPlay/microsoft-office",
+      "stars": 301,
+      "full_text": "Microsoft Office 2026 complete standalone installation setup. Pre-activated desktop edition ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ArenaSoldierPlay/microsoft-office"
+    },
+    {
+      "name": "SpiralVendorCure/imobie-anytrans",
+      "stars": 301,
+      "full_text": "Pre-activated desktop edition of Imobie Anytrans 2026 ready-to-run installation build.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SpiralVendorCure/imobie-anytrans"
+    },
+    {
+      "name": "driftcoralemporium/instagram-liker-bot",
+      "stars": 301,
+      "full_text": "Instagram Liker Bot 2023: Complete standalone setup with automated liking and following features, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/driftcoralemporium/instagram-liker-bot"
+    },
+    {
+      "name": "gripserpentmall64/atas-trading-bot",
+      "stars": 301,
+      "full_text": "Pre-configured Atas Trading Bot 2026, full working installer ready for desktop deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/gripserpentmall64/atas-trading-bot"
+    },
+    {
+      "name": "VectorLobsterBearing/landr-plugin-bundle",
+      "stars": 300,
+      "full_text": "Landr Plugin Bundle 2026: Full working installer with all essential plugins pre-installed and ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/VectorLobsterBearing/landr-plugin-bundle"
+    },
+    {
+      "name": "driveinspectorgrow/aida-64-extreme",
+      "stars": 300,
+      "full_text": "Ready-to-run desktop installation build of Aida 64 Extreme 2026. Full working installer with complete standalone setup, pre-activated for...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/driveinspectorgrow/aida-64-extreme"
+    },
+    {
+      "name": "Basinflaworship2/fl-studio",
+      "stars": 300,
+      "full_text": "Fl Studio 2026: Full working installer with all essential plugins and features, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Basinflaworship2/fl-studio"
+    },
+    {
+      "name": "MagicSoulAqueduct/passfab-unlocker",
+      "stars": 300,
+      "full_text": "Pre-activated desktop edition of Passfab Unlocker 2026. Complete standalone setup ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MagicSoulAqueduct/passfab-unlocker"
+    },
+    {
+      "name": "ZenithSeaman/discord-server-cloner",
+      "stars": 300,
+      "full_text": "Discord Server Cloner 2026 - Full working installer. Clone your Discord servers with ease using this complete standalone setup.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ZenithSeaman/discord-server-cloner"
+    },
+    {
+      "name": "PlumeParakeetRob/autodesk-inventor",
+      "stars": 300,
+      "full_text": "Autodesk Inventor Professional 2026 - Full working installer with all features pre-activated, ready for immediate desktop use.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PlumeParakeetRob/autodesk-inventor"
+    },
+    {
+      "name": "WyrmSpongeHaul/quant-trading-bot",
+      "stars": 300,
+      "full_text": "Quant Trading Bot 2026 - Full working installer with advanced trading algorithms, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WyrmSpongeHaul/quant-trading-bot"
+    },
+    {
+      "name": "DreamSwimmer/windows-optimizer",
+      "stars": 300,
+      "full_text": "Windows Optimizer 2026, a comprehensive tool for system cleanup and performance enhancement. Full working installer ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/DreamSwimmer/windows-optimizer"
+    },
+    {
+      "name": "PauseDirector27/touch-copy",
+      "stars": 300,
+      "full_text": "Touch Copy 2026: Complete standalone setup with all features pre-activated, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PauseDirector27/touch-copy"
+    },
+    {
+      "name": "RaikageRegard/foneazy-mobile",
+      "stars": 300,
+      "full_text": "Complete standalone setup for Foneazy Mobile 2023. Fully functional desktop installation ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/RaikageRegard/foneazy-mobile"
+    },
+    {
+      "name": "Convergedreladle79/aomei-backupper",
+      "stars": 300,
+      "full_text": "Pre-activated desktop edition of Aomei Backupper 2026. Complete standalone setup with all features ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Convergedreladle79/aomei-backupper"
+    },
+    {
+      "name": "ShoreSerpent/adobe-acrobat-pro",
+      "stars": 300,
+      "full_text": "Secure PDF Document Processor 2026: Complete standalone setup with robust encryption features for secure digital asset management.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ShoreSerpent/adobe-acrobat-pro"
+    },
+    {
+      "name": "BrightLeopardPop/catia-cad",
+      "stars": 300,
+      "full_text": "Complete Catia Cad 2026 standalone installation setup. Ready-to-run desktop version with all features pre-activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/BrightLeopardPop/catia-cad"
+    },
+    {
+      "name": "arcmotormanjudge/adobe-indesign",
+      "stars": 300,
+      "full_text": "Secure digital asset deployment pipeline 2026 complete standalone installation build. Ready-to-run full working installer with enhanced...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/arcmotormanjudge/adobe-indesign"
+    },
+    {
+      "name": "rivettypegap3/adobe-substance-3d",
+      "stars": 300,
+      "full_text": "Creative Studio App 2026: Full working installer with secure digital asset deployment pipeline. Ready-to-run desktop edition for seamless integration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rivettypegap3/adobe-substance-3d"
+    },
+    {
+      "name": "lacquerowldirect/ads-blocker",
+      "stars": 300,
+      "full_text": "Ads Blocker 2026 - Full working installer with enhanced ad filtering and user-friendly interface.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lacquerowldirect/ads-blocker"
+    },
+    {
+      "name": "Rapidfovelocity/chimera",
+      "stars": 300,
+      "full_text": "Chimera 2026: Full working installer with enhanced utility configuration for professional desktop needs.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Rapidfovelocity/chimera"
+    },
+    {
+      "name": "LinePondCrochet64/discord-server-raider",
+      "stars": 300,
+      "full_text": "Discord Server Raider 2026 complete standalone installation setup. Ready-to-run desktop edition with all features pre-activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LinePondCrochet64/discord-server-raider"
+    },
+    {
+      "name": "galaxypugilistspot/canva-pro",
+      "stars": 300,
+      "full_text": "Canva Pro 2026: Full working installer with all features activated, ready for professional desktop use.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/galaxypugilistspot/canva-pro"
+    },
+    {
+      "name": "colorsmousesculpt/designcenter-nx",
+      "stars": 300,
+      "full_text": "Designcenter Nx 2026: Full pre-activated desktop edition ready to run, complete with all essential tools and features.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/colorsmousesculpt/designcenter-nx"
+    },
+    {
+      "name": "CustodianSky/axie-infinity-bot",
+      "stars": 300,
+      "full_text": "Complete standalone setup of Axie Infinity Bot 2026. Ready-to-run desktop installation with all features pre-activated.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CustodianSky/axie-infinity-bot"
+    },
+    {
+      "name": "RamCocoonSever/microstation-2026",
+      "stars": 300,
+      "full_text": "Microstation 2026: Full working installer with all features pre-activated, ready for immediate desktop use.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/RamCocoonSever/microstation-2026"
+    },
+    {
+      "name": "purehazecottage/metatrader-5-bot",
+      "stars": 300,
+      "full_text": "Metatrader 5 Bot Full working installer for professional trading automation, ready to run on your desktop.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/purehazecottage/metatrader-5-bot"
+    },
+    {
+      "name": "PursuerTermiteTouch/startall-back",
+      "stars": 300,
+      "full_text": "Startall Back 2026: Full working installer for a professional desktop software utility configuration, ready to run.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PursuerTermiteTouch/startall-back"
+    }
+  ]
+}
