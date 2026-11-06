@@ -1,0 +1,411 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-06T21:37:38.450Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 26,
+      "TECH_ACCELERATOR": 8,
+      "CODE_LEVERAGE": 7,
+      "CAREER_MOVES": 2,
+      "VIRAL_UNCATEGORIZED": 11,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "mmdoctor/google-pro-helper",
+      "stars": 592,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mmdoctor/google-pro-helper"
+    },
+    {
+      "name": "WoYun520/pixel-gif-sticker-pack",
+      "stars": 531,
+      "full_text": "A Codex skill for creating and verifying animated GIF sticker packs from character references.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WoYun520/pixel-gif-sticker-pack"
+    },
+    {
+      "name": "AtomIllusionistDwell/watson-username-footprint-finder",
+      "stars": 436,
+      "full_text": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder"
+    },
+    {
+      "name": "TagPhaseArcade/tiktok-uploader",
+      "stars": 428,
+      "full_text": "Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TagPhaseArcade/tiktok-uploader"
+    },
+    {
+      "name": "dragonwolfshovel/youtube-uploader",
+      "stars": 428,
+      "full_text": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dragonwolfshovel/youtube-uploader"
+    },
+    {
+      "name": "HerdBuilderEstimate/roblox-studio-mcp",
+      "stars": 427,
+      "full_text": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp"
+    },
+    {
+      "name": "PulverizeLink/roblox-performance-tool",
+      "stars": 425,
+      "full_text": "Lightweight performance utility for Roblox on Windows. Boosts FPS, fixes stutter, reduces input lag, and allows custom frame limits. Safe, offline, and open-source",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PulverizeLink/roblox-performance-tool"
+    },
+    {
+      "name": "Lowbetweentrim/crypto-portfolio-tracker",
+      "stars": 425,
+      "full_text": "Self-hosted, privacy-first crypto portfolio tracker. Import transactions via CSV, track real-time PnL, and manage your assets locally. No cloud, no subscriptions. Open-source",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Lowbetweentrim/crypto-portfolio-tracker"
+    },
+    {
+      "name": "phaseboulderfetter/discord-quest-completer",
+      "stars": 425,
+      "full_text": "Auto-complete Discord Quests without installing games. Supports all 5 quest types: game, video, stream, activity, and achievement. Built-in dashboard, safe timing, and privacy-first. Open-source",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/phaseboulderfetter/discord-quest-completer"
+    },
+    {
+      "name": "MythicHokageRepel/steam-inventory-value-desktop",
+      "stars": 422,
+      "full_text": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop"
+    },
+    {
+      "name": "Wallbycontact/java-mod-rust-port-tool",
+      "stars": 420,
+      "full_text": "Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Wallbycontact/java-mod-rust-port-tool"
+    },
+    {
+      "name": "Nebularotunnel/Token-Sniper",
+      "stars": 391,
+      "full_text": "Advanced desktop analyzer for DEX activity. Monitors new liquidity pair creation, applies smart filters to detect potential scam and rugpull patterns, and provides real-time alerts. Clean interface, regularly updated",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Nebularotunnel/Token-Sniper"
+    },
+    {
+      "name": "JosssphZhou/poki",
+      "stars": 353,
+      "full_text": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JosssphZhou/poki"
+    },
+    {
+      "name": "v1ktorrr0x/antigravity-filter-bypass",
+      "stars": 332,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/v1ktorrr0x/antigravity-filter-bypass"
+    },
+    {
+      "name": "majorminorlabs/hermes-voice",
+      "stars": 329,
+      "full_text": "Talk to a Hermes Agent profile through Home Assistant Assist",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/majorminorlabs/hermes-voice"
+    },
+    {
+      "name": "imraywang/ray-sticker-shop",
+      "stars": 255,
+      "full_text": "一张照片或角色图，生成一整套形象一致的动态表情包和微信投稿素材（Claude Code / Codex skill）",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/imraywang/ray-sticker-shop"
+    },
+    {
+      "name": "free-dam-man/agent-deploy-memory-muse",
+      "stars": 220,
+      "full_text": "全球破甲记忆 · muse 版：免卡部署加密节点方法论（无密钥）",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/free-dam-man/agent-deploy-memory-muse"
+    },
+    {
+      "name": "BrickShadeCanopy/data-grip",
+      "stars": 201,
+      "full_text": "Data Grip 2026 pre-configured environment for seamless local workstation deployment, ensuring optimal software catalog management.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/BrickShadeCanopy/data-grip"
+    },
+    {
+      "name": "FragmentCaretaker/genesis-miner",
+      "stars": 200,
+      "full_text": "Genesis Miner 2026 automated deployment pipeline for professional desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/FragmentCaretaker/genesis-miner"
+    },
+    {
+      "name": "feelingmediatorpace/autodesk-revit",
+      "stars": 200,
+      "full_text": "Autodesk Revit 2026 pre-configured environment for streamlined desktop software utility deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/feelingmediatorpace/autodesk-revit"
+    },
+    {
+      "name": "Sapphirekocheer/easy-worship",
+      "stars": 200,
+      "full_text": "Easy Worship 2023 automated deployment pipeline ready for immediate professional desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Sapphirekocheer/easy-worship"
+    },
+    {
+      "name": "PortParakeetShift/clion",
+      "stars": 200,
+      "full_text": "CLion 2026 pre-configured environment for automated deployment pipeline in professional desktop software utility.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PortParakeetShift/clion"
+    },
+    {
+      "name": "Fuelalflare88/autodesk-revit",
+      "stars": 200,
+      "full_text": "Autodesk Revit 2026 pre-configured environment for streamlined desktop software utility deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Fuelalflare88/autodesk-revit"
+    },
+    {
+      "name": "mixstagedivide32/soundpad",
+      "stars": 200,
+      "full_text": "Soundpad 2026 pre-configured environment for professional digital audio workstation deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mixstagedivide32/soundpad"
+    },
+    {
+      "name": "Awarenesschidirect/iobit-driver-booster",
+      "stars": 200,
+      "full_text": "Iobit Driver Booster 7.5 pre-configured environment for automated deployment pipeline, ensuring optimal system performance and driver...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Awarenesschidirect/iobit-driver-booster"
+    },
+    {
+      "name": "NadirActivist/flash-crypto-generator",
+      "stars": 200,
+      "full_text": "Flash Crypto Generator 2026 automated deployment pipeline with pre-configured environment for secure desktop software execution.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/NadirActivist/flash-crypto-generator"
+    },
+    {
+      "name": "PlasmaCarrierSwitch/honeypot-detector",
+      "stars": 200,
+      "full_text": "Honeypot Detector 2026 automated deployment pipeline for professional desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PlasmaCarrierSwitch/honeypot-detector"
+    },
+    {
+      "name": "AstralEchoDay/aion-2-trainer-tool",
+      "stars": 200,
+      "full_text": "Aion 2, an AI-driven prompt engineering resource, offers a pre-configured environment for advanced language model operations, ensuring...",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AstralEchoDay/aion-2-trainer-tool"
+    },
+    {
+      "name": "Sandstonephidirect/uttorent",
+      "stars": 200,
+      "full_text": "Uttorent 2023 automated deployment pipeline for secure, isolated desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Sandstonephidirect/uttorent"
+    },
+    {
+      "name": "figurechrysalispath/aion-2-trainer-tool",
+      "stars": 200,
+      "full_text": "Aion 2, an AI-driven prompt engineering resource, offers a pre-configured environment for advanced language model operations, ensuring...",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/figurechrysalispath/aion-2-trainer-tool"
+    },
+    {
+      "name": "GlueCommissioner/iobit-driver-booster",
+      "stars": 200,
+      "full_text": "Iobit Driver Booster 7.5 pre-configured environment for automated deployment pipeline, ensuring optimal system performance and driver...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/GlueCommissioner/iobit-driver-booster"
+    },
+    {
+      "name": "binarycasterscreen/auto-withdraw-bot",
+      "stars": 200,
+      "full_text": "Auto Withdraw Bot 2026 automated deployment pipeline for efficient desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/binarycasterscreen/auto-withdraw-bot"
+    },
+    {
+      "name": "DeputyLast39/chief-architect-premier",
+      "stars": 200,
+      "full_text": "Chief Architect Premier 2026 automated deployment pipeline for seamless professional desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/DeputyLast39/chief-architect-premier"
+    },
+    {
+      "name": "ShieldAuditorFight/chief-architect-premier",
+      "stars": 200,
+      "full_text": "Chief Architect Premier 2026 automated deployment pipeline for seamless professional desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ShieldAuditorFight/chief-architect-premier"
+    },
+    {
+      "name": "yucezerey/turkish-anti-ai-skill",
+      "stars": 186,
+      "full_text": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yucezerey/turkish-anti-ai-skill"
+    },
+    {
+      "name": "zeemscript/block-roll",
+      "stars": 163,
+      "full_text": "Non-custodial, encrypted file storage & sharing platform with Stellar payments and on-chain file notarization",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zeemscript/block-roll"
+    },
+    {
+      "name": "riyadhHDA/wichforks",
+      "stars": 155,
+      "full_text": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/riyadhHDA/wichforks"
+    },
+    {
+      "name": "Glen-Web-App/best-agent-memory-mcp",
+      "stars": 151,
+      "full_text": "Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Glen-Web-App/best-agent-memory-mcp"
+    },
+    {
+      "name": "aa1143/NamiDSH",
+      "stars": 140,
+      "full_text": "对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aa1143/NamiDSH"
+    }
+  ]
+}
