@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-06T12:45:40.248Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 7,
+      "TECH_ACCELERATOR": 6,
+      "CODE_LEVERAGE": 4,
+      "VIRAL_UNCATEGORIZED": 32,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 1,
+      "CAREER_MOVES": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "WoYun520/pixel-gif-sticker-pack",
+      "stars": 468,
+      "full_text": "A Codex skill for creating and verifying animated GIF sticker packs from character references.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WoYun520/pixel-gif-sticker-pack"
+    },
+    {
+      "name": "AtomIllusionistDwell/watson-username-footprint-finder",
+      "stars": 431,
+      "full_text": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder"
+    },
+    {
+      "name": "TagPhaseArcade/tiktok-uploader",
+      "stars": 426,
+      "full_text": "Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TagPhaseArcade/tiktok-uploader"
+    },
+    {
+      "name": "dragonwolfshovel/youtube-uploader",
+      "stars": 426,
+      "full_text": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dragonwolfshovel/youtube-uploader"
+    },
+    {
+      "name": "MythicHokageRepel/steam-inventory-value-desktop",
+      "stars": 416,
+      "full_text": "Desktop app that prices a whole Steam inventory: live floor, average of real sales, per-marketplace payouts and a share card. Portable, no login.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop"
+    },
+    {
+      "name": "Wallbycontact/java-mod-rust-port-tool",
+      "stars": 413,
+      "full_text": "Feed it a Fabric or NeoForge mod jar and Smelt writes the Rust side for Horizon, with the unfinished parts flagged in the report.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Wallbycontact/java-mod-rust-port-tool"
+    },
+    {
+      "name": "Nebularotunnel/Token-Sniper",
+      "stars": 391,
+      "full_text": "Advanced desktop analyzer for DEX activity. Monitors new liquidity pair creation, applies smart filters to detect potential scam and rugpull patterns, and provides real-time alerts. Clean interface, regularly updated",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Nebularotunnel/Token-Sniper"
+    },
+    {
+      "name": "JosssphZhou/poki",
+      "stars": 279,
+      "full_text": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JosssphZhou/poki"
+    },
+    {
+      "name": "v1ktorrr0x/antigravity-filter-bypass",
+      "stars": 278,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/v1ktorrr0x/antigravity-filter-bypass"
+    },
+    {
+      "name": "majorminorlabs/hermes-voice",
+      "stars": 275,
+      "full_text": "Talk to a Hermes Agent profile through Home Assistant Assist",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/majorminorlabs/hermes-voice"
+    },
+    {
+      "name": "mmdoctor/google-pro-helper",
+      "stars": 232,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mmdoctor/google-pro-helper"
+    },
+    {
+      "name": "free-dam-man/agent-deploy-memory-muse",
+      "stars": 170,
+      "full_text": "全球破甲记忆 · muse 版：免卡部署加密节点方法论（无密钥）",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/free-dam-man/agent-deploy-memory-muse"
+    },
+    {
+      "name": "zeemscript/block-roll",
+      "stars": 163,
+      "full_text": "Non-custodial, encrypted file storage & sharing platform with Stellar payments and on-chain file notarization",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zeemscript/block-roll"
+    },
+    {
+      "name": "Glen-Web-App/best-agent-memory-mcp",
+      "stars": 100,
+      "full_text": "Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Codex, Cursor and any MCP client. Glen, Mem0, Supermemory, Zep, Hindsight, Basic Memory, claude-mem, Graphiti, Cognee, the official memory server and more, with storage, capture model, team sharing, license and live stars.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Glen-Web-App/best-agent-memory-mcp"
+    },
+    {
+      "name": "figurechrysalispath/aion-2-trainer-tool",
+      "stars": 100,
+      "full_text": "Aion 2, an AI-driven prompt engineering resource, offers a pre-configured environment for advanced language model operations, ensuring...",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/figurechrysalispath/aion-2-trainer-tool"
+    },
+    {
+      "name": "riyadhHDA/wichforks",
+      "stars": 97,
+      "full_text": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/riyadhHDA/wichforks"
+    },
+    {
+      "name": "Hyperstitioncc/Hyperkernel",
+      "stars": 66,
+      "full_text": "",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Hyperstitioncc/Hyperkernel"
+    }
+  ]
+}
