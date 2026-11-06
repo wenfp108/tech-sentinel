@@ -1,0 +1,330 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-07T06:38:01.133Z",
+    "total_captured": 26,
+    "TRENDING_DIRECTIONS": [
+      "Xylitol (Heat:61)",
+      "Chewing gum (Heat:61)",
+      "Saliva (Heat:61)",
+      "Streptococcus mutans (Heat:61)",
+      "Bacteria (Heat:61)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 14,
+      "AI_CORE": 8,
+      "PARADIGM_SHIFT": 5,
+      "NEXT_COMPUTING": 6,
+      "SPACE_DEFENSE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Decoding the regulatory programs governing glioblastoma plasticity",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41586-026-11177-0.pdf",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-11-04"
+    },
+    {
+      "title": "Aggression experience and observation drive shared behavioural and neural changes",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SCIENCE_CORE"
+      ],
+      "url": "https://www.nature.com/articles/s41586-026-11217-9.pdf",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-11-04"
+    },
+    {
+      "title": "Transcriptomic convergence and the female protective effect in autism",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41586-026-11236-6.pdf",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-11-04"
+    },
+    {
+      "title": "A spatiotemporal cancer cell trajectory underlies glioblastoma heterogeneity",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41586-026-11234-8.pdf",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-11-04"
+    },
+    {
+      "title": "An open structure-guided RNA foundation model for generalizable prediction",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1101/2025.08.06.668731",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-11-04"
+    },
+    {
+      "title": "Effects of xylitol chewing gum on salivary flow rate, ph, buffering capacity and presence of Streptococcus mutans in saliva.",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PubMed",
+      "metrics": {
+        "citations": 60,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23932037",
+      "reason": "Velocity: 60 citations",
+      "publication_date": "2026-11-03"
+    },
+    {
+      "title": "Agentic Software Engineering: Foundational Pillars and a Research Roadmap",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 32,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2509.06216",
+      "reason": "Velocity: 32 citations",
+      "publication_date": "2026-11-05"
+    },
+    {
+      "title": "Bayesian efficient coding",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PLoS Computational Biology",
+      "metrics": {
+        "citations": 31,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1014894&type=printable",
+      "reason": "Velocity: 31 citations",
+      "publication_date": "2026-11-04"
+    },
+    {
+      "title": "Dark Energy Survey year 6 results: Cosmological constraints from galaxy clustering and weak lensing",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical review. D/Physical review. D.",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2601.14559",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-11-02"
+    },
+    {
+      "title": "Integrated manufacturing platform for cortical organoids reveals early phosphatase and prefoldin dysregulation in MAPT V337M neurons",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "npj Dementia",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s44400-026-00147-y.pdf",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-11-03"
+    },
+    {
+      "title": "ISLES’24: Final stroke infarct prediction with multimodal imaging and clinical data. Where do we stand?",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Medical Image Analysis",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.1016/j.media.2026.104362",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-11-01"
+    },
+    {
+      "title": "FLAb2: Benchmarking reveals that protein AI models cannot yet consistently predict developability properties",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Patterns",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1016/j.patter.2026.101713",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-11-01"
+    },
+    {
+      "title": "A Survey of LLM-based Software Repair: Taxonomies, Design Paradigms, and Applications",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2506.23749",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-11-02"
+    },
+    {
+      "title": "Generative assimilation and prediction for weather and climate",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "npj Climate and Atmospheric Science",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41612-026-01585-4.pdf",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-11-02"
+    },
+    {
+      "title": "Application of long short-term memory and convolutional neural networks for real-time bridge pier scour prediction",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Machine Learning and Data Science in Geotechnics",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.emerald.com/mlag/article-pdf/2/1/204/11942223/mlag-02-2026-0003en.pdf",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-10-30"
+    },
+    {
+      "title": "Reducing confirmation bias on controversial issues through LLM-generated multi-persona debates",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Information Processing & Management",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2412.04629",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-10-31"
+    },
+    {
+      "title": "Advanced Big Data Analytics for Proactive Cyber Threat Mitigation in Large Scale Computer Networks",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Computer Science and Technology Application",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://journal.corisinta.org/corisinta/article/download/191/61",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-10-30"
+    },
+    {
+      "title": "Quantum alternating operator ansatz beyond low depth with gradually changing unitaries",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical Review A",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2305.04455",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-11-05"
+    },
+    {
+      "title": "Democratizing Optimization with Generative AI",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Operations Research",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.2139/ssrn.5511218",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-11-03"
+    },
+    {
+      "title": "Isolation and lipidomic profiling of neuronal lipid droplets to unveil the lipid landscape of neurodegenerative disorders",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Protocols",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41596-026-01451-w",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-11-03"
+    }
+  ]
+}
