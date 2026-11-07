@@ -1,0 +1,516 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-07T20:17:36.462Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 48,
+      "TECH_ACCELERATOR": 1,
+      "CODE_LEVERAGE": 2,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "stars": 1372,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/JenkinWoo/sheeridVerify"
+    },
+    {
+      "name": "sostenesfreitas/ocarina-recomp",
+      "stars": 487,
+      "full_text": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sostenesfreitas/ocarina-recomp"
+    },
+    {
+      "name": "HerdBuilderEstimate/roblox-studio-mcp",
+      "stars": 427,
+      "full_text": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp"
+    },
+    {
+      "name": "PulverizeLink/roblox-performance-tool",
+      "stars": 426,
+      "full_text": "Lightweight performance utility for Roblox on Windows. Boosts FPS, fixes stutter, reduces input lag, and allows custom frame limits. Safe, offline, and open-source",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PulverizeLink/roblox-performance-tool"
+    },
+    {
+      "name": "Lowbetweentrim/crypto-portfolio-tracker",
+      "stars": 425,
+      "full_text": "Self-hosted, privacy-first crypto portfolio tracker. Import transactions via CSV, track real-time PnL, and manage your assets locally. No cloud, no subscriptions. Open-source",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Lowbetweentrim/crypto-portfolio-tracker"
+    },
+    {
+      "name": "phaseboulderfetter/discord-quest-completer",
+      "stars": 425,
+      "full_text": "Auto-complete Discord Quests without installing games. Supports all 5 quest types: game, video, stream, activity, and achievement. Built-in dashboard, safe timing, and privacy-first. Open-source",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/phaseboulderfetter/discord-quest-completer"
+    },
+    {
+      "name": "Tropicaldrescoop/discord-id-osint-checker",
+      "stars": 381,
+      "full_text": "Free OSINT app for Discord IDs: paste a user, server or invite and see when it was made and who it copies.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Tropicaldrescoop/discord-id-osint-checker"
+    },
+    {
+      "name": "devvmhq/devvm",
+      "stars": 292,
+      "full_text": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/devvmhq/devvm"
+    },
+    {
+      "name": "PackArtisanMold/phone-to-webcam",
+      "stars": 243,
+      "full_text": "Turn any iPhone or Android into a Windows webcam: scan a code in the phone's browser. No phone app, no watermark.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PackArtisanMold/phone-to-webcam"
+    },
+    {
+      "name": "musubipapi/airpointer",
+      "stars": 235,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/musubipapi/airpointer"
+    },
+    {
+      "name": "Fuelflominaret/axie-infinity-bot",
+      "stars": 221,
+      "full_text": "Axie Infinity Bot 1.3.7 automated deployment pipeline for enterprise-grade desktop software utility configuration, ensuring seamless...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Fuelflominaret/axie-infinity-bot"
+    },
+    {
+      "name": "MeteorShipperLook40/sketchup-pro",
+      "stars": 221,
+      "full_text": "Sketchup Pro 2026 pre-configured production build for professional desktop software utility, ready for seamless local workstation...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MeteorShipperLook40/sketchup-pro"
+    },
+    {
+      "name": "Netbetweenacclaim/whale-tracker",
+      "stars": 221,
+      "full_text": "Whale Tracker 2023 automated deployment pipeline for professional desktop software utility configuration, ensuring seamless local...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Netbetweenacclaim/whale-tracker"
+    },
+    {
+      "name": "MetalHairdresser/slideshow-video-maker",
+      "stars": 221,
+      "full_text": "Slideshow Video Maker 2026 automated deployment pipeline with optimized package deployment for professional video editing and screen...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MetalHairdresser/slideshow-video-maker"
+    },
+    {
+      "name": "MinisterRoute/sp-flash-tool",
+      "stars": 221,
+      "full_text": "Sp Flash Tool 2026 pre-configured environment for automated deployment pipeline, ensuring seamless desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MinisterRoute/sp-flash-tool"
+    },
+    {
+      "name": "JourneymanStitch/imei-repair",
+      "stars": 220,
+      "full_text": "Imei Repair Free, an AI-driven device management solution, offers a pre-configured environment for seamless local workstation deployment in 2026.",
+      "tags": [
+        "CAREER_MOVES",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/JourneymanStitch/imei-repair"
+    },
+    {
+      "name": "Holeshurepresent/fonetrans",
+      "stars": 220,
+      "full_text": "Fonetrans 2026 automated deployment pipeline for efficient enterprise desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Holeshurepresent/fonetrans"
+    },
+    {
+      "name": "MindCatMotor/soundpad",
+      "stars": 220,
+      "full_text": "Soundpad 2023 pre-configured environment for seamless digital audio workstation setup and studio audio plugin deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MindCatMotor/soundpad"
+    },
+    {
+      "name": "HallThrasherVice/discord-server-cloner",
+      "stars": 220,
+      "full_text": "Discord Server Cloner 2023 pre-configured environment for seamless local workstation deployment, enabling efficient server backup and...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/HallThrasherVice/discord-server-cloner"
+    },
+    {
+      "name": "MetropolisAccountant/solidworks-cad",
+      "stars": 220,
+      "full_text": "Solidworks Cad 2026 pre-configured environment for streamlined local workstation deployment, ensuring optimal design and simulation capabilities.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MetropolisAccountant/solidworks-cad"
+    },
+    {
+      "name": "Flintfaconceal/ads-blocker",
+      "stars": 220,
+      "full_text": "Ads Blocker utility configuration folder for secure, efficient desktop software deployment in isolated environments.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Flintfaconceal/ads-blocker"
+    },
+    {
+      "name": "KnitGnatConduit/ios-unlocker",
+      "stars": 220,
+      "full_text": "iOS Unlocker 1.5.3 automated deployment pipeline for seamless local workstation environment setup, ensuring optimal device management and...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/KnitGnatConduit/ios-unlocker"
+    },
+    {
+      "name": "Hairanfollow/discord-quest-completer",
+      "stars": 220,
+      "full_text": "Discord Quest Completer 2026 pre-configured environment for seamless local workstation deployment, ensuring optimal utility performance and...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Hairanfollow/discord-quest-completer"
+    },
+    {
+      "name": "innerdaimyopush/iobit-driver-booster",
+      "stars": 220,
+      "full_text": "Iobit Driver Booster 8.5 pre-configured environment for efficient automated deployment pipeline in enterprise desktop software catalog.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/innerdaimyopush/iobit-driver-booster"
+    },
+    {
+      "name": "roadboltspire/fl-studio",
+      "stars": 220,
+      "full_text": "Fl Studio 2023 automated deployment pipeline for professional digital audio workstation setup, ensuring seamless local workstation integration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/roadboltspire/fl-studio"
+    },
+    {
+      "name": "LevelKnightDisengage/microstation-2026",
+      "stars": 220,
+      "full_text": "Microstation 2026 automated deployment pipeline for seamless local workstation setup.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LevelKnightDisengage/microstation-2026"
+    },
+    {
+      "name": "Flockcleplank/aion-2-trainer-tool",
+      "stars": 220,
+      "full_text": "Aion 2: Optimized package deployment for AI-driven prompt engineering tasks, ensuring seamless local workstation execution in 2026.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Flockcleplank/aion-2-trainer-tool"
+    },
+    {
+      "name": "loudspiritspade/multiaccountmanager",
+      "stars": 220,
+      "full_text": "Multiaccountmanager 2023 pre-configured environment for seamless automated deployment pipeline, ensuring robust multi-account management on...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/loudspiritspade/multiaccountmanager"
+    },
+    {
+      "name": "KingfisherCreate/instagram-liker-bot",
+      "stars": 220,
+      "full_text": "Instagram Liker Bot 2023 pre-configured environment for automated desktop software utility deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/KingfisherCreate/instagram-liker-bot"
+    },
+    {
+      "name": "fincicadalast/adobe-indesign",
+      "stars": 220,
+      "full_text": "Publishing Layout Tool 2026 automated deployment pipeline for secure digital asset management in enterprise environments.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/fincicadalast/adobe-indesign"
+    },
+    {
+      "name": "gravitygovernorhinge/clion",
+      "stars": 220,
+      "full_text": "Clion 2026 pre-configured environment for efficient local workstation deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/gravitygovernorhinge/clion"
+    },
+    {
+      "name": "FloorFlameDone/androidunlocker",
+      "stars": 220,
+      "full_text": "Android Unlocker Utility 2023 pre-configured environment for seamless local workstation deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/FloorFlameDone/androidunlocker"
+    },
+    {
+      "name": "foresthailmarina/atas-trading-bot",
+      "stars": 220,
+      "full_text": "Enterprise Trading Bot Suite 2024 pre-configured environment for secure desktop application deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/foresthailmarina/atas-trading-bot"
+    },
+    {
+      "name": "lavagunsmithmystery/metatrader-5-bot",
+      "stars": 220,
+      "full_text": "Metatrader 5 Bot repository configuration folder for streamlined automated deployment pipeline in professional desktop software utility environment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lavagunsmithmystery/metatrader-5-bot"
+    },
+    {
+      "name": "LowMaidRectify/musicmakerunlimited",
+      "stars": 220,
+      "full_text": "Musicmakerunlimited 2024 pre-configured environment for professional desktop software utility configuration, ensuring seamless local...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LowMaidRectify/musicmakerunlimited"
+    },
+    {
+      "name": "FlowRegister/anyunlock",
+      "stars": 220,
+      "full_text": "Anyunlock repository configuration folder for enterprise desktop software utility, pre-configured environment ready for automated...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/FlowRegister/anyunlock"
+    },
+    {
+      "name": "GoldenSanninRegain/chimera",
+      "stars": 220,
+      "full_text": "Chimera 2023 pre-configured environment for seamless desktop software utility deployment on professional workstations.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/GoldenSanninRegain/chimera"
+    },
+    {
+      "name": "FollowerWalrusDivide/archicad",
+      "stars": 220,
+      "full_text": "Archicad 2026 pre-configured environment for streamlined desktop software utility configuration and deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/FollowerWalrusDivide/archicad"
+    },
+    {
+      "name": "naturemidwifedream/uttorent",
+      "stars": 220,
+      "full_text": "Uttorent 3.5.1 pre-configured environment for secure, automated desktop software utility deployment in 2026.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/naturemidwifedream/uttorent"
+    },
+    {
+      "name": "MagmaSwanFluctuate/passfab-unlocker",
+      "stars": 220,
+      "full_text": "Passfab Unlocker 2026 automated deployment pipeline, pre-configured environment for secure desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MagmaSwanFluctuate/passfab-unlocker"
+    },
+    {
+      "name": "GrayStylistWind/cubase",
+      "stars": 220,
+      "full_text": "Cubase 13.0 pre-configured environment ready for deployment on isolated workstation with verified offline asset bundle.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/GrayStylistWind/cubase"
+    },
+    {
+      "name": "Modulekievaluate/tenorshare-4ukey",
+      "stars": 219,
+      "full_text": "Tenorshare 4Ukey pre-configured environment for secure local workstation deployment, ensuring optimal software utility configuration and...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Modulekievaluate/tenorshare-4ukey"
+    },
+    {
+      "name": "HiveChefSmelter/fonepaw-unlocker",
+      "stars": 219,
+      "full_text": "Fonepaw Unlocker 2023 pre-configured environment for secure and efficient desktop software utility management.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/HiveChefSmelter/fonepaw-unlocker"
+    },
+    {
+      "name": "Gravelkalevel/cinema-4d",
+      "stars": 219,
+      "full_text": "Cinema 4D R35 pre-configured environment for professional desktop software utility, ready for automated deployment pipeline in isolated...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Gravelkalevel/cinema-4d"
+    },
+    {
+      "name": "HandcuffDamselManor/dvd-creator",
+      "stars": 219,
+      "full_text": "DVD Creator 2026 automated deployment pipeline for efficient local workstation setup and configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/HandcuffDamselManor/dvd-creator"
+    },
+    {
+      "name": "gridattorneyhatchet/data-grip",
+      "stars": 219,
+      "full_text": "Data Grip 2026 pre-configured production build for seamless desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/gridattorneyhatchet/data-grip"
+    },
+    {
+      "name": "hairwayrefresh/drfoneunlock",
+      "stars": 219,
+      "full_text": "Drfoneunlock 2023 - Local workstation deployment package with pre-configured environment for efficient device unlocking operations.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hairwayrefresh/drfoneunlock"
+    },
+    {
+      "name": "GlazeCockatooRepair/chief-architect-premier",
+      "stars": 219,
+      "full_text": "Chief Architect Premier 2026 automated deployment pipeline for professional desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/GlazeCockatooRepair/chief-architect-premier"
+    },
+    {
+      "name": "LengthGeneral/microsoft-visio",
+      "stars": 219,
+      "full_text": "Microsoft Visio 2026 pre-configured environment for seamless desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LengthGeneral/microsoft-visio"
+    },
+    {
+      "name": "FreewayPyromancer/autodesk-inventor",
+      "stars": 219,
+      "full_text": "Autodesk Inventor 2026 pre-configured environment for seamless local workstation deployment, ensuring efficient production build and...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/FreewayPyromancer/autodesk-inventor"
+    }
+  ]
+}
