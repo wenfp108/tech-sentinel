@@ -1,0 +1,515 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-09T05:34:55.810Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 47,
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 2,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "stars": 1185,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tangerineturtle1/NX2navi"
+    },
+    {
+      "name": "Th0rgal/satmux",
+      "stars": 915,
+      "full_text": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Th0rgal/satmux"
+    },
+    {
+      "name": "lxe/phoneuse",
+      "stars": 413,
+      "full_text": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lxe/phoneuse"
+    },
+    {
+      "name": "PaladinSmash84/aida-64-extreme",
+      "stars": 402,
+      "full_text": "AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in isolated local...",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PaladinSmash84/aida-64-extreme"
+    },
+    {
+      "name": "updatesealeradicate/start11",
+      "stars": 401,
+      "full_text": "Start11 2023 pre-configured environment for efficient desktop software utility deployment on professional workstations.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/updatesealeradicate/start11"
+    },
+    {
+      "name": "Soundplomystery/landr-plugin-bundle",
+      "stars": 401,
+      "full_text": "Landr Plugin Bundle 2026 pre-configured environment for seamless local workstation deployment with comprehensive offline asset configurations.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Soundplomystery/landr-plugin-bundle"
+    },
+    {
+      "name": "PaladinDiscriminate/adobe-substance-3d",
+      "stars": 401,
+      "full_text": "Creative Studio App 2026 pre-configured environment for secure digital asset deployment pipeline, ensuring seamless offline workstation setup.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PaladinDiscriminate/adobe-substance-3d"
+    },
+    {
+      "name": "OnyxAmbassador/actual-multiplie-monitors",
+      "stars": 401,
+      "full_text": "Actual Multiple Monitors 2026 pre-configured environment for seamless desktop software utility deployment on professional workstations.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/OnyxAmbassador/actual-multiplie-monitors"
+    },
+    {
+      "name": "PresidentThaw/capcut-for-windows",
+      "stars": 401,
+      "full_text": "Capcut For Windows 2026 pre-configured environment for professional video editing, screen recording, and visual effects (VFX) solution deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PresidentThaw/capcut-for-windows"
+    },
+    {
+      "name": "PlaneDiverRevitalize/avid-media-composer",
+      "stars": 401,
+      "full_text": "Avid Media Composer 2026 pre-configured production build for seamless desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PlaneDiverRevitalize/avid-media-composer"
+    },
+    {
+      "name": "SmartAntRecover/instagram-liker-bot",
+      "stars": 400,
+      "full_text": "Instagram Liker Bot 2026 pre-configured environment for professional desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SmartAntRecover/instagram-liker-bot"
+    },
+    {
+      "name": "OhmUrchinSee/abbyy-finereader-pdf",
+      "stars": 400,
+      "full_text": "Abbyy Finereader Pdf 18.5 automated deployment pipeline for efficient desktop utility setup and configuration in 2026.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/OhmUrchinSee/abbyy-finereader-pdf"
+    },
+    {
+      "name": "VertexCoppersmith/total-commander",
+      "stars": 400,
+      "full_text": "Total Commander 10.5 automated deployment pipeline for efficient desktop software utility management in isolated local environments.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/VertexCoppersmith/total-commander"
+    },
+    {
+      "name": "shoregladiatormesh/ifunbox",
+      "stars": 400,
+      "full_text": "Ifunbox 2023 pre-configured environment for seamless desktop software utility configuration and deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/shoregladiatormesh/ifunbox"
+    },
+    {
+      "name": "Wantfuchannel/whale-tracker",
+      "stars": 400,
+      "full_text": "Whale Tracker 2023 automated deployment pipeline for efficient desktop software utility configuration management.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Wantfuchannel/whale-tracker"
+    },
+    {
+      "name": "ThornDesigner/quicken-deluxe",
+      "stars": 400,
+      "full_text": "Quicken Deluxe 2026 pre-configured environment for professional desktop software utility, ready for automated deployment pipeline on...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ThornDesigner/quicken-deluxe"
+    },
+    {
+      "name": "savagesectorpattern/exitlag",
+      "stars": 400,
+      "full_text": "Exitlag repository configuration folder: Optimized package deployment for seamless desktop software utility initialization in 2026.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/savagesectorpattern/exitlag"
+    },
+    {
+      "name": "sheenhunterdeflate/hitfilm",
+      "stars": 400,
+      "full_text": "Hitfilm 2026 pre-configured environment for seamless desktop software utility deployment on professional workstations.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sheenhunterdeflate/hitfilm"
+    },
+    {
+      "name": "WayBuilderDeliver/windows-optimizer",
+      "stars": 400,
+      "full_text": "Windows Optimizer 2026 automated deployment pipeline for efficient, pre-configured environment setup on enterprise desktops.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WayBuilderDeliver/windows-optimizer"
+    },
+    {
+      "name": "teaminspectorbandage/portfolio-rebalancer",
+      "stars": 400,
+      "full_text": "Portfolio Rebalancer 2026 pre-configured environment for automated deployment pipeline, ensuring seamless desktop software utility setup...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/teaminspectorbandage/portfolio-rebalancer"
+    },
+    {
+      "name": "UpperGunsmithShack/sp-flash-tool",
+      "stars": 400,
+      "full_text": "Sp Flash Tool 2024 automated deployment pipeline for enterprise desktop software catalog, ensuring seamless local workstation configuration...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/UpperGunsmithShack/sp-flash-tool"
+    },
+    {
+      "name": "TypeKindIntensify/seedphrasegenerator",
+      "stars": 400,
+      "full_text": "Seedphrase Generator 2026 pre-configured environment for secure desktop software utility configuration and deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TypeKindIntensify/seedphrasegenerator"
+    },
+    {
+      "name": "talonbailifftent/ph-downloader",
+      "stars": 400,
+      "full_text": "Ph Down 2023 pre-configured environment for professional desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/talonbailifftent/ph-downloader"
+    },
+    {
+      "name": "Teralunapick/power-director",
+      "stars": 400,
+      "full_text": "Power Director 2026 pre-configured environment ready for seamless automated deployment pipeline setup on professional desktop workstations.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Teralunapick/power-director"
+    },
+    {
+      "name": "VillageExecutive/ultra-edit",
+      "stars": 400,
+      "full_text": "Ultra Edit 2026 pre-configured environment for rapid desktop software utility deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/VillageExecutive/ultra-edit"
+    },
+    {
+      "name": "PurpleChordEvaluate/claude-jailbreak-prompt",
+      "stars": 400,
+      "full_text": "Optimized local environment suite for Claude AI pipeline management and custom automation workflows.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PurpleChordEvaluate/claude-jailbreak-prompt"
+    },
+    {
+      "name": "ViceroyPersist/touch-copy",
+      "stars": 400,
+      "full_text": "Touch Copy 2026 pre-configured environment for seamless desktop utility deployment and integration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ViceroyPersist/touch-copy"
+    },
+    {
+      "name": "PortionPebble/burning-studio",
+      "stars": 400,
+      "full_text": "Burning Studio 2026 pre-configured environment for efficient local workstation deployment, ensuring seamless software utility management.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PortionPebble/burning-studio"
+    },
+    {
+      "name": "Quantumoarefresh/daemon-pro",
+      "stars": 400,
+      "full_text": "Daemon Pro 2024, pre-configured environment for seamless automated deployment pipeline on professional desktop software utility.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Quantumoarefresh/daemon-pro"
+    },
+    {
+      "name": "Ratioclahovel/directory-opus",
+      "stars": 400,
+      "full_text": "Directory Opus 15.0 automated deployment pipeline for enterprise desktop software utility configuration, ensuring seamless workstation...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Ratioclahovel/directory-opus"
+    },
+    {
+      "name": "PlatoonKingfisher/canva-pro",
+      "stars": 400,
+      "full_text": "Canva Pro 2023 pre-configured environment for streamlined desktop software utility installation.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PlatoonKingfisher/canva-pro"
+    },
+    {
+      "name": "varnishhorseengage/studioonepro7",
+      "stars": 400,
+      "full_text": "Studioonepro7 2026 automated deployment pipeline pre-configured environment for professional desktop software utility configuration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/varnishhorseengage/studioonepro7"
+    },
+    {
+      "name": "ShapeMareAmplify/honkai-star-rail-trainer-tool",
+      "stars": 400,
+      "full_text": "Honkai Star Rail 2026 automated deployment pipeline with pre-configured environment ready for instant local execution.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ShapeMareAmplify/honkai-star-rail-trainer-tool"
+    },
+    {
+      "name": "Perceptionzyavalue/ashampoo-uninstaller",
+      "stars": 400,
+      "full_text": "Ashampoo Uninstaller 1.3.5 automated deployment pipeline for efficient software removal and management in enterprise desktop environments as of 2026.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Perceptionzyavalue/ashampoo-uninstaller"
+    },
+    {
+      "name": "TameDetectiveRuffle/photo-commander",
+      "stars": 400,
+      "full_text": "Photo Commander 2023 pre-configured environment for seamless local workstation deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TameDetectiveRuffle/photo-commander"
+    },
+    {
+      "name": "Urbandaravine/startall-back",
+      "stars": 400,
+      "full_text": "Startall Back 2026 pre-configured environment for seamless automated deployment pipeline on professional desktop software utility.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Urbandaravine/startall-back"
+    },
+    {
+      "name": "TrooperConceal/scrcpy",
+      "stars": 400,
+      "full_text": "Scrcpy 1.34 automated deployment pipeline for efficient Android device interaction and screen mirroring in professional desktop software...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TrooperConceal/scrcpy"
+    },
+    {
+      "name": "TrackerMonarch/rufus",
+      "stars": 400,
+      "full_text": "Rufus 3.14 automated deployment pipeline for enterprise desktop software utility, ensuring seamless pre-configured environment setup in...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TrackerMonarch/rufus"
+    },
+    {
+      "name": "SymbolSteward/ozone-12-advanced",
+      "stars": 400,
+      "full_text": "Ozone 12 Advanced pre-configured environment for streamlined desktop software utility setup in isolated local workstation deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SymbolSteward/ozone-12-advanced"
+    },
+    {
+      "name": "solidaxemarch/kms-pico",
+      "stars": 400,
+      "full_text": "Kms Pico Free 2026 pre-configured environment for secure, automated desktop software utility deployment on isolated workstations.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/solidaxemarch/kms-pico"
+    },
+    {
+      "name": "Thornthedefine/reason-14",
+      "stars": 400,
+      "full_text": "Reason 14: Optimized package deployment for enterprise desktop software utility, ensuring seamless local workstation environment setup in 2026.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Thornthedefine/reason-14"
+    },
+    {
+      "name": "TyphoonFlame/slideshow-video-maker",
+      "stars": 400,
+      "full_text": "Slideshow Video Maker 2026 pre-configured environment for seamless local workstation deployment, integrating advanced video editing, screen...",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TyphoonFlame/slideshow-video-maker"
+    },
+    {
+      "name": "ParakeetWatch/adobe-audition",
+      "stars": 400,
+      "full_text": "Advanced Audio Workbench 2026 pre-configured environment for secure digital asset deployment pipeline.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ParakeetWatch/adobe-audition"
+    },
+    {
+      "name": "SensationEmu/flash-crypto-generator",
+      "stars": 400,
+      "full_text": "Flash Crypto Generator 2026 automated deployment pipeline with pre-configured environment for secure desktop software utility operations.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SensationEmu/flash-crypto-generator"
+    },
+    {
+      "name": "visionpebbleliberate/unlocktool",
+      "stars": 400,
+      "full_text": "Unlocktool 2023 automated deployment pipeline for seamless local workstation environment setup.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/visionpebbleliberate/unlocktool"
+    },
+    {
+      "name": "VirtualEchoWorkshop/ultra-iso",
+      "stars": 400,
+      "full_text": "Ultra Iso 3.5, a robust disk imaging utility, offers pre-configured environment for seamless local workstation deployment in enterprise settings.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/VirtualEchoWorkshop/ultra-iso"
+    },
+    {
+      "name": "Weaveyeretake/wise-registrity",
+      "stars": 400,
+      "full_text": "Wise Registrity 2026 automated deployment pipeline for secure, pre-configured environment setup on enterprise desktop workstations.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Weaveyeretake/wise-registrity"
+    },
+    {
+      "name": "PuffinString/cellebrite-ufed",
+      "stars": 400,
+      "full_text": "Cellebrite UFED 2026 pre-configured production build for secure digital forensics and hardware validation toolkit deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PuffinString/cellebrite-ufed"
+    },
+    {
+      "name": "PerfumerExcite/ashampoo-winoptimizer",
+      "stars": 400,
+      "full_text": "Ashampoo Winoptimizer 17.0 pre-configured environment for streamlined desktop utility setup in 2023.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PerfumerExcite/ashampoo-winoptimizer"
+    },
+    {
+      "name": "WeaveSeekerJinx/wise-care",
+      "stars": 400,
+      "full_text": "Wise Care 2026 pre-configured environment for enterprise-grade desktop software utility configuration, ensuring seamless local workstation deployment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WeaveSeekerJinx/wise-care"
+    }
+  ]
+}
