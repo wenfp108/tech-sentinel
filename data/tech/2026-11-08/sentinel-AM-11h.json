@@ -1,0 +1,480 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-08T11:57:31.126Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "VIRAL_UNCATEGORIZED": 3,
+      "CODE_LEVERAGE": 41,
+      "TECH_ACCELERATOR": 3,
+      "CORE_PRAGMATISM": 1,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "Th0rgal/satmux",
+      "stars": 528,
+      "full_text": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Th0rgal/satmux"
+    },
+    {
+      "name": "Poltergeistlunagrid/Steam-Idler",
+      "stars": 425,
+      "full_text": "Steam Idler, Card Farmer & Playtime Booster. Idle multiple games to farm trading cards, boost playtime hours, and manage multiple accounts. Lightweight, open-source, and easy to use.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Poltergeistlunagrid/Steam-Idler"
+    },
+    {
+      "name": "sentinelsoldierprize/Minecraft-AFK-Bot",
+      "stars": 425,
+      "full_text": "Lightweight Minecraft Anti-AFK bot with a web dashboard. Keeps your account online 24/7, simulates activity to avoid kicks, and supports auto-reconnect. Perfect for Aternos and survival servers.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sentinelsoldierprize/Minecraft-AFK-Bot"
+    },
+    {
+      "name": "raygullcrease/axiom-launch-replay",
+      "stars": 209,
+      "full_text": "Replay recorded launches offline, count every fee, keep notes on each token.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/raygullcrease/axiom-launch-replay"
+    },
+    {
+      "name": "lxe/phoneuse",
+      "stars": 184,
+      "full_text": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lxe/phoneuse"
+    },
+    {
+      "name": "drost-ai/tinker-ai-skill",
+      "stars": 155,
+      "full_text": "Agent Skill for fine-tuning an agentic model on your own Claude Code sessions with Tinker. Works in Claude Code, Codex and OpenCode.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/drost-ai/tinker-ai-skill"
+    },
+    {
+      "name": "MajestyPoemFold/ghostclick-mouse-double-click-fix",
+      "stars": 147,
+      "full_text": "Free mouse double click test and fix for Windows 11/10. Finds ghost clicks (mouse chatter, switch bounce) on a strip chart, learns a debounce threshold from your real double-clicks, filters them system-wide from the tray, catches drag and drop drops, and exports RMA evidence. Open source, no ads.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MajestyPoemFold/ghostclick-mouse-double-click-fix"
+    },
+    {
+      "name": "ngophatneknha/ai-engineering-hub",
+      "stars": 109,
+      "full_text": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications (Personal learning hub)",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ngophatneknha/ai-engineering-hub"
+    },
+    {
+      "name": "BesideRaelwave39799/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BesideRaelwave39799/ai--manus"
+    },
+    {
+      "name": "DruidseaHunter22631/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DruidseaHunter22631/ai--manus"
+    },
+    {
+      "name": "tireddwarf99/manus-ai",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tireddwarf99/manus-ai"
+    },
+    {
+      "name": "LumiVikinggard89137/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/LumiVikinggard89137/ai--manus"
+    },
+    {
+      "name": "ArcaneAmongglacier73068/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ArcaneAmongglacier73068/ai--manus"
+    },
+    {
+      "name": "Infernogoldep/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Infernogoldep/ai--manus"
+    },
+    {
+      "name": "CynuraslayerAngel62471/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CynuraslayerAngel62471/ai--manus"
+    },
+    {
+      "name": "thecoderrrer/ai_manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/thecoderrrer/ai_manus"
+    },
+    {
+      "name": "Adil-Ijaz7/manus-ai",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Adil-Ijaz7/manus-ai"
+    },
+    {
+      "name": "abhinay-h/ai_manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/abhinay-h/ai_manus"
+    },
+    {
+      "name": "BelowChaostroll55451/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BelowChaostroll55451/ai--manus"
+    },
+    {
+      "name": "CurebornJade39704/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CurebornJade39704/ai--manus"
+    },
+    {
+      "name": "CometUniverserage25362/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CometUniverserage25362/ai--manus"
+    },
+    {
+      "name": "OdysseyglassSamurai13935/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OdysseyglassSamurai13935/ai--manus"
+    },
+    {
+      "name": "SinceGalaxyquiver49740/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SinceGalaxyquiver49740/ai--manus"
+    },
+    {
+      "name": "GlyphNova19456/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/GlyphNova19456/ai--manus"
+    },
+    {
+      "name": "Omegacoral/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Omegacoral/ai--manus"
+    },
+    {
+      "name": "Adil-Ijaz7/ai_manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Adil-Ijaz7/ai_manus"
+    },
+    {
+      "name": "NuclearOrlaix26356/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NuclearOrlaix26356/ai--manus"
+    },
+    {
+      "name": "SorenMonstersatyr54032/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SorenMonstersatyr54032/ai--manus"
+    },
+    {
+      "name": "SagaridgeBerserker21917/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SagaridgeBerserker21917/ai--manus"
+    },
+    {
+      "name": "VoltagefeatherClear81638/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/VoltagefeatherClear81638/ai--manus"
+    },
+    {
+      "name": "ToBlazejupiter/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ToBlazejupiter/ai--manus"
+    },
+    {
+      "name": "ArcaneTovenom76868/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ArcaneTovenom76868/ai--manus"
+    },
+    {
+      "name": "thecoderrrer/manus-ai",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/thecoderrrer/manus-ai"
+    },
+    {
+      "name": "proteus1121/manus-ai",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/proteus1121/manus-ai"
+    },
+    {
+      "name": "SamuraiAbyssalex64906/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SamuraiAbyssalex64906/ai--manus"
+    },
+    {
+      "name": "NadiroxValor56402/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NadiroxValor56402/ai--manus"
+    },
+    {
+      "name": "tireddwarf99/ai_manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tireddwarf99/ai_manus"
+    },
+    {
+      "name": "PaxattechMega79503/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PaxattechMega79503/ai--manus"
+    },
+    {
+      "name": "NearKing41391/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NearKing41391/ai--manus"
+    },
+    {
+      "name": "EpicGiantite13205/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/EpicGiantite13205/ai--manus"
+    },
+    {
+      "name": "OmegamaneLucky59003/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OmegamaneLucky59003/ai--manus"
+    },
+    {
+      "name": "proteus1121/ai_manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/proteus1121/ai_manus"
+    },
+    {
+      "name": "abhinay-h/manus-ai",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/abhinay-h/manus-ai"
+    },
+    {
+      "name": "TaytopazAbyssal26005/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TaytopazAbyssal26005/ai--manus"
+    },
+    {
+      "name": "SableMysticit32531/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SableMysticit32531/ai--manus"
+    },
+    {
+      "name": "BehindBasilisk42972/ai--manus",
+      "stars": 92,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BehindBasilisk42972/ai--manus"
+    }
+  ]
+}

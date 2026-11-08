@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-08T11:57:32.732Z",
+    "total_captured": 31,
+    "TRENDING_DIRECTIONS": [
+      "Quantum (Heat:215)",
+      "Software (Heat:162)",
+      "Software development (Heat:147)",
+      "Software system (Heat:147)",
+      "Key (lock) (Heat:128)"
+    ],
+    "strategy_summary": {
+      "PARADIGM_SHIFT": 6,
+      "AI_CORE": 8,
+      "BIO_REVOLUTION": 13,
+      "NEXT_COMPUTING": 11,
+      "STRATEGIC_ENERGY": 2,
+      "ADVANCED_MATERIALS": 2,
+      "SPACE_DEFENSE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Twist-angle-dependent quantum phase diagrams in moiré bilayer MoTe2",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "ADVANCED_MATERIALS",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2603.16412",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-11-04"
+    },
+    {
+      "title": "Decoding the regulatory programs governing glioblastoma plasticity",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41586-026-11177-0.pdf",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-11-04"
+    },
+    {
+      "title": "Dark Energy Survey year 6 results: Cosmological constraints from galaxy clustering and weak lensing",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical review. D/Physical review. D.",
+      "metrics": {
+        "citations": 101,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2601.14559",
+      "reason": "Velocity: 101 citations",
+      "publication_date": "2026-11-02"
+    },
+    {
+      "title": "Agentic Software Engineering: Foundational Pillars and a Research Roadmap",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 86,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3861334?download=true",
+      "reason": "Velocity: 86 citations",
+      "publication_date": "2026-11-05"
+    },
+    {
+      "title": "Effects of xylitol chewing gum on salivary flow rate, ph, buffering capacity and presence of Streptococcus mutans in saliva.",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PubMed",
+      "metrics": {
+        "citations": 60,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23932037",
+      "reason": "Velocity: 60 citations",
+      "publication_date": "2026-11-03"
+    },
+    {
+      "title": "A Survey of LLM-based Software Repair: Taxonomies, Design Paradigms, and Applications",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 59,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2506.23749",
+      "reason": "Velocity: 59 citations",
+      "publication_date": "2026-11-02"
+    },
+    {
+      "title": "Quantum Metropolis Sampling via Weak Measurement",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PRX Quantum",
+      "metrics": {
+        "citations": 51,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1103/xxq6-d82l",
+      "reason": "Velocity: 51 citations",
+      "publication_date": "2026-11-02"
+    },
+    {
+      "title": "Eigenstate thermalisation at the edge for Wigner matrices",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Annales de l Institut Henri Poincaré Probabilités et Statistiques",
+      "metrics": {
+        "citations": 33,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2309.05488",
+      "reason": "Velocity: 33 citations",
+      "publication_date": "2026-11-01"
+    },
+    {
+      "title": "Bayesian efficient coding",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PLoS Computational Biology",
+      "metrics": {
+        "citations": 31,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1014894&type=printable",
+      "reason": "Velocity: 31 citations",
+      "publication_date": "2026-11-04"
+    },
+    {
+      "title": "Optimal Quantum Purity Amplification: A Top-Down Approach to Error Suppression via Symmetry and Reversibility",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PRX Quantum",
+      "metrics": {
+        "citations": 29,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1103/xk9x-3741",
+      "reason": "Velocity: 29 citations",
+      "publication_date": "2026-11-02"
+    },
+    {
+      "title": "Generative assimilation and prediction for weather and climate",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "npj Climate and Atmospheric Science",
+      "metrics": {
+        "citations": 27,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41612-026-01585-4.pdf",
+      "reason": "Velocity: 27 citations",
+      "publication_date": "2026-11-02"
+    },
+    {
+      "title": "Quantum alternating operator ansatz beyond low depth with gradually changing unitaries",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical Review A",
+      "metrics": {
+        "citations": 26,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2305.04455",
+      "reason": "Velocity: 26 citations",
+      "publication_date": "2026-11-05"
+    },
+    {
+      "title": "ISLES’24: Final stroke infarct prediction with multimodal imaging and clinical data. Where do we stand?",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Medical Image Analysis",
+      "metrics": {
+        "citations": 26,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S1361841526004317/pdf",
+      "reason": "Velocity: 26 citations",
+      "publication_date": "2026-11-01"
+    },
+    {
+      "title": "Efficient and accurate mixed model association tool for single-cell eQTL analysis",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Genetics",
+      "metrics": {
+        "citations": 24,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41588-026-02798-2",
+      "reason": "Velocity: 24 citations",
+      "publication_date": "2026-11-06"
+    },
+    {
+      "title": "MadAgents",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "SciPost Physics Codebases",
+      "metrics": {
+        "citations": 24,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.21468/scipostphyscodeb.86",
+      "reason": "Velocity: 24 citations",
+      "publication_date": "2026-11-05"
+    },
+    {
+      "title": "The general position problem: a survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Ars Mathematica Contemporanea",
+      "metrics": {
+        "citations": 22,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://amc-journal.eu/index.php/amc/article/download/3625/2288",
+      "reason": "Velocity: 22 citations",
+      "publication_date": "2026-11-02"
+    },
+    {
+      "title": "Planar low-overhead quantum memories with only nearest-neighbour gates",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Research Square",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.researchsquare.com/article/rs-11493826/latest.pdf",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-11-03"
+    },
+    {
+      "title": "Integrated manufacturing platform for cortical organoids reveals early phosphatase and prefoldin dysregulation in MAPT V337M neurons",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "npj Dementia",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s44400-026-00147-y.pdf",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-11-03"
+    },
+    {
+      "title": "Novel qubits in hybrid semiconductor–superconductor nanostructures",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physics Reports",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "ADVANCED_MATERIALS",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1016/j.physrep.2026.10.002",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-11-03"
+    },
+    {
+      "title": "Quantum tomography of fermion pairs in e + e − collisions: Longitudinal beam polarization effects",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical review. D/Physical review. D.",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2602.02719",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-11-05"
+    }
+  ]
+}
