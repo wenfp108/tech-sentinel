@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-10T22:09:23.435Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 9,
+      "CODE_LEVERAGE": 4,
+      "TECH_ACCELERATOR": 5,
+      "TALENT_GROWTH": 2,
+      "VIRAL_UNCATEGORIZED": 31,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "huamidev/GestaltX",
+      "stars": 4119,
+      "full_text": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/huamidev/GestaltX"
+    },
+    {
+      "name": "Kianuni/Erosion-CN",
+      "stars": 773,
+      "full_text": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Kianuni/Erosion-CN"
+    },
+    {
+      "name": "FJNB5/fujiang-pojia",
+      "stars": 446,
+      "full_text": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/FJNB5/fujiang-pojia"
+    },
+    {
+      "name": "kolbicz/WQFiles",
+      "stars": 428,
+      "full_text": "File browser, app data manager and cache cleaner for iOS 27 (worse_query, no jailbreak)",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kolbicz/WQFiles"
+    },
+    {
+      "name": "yetone/rewind-for-x",
+      "stars": 330,
+      "full_text": "Chrome extension: look back at posts that scrolled past on your X home timeline",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/yetone/rewind-for-x"
+    },
+    {
+      "name": "Nanoutrolley/roblox-studio-mcp",
+      "stars": 283,
+      "full_text": "Model Context Protocol (MCP) server for Roblox Studio. Connect AI assistants (Claude, Cursor, Cline) to read object trees, automate Lua scripting, and run playtests safely. Open-source AI bridge.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Nanoutrolley/roblox-studio-mcp"
+    },
+    {
+      "name": "Sectionsereclaim/discord-auto-quest",
+      "stars": 279,
+      "full_text": "Advanced activity automation and process manager for Discord. Automatically handles game, video, and stream tasks in the background. Lightweight, fast, and easy setup.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Sectionsereclaim/discord-auto-quest"
+    },
+    {
+      "name": "ridgecobblerslide/windows-animated-wallpapers",
+      "stars": 279,
+      "full_text": "High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS animations, low CPU usage, 4K support. Open-source, portable, and easy to set up.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ridgecobblerslide/windows-animated-wallpapers"
+    },
+    {
+      "name": "HolyArrs/HolyArrs",
+      "stars": 266,
+      "full_text": "One self-hosted app for your shows, movies and music.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/HolyArrs/HolyArrs"
+    },
+    {
+      "name": "Dodaios/ste80-humanizer",
+      "stars": 249,
+      "full_text": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Dodaios/ste80-humanizer"
+    },
+    {
+      "name": "adriadam10/mkw-recomp",
+      "stars": 242,
+      "full_text": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/adriadam10/mkw-recomp"
+    },
+    {
+      "name": "TomyJan/SnowLuma",
+      "stars": 230,
+      "full_text": "Next Remote Protocol Framework.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TomyJan/SnowLuma"
+    },
+    {
+      "name": "bvvst/intern",
+      "stars": 206,
+      "full_text": "a fully rounded, variable weight variant of Inter",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bvvst/intern"
+    },
+    {
+      "name": "RobustAI24/Autocad-For-Windows",
+      "stars": 98,
+      "full_text": "AutoCAD for Windows — professional CAD software for precise 2D drafting and 3D modeling with annotation, dynamic blocks and industry tools for architecture and engineering.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/RobustAI24/Autocad-For-Windows"
+    },
+    {
+      "name": "Vig-13/Acrobat-Pro-For-Windows",
+      "stars": 96,
+      "full_text": "Acrobat Pro for Windows — professional PDF editor for editing text and images, converting files, OCR, forms, document protection and electronic signatures.Markdown",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Vig-13/Acrobat-Pro-For-Windows"
+    },
+    {
+      "name": "TwilightHairdresser/jenny-mod-archive",
+      "stars": 78,
+      "full_text": "Community archive and remaster of the Jenny Mod (Fapcraft) for Minecraft Forge 1.18 - 1.21.11. Upgraded AI and restored models.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TwilightHairdresser/jenny-mod-archive"
+    },
+    {
+      "name": "jyotiprakash101/nuvio-badge-kit",
+      "stars": 52,
+      "full_text": "The complete stream badge pack for Nuvio and Fusion: 261 badges in 5 styles. Gold Hero badges for REMUX, 4K, Dolby Vision and Atmos; red warnings for CAM and bad copies; 83 languages in their native script; 46 streaming services; Live TV. Original art, tested regex, lightweight WebP.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jyotiprakash101/nuvio-badge-kit"
+    }
+  ]
+}
