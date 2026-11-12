@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-12T22:46:21.317Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TECH_ACCELERATOR": 3,
+      "CODE_LEVERAGE": 5,
+      "VIRAL_UNCATEGORIZED": 34,
+      "KNOWLEDGE_BASE": 2,
+      "TALENT_GROWTH": 2,
+      "CORE_PRAGMATISM": 2
+    }
+  },
+  "items": [
+    {
+      "name": "apex-compute/ANR",
+      "stars": 586,
+      "full_text": "Apex Neural Rendering (ANR) by Apex Compute",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "name": "tigerogijzooav/Hyperliquid-Trade-Bot",
+      "stars": 277,
+      "full_text": "Independently analyze ROI, win rate, and PnL using the public Hyperliquid API, detect martingale/grid recovery strategies, and assess maximum drawdown and risk-adjusted returns. Read-only terminal checker — no trading, no API keys. Unofficial community project, not affiliated with Hyperliquid.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tigerogijzooav/Hyperliquid-Trade-Bot"
+    },
+    {
+      "name": "linknimiball1974/ai-texture-forge",
+      "stars": 227,
+      "full_text": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textures blender · dream textures addon · dream textures ai · dream textures seamless · dream textures pbr",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/linknimiball1974/ai-texture-forge"
+    },
+    {
+      "name": "setyamickala/fastmint-fcfs-agentic",
+      "stars": 221,
+      "full_text": "FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/setyamickala/fastmint-fcfs-agentic"
+    },
+    {
+      "name": "makepad/relax",
+      "stars": 209,
+      "full_text": "Relax Rust JIT",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/makepad/relax"
+    },
+    {
+      "name": "op7418/guizang-game-skill",
+      "stars": 205,
+      "full_text": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/op7418/guizang-game-skill"
+    },
+    {
+      "name": "nickvasilescu/bot-hq",
+      "stars": 113,
+      "full_text": "A team of Hermes agents you chat with, each with its own screen on one Orgo computer. Composio apps, xAI voice and X research.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nickvasilescu/bot-hq"
+    },
+    {
+      "name": "8hjkkwikl8/ai-portfolio",
+      "stars": 70,
+      "full_text": "三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/8hjkkwikl8/ai-portfolio"
+    },
+    {
+      "name": "DeskLabs-OpenSource/DeskVoice",
+      "stars": 55,
+      "full_text": "Central telefônica open source operada por agentes de IA. Atende, executa ferramentas durante a ligação, consulta um humano e segue trabalhando depois que a chamada termina. Self-hosted.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DeskLabs-OpenSource/DeskVoice"
+    },
+    {
+      "name": "nestho/impacket-rs",
+      "stars": 55,
+      "full_text": "High-performance, memory-safe pure-Rust redesign of Impacket protocols and Active Directory tools for Linux, macOS, and Windows.",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nestho/impacket-rs"
+    },
+    {
+      "name": "OrangeSaviorImagine/Abbyy-Finereader-Pdf-For-Windows",
+      "stars": 50,
+      "full_text": "ABBYY FineReader PDF for Windows — OCR and PDF application for scanning, converting documents, editing PDFs and extracting searchable text from images.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OrangeSaviorImagine/Abbyy-Finereader-Pdf-For-Windows"
+    },
+    {
+      "name": "gakonst/tatami",
+      "stars": 48,
+      "full_text": "A tiling window manager for macOS, written from scratch in Zig",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/gakonst/tatami"
+    }
+  ]
+}
