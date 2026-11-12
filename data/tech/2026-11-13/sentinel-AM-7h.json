@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-13T07:05:43.141Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "TECH_ACCELERATOR": 4,
+      "CODE_LEVERAGE": 5,
+      "VIRAL_UNCATEGORIZED": 31,
+      "KNOWLEDGE_BASE": 2,
+      "CORE_PRAGMATISM": 2,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "apex-compute/ANR",
+      "stars": 915,
+      "full_text": "Apex Neural Rendering (ANR) by Apex Compute",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/apex-compute/ANR"
+    },
+    {
+      "name": "AIRzZ90/study-materials-fork",
+      "stars": 331,
+      "full_text": "A cross-platform Tauri 2 interface and interaction practice project",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AIRzZ90/study-materials-fork"
+    },
+    {
+      "name": "tigerogijzooav/Hyperliquid-Trade-Bot",
+      "stars": 289,
+      "full_text": "Independently analyze ROI, win rate, and PnL using the public Hyperliquid API, detect martingale/grid recovery strategies, and assess maximum drawdown and risk-adjusted returns. Read-only terminal checker — no trading, no API keys. Unofficial community project, not affiliated with Hyperliquid.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tigerogijzooav/Hyperliquid-Trade-Bot"
+    },
+    {
+      "name": "makepad/relax",
+      "stars": 258,
+      "full_text": "Relax Rust JIT",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/makepad/relax"
+    },
+    {
+      "name": "linknimiball1974/ai-texture-forge",
+      "stars": 247,
+      "full_text": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textures blender · dream textures addon · dream textures ai · dream textures seamless · dream textures pbr",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/linknimiball1974/ai-texture-forge"
+    },
+    {
+      "name": "op7418/guizang-game-skill",
+      "stars": 228,
+      "full_text": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/op7418/guizang-game-skill"
+    },
+    {
+      "name": "setyamickala/fastmint-fcfs-agentic",
+      "stars": 224,
+      "full_text": "FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/setyamickala/fastmint-fcfs-agentic"
+    },
+    {
+      "name": "DandanLLab/SnowCatQQ",
+      "stars": 208,
+      "full_text": "SnowCat 雪猫：NapCat + SnowLuma 融合第三方 QQ 客户端，社区接力维护，V8 通道全功能适配 QQ 9.9.37，全工具全源码公开",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/DandanLLab/SnowCatQQ"
+    },
+    {
+      "name": "nickvasilescu/bot-hq",
+      "stars": 138,
+      "full_text": "A team of Hermes agents you chat with, each with its own screen on one Orgo computer. Composio apps, xAI voice and X research.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nickvasilescu/bot-hq"
+    },
+    {
+      "name": "8hjkkwikl8/ai-portfolio",
+      "stars": 88,
+      "full_text": "三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/8hjkkwikl8/ai-portfolio"
+    },
+    {
+      "name": "DeskLabs-OpenSource/DeskVoice",
+      "stars": 70,
+      "full_text": "Central telefônica open source operada por agentes de IA. Atende, executa ferramentas durante a ligação, consulta um humano e segue trabalhando depois que a chamada termina. Self-hosted.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DeskLabs-OpenSource/DeskVoice"
+    },
+    {
+      "name": "nestho/impacket-rs",
+      "stars": 69,
+      "full_text": "High-performance, memory-safe pure-Rust redesign of Impacket protocols and Active Directory tools for Linux, macOS, and Windows.",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nestho/impacket-rs"
+    },
+    {
+      "name": "gakonst/tatami",
+      "stars": 67,
+      "full_text": "A tiling window manager for macOS, written from scratch in Zig",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/gakonst/tatami"
+    },
+    {
+      "name": "molly554/whiteboard-ai-tutor",
+      "stars": 56,
+      "full_text": "Open-source AI tutor that teaches on a whiteboard. Benchmark of 6 LLMs (Claude, Gemini, DeepSeek): 288 lessons drawn stroke by stroke, blind-reviewed. 白板 AI 导师 / AI 老师讲课评测",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/molly554/whiteboard-ai-tutor"
+    },
+    {
+      "name": "FallsLarvaInterest/Sketchup-Pro-For-Windows",
+      "stars": 52,
+      "full_text": "SketchUp Pro for Windows — 3D modeling software for architecture, interior design, construction documentation and spatial design workflows.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/FallsLarvaInterest/Sketchup-Pro-For-Windows"
+    }
+  ]
+}
