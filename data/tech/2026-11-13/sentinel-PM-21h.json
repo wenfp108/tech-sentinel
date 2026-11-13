@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-13T21:47:30.959Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "TECH_ACCELERATOR": 10,
+      "CODE_LEVERAGE": 4,
+      "VIRAL_UNCATEGORIZED": 32,
+      "KNOWLEDGE_BASE": 2,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "AIRzZ90/study-materials-fork",
+      "stars": 469,
+      "full_text": "A cross-platform Tauri 2 interface and interaction practice project",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AIRzZ90/study-materials-fork"
+    },
+    {
+      "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+      "stars": 383,
+      "full_text": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows"
+    },
+    {
+      "name": "rivet-dev/open-orange",
+      "stars": 342,
+      "full_text": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rivet-dev/open-orange"
+    },
+    {
+      "name": "faizfahmi77/ScanDot",
+      "stars": 269,
+      "full_text": "Experimental Android 3D scanning and point-cloud viewer",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/faizfahmi77/ScanDot"
+    },
+    {
+      "name": "Simon3Sarkis/super-odyssey-pc-recomp",
+      "stars": 232,
+      "full_text": "A native Windows PC port of Super Mario Odyssey by static recompilation. Bring your own game: no game files included.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Simon3Sarkis/super-odyssey-pc-recomp"
+    },
+    {
+      "name": "higurashi-ai/Haru",
+      "stars": 151,
+      "full_text": "Haru: a low-latency, multilingual, full-duplex spoken dialogue model",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/higurashi-ai/Haru"
+    },
+    {
+      "name": "kociden/sakurai-skill",
+      "stars": 150,
+      "full_text": "桜井政博のゲーム作るには 全本編257本の字幕から作ったゲーム制作の Agent Skill（非公式・日本語）",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kociden/sakurai-skill"
+    },
+    {
+      "name": "racdeufindurch198812/Blender-AI-MCP-Studio",
+      "stars": 107,
+      "full_text": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio"
+    },
+    {
+      "name": "findavoulot1973/Blender-AI-MCP-Suite",
+      "stars": 104,
+      "full_text": "Blender AI MCP Suite is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual Studio workspace, multi-agent teams, 21+ scene tools and your choice of AI models. · blender ai mcp suite · blender ai mcp · ai for blender",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/findavoulot1973/Blender-AI-MCP-Suite"
+    },
+    {
+      "name": "fumbdendade19718/blender-ai-copilot-desk",
+      "stars": 102,
+      "full_text": "A visual AI desk for Blender—chat, scene objects, viewport snapshots, approvals and a live task board in one companion window, backed by your choice of models and a built-in MCP server. · blender-ai-copilot-desk · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation · blender mcp",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/fumbdendade19718/blender-ai-copilot-desk"
+    },
+    {
+      "name": "credoksopho1984/blender-ai-copilot-studio",
+      "stars": 100,
+      "full_text": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot · blender ai assistant · blender mcp server",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio"
+    },
+    {
+      "name": "IluvatarLabs/sitrep",
+      "stars": 87,
+      "full_text": "One live console to monitor Claude Code and Codex agents across machines, track context and spend, and unblock sessions that need you.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/IluvatarLabs/sitrep"
+    },
+    {
+      "name": "Gosu-x/multimodal-threat-dataset",
+      "stars": 73,
+      "full_text": "A threat dataset for multimodal networks",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Gosu-x/multimodal-threat-dataset"
+    },
+    {
+      "name": "jackson-cmd/risk-aware-trading-agents",
+      "stars": 73,
+      "full_text": "AI trading agents for US stocks with news backtesting that can't see the future: a point-in-time 2026 dataset (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, FOMC/CPI/VIX-aware regimes, and paper/live trading on 10 brokers. 风险感知美股交易智能体 · 新闻回测",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jackson-cmd/risk-aware-trading-agents"
+    },
+    {
+      "name": "Teamvyajoint/3D-Modeling-With-Sketchup",
+      "stars": 61,
+      "full_text": "With SketchUp Pro, architects and designers gain access to a robust set of modeling tools. The software is designed to streamline the creation of visualizations and enhance project communication",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Teamvyajoint/3D-Modeling-With-Sketchup"
+    },
+    {
+      "name": "alinuo666/ComfyUI-Banzhang-All",
+      "stars": 52,
+      "full_text": "ComfyUI custom node pack for MiniMax H3 video generation - three-pass workflow, HD video on a 6 GB GPU. 面向 MiniMax H3 的 ComfyUI 中文插件：三采工作流，6GB 显存也能跑高清视频。",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alinuo666/ComfyUI-Banzhang-All"
+    },
+    {
+      "name": "FallsLarvaInterest/Sketchup-Pro-For-Windows",
+      "stars": 52,
+      "full_text": "SketchUp Pro for Windows — 3D modeling software for architecture, interior design, construction documentation and spatial design workflows.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/FallsLarvaInterest/Sketchup-Pro-For-Windows"
+    }
+  ]
+}
