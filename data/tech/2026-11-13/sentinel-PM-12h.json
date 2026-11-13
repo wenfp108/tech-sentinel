@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-13T12:42:06.521Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 33,
+      "TALENT_GROWTH": 3,
+      "CODE_LEVERAGE": 2,
+      "TECH_ACCELERATOR": 11,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "AIRzZ90/study-materials-fork",
+      "stars": 415,
+      "full_text": "A cross-platform Tauri 2 interface and interaction practice project",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/AIRzZ90/study-materials-fork"
+    },
+    {
+      "name": "rivet-dev/open-orange",
+      "stars": 273,
+      "full_text": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rivet-dev/open-orange"
+    },
+    {
+      "name": "IluvatarLabs/sitrep",
+      "stars": 61,
+      "full_text": "One live console to monitor Claude Code and Codex agents across machines, track context and spend, and unblock sessions that need you.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/IluvatarLabs/sitrep"
+    },
+    {
+      "name": "credoksopho1984/blender-ai-copilot-studio",
+      "stars": 59,
+      "full_text": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene tools. · blender-ai-copilot-studio · blender ai · ai for blender · blender copilot · blender ai copilot · blender ai assistant · blender mcp server",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio"
+    },
+    {
+      "name": "racdeufindurch198812/Blender-AI-MCP-Studio",
+      "stars": 59,
+      "full_text": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual chat workspace, multi-agent teams and your choice of AI models. · blender ai mcp studio · mcp-for-blender · mcp for blender pro",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio"
+    },
+    {
+      "name": "Teamvyajoint/3D-Modeling-With-Sketchup",
+      "stars": 58,
+      "full_text": "With SketchUp Pro, architects and designers gain access to a robust set of modeling tools. The software is designed to streamline the creation of visualizations and enhance project communication",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Teamvyajoint/3D-Modeling-With-Sketchup"
+    },
+    {
+      "name": "fumbdendade19718/blender-ai-copilot-desk",
+      "stars": 56,
+      "full_text": "A visual AI desk for Blender—chat, scene objects, viewport snapshots, approvals and a live task board in one companion window, backed by your choice of models and a built-in MCP server. · blender-ai-copilot-desk · blender · blender 3d · blender addon · blender plugin · blender extension · blender scripting · blender automation · blender mcp",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/fumbdendade19718/blender-ai-copilot-desk"
+    },
+    {
+      "name": "higurashi-ai/Haru",
+      "stars": 56,
+      "full_text": "Haru: a low-latency, multilingual, full-duplex spoken dialogue model",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/higurashi-ai/Haru"
+    },
+    {
+      "name": "findavoulot1973/Blender-AI-MCP-Suite",
+      "stars": 56,
+      "full_text": "Blender AI MCP Suite is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with a visual Studio workspace, multi-agent teams, 21+ scene tools and your choice of AI models. · blender ai mcp suite · blender ai mcp · ai for blender",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/findavoulot1973/Blender-AI-MCP-Suite"
+    },
+    {
+      "name": "FallsLarvaInterest/Sketchup-Pro-For-Windows",
+      "stars": 52,
+      "full_text": "SketchUp Pro for Windows — 3D modeling software for architecture, interior design, construction documentation and spatial design workflows.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/FallsLarvaInterest/Sketchup-Pro-For-Windows"
+    },
+    {
+      "name": "jackson-cmd/risk-aware-trading-agents",
+      "stars": 51,
+      "full_text": "AI trading agents for US stocks with news backtesting that can't see the future: a point-in-time 2026 dataset (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, FOMC/CPI/VIX-aware regimes, and paper/live trading on 10 brokers. 风险感知美股交易智能体 · 新闻回测",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jackson-cmd/risk-aware-trading-agents"
+    },
+    {
+      "name": "OrangeSaviorImagine/Abbyy-Finereader-Pdf-For-Windows",
+      "stars": 51,
+      "full_text": "ABBYY FineReader PDF for Windows — OCR and PDF application for scanning, converting documents, editing PDFs and extracting searchable text from images.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OrangeSaviorImagine/Abbyy-Finereader-Pdf-For-Windows"
+    },
+    {
+      "name": "orderesworks42213/rpocket-team-WildPlans",
+      "stars": 50,
+      "full_text": "Blueprints for RuneScape: Dragonwilds. Capture a building you made and place it again anywhere as the game's own ghost pieces. A UE4SS Lua mod.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/orderesworks42213/rpocket-team-WildPlans"
+    },
+    {
+      "name": "UlricagglenMonster/Drive-rpocket-team-Manager-Ultraiso",
+      "stars": 50,
+      "full_text": "The application facilitates the creation of bootable media while preserving existing ISO structures. UltraISO's features include updating volume titles and managing various file systems within the same window",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/UlricagglenMonster/Drive-rpocket-team-Manager-Ultraiso"
+    }
+  ]
+}
