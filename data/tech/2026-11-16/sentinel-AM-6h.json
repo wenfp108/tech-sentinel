@@ -1,0 +1,517 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-16T06:23:58.932Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 17,
+      "VIRAL_GIANT": 29,
+      "CORE_PRAGMATISM": 3,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "duwqijlk/muse-protocol",
+      "stars": 982,
+      "full_text": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/duwqijlk/muse-protocol"
+    },
+    {
+      "name": "YellowLaborerMarket/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-"
+    },
+    {
+      "name": "WindGatorRise37/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-"
+    },
+    {
+      "name": "WyrmClimberManacle/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-"
+    },
+    {
+      "name": "TurtleReside/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TurtleReside/Gemini-Config-Checker-"
+    },
+    {
+      "name": "weldbladesmithwharf/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-"
+    },
+    {
+      "name": "WindowStaffGate11/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-"
+    },
+    {
+      "name": "WerewolfEmuHub/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-"
+    },
+    {
+      "name": "Violetnyudress/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-"
+    },
+    {
+      "name": "TrooperFilter/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-"
+    },
+    {
+      "name": "wisemeadowlarkspike/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-"
+    },
+    {
+      "name": "Watchlespeed/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Watchlespeed/Gemini-Config-Checker-"
+    },
+    {
+      "name": "VortexHostFeel/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-"
+    },
+    {
+      "name": "WingDataVacuum/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-"
+    },
+    {
+      "name": "TypeTyrantScheme/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-"
+    },
+    {
+      "name": "WireProvostPucker/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-"
+    },
+    {
+      "name": "VisionWormStudio/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/VisionWormStudio/Gemini-Config-Checker-"
+    },
+    {
+      "name": "WestLocksmithSpout/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WestLocksmithSpout/Gemini-Config-Checker-"
+    },
+    {
+      "name": "WharfBoulderColander/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-"
+    },
+    {
+      "name": "weightcashiercupola/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-"
+    },
+    {
+      "name": "Visionbeyondtrack/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-"
+    },
+    {
+      "name": "WinnerSpecialist/Gemini-Config-Checker-",
+      "stars": 473,
+      "full_text": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-"
+    },
+    {
+      "name": "haziqahmedqasmi/PeakCut",
+      "stars": 437,
+      "full_text": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut"
+    },
+    {
+      "name": "hikaku-io/hikaku-extension",
+      "stars": 395,
+      "full_text": "Open-source browser extension that flags AI-generated images and video as you browse. Runs entirely on your device. Chrome, Edge and Firefox.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hikaku-io/hikaku-extension"
+    },
+    {
+      "name": "trackersnailgrip/GitHub-Copilot-app",
+      "stars": 385,
+      "full_text": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app"
+    },
+    {
+      "name": "trackboatwrightplan/GitHub-Copilot-app",
+      "stars": 382,
+      "full_text": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app"
+    },
+    {
+      "name": "topapothecarycanal/ai--manus2.0",
+      "stars": 381,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/topapothecarycanal/ai--manus2.0"
+    },
+    {
+      "name": "toppatronweave/GitHub-Copilot-app",
+      "stars": 381,
+      "full_text": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/toppatronweave/GitHub-Copilot-app"
+    },
+    {
+      "name": "toppatronweave/ai--manus2.0",
+      "stars": 380,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/toppatronweave/ai--manus2.0"
+    },
+    {
+      "name": "tremorbuffalospire/IPTV_Player_2.0",
+      "stars": 380,
+      "full_text": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tremorbuffalospire/IPTV_Player_2.0"
+    },
+    {
+      "name": "TrapBladesmith/GitHub-Copilot-app",
+      "stars": 379,
+      "full_text": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TrapBladesmith/GitHub-Copilot-app"
+    },
+    {
+      "name": "TarantulaCorrect/GitHub-Copilot-app",
+      "stars": 378,
+      "full_text": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TarantulaCorrect/GitHub-Copilot-app"
+    },
+    {
+      "name": "TurquoiseConsultant/GitHub-Copilot-app",
+      "stars": 378,
+      "full_text": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TurquoiseConsultant/GitHub-Copilot-app"
+    },
+    {
+      "name": "topconstableinlet67/ai--manus2.0",
+      "stars": 378,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/topconstableinlet67/ai--manus2.0"
+    },
+    {
+      "name": "TorrentArrow/IPTV_Player_2.0",
+      "stars": 377,
+      "full_text": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TorrentArrow/IPTV_Player_2.0"
+    },
+    {
+      "name": "topconstableinlet67/GitHub-Copilot-app",
+      "stars": 375,
+      "full_text": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/topconstableinlet67/GitHub-Copilot-app"
+    },
+    {
+      "name": "Trapkrostride/GitHub-Copilot-app",
+      "stars": 375,
+      "full_text": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Trapkrostride/GitHub-Copilot-app"
+    },
+    {
+      "name": "violetkomodolimit/ai--manus2.0",
+      "stars": 375,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/violetkomodolimit/ai--manus2.0"
+    },
+    {
+      "name": "trackersnailgrip/ai--manus2.0",
+      "stars": 373,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/trackersnailgrip/ai--manus2.0"
+    },
+    {
+      "name": "taboospecialistblade/ai--manus2.0",
+      "stars": 371,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/taboospecialistblade/ai--manus2.0"
+    },
+    {
+      "name": "Ultimateakiln/ai--manus2.0",
+      "stars": 371,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ultimateakiln/ai--manus2.0"
+    },
+    {
+      "name": "trackboatwrightplan/ai--manus2.0",
+      "stars": 370,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/trackboatwrightplan/ai--manus2.0"
+    },
+    {
+      "name": "TrapBladesmith/ai--manus2.0",
+      "stars": 370,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TrapBladesmith/ai--manus2.0"
+    },
+    {
+      "name": "Tonephorepair/ai--manus2.0",
+      "stars": 370,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Tonephorepair/ai--manus2.0"
+    },
+    {
+      "name": "brisk-thrush-husky/malware-defender-desktop",
+      "stars": 361,
+      "full_text": "Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/brisk-thrush-husky/malware-defender-desktop"
+    },
+    {
+      "name": "bradburns2001/topaz-video-ai-desktop",
+      "stars": 360,
+      "full_text": "Topaz Video AI 2026 desktop setup with AI upscaling up to 16K with detail recovery, frame interpolation for smooth slow-motion, plus deinterlace, denoise and stabilize footage for Windows 11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bradburns2001/topaz-video-ai-desktop"
+    },
+    {
+      "name": "brave-shell-07/izotope-rx-11-desktop",
+      "stars": 360,
+      "full_text": "iZotope RX 11 2026 desktop setup with AI audio repair, denoise, de-reverb and de-click, dialogue isolation and spectral editor, plus music rebalance to remix stems from a mix for Windows 11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/brave-shell-07/izotope-rx-11-desktop"
+    },
+    {
+      "name": "briskember13/adobe-acrobat-pdf-desktop",
+      "stars": 359,
+      "full_text": "Adobe Acrobat PDF 2026 desktop setup with text and image editing directly inside any PDF, conversion to and from Word, Excel and images, plus fill, sign and merge documents with an AI assistant for Windows 11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/briskember13/adobe-acrobat-pdf-desktop"
+    },
+    {
+      "name": "brave-plum-co/leonardo-ai-desktop",
+      "stars": 359,
+      "full_text": "Leonardo AI 2026 desktop setup with text-to-image generation using fine-tuned models, canvas editor with inpainting and outpainting, plus real-time generation and image-to-motion for Windows 11",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/brave-plum-co/leonardo-ai-desktop"
+    },
+    {
+      "name": "brettcole-byte56/microsoft-excel-analyse-it-desktop",
+      "stars": 353,
+      "full_text": "Microsoft Excel Analyse-it 2026 desktop setup with workbook analysis, formula auditing, tabular reporting and portable mode for Windows 10 and 11",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/brettcole-byte56/microsoft-excel-analyse-it-desktop"
+    }
+  ]
+}
