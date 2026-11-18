@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-18T22:57:36.008Z",
+    "total_captured": 22,
+    "TRENDING_DIRECTIONS": [
+      "Benchmark (surveying) (Heat:129)",
+      "Electroweak interaction (Heat:119)",
+      "Dark matter (Heat:119)",
+      "Event (particle physics) (Heat:119)",
+      "Interpretation (philosophy) (Heat:119)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 11,
+      "PARADIGM_SHIFT": 5,
+      "AI_CORE": 7,
+      "NEXT_COMPUTING": 8,
+      "SPACE_DEFENSE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Higgsino dark matter interpretation of the LUX-ZEPLIN 248 keV nuclear-recoil event",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical Review Letters",
+      "metrics": {
+        "citations": 118,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2609.01583",
+      "reason": "Velocity: 118 citations",
+      "publication_date": "2026-11-13"
+    },
+    {
+      "title": "The brain tumor sequence registration (BraTS-Reg) challenge for establishing correspondence between pre-operative and follow-up MRI scans of diffuse glioma patients",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Scientific Reports",
+      "metrics": {
+        "citations": 84,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://www.nature.com/articles/s41598-026-74112-3_reference.pdf",
+      "reason": "Velocity: 84 citations",
+      "publication_date": "2026-11-15"
+    },
+    {
+      "title": "A Survey on LLMs from a Human-Centric Perspective",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 46,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3859364?download=true",
+      "reason": "Velocity: 46 citations",
+      "publication_date": "2026-11-12"
+    },
+    {
+      "title": "(LRDs) 2 : The Low-ReDshift Little Red Dots Survey. II. DESI DR1 Sample",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "The Astrophysical Journal",
+      "metrics": {
+        "citations": 37,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aeac19/pdf",
+      "reason": "Velocity: 37 citations",
+      "publication_date": "2026-11-13"
+    },
+    {
+      "title": "Optimal learning of quantum channels in diamond distance",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Physics",
+      "metrics": {
+        "citations": 36,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.nature.com/articles/s41567-026-03499-7.pdf",
+      "reason": "Velocity: 36 citations",
+      "publication_date": "2026-11-12"
+    },
+    {
+      "title": "Real-Time KPI Tracking Systems: A Review of Automated Performance Monitoring and Data-Driven Decision Making",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY",
+      "metrics": {
+        "citations": 34,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.56201/wjimt.v8.no6.2024.pg247.281",
+      "reason": "Velocity: 34 citations",
+      "publication_date": "2026-11-13"
+    },
+    {
+      "title": "Generalizable equivariant diffusion models for non-Abelian lattice gauge theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical Review Letters",
+      "metrics": {
+        "citations": 31,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2601.19552",
+      "reason": "Velocity: 31 citations",
+      "publication_date": "2026-11-16"
+    },
+    {
+      "title": "Generative AI and the Evolution of Mortgage Underwriting: Measuring and Mitigating Racial Disparities",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "The Journal of Real Estate Finance and Economics",
+      "metrics": {
+        "citations": 26,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s11146-026-10085-4.pdf",
+      "reason": "Velocity: 26 citations",
+      "publication_date": "2026-11-14"
+    },
+    {
+      "title": "Securing Agentic AI Enterprise Workflows Against Prompt Injection Tool Poisoning Memory Manipulation and Excessive Agency Threats",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY",
+      "metrics": {
+        "citations": 25,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.56201/wjimt.v8.no6.2024.pg217.248",
+      "reason": "Velocity: 25 citations",
+      "publication_date": "2026-11-12"
+    },
+    {
+      "title": "LLM-As-A-Judge for Automated Model Governance: A Review of Methods, Biases, and Release-Gating Practices",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY",
+      "metrics": {
+        "citations": 24,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.56201/wjimt.v8.no6.2024.pg185.216",
+      "reason": "Velocity: 24 citations",
+      "publication_date": "2026-11-12"
+    },
+    {
+      "title": "Quantitative measurement of viscosity in two-dimensional electron fluids",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Science",
+      "metrics": {
+        "citations": 23,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2407.05026",
+      "reason": "Velocity: 23 citations",
+      "publication_date": "2026-11-12"
+    },
+    {
+      "title": "What’s at Stake? Understanding the Role of Home Equity in Flood Insurance Demand",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Management Science",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.2139/ssrn.3756332",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-11-13"
+    },
+    {
+      "title": "BCAT: A Block Causal Transformer for PDE Foundation Models for Fluid Dynamics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Artificial Intelligence Research",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://www.jair.org/index.php/jair/article/download/22089/27381",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-11-11"
+    },
+    {
+      "title": "Gravitational wave signatures from periodic orbits around a Schwarzschild-Bertotti-Robinson black hole",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Classical and Quantum Gravity",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://iopscience.iop.org/article/10.1088/1361-6382/aec10a/pdf",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-11-11"
+    },
+    {
+      "title": "Reconceptualizing Quality Assurance in Pharmaceutical Manufacturing as a Determinant of Supply Reliability",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "INTERNATIONAL JOURNAL OF HEALTH AND PHARMACEUTICAL RESEARCH",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.56201/ijhpr.v9.no5.2024.pg148.173",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-11-17"
+    },
+    {
+      "title": "Rethinking Distribution Shifts: Empirical Analysis and Modeling for Tabular Data",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Management Science",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2307.05284",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-11-13"
+    },
+    {
+      "title": "A phase transition for the cokernels of random band matrices over the p-adic integers",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Advances in Mathematics",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2408.13037",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-11-16"
+    },
+    {
+      "title": "Flat band excitons and quantum metric",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Quantum Frontiers",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s44214-026-00113-y.pdf",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-11-13"
+    },
+    {
+      "title": "Association for Clinical Genomic Science (ACGS) Best Practice Guidelines for Variant Classification in Rare Disease",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Medical Genetics",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1136/jmg-2026-111835",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-11-13"
+    },
+    {
+      "title": "GraphAgents: Knowledge Graph-Guided Agentic AI for Cross-Domain Materials Design",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACS Materials Au",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://pubs.acs.org/amacgu/article-pdf/doi/10.1021/acsmaterialsau.6c00100/69159545/acsmaterialsau.6c00100.pdf",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-11-11"
+    }
+  ]
+}
