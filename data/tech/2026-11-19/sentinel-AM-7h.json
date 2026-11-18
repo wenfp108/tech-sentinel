@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-19T07:48:17.392Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TALENT_GROWTH": 4,
+      "VIRAL_UNCATEGORIZED": 33,
+      "CODE_LEVERAGE": 4,
+      "CORE_PRAGMATISM": 4,
+      "TECH_ACCELERATOR": 1,
+      "KNOWLEDGE_BASE": 4
+    }
+  },
+  "items": [
+    {
+      "name": "free-dam-man/cloud-exit-node-deploy",
+      "stars": 290,
+      "full_text": "加载技能",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/free-dam-man/cloud-exit-node-deploy"
+    },
+    {
+      "name": "xyzww888/muse-JP-Reg",
+      "stars": 253,
+      "full_text": "Muse.ai pure-HTTP registration & invite-code fission WebUI (JP residential proxy ready)",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xyzww888/muse-JP-Reg"
+    },
+    {
+      "name": "prusa3d/prusa-connect",
+      "stars": 215,
+      "full_text": "Prusa Connect: a local server for your printers",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/prusa3d/prusa-connect"
+    },
+    {
+      "name": "dmitrykurash/holospot",
+      "stars": 158,
+      "full_text": "The holographic materials of holo.spot for your own three.js scenes, made to be handed to an AI agent",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dmitrykurash/holospot"
+    },
+    {
+      "name": "SamG-Coder/SmartImposter",
+      "stars": 117,
+      "full_text": "Hardware ray-traced forest renderer (Rust + Vulkan) with parallax octahedral impostors evaluated by the RTX cores",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SamG-Coder/SmartImposter"
+    },
+    {
+      "name": "phasyn/phasyn-studio",
+      "stars": 82,
+      "full_text": "AI filmmaking on your own GPUs: a self-hosted studio that generates short videos with sound and still images.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/phasyn/phasyn-studio"
+    },
+    {
+      "name": "Fisheriks/GitHub-Copilot-app",
+      "stars": 62,
+      "full_text": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Fisheriks/GitHub-Copilot-app"
+    },
+    {
+      "name": "stancaedy10-glitch/IPTV_Player_2.0",
+      "stars": 62,
+      "full_text": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/stancaedy10-glitch/IPTV_Player_2.0"
+    },
+    {
+      "name": "alphafalcongamer-creator/ai--manus2.0",
+      "stars": 62,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alphafalcongamer-creator/ai--manus2.0"
+    },
+    {
+      "name": "kazim768/ai--manus2.0",
+      "stars": 62,
+      "full_text": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kazim768/ai--manus2.0"
+    },
+    {
+      "name": "meirz911/IPTV_Player_2.0",
+      "stars": 62,
+      "full_text": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/meirz911/IPTV_Player_2.0"
+    },
+    {
+      "name": "python001-dev/IPTV_Player_2.0",
+      "stars": 62,
+      "full_text": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/python001-dev/IPTV_Player_2.0"
+    }
+  ]
+}
