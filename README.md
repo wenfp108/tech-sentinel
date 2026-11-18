@@ -70,8 +70,8 @@
 | 仓库 | 用途 |
 |------|------|
 | [tech-sentinel](https://github.com/wenfp108/tech-sentinel) | 本仓库。代码 + 论文采集 |
-| [Central-Bank](https://github.com/wenfp108/Central-Bank) | 数据存储 |
-| [Refinery-Engine](https://github.com/wenfp108/refinery-erngine) | 数据清洗 + AI 审计 |
+| Central-Bank（私有仓库） | 数据存储 |
+| [Refinery-Engine](https://github.com/wenfp108/refinery-engine) | 数据清洗 + AI 审计 |
 
 ## 环境变量
 
