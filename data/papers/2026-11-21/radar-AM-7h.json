@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-21T07:34:58.844Z",
+    "total_captured": 31,
+    "TRENDING_DIRECTIONS": [
+      "Software (Heat:299)",
+      "Empirical research (Heat:297)",
+      "Quality (philosophy) (Heat:230)",
+      "Benchmark (surveying) (Heat:204)",
+      "Code (set theory) (Heat:169)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 16,
+      "AI_CORE": 15,
+      "PARADIGM_SHIFT": 7,
+      "NEXT_COMPUTING": 9
+    }
+  },
+  "items": [
+    {
+      "title": "Higgsino dark matter interpretation of the LUX-ZEPLIN 248 keV nuclear-recoil event",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical Review Letters",
+      "metrics": {
+        "citations": 118,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2609.01583",
+      "reason": "Velocity: 118 citations",
+      "publication_date": "2026-11-13"
+    },
+    {
+      "title": "An Empirical Study on the Code Refactoring Capability of Large Language Models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 94,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.1145/3801158",
+      "reason": "Velocity: 94 citations",
+      "publication_date": "2026-11-18"
+    },
+    {
+      "title": "The brain tumor sequence registration (BraTS-Reg) challenge for establishing correspondence between pre-operative and follow-up MRI scans of diffuse glioma patients",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Scientific Reports",
+      "metrics": {
+        "citations": 84,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://www.nature.com/articles/s41598-026-74112-3_reference.pdf",
+      "reason": "Velocity: 84 citations",
+      "publication_date": "2026-11-15"
+    },
+    {
+      "title": "Learning from Hypervectors: A Survey on Hyperdimensional Encoding",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 68,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3863975",
+      "reason": "Velocity: 68 citations",
+      "publication_date": "2026-11-19"
+    },
+    {
+      "title": "“Generate” the Future of Work Through AI: Empirical Evidence from Online Labor Markets",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Information Systems Research",
+      "metrics": {
+        "citations": 68,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2308.05201",
+      "reason": "Velocity: 68 citations",
+      "publication_date": "2026-11-18"
+    },
+    {
+      "title": "Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 60,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3786771",
+      "reason": "Velocity: 60 citations",
+      "publication_date": "2026-11-18"
+    },
+    {
+      "title": "Understanding the Fundamental Design Decisions of Retrieval-Augmented Generation Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 49,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1145/3802824",
+      "reason": "Velocity: 49 citations",
+      "publication_date": "2026-11-18"
+    },
+    {
+      "title": "LLM-D12: A Dual-Dimensional Scale of Instrumental and Relational Dependencies on Large Language Models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on the Web",
+      "metrics": {
+        "citations": 49,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3765895",
+      "reason": "Velocity: 49 citations",
+      "publication_date": "2026-11-15"
+    },
+    {
+      "title": "Unemployment Benefits and Unemployment in the Great Recession: The Role of Equilibrium Effects",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Political Economy",
+      "metrics": {
+        "citations": 45,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.2139/ssrn.2340678",
+      "reason": "Velocity: 45 citations",
+      "publication_date": "2026-11-19"
+    },
+    {
+      "title": "From the fluency fallacy to the micro-to-macro validity gap: opportunities and pitfalls of LLMs in social simulation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Frontiers in Artificial Intelligence",
+      "metrics": {
+        "citations": 39,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1988865/pdf",
+      "reason": "Velocity: 39 citations",
+      "publication_date": "2026-11-17"
+    },
+    {
+      "title": "(LRDs) 2 : The Low-ReDshift Little Red Dots Survey. II. DESI DR1 Sample",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "The Astrophysical Journal",
+      "metrics": {
+        "citations": 37,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/aeac19/pdf",
+      "reason": "Velocity: 37 citations",
+      "publication_date": "2026-11-13"
+    },
+    {
+      "title": "Real-Time KPI Tracking Systems: A Review of Automated Performance Monitoring and Data-Driven Decision Making",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY",
+      "metrics": {
+        "citations": 36,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.56201/wjimt.v8.no6.2024.pg247.281",
+      "reason": "Velocity: 36 citations",
+      "publication_date": "2026-11-13"
+    },
+    {
+      "title": "A Comprehensive Study on Large Language Models for Mutation Testing",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 35,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.1145/3805038",
+      "reason": "Velocity: 35 citations",
+      "publication_date": "2026-11-18"
+    },
+    {
+      "title": "Generalized multilevel Picard approximations",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "IMA Journal of Numerical Analysis",
+      "metrics": {
+        "citations": 33,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/1911.03188",
+      "reason": "Velocity: 33 citations",
+      "publication_date": "2026-11-13"
+    },
+    {
+      "title": "Clearing up the Strong C P problem",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical review. D/Physical review. D.",
+      "metrics": {
+        "citations": 32,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2510.18951",
+      "reason": "Velocity: 32 citations",
+      "publication_date": "2026-11-17"
+    },
+    {
+      "title": "Recent Advances in Medical Imaging Segmentation: Generative, Few-Shot, Foundation and Universal Models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 31,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3849846?download=true",
+      "reason": "Velocity: 31 citations",
+      "publication_date": "2026-11-17"
+    },
+    {
+      "title": "Generalizable equivariant diffusion models for non-Abelian lattice gauge theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Physical Review Letters",
+      "metrics": {
+        "citations": 31,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2601.19552",
+      "reason": "Velocity: 31 citations",
+      "publication_date": "2026-11-16"
+    },
+    {
+      "title": "Agentic Software Issue Resolution with Large Language Models: A Survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 30,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3849702?download=true",
+      "reason": "Velocity: 30 citations",
+      "publication_date": "2026-11-17"
+    },
+    {
+      "title": "Benchmarking LLMs for Unit Test Generation from Real-World Functions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3805043",
+      "reason": "Velocity: 28 citations",
+      "publication_date": "2026-11-18"
+    },
+    {
+      "title": "A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3856802",
+      "reason": "Velocity: 28 citations",
+      "publication_date": "2026-11-17"
+    }
+  ]
+}

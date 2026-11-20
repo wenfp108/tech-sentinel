@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-21T07:34:57.306Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 7,
+      "TECH_ACCELERATOR": 6,
+      "KNOWLEDGE_BASE": 3,
+      "VIRAL_UNCATEGORIZED": 35,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "stars": 1756,
+      "full_text": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "stars": 1238,
+      "full_text": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "MSNightmare/FastUnlock",
+      "stars": 573,
+      "full_text": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MSNightmare/FastUnlock"
+    },
+    {
+      "name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+      "stars": 472,
+      "full_text": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate"
+    },
+    {
+      "name": "duwqijlk/google-trial-tool",
+      "stars": 359,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/duwqijlk/google-trial-tool"
+    },
+    {
+      "name": "CocoSgt/riemann-hypothesis-lean",
+      "stars": 260,
+      "full_text": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CocoSgt/riemann-hypothesis-lean"
+    },
+    {
+      "name": "umbra0688/windows-clipboard-manager-sync",
+      "stars": 239,
+      "full_text": "Free open-source Windows clipboard manager with searchable history, smart collections, keyboard shortcuts and cloud sync.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/umbra0688/windows-clipboard-manager-sync"
+    },
+    {
+      "name": "tristanbuckmaster/navier-stokes",
+      "stars": 215,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes"
+    },
+    {
+      "name": "han938/open-webui-private-ai-desk",
+      "stars": 158,
+      "full_text": "Chat with private AI models locally, powered by Open Webui Private Ai Desk.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/han938/open-webui-private-ai-desk"
+    },
+    {
+      "name": "sabrinfathimaa-beep/dlss-5-swapper-compatibility",
+      "stars": 158,
+      "full_text": "Dlss 5 Swapper Compatibility streamlines replacing and managing DLSS version files.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sabrinfathimaa-beep/dlss-5-swapper-compatibility"
+    },
+    {
+      "name": "sahandranya/restic-varrona",
+      "stars": 157,
+      "full_text": "Backs up via restic to Varrona storage — scope limited to tested repositories.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sahandranya/restic-varrona"
+    },
+    {
+      "name": "chase1225/anythingllm-verona-document-chat",
+      "stars": 157,
+      "full_text": "Document-grounded chat for Verona - AnythingLLM workspace integration.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/chase1225/anythingllm-verona-document-chat"
+    },
+    {
+      "name": "juanjosev1103-lab/tradingview-averona-market-desk",
+      "stars": 157,
+      "full_text": "A focused workspace for reading markets and managing TradingView chart workflows.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/juanjosev1103-lab/tradingview-averona-market-desk"
+    }
+  ]
+}
