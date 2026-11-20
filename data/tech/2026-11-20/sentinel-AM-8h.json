@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-20T08:11:01.174Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TECH_ACCELERATOR": 2,
+      "VIRAL_UNCATEGORIZED": 18,
+      "KNOWLEDGE_BASE": 1,
+      "CODE_LEVERAGE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "stars": 491,
+      "full_text": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+    },
+    {
+      "name": "MSNightmare/FastUnlock",
+      "stars": 358,
+      "full_text": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MSNightmare/FastUnlock"
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "stars": 357,
+      "full_text": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/iamajmeena/neonclipping"
+    },
+    {
+      "name": "duwqijlk/google-trial-tool",
+      "stars": 258,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/duwqijlk/google-trial-tool"
+    },
+    {
+      "name": "setyamickala/airdrop-agent",
+      "stars": 80,
+      "full_text": "Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/setyamickala/airdrop-agent"
+    },
+    {
+      "name": "flex36ty/switch2-gamevault",
+      "stars": 56,
+      "full_text": "Game Vault for Switch 2 — game and save backup/restore, decrypted backups, USB MTP, FTP and SMB storage.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/flex36ty/switch2-gamevault"
+    },
+    {
+      "name": "nhovongoc0-max/trend-workbench",
+      "stars": 45,
+      "full_text": "DeFi狙击手开发的本地缠论看盘工具，支持加密货币、美股、A股和多周期价位分析。X：https://x.com/bi_9527zx ｜讨论社群：https://t.me/jujishou9527",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nhovongoc0-max/trend-workbench"
+    }
+  ]
+}
