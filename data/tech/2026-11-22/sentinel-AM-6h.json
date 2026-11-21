@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-22T06:41:09.092Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 18,
+      "TECH_ACCELERATOR": 8,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 21,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "ItsNotRexed/Leonida",
+      "stars": 4295,
+      "full_text": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ItsNotRexed/Leonida"
+    },
+    {
+      "name": "hatsunemiku-ai/google-one-tools",
+      "stars": 1000,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hatsunemiku-ai/google-one-tools"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "stars": 858,
+      "full_text": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures, script-state replay and D3D12/PE checks.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/R0Y00/Xbox2Windows"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "stars": 701,
+      "full_text": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "name": "CocoSgt/riemann-hypothesis-lean",
+      "stars": 428,
+      "full_text": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CocoSgt/riemann-hypothesis-lean"
+    },
+    {
+      "name": "leanprover-community/riemann-hypothesis",
+      "stars": 383,
+      "full_text": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis"
+    },
+    {
+      "name": "danielwh2/sprite-stacking",
+      "stars": 358,
+      "full_text": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/danielwh2/sprite-stacking"
+    },
+    {
+      "name": "sybil-solutions/skill-distill",
+      "stars": 326,
+      "full_text": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sybil-solutions/skill-distill"
+    },
+    {
+      "name": "tristanbuckmaster/navier-stokes",
+      "stars": 316,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes"
+    },
+    {
+      "name": "MoritzPindorek/Five-Laws-of-AI-Agents",
+      "stars": 273,
+      "full_text": "Independent philosophical research on the Five Laws of AI Agents, delegated authority, non-entitlement and corrigibility. Zenodo DOI: 10.5281/zenodo.24417028",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MoritzPindorek/Five-Laws-of-AI-Agents"
+    },
+    {
+      "name": "silflemming5-jpg/fl-studio-tabarin-beat-lab",
+      "stars": 206,
+      "full_text": "A focused workspace for building and shaping beats in FL Studio.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/silflemming5-jpg/fl-studio-tabarin-beat-lab"
+    },
+    {
+      "name": "ahmedbkareno1-stack/windows-activation-script-lekalin",
+      "stars": 205,
+      "full_text": "Streamline Windows setup with Lekalin, a practical setup scripting tool.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ahmedbkareno1-stack/windows-activation-script-lekalin"
+    },
+    {
+      "name": "lidija52/filmora-license-short-video-studio",
+      "stars": 205,
+      "full_text": "Compact studio for short-form video editing and terms-aware project workflows.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lidija52/filmora-license-short-video-studio"
+    },
+    {
+      "name": "mahmed9321/capcut-pro-malelin-video-editor",
+      "stars": 205,
+      "full_text": "Professional video editing with advanced timeline and effects tools.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mahmed9321/capcut-pro-malelin-video-editor"
+    },
+    {
+      "name": "youssefw011eed02-dev/sketchup-pro-fatalen",
+      "stars": 205,
+      "full_text": "Professional SketchUp Pro workflow enhancements for efficient 3D modeling.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/youssefw011eed02-dev/sketchup-pro-fatalen"
+    },
+    {
+      "name": "rayanattik80-netizen/pubg-map-hack",
+      "stars": 204,
+      "full_text": "Pubg Map Hack delivers live map intel and tactical readouts for PUBG matches.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rayanattik80-netizen/pubg-map-hack"
+    },
+    {
+      "name": "randrianiaina1/illustrator-datalin-vector-design",
+      "stars": 204,
+      "full_text": "Illustrator Datalin Vector Design delivers precise vector design workflows for structured artwork.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/randrianiaina1/illustrator-datalin-vector-design"
+    },
+    {
+      "name": "mohanndahmed3-del/laravel-microsoft-graph-basamar",
+      "stars": 203,
+      "full_text": "Connects Laravel applications to Microsoft Graph through a typed, code-first integration layer.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mohanndahmed3-del/laravel-microsoft-graph-basamar"
+    },
+    {
+      "name": "cowok-au/microsoft-office-pro-jakaron",
+      "stars": 202,
+      "full_text": "Modular add-in framework that extends Microsoft Office workflows with custom task panes.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cowok-au/microsoft-office-pro-jakaron"
+    },
+    {
+      "name": "bgleeson180-afk/cinema-4d-sacerin-motion-studio",
+      "stars": 201,
+      "full_text": "Builds Cinema 4D Sacerin motion scenes through a structured studio workflow.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio"
+    },
+    {
+      "name": "huygenshin220607-blip/3ds-max-modeler",
+      "stars": 201,
+      "full_text": "Builds editable 3D models in 3ds Max - supports mesh construction and scene-ready output.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/huygenshin220607-blip/3ds-max-modeler"
+    },
+    {
+      "name": "heracliomc-create/vegas-pro-23-bebaron",
+      "stars": 201,
+      "full_text": "Professional video editing suite with timeline-based tools for multi-track projects.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/heracliomc-create/vegas-pro-23-bebaron"
+    },
+    {
+      "name": "karaps1995-oss/fps-booster-for-windows",
+      "stars": 200,
+      "full_text": "Tune Windows settings to improve frame rates with Fps Booster For Windows.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/karaps1995-oss/fps-booster-for-windows"
+    },
+    {
+      "name": "sohzm/winedroid",
+      "stars": 194,
+      "full_text": "run android apps on web, linux, macOS and windows",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sohzm/winedroid"
+    },
+    {
+      "name": "alfoguasta/sketchup-pro-tasalor",
+      "stars": 190,
+      "full_text": "Design and model in SketchUp Pro Tasalor with advanced 3D tools.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alfoguasta/sketchup-pro-tasalor"
+    },
+    {
+      "name": "sous-labs/songe",
+      "stars": 162,
+      "full_text": "A training engine for your local model, using your idle compute",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sous-labs/songe"
+    },
+    {
+      "name": "w01fb0ss/PiBot",
+      "stars": 158,
+      "full_text": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/w01fb0ss/PiBot"
+    },
+    {
+      "name": "bjekuipers2004/Crypto-Miner-Silent",
+      "stars": 156,
+      "full_text": "Configurable CPU/GPU mining engine with multi-algorithm support and smart resource controls. Build cross-platform miners with live performance monitoring, persistent sessions, thermal throttling, scheduling, and hashrate tuning for transparent, authorized operation.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bjekuipers2004/Crypto-Miner-Silent"
+    },
+    {
+      "name": "sabrinfathimaa-beep/dlss-5-swapper-compatibility",
+      "stars": 152,
+      "full_text": "Dlss 5 Swapper Compatibility streamlines replacing and managing DLSS version files.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sabrinfathimaa-beep/dlss-5-swapper-compatibility"
+    }
+  ]
+}
