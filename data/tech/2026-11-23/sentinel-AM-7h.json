@@ -1,0 +1,517 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-23T07:06:29.514Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "TECH_ACCELERATOR": 8,
+      "VIRAL_GIANT": 40,
+      "KNOWLEDGE_BASE": 3
+    }
+  },
+  "items": [
+    {
+      "name": "EL4CTEO/fast-anything",
+      "stars": 1824,
+      "full_text": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/EL4CTEO/fast-anything"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "stars": 1277,
+      "full_text": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/omonkeyz/xbox-emulator"
+    },
+    {
+      "name": "sybil-solutions/skill-distill",
+      "stars": 453,
+      "full_text": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sybil-solutions/skill-distill"
+    },
+    {
+      "name": "sshkeda/minecraft-server-on-orange-cloud",
+      "stars": 376,
+      "full_text": "Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sshkeda/minecraft-server-on-orange-cloud"
+    },
+    {
+      "name": "w01fb0ss/PiBot",
+      "stars": 369,
+      "full_text": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/w01fb0ss/PiBot"
+    },
+    {
+      "name": "os6/nospeaker",
+      "stars": 362,
+      "full_text": "make your macbook's trackpad talk using its haptic motor",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/os6/nospeaker"
+    },
+    {
+      "name": "Nilespand/tableau-desktop-win",
+      "stars": 355,
+      "full_text": "Tableau - business intelligence and data visualization platform for interactive dashboards, data blending and calculated analytics on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Nilespand/tableau-desktop-win"
+    },
+    {
+      "name": "birddebug/cinema-4d-win",
+      "stars": 354,
+      "full_text": "Maxon Cinema 4D - 3D modeling and animation suite for motion graphics, procedural modeling and render pipeline integration on Windows 10/11",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/birddebug/cinema-4d-win"
+    },
+    {
+      "name": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+      "stars": 351,
+      "full_text": "DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64"
+    },
+    {
+      "name": "Snow-clienT-best1/microsoft-excel-vcardconverter-win",
+      "stars": 351,
+      "full_text": "Microsoft Excel Vcardconverter - contact management add-in for vCard import, Excel sheet conversion and batch contact export on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Snow-clienT-best1/microsoft-excel-vcardconverter-win"
+    },
+    {
+      "name": "Mnowak64/iobit-uninstaller-pro-win",
+      "stars": 351,
+      "full_text": "IObit Uninstaller Pro - software uninstallation utility for complete program removal, leftover file cleanup and browser plugin management on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Mnowak64/iobit-uninstaller-pro-win"
+    },
+    {
+      "name": "deep-patch-true/synchro-arts-revoice-pro-5-win",
+      "stars": 350,
+      "full_text": "Synchro Arts Revoice Pro 5 - vocal editing and pitch correction software for automatic timing alignment, pitch shifting and double-track generation on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deep-patch-true/synchro-arts-revoice-pro-5-win"
+    },
+    {
+      "name": "buildpixelwind/photoshop-win",
+      "stars": 350,
+      "full_text": "Adobe Photoshop - raster graphics editor for layered composition, photo retouching and format conversion on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/buildpixelwind/photoshop-win"
+    },
+    {
+      "name": "castro-vivek-31/rhino-8-win",
+      "stars": 350,
+      "full_text": "McNeel Rhinoceros 3D - NURBS-based 3D modeling software for surface modeling, subdivision geometry and CAD interoperability on Windows 10/11",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/castro-vivek-31/rhino-8-win"
+    },
+    {
+      "name": "FadiHarris80/fusion-360-win",
+      "stars": 350,
+      "full_text": "Autodesk Fusion 360 - cloud-based CAD/CAM platform for parametric modeling, simulation and CNC machining on Windows 10/11",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/FadiHarris80/fusion-360-win"
+    },
+    {
+      "name": "debugdigital677/descript-pro-win",
+      "stars": 349,
+      "full_text": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/debugdigital677/descript-pro-win"
+    },
+    {
+      "name": "LongNorth1998/charles-proxy-win",
+      "stars": 349,
+      "full_text": "Charles Proxy - HTTP debugging proxy for traffic inspection, SSL interception and bandwidth throttling on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LongNorth1998/charles-proxy-win"
+    },
+    {
+      "name": "BhaveshPham/tableau-prep-win",
+      "stars": 349,
+      "full_text": "Tableau - data preparation and ETL tool for visual pipeline building, data cleaning and dataset transformation on Windows 10/11",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/BhaveshPham/tableau-prep-win"
+    },
+    {
+      "name": "Shortproxy2007/fabfilter-pro-l-2-win",
+      "stars": 349,
+      "full_text": "FabFilter Pro L 2 - professional audio limiter plugin for true peak limiting, loudness metering and surround support on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Shortproxy2007/fabfilter-pro-l-2-win"
+    },
+    {
+      "name": "fernandeslokesh10/figma-desktop-win",
+      "stars": 349,
+      "full_text": "Figma - collaborative design and prototyping platform for interface design, vector graphics and team workflows on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/fernandeslokesh10/figma-desktop-win"
+    },
+    {
+      "name": "sloweastlab1987/wise-care-365-pro-win",
+      "stars": 349,
+      "full_text": "WiseCleaner Wise Care 365 Pro - system optimization and cleaning utility for registry cleaning, disk cleanup and privacy protection on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sloweastlab1987/wise-care-365-pro-win"
+    },
+    {
+      "name": "Chukwudi-code83/driver-easy-pro-win",
+      "stars": 349,
+      "full_text": "Easeware Driver Easy - driver update utility for hardware detection, automatic driver installation and system backup on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Chukwudi-code83/driver-easy-pro-win"
+    },
+    {
+      "name": "VitalyMukherjee92/lightroom-classic-win",
+      "stars": 349,
+      "full_text": "Adobe Lightroom Classic - photo management and editing software for RAW processing, non-destructive adjustments and catalog organization on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/VitalyMukherjee92/lightroom-classic-win"
+    },
+    {
+      "name": "NileshLiu/acrobat-dc-win",
+      "stars": 349,
+      "full_text": "Adobe Acrobat DC - PDF editing and management software for document conversion, form filling and digital signatures on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/NileshLiu/acrobat-dc-win"
+    },
+    {
+      "name": "alexeytarasov8/jetbrains-pycharm-professional-win",
+      "stars": 349,
+      "full_text": "JetBrains PyCharm - Python integrated development environment for scientific computing, web frameworks and data analysis on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alexeytarasov8/jetbrains-pycharm-professional-win"
+    },
+    {
+      "name": "Juanlabs1989/descript-pro-win",
+      "stars": 349,
+      "full_text": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Juanlabs1989/descript-pro-win"
+    },
+    {
+      "name": "Joanegorov01/capture-one-pro-win",
+      "stars": 348,
+      "full_text": "Phase One Capture One Pro - professional photo editing software for RAW conversion, tethered shooting and color grading on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Joanegorov01/capture-one-pro-win"
+    },
+    {
+      "name": "cliblacktech/unreal-5-6-win",
+      "stars": 348,
+      "full_text": "Epic Games Unreal Engine 5 - real-time 3D creation engine for game development, virtual production and architectural visualization on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cliblacktech/unreal-5-6-win"
+    },
+    {
+      "name": "Bagussa998/affinity-designer-2-win",
+      "stars": 348,
+      "full_text": "Serif Affinity Designer 2 - vector graphics and illustration software for raster and vector workflows, typography and export on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Bagussa998/affinity-designer-2-win"
+    },
+    {
+      "name": "Nilespand/acronis-true-image-win",
+      "stars": 347,
+      "full_text": "Acronis True Image - backup and disaster recovery software for disk imaging, file backup and ransomware protection on Windows 10/11",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Nilespand/acronis-true-image-win"
+    },
+    {
+      "name": "aslanabigail/autocad-2026-win",
+      "stars": 347,
+      "full_text": "Autodesk AutoCAD - computer-aided design software for 2D drafting, 3D modeling and BIM documentation on Windows 10/11",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aslanabigail/autocad-2026-win"
+    },
+    {
+      "name": "cacheapp2003/microsoft-office-win",
+      "stars": 347,
+      "full_text": "Microsoft Office - productivity suite for document authoring, spreadsheet analysis and presentation design on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cacheapp2003/microsoft-office-win"
+    },
+    {
+      "name": "monicaellis48/jetbrains-intellij-idea-win",
+      "stars": 347,
+      "full_text": "JetBrains IntelliJ IDEA - Java integrated development environment for code refactoring, static analysis and version control integration on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/monicaellis48/jetbrains-intellij-idea-win"
+    },
+    {
+      "name": "Clientplus1990/streamlabs-desktop-win",
+      "stars": 347,
+      "full_text": "Streamlabs - live streaming software for stream overlays, chat integration and donation alerts on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Clientplus1990/streamlabs-desktop-win"
+    },
+    {
+      "name": "birdsolutions98/v-ray-for-revit-win",
+      "stars": 347,
+      "full_text": "Chaos V-Ray for Revit - photorealistic rendering engine for architectural visualization, material authoring and lighting simulation on Windows 10/11",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/birdsolutions98/v-ray-for-revit-win"
+    },
+    {
+      "name": "Morriswawan05/elevenlabs-pro-win",
+      "stars": 347,
+      "full_text": "ElevenLabs - AI voice synthesis platform for text-to-speech generation, voice cloning and multilingual dubbing on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Morriswawan05/elevenlabs-pro-win"
+    },
+    {
+      "name": "NaHamilton/toontrack-superior-drummer-win",
+      "stars": 347,
+      "full_text": "Toontrack Superior Drummer - virtual drum production software for multi-layer sample playback, kit customization and MIDI groove arrangement on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/NaHamilton/toontrack-superior-drummer-win"
+    },
+    {
+      "name": "andrewpandey/total-commander-win",
+      "stars": 347,
+      "full_text": "Ghisler Software Total Commander - file manager for dual-pane navigation, archive handling and FTP transfers on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/andrewpandey/total-commander-win"
+    },
+    {
+      "name": "Wojcik1999/rob-run-menu-win",
+      "stars": 347,
+      "full_text": "Rob Run Menu - Windows desktop customization utility for building custom right-click menus, launching frequently used apps and organizing context menu commands on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Wojcik1999/rob-run-menu-win"
+    },
+    {
+      "name": "serkanellis/spire-win",
+      "stars": 347,
+      "full_text": "Spire - .NET document processing library for PDF generation, Office file conversion and barcode creation on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/serkanellis/spire-win"
+    },
+    {
+      "name": "Truesand8603/beyond-compare-4-win",
+      "stars": 346,
+      "full_text": "Scooter Software Beyond Compare 4 - file comparison utility for folder synchronization, text merging and FTP diffing on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Truesand8603/beyond-compare-4-win"
+    },
+    {
+      "name": "Link-script-new/notion-win",
+      "stars": 346,
+      "full_text": "Notion - productivity and note-taking application for wikis, task management and databases on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Link-script-new/notion-win"
+    },
+    {
+      "name": "bearclicache812/insomnia-pro-win",
+      "stars": 346,
+      "full_text": "Insomnia - REST and GraphQL API client for request testing, environment variables and response inspection on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bearclicache812/insomnia-pro-win"
+    },
+    {
+      "name": "Fire-snow-07/spectrasonics-stylus-rmx-win",
+      "stars": 346,
+      "full_text": "Spectrasonics Stylus RMX - groove-based virtual instrument for beat slicing, loop manipulation and real-time audio editing on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Fire-snow-07/spectrasonics-stylus-rmx-win"
+    },
+    {
+      "name": "Scottmauricio/indesign-cc-win",
+      "stars": 346,
+      "full_text": "Adobe InDesign CC - desktop publishing software for page layout, typographic design and print-ready PDF export on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Scottmauricio/indesign-cc-win"
+    },
+    {
+      "name": "G4rdner26/luminar-neo-win",
+      "stars": 346,
+      "full_text": "Skylum Luminar Neo - photo editing software for AI-powered enhancements, layer editing and raw file processing on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/G4rdner26/luminar-neo-win"
+    },
+    {
+      "name": "colealina/winrar-7-win",
+      "stars": 345,
+      "full_text": "RARLAB WinRAR - file archiver and compression utility for RAR and ZIP creation, archive encryption and multi-volume splitting on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/colealina/winrar-7-win"
+    },
+    {
+      "name": "Fast-black-tech5681/archicad-win",
+      "stars": 345,
+      "full_text": "Graphisoft Archicad - building information modeling software for architectural design, BIM collaboration and construction documentation on Windows 10/11",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Fast-black-tech5681/archicad-win"
+    },
+    {
+      "name": "Mahmoudp06/serato-dj-suite-win",
+      "stars": 345,
+      "full_text": "Serato - DJ software suite for mixing tracks, beat matching and recording live sets on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Mahmoudp06/serato-dj-suite-win"
+    },
+    {
+      "name": "Shellsmall/mathway-premium-win",
+      "stars": 345,
+      "full_text": "Mathway - mathematical problem solver for equation solving, graphing and step-by-step explanations on Windows 10/11",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Shellsmall/mathway-premium-win"
+    }
+  ]
+}
