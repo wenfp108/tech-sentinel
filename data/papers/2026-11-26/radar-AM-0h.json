@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-26T00:40:09.009Z",
+    "total_captured": 24,
+    "TRENDING_DIRECTIONS": [
+      "Neutrino (Heat:285)",
+      "MAJORANA (Heat:285)",
+      "Yukawa potential (Heat:285)",
+      "Supersymmetry (Heat:285)",
+      "Discrete symmetry (Heat:285)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 13,
+      "NEXT_COMPUTING": 4,
+      "AI_CORE": 9,
+      "PARADIGM_SHIFT": 6,
+      "STRATEGIC_ENERGY": 1
+    }
+  },
+  "items": [
+    {
+      "title": "The Riemann Hypothesis from the Standard Model Framework: Two Conditional Reductions via A₄-Invariant Projection and Kubota-Iwaniec Eisenstein Scattering",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv",
+      "metrics": {
+        "citations": 284,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/1706.08749",
+      "reason": "Velocity: 284 citations",
+      "publication_date": "2026-11-24"
+    },
+    {
+      "title": "A Survey on Large Language Model-Based Game Agents",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 201,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3863973",
+      "reason": "Velocity: 201 citations",
+      "publication_date": "2026-11-24"
+    },
+    {
+      "title": "A multimodal foundation model for molecular and morphologic data in oncology",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Cancer",
+      "metrics": {
+        "citations": 134,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2501.16652",
+      "reason": "Velocity: 134 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Cell counts in bovine milk",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Acta veterinaria Scandinavica Supplementum",
+      "metrics": {
+        "citations": 112,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1007/bf03657705",
+      "reason": "Velocity: 112 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "An Empirical Study on the Code Refactoring Capability of Large Language Models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 93,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.1145/3801158",
+      "reason": "Velocity: 93 citations",
+      "publication_date": "2026-11-18"
+    },
+    {
+      "title": "What is the Role of Small Models in the LLM Era: A Survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Computational Linguistics",
+      "metrics": {
+        "citations": 87,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://direct.mit.edu/coli/article-pdf/doi/10.1162/COLI.a.652/2629040/coli.a.652.pdf",
+      "reason": "Velocity: 87 citations",
+      "publication_date": "2026-11-21"
+    },
+    {
+      "title": "Learning from Hypervectors: A Survey on Hyperdimensional Encoding",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 69,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3863975",
+      "reason": "Velocity: 69 citations",
+      "publication_date": "2026-11-19"
+    },
+    {
+      "title": "“Generate” the Future of Work Through AI: Empirical Evidence from Online Labor Markets",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Information Systems Research",
+      "metrics": {
+        "citations": 65,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2308.05201",
+      "reason": "Velocity: 65 citations",
+      "publication_date": "2026-11-18"
+    },
+    {
+      "title": "Staphylococcus Epidermidis Isolated from Bovine Milk",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Acta veterinaria Scandinavica Supplementum",
+      "metrics": {
+        "citations": 64,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1007/bf03657712",
+      "reason": "Velocity: 64 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 63,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3786771",
+      "reason": "Velocity: 63 citations",
+      "publication_date": "2026-11-18"
+    },
+    {
+      "title": "Studies on Nutritional Muscular Degeneration (NMD) in Ruminants",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Acta veterinaria Scandinavica Supplementum",
+      "metrics": {
+        "citations": 62,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1007/bf03657730",
+      "reason": "Velocity: 62 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Deep Learning for Individual Heterogeneity*",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of the American Statistical Association",
+      "metrics": {
+        "citations": 60,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/01621459.2026.2763634?needAccess=true",
+      "reason": "Velocity: 60 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Equine Intestinal Clostridiosis",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Acta veterinaria Scandinavica Supplementum",
+      "metrics": {
+        "citations": 50,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1007/bf03657693",
+      "reason": "Velocity: 50 citations",
+      "publication_date": "2026-11-19"
+    },
+    {
+      "title": "Understanding the Fundamental Design Decisions of Retrieval-Augmented Generation Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 49,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1145/3802824",
+      "reason": "Velocity: 49 citations",
+      "publication_date": "2026-11-18"
+    },
+    {
+      "title": "Synthesizing mixed-integer linear programming models from natural language descriptions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "INFOR Information Systems and Operational Research",
+      "metrics": {
+        "citations": 46,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/03155986.2026.2753960?needAccess=true",
+      "reason": "Velocity: 46 citations",
+      "publication_date": "2026-11-23"
+    },
+    {
+      "title": "Luminal Contents of the Bovine Epididymis Under Conditions of Reduced Spermatogenesis, Luminal Blockage and Certain Sperm Abnormalities",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Acta veterinaria Scandinavica Supplementum",
+      "metrics": {
+        "citations": 39,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/BF03657735.pdf",
+      "reason": "Velocity: 39 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Federated Distillation: A Survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 38,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3857792",
+      "reason": "Velocity: 38 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "A Comprehensive Study on Large Language Models for Mutation Testing",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 37,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.1145/3805038",
+      "reason": "Velocity: 37 citations",
+      "publication_date": "2026-11-18"
+    },
+    {
+      "title": "Deriving the simplest gauge-string duality. Part I. Open-closed-open triality",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of High Energy Physics",
+      "metrics": {
+        "citations": 35,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/JHEP11(2026)195.pdf",
+      "reason": "Velocity: 35 citations",
+      "publication_date": "2026-11-19"
+    },
+    {
+      "title": "LLM4FL: Multi-Agent Fault Localization via Graph Navigation and Verbal Reasoning",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 33,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3871043?download=true",
+      "reason": "Velocity: 33 citations",
+      "publication_date": "2026-11-20"
+    }
+  ]
+}
