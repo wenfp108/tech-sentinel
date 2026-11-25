@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-25T09:50:08.691Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 11,
+      "TECH_ACCELERATOR": 8,
+      "VIRAL_UNCATEGORIZED": 30,
+      "CODE_LEVERAGE": 2,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "fxceless/victory-fork",
+      "stars": 2019,
+      "full_text": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/fxceless/victory-fork"
+    },
+    {
+      "name": "ProjectLeonidaL/leonida",
+      "stars": 399,
+      "full_text": "Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through static recompilation.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ProjectLeonidaL/leonida"
+    },
+    {
+      "name": "QakajaVeca60/deadlock-cheat-esp-aimbot-win11",
+      "stars": 213,
+      "full_text": "Deadlock Cheat ESP Aimbot Win11 [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/QakajaVeca60/deadlock-cheat-esp-aimbot-win11"
+    },
+    {
+      "name": "Hiroshis198/lossless-scaling-3-dlss4-unlocked-2026",
+      "stars": 212,
+      "full_text": "Lossless Scaling 3 Dlss4 Unlocked 2026 [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Hiroshis198/lossless-scaling-3-dlss4-unlocked-2026"
+    },
+    {
+      "name": "GimetuLoxa79/rob-run-cheat-mod-menu-v2",
+      "stars": 210,
+      "full_text": "Rob Run Cheat Mod Menu V2 [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/GimetuLoxa79/rob-run-cheat-mod-menu-v2"
+    },
+    {
+      "name": "misasimmons/trust-wallet-metamask-seed-recovery",
+      "stars": 209,
+      "full_text": "Trust Wallet Metamask Seed Recovery [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/misasimmons/trust-wallet-metamask-seed-recovery"
+    },
+    {
+      "name": "marthason52665/fortnite-hwid-spoofer-eac-battleye-cleaner",
+      "stars": 208,
+      "full_text": "Valorant HWID Spoofer & Fortnite HWID Spoofer [2026] — Vanguard Van 152, EAC & BattlEye TPM 2.0 Cleaner (x64)",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/marthason52665/fortnite-hwid-spoofer-eac-battleye-cleaner"
+    },
+    {
+      "name": "MikhailMa649/polymarket-trading-bot-clob-arbitrage",
+      "stars": 208,
+      "full_text": "Polymarket Trading Bot & CLOB Arbitrage Engine [2026] — Automated Prediction Market Whale Copytrade & Kelly Sizing",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MikhailMa649/polymarket-trading-bot-clob-arbitrage"
+    },
+    {
+      "name": "ivanmustafa/rob-run-cheats-mod-menu",
+      "stars": 207,
+      "full_text": "Rob Run Cheats Mod Menu [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ivanmustafa/rob-run-cheats-mod-menu"
+    },
+    {
+      "name": "diane7022/gta-6-pc-companion-toolkit",
+      "stars": 206,
+      "full_text": "GTA 6 PC Companion Toolkit [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/diane7022/gta-6-pc-companion-toolkit"
+    },
+    {
+      "name": "Norao01/fabfilter-total-bundle-2026-vst3-pc",
+      "stars": 205,
+      "full_text": "iZotope Ozone 11 & FabFilter Total Bundle [2026] — VST3 Mastering Suite, Pro-Q 4 & Ozone 11 Advanced for PC",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Norao01/fabfilter-total-bundle-2026-vst3-pc"
+    },
+    {
+      "name": "ursulagarcia861/windsurf-cursor-pro-trial-unlocker-pc",
+      "stars": 204,
+      "full_text": "Windsurf Cursor Pro Trial Unlocker PC [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ursulagarcia861/windsurf-cursor-pro-trial-unlocker-pc"
+    },
+    {
+      "name": "ZigZagBoi1/ScarlettPort",
+      "stars": 198,
+      "full_text": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ZigZagBoi1/ScarlettPort"
+    },
+    {
+      "name": "Norao01/solana-pump-fun-jito-bundler-sniper",
+      "stars": 189,
+      "full_text": "Jito MEV Bot & Solana Pump.fun gRPC Sniper Bundler [2026] — Sub-Millisecond ShredStream Arbitrage & Tip Optimizer",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Norao01/solana-pump-fun-jito-bundler-sniper"
+    },
+    {
+      "name": "JisungDiaz447/blox-fruits-script-keyless-2026",
+      "stars": 174,
+      "full_text": "Blox Fruits Script [2026] — Keyless Auto Farm Mastery, Dragon/Kitsune Fruit Sniper & Sea Events Macro for Roblox",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/JisungDiaz447/blox-fruits-script-keyless-2026"
+    },
+    {
+      "name": "rajmyers29/jupiter-v6-atomic-arbitrage-bot",
+      "stars": 174,
+      "full_text": "Jupiter Arbitrage Bot & Solana DEX Atomic MEV Bot [2026] — V6 Quote Router, Flash Loan & Jito Bundler",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rajmyers29/jupiter-v6-atomic-arbitrage-bot"
+    },
+    {
+      "name": "MarcosDupont37/adobe-acrobat-pro-2026-x64-suite",
+      "stars": 171,
+      "full_text": "Adobe Acrobat Pro 2026 (64-Bit) Offline PDF Editor, OCR & Preflight Configuration Suite for Windows 10/11",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MarcosDupont37/adobe-acrobat-pro-2026-x64-suite"
+    },
+    {
+      "name": "Zettrox/ztrx",
+      "stars": 152,
+      "full_text": "Run the Xbox Series build of the game natively on Windows PCs with NVIDIA GPUs",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Zettrox/ztrx"
+    },
+    {
+      "name": "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
+      "stars": 141,
+      "full_text": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning"
+    },
+    {
+      "name": "pinargomez/pinokio-ai-browser-portable-installer",
+      "stars": 132,
+      "full_text": "Pinokio AI Browser Portable Installer [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pinargomez/pinokio-ai-browser-portable-installer"
+    }
+  ]
+}
