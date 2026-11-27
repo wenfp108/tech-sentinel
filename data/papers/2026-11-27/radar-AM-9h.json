@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-27T09:24:21.578Z",
+    "total_captured": 25,
+    "TRENDING_DIRECTIONS": [
+      "Neutrino (Heat:285)",
+      "MAJORANA (Heat:285)",
+      "Yukawa potential (Heat:285)",
+      "Supersymmetry (Heat:285)",
+      "Discrete symmetry (Heat:285)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 12,
+      "NEXT_COMPUTING": 9,
+      "AI_CORE": 4,
+      "PARADIGM_SHIFT": 4,
+      "STRATEGIC_ENERGY": 2
+    }
+  },
+  "items": [
+    {
+      "title": "The Riemann Hypothesis from the Standard Model Framework: Two Conditional Reductions via A₄-Invariant Projection and Kubota-Iwaniec Eisenstein Scattering",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv",
+      "metrics": {
+        "citations": 284,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/1706.08749",
+      "reason": "Velocity: 284 citations",
+      "publication_date": "2026-11-24"
+    },
+    {
+      "title": "A Survey on Large Language Model-Based Game Agents",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 201,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3863973",
+      "reason": "Velocity: 201 citations",
+      "publication_date": "2026-11-24"
+    },
+    {
+      "title": "A multimodal foundation model for molecular and morphologic data in oncology",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Cancer",
+      "metrics": {
+        "citations": 134,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2501.16652",
+      "reason": "Velocity: 134 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Cell counts in bovine milk",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Acta veterinaria Scandinavica Supplementum",
+      "metrics": {
+        "citations": 113,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1007/bf03657705",
+      "reason": "Velocity: 113 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "What is the Role of Small Models in the LLM Era: A Survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Computational Linguistics",
+      "metrics": {
+        "citations": 87,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://direct.mit.edu/coli/article-pdf/doi/10.1162/COLI.a.652/2629040/coli.a.652.pdf",
+      "reason": "Velocity: 87 citations",
+      "publication_date": "2026-11-21"
+    },
+    {
+      "title": "Staphylococcus Epidermidis Isolated from Bovine Milk",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Acta veterinaria Scandinavica Supplementum",
+      "metrics": {
+        "citations": 64,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1007/bf03657712",
+      "reason": "Velocity: 64 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Studies on Nutritional Muscular Degeneration (NMD) in Ruminants",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Acta veterinaria Scandinavica Supplementum",
+      "metrics": {
+        "citations": 62,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1007/bf03657730",
+      "reason": "Velocity: 62 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Deep Learning for Individual Heterogeneity*",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of the American Statistical Association",
+      "metrics": {
+        "citations": 60,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/01621459.2026.2763634?needAccess=true",
+      "reason": "Velocity: 60 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Synthesizing mixed-integer linear programming models from natural language descriptions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "INFOR Information Systems and Operational Research",
+      "metrics": {
+        "citations": 46,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/03155986.2026.2753960?needAccess=true",
+      "reason": "Velocity: 46 citations",
+      "publication_date": "2026-11-23"
+    },
+    {
+      "title": "Luminal Contents of the Bovine Epididymis Under Conditions of Reduced Spermatogenesis, Luminal Blockage and Certain Sperm Abnormalities",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Acta veterinaria Scandinavica Supplementum",
+      "metrics": {
+        "citations": 39,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/BF03657735.pdf",
+      "reason": "Velocity: 39 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Federated Distillation: A Survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 38,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3857792",
+      "reason": "Velocity: 38 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Injective Norm of Real and Complex Random Tensors I: From Spin Glasses to Geometric Entanglement",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Communications in Mathematical Physics",
+      "metrics": {
+        "citations": 34,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1007/s00220-026-05701-6",
+      "reason": "Velocity: 34 citations",
+      "publication_date": "2026-11-25"
+    },
+    {
+      "title": "Any2Caption: Interpreting Any Condition to Dense Caption for Enhancing Controllable Video Generation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "International Journal of Computer Vision",
+      "metrics": {
+        "citations": 34,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2503.24379",
+      "reason": "Velocity: 34 citations",
+      "publication_date": "2026-11-25"
+    },
+    {
+      "title": "LLM4FL: Multi-Agent Fault Localization via Graph Navigation and Verbal Reasoning",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Software Engineering and Methodology",
+      "metrics": {
+        "citations": 33,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3871043?download=true",
+      "reason": "Velocity: 33 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Orbifold Graph TQFTs",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Communications in Mathematical Physics",
+      "metrics": {
+        "citations": 32,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1007/s00220-026-05657-7",
+      "reason": "Velocity: 32 citations",
+      "publication_date": "2026-11-25"
+    },
+    {
+      "title": "Plasma Glutathione Peroxidase and Tissue Selenium Response to Selenium Supplementation in Swine",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Acta veterinaria Scandinavica Supplementum",
+      "metrics": {
+        "citations": 32,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/BF03657716.pdf",
+      "reason": "Velocity: 32 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Fine Stratification of Survey Experiments",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "The Review of Economic Studies",
+      "metrics": {
+        "citations": 30,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2111.08157",
+      "reason": "Velocity: 30 citations",
+      "publication_date": "2026-11-25"
+    },
+    {
+      "title": "Developmental Changes of Protein, RNA, DNA, Lipid, and Glycogen in the Liver, Skeletal Muscle, and Brain of the Piglet",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Acta veterinaria Scandinavica Supplementum",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1007/bf03657723",
+      "reason": "Velocity: 28 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Transfer of immunoglobulins from mother to offspring in the pig",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Acta veterinaria Scandinavica Supplementum",
+      "metrics": {
+        "citations": 27,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/BF03657711.pdf",
+      "reason": "Velocity: 27 citations",
+      "publication_date": "2026-11-20"
+    },
+    {
+      "title": "Optimized conformal selection: powerful selective inference after data-dependent score construction",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of the Royal Statistical Society Series B (Statistical Methodology)",
+      "metrics": {
+        "citations": 24,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1093/jrsssb/qkag139",
+      "reason": "Velocity: 24 citations",
+      "publication_date": "2026-11-24"
+    }
+  ]
+}
