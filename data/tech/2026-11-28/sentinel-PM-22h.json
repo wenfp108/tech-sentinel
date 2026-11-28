@@ -1,0 +1,516 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-11-28T22:55:44.552Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 45,
+      "CORE_PRAGMATISM": 1,
+      "TECH_ACCELERATOR": 3,
+      "CODE_LEVERAGE": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "flint63-code/gitdesk-windows",
+      "stars": 1399,
+      "full_text": "Free open-source Git GUI client for Windows with visual commit history, branch management, SSH, Git LFS and more.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/flint63-code/gitdesk-windows"
+    },
+    {
+      "name": "mist-8659/windows-mouse-keyboard-sharing-kvm",
+      "stars": 1393,
+      "full_text": "Free open-source KVM software to share one keyboard and mouse across multiple Windows, macOS and Linux computers.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mist-8659/windows-mouse-keyboard-sharing-kvm"
+    },
+    {
+      "name": "riveran0226/windows-explorer-blur-mica",
+      "stars": 1393,
+      "full_text": "Free Windows 10 & 11 Explorer customization tool for Acrylic, Mica, transparency and background blur effects.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/riveran0226/windows-explorer-blur-mica"
+    },
+    {
+      "name": "hollow-445/windows-keyboard-manager",
+      "stars": 1383,
+      "full_text": "Free open-source keyboard remapping software for Windows with custom layouts, programmable keys, layers and tap-hold actions.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hollow-445/windows-keyboard-manager"
+    },
+    {
+      "name": "Quill400/windows-image-viewer",
+      "stars": 1376,
+      "full_text": "Fast, free Windows image viewer with photo browsing, editing, folder management, and optional video playback.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Quill400/windows-image-viewer"
+    },
+    {
+      "name": "quartzdev666/windows-pdf-editor",
+      "stars": 1374,
+      "full_text": "Free open-source Windows PDF editor to merge, split, rotate, crop, reorder and organize PDF pages with a visual interface.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/quartzdev666/windows-pdf-editor"
+    },
+    {
+      "name": "Leaf82770/windows-mica-backdrop-customizer",
+      "stars": 1369,
+      "full_text": "Free Windows 11 desktop app to customize Mica, Acrylic, and system backdrop effects for Win32 applications.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Leaf82770/windows-mica-backdrop-customizer"
+    },
+    {
+      "name": "Codelab781/windows-clipboard-sync-manager",
+      "stars": 1365,
+      "full_text": "Free open-source clipboard manager for Windows with cross-device sync, clipboard history, and text, image & file sharing.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Codelab781/windows-clipboard-sync-manager"
+    },
+    {
+      "name": "nocta1554/windows-video-downloader-gui",
+      "stars": 1322,
+      "full_text": "Free open-source Windows video downloader GUI for YouTube and 1,000+ websites, powered by yt-dlp.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/nocta1554/windows-video-downloader-gui"
+    },
+    {
+      "name": "Loris-593/notebook-fan-control-windows",
+      "stars": 1287,
+      "full_text": "Free open-source Windows laptop fan control software with custom cooling profiles and notebook temperature management.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Loris-593/notebook-fan-control-windows"
+    },
+    {
+      "name": "Riven-639/windows-dwm-blur-glass-customizer",
+      "stars": 1241,
+      "full_text": "Free Windows 10 & 11 DWM customization tool for Aero, Acrylic, Mica, blur and transparent title bar effects.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Riven-639/windows-dwm-blur-glass-customizer"
+    },
+    {
+      "name": "Ash793318/windows-hardware-monitor",
+      "stars": 1151,
+      "full_text": "Free open-source Windows hardware monitoring app for CPU, GPU, RAM, SSD temperatures, fan speeds and system performance.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ash793318/windows-hardware-monitor"
+    },
+    {
+      "name": "leaf7684/windows-modern-media-player",
+      "stars": 1138,
+      "full_text": "Free open-source Windows media player with VLC playback, video streaming, subtitles and picture-in-picture.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/leaf7684/windows-modern-media-player"
+    },
+    {
+      "name": "Red2076-arch/waifu2x-image-upscaler-windows",
+      "stars": 1117,
+      "full_text": "Free AI image upscaler and photo denoiser for Windows powered by Vulkan GPU acceleration and ncnn neural networks.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Red2076-arch/waifu2x-image-upscaler-windows"
+    },
+    {
+      "name": "dazacode/vilauncher",
+      "stars": 576,
+      "full_text": "VILauncher by the VIPortLive team: install, update and play community game projects. You bring your own game build.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dazacode/vilauncher"
+    },
+    {
+      "name": "ZiZc3/VI-Patch",
+      "stars": 569,
+      "full_text": "VI patches for PS5",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ZiZc3/VI-Patch"
+    },
+    {
+      "name": "sergeijang/windows-11-activator",
+      "stars": 377,
+      "full_text": "Windows 11 Activator — Windows 11 Activator",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sergeijang/windows-11-activator"
+    },
+    {
+      "name": "lindawu10389/stable-cascade-stage-a-pro-patcher-installer",
+      "stars": 359,
+      "full_text": "Stable Cascade: stage a.safetensors — Stable Cascade: stage a.safetensors Portable & Windows Setup",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lindawu10389/stable-cascade-stage-a-pro-patcher-installer"
+    },
+    {
+      "name": "ryu61903/rpcs3-pro-patcher-installer",
+      "stars": 344,
+      "full_text": "RPCS3 — RPCS3 Portable & Windows Setup",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ryu61903/rpcs3-pro-patcher-installer"
+    },
+    {
+      "name": "Ruiz481/totk-optimizer-nx-pro-patcher-installer",
+      "stars": 343,
+      "full_text": "TotK Optimizer & NX Optimizer — TotK Optimizer & NX Optimizer Portable & Windows Setup",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Ruiz481/totk-optimizer-nx-pro-patcher-installer"
+    },
+    {
+      "name": "tylerk9406/forsaken-roblox-script",
+      "stars": 286,
+      "full_text": "Forsaken Roblox Script — Forsaken Script",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tylerk9406/forsaken-roblox-script"
+    },
+    {
+      "name": "Arekejoker/sprite-turntable",
+      "stars": 279,
+      "full_text": "从一张定妆图制作可拖动旋转的 360° 角色转台，包含 72 帧透明素材、制作流程和离线展示页。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Arekejoker/sprite-turntable"
+    },
+    {
+      "name": "ewabennett38892/xeno-luau-ide",
+      "stars": 279,
+      "full_text": "Xeno Executor — Xeno Roblox Script Executor",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ewabennett38892/xeno-luau-ide"
+    },
+    {
+      "name": "lindawu10389/cs2-cheat",
+      "stars": 269,
+      "full_text": "CS2 Cheat — CS2 Cheats",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lindawu10389/cs2-cheat"
+    },
+    {
+      "name": "schmidt21402/hwid-spoofer",
+      "stars": 269,
+      "full_text": "HWID Spoofer — HWID Spoofer",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/schmidt21402/hwid-spoofer"
+    },
+    {
+      "name": "ryu61903/rust-cheat",
+      "stars": 269,
+      "full_text": "Rust Cheat — Rust Cheats",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ryu61903/rust-cheat"
+    },
+    {
+      "name": "adrianpanagiotou/hyperliquid-trading-bot",
+      "stars": 266,
+      "full_text": "Hyperliquid Trading Bot — Hyperliquid Trading Bot Portable & Windows Setup",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/adrianpanagiotou/hyperliquid-trading-bot"
+    },
+    {
+      "name": "agarnier471/base-uniswap-sniper-bot",
+      "stars": 266,
+      "full_text": "Base Uniswap Sniper Bot — Base Uniswap Sniper Bot Portable & Windows Setup",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/agarnier471/base-uniswap-sniper-bot"
+    },
+    {
+      "name": "viante-ai/face-recognition-sdk",
+      "stars": 250,
+      "full_text": "face recognition, face recognition sdk",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/viante-ai/face-recognition-sdk"
+    },
+    {
+      "name": "Sinano80909/postman-enterprise-desktop-pro-patcher-installer",
+      "stars": 242,
+      "full_text": "Postman Enterprise / Desktop — Postman Enterprise / Desktop Portable & Windows Setup",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Sinano80909/postman-enterprise-desktop-pro-patcher-installer"
+    },
+    {
+      "name": "sara75512/wave-luau-workspace",
+      "stars": 242,
+      "full_text": "Wave Executor — Wave Roblox Script Executor",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sara75512/wave-luau-workspace"
+    },
+    {
+      "name": "SanjayWu26480/delta-luau-workspace",
+      "stars": 242,
+      "full_text": "Delta Executor — Delta Roblox Script Executor",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SanjayWu26480/delta-luau-workspace"
+    },
+    {
+      "name": "MisaWagner/swbf2-star-wars-battlefront-ii-trainer-mod-menu",
+      "stars": 241,
+      "full_text": "STAR WARS Battlefront II Cheat — STAR WARS Battlefront II Cheats, Trainer & Mod Menu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MisaWagner/swbf2-star-wars-battlefront-ii-trainer-mod-menu"
+    },
+    {
+      "name": "nWatanabe8281/horizon-forbidden-west-trainer-mod-menu",
+      "stars": 241,
+      "full_text": "Horizon Forbidden West Cheat — Horizon Forbidden West Cheats, Trainer & Mod Menu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/nWatanabe8281/horizon-forbidden-west-trainer-mod-menu"
+    },
+    {
+      "name": "park969/elite-dangerous-trainer-mod-menu",
+      "stars": 241,
+      "full_text": "Elite Dangerous Cheat — Elite Dangerous Cheats, Trainer & Mod Menu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/park969/elite-dangerous-trainer-mod-menu"
+    },
+    {
+      "name": "MadisonMattsson163/grand-theft-auto-iv-the-complete-trainer-mod-menu",
+      "stars": 241,
+      "full_text": "Grand Theft Auto IV: The Complete Edition Cheat — Grand Theft Auto IV: The Complete Edition Cheats, Trainer & Mod Menu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MadisonMattsson163/grand-theft-auto-iv-the-complete-trainer-mod-menu"
+    },
+    {
+      "name": "mioannidis40347/oblivion-tes4-the-elder-scrolls-iv-trainer-mod-menu",
+      "stars": 240,
+      "full_text": "The Elder Scrolls IV Cheat — The Elder Scrolls IV Cheats, Trainer & Mod Menu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mioannidis40347/oblivion-tes4-the-elder-scrolls-iv-trainer-mod-menu"
+    },
+    {
+      "name": "NarongWalker839/skyrim-special-edition-trainer-mod-menu",
+      "stars": 240,
+      "full_text": "Skyrim Special Edition Cheat — Skyrim Special Edition Cheats, Trainer & Mod Menu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/NarongWalker839/skyrim-special-edition-trainer-mod-menu"
+    },
+    {
+      "name": "Minho34667/d4-diablo-iv-trainer-mod-menu",
+      "stars": 240,
+      "full_text": "Diablo IV Cheat — Diablo IV Cheats, Trainer & Mod Menu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Minho34667/d4-diablo-iv-trainer-mod-menu"
+    },
+    {
+      "name": "mikaelsiekiera/dressmaker-trainer-mod-menu",
+      "stars": 240,
+      "full_text": "Dressmaker Cheat — Dressmaker Cheats, Trainer & Mod Menu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mikaelsiekiera/dressmaker-trainer-mod-menu"
+    },
+    {
+      "name": "Nicolas9709/steam-deck-trainer-mod-menu",
+      "stars": 240,
+      "full_text": "Steam Deck Cheat — Steam Deck Cheats, Trainer & Mod Menu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Nicolas9709/steam-deck-trainer-mod-menu"
+    },
+    {
+      "name": "neslihanromero1521/hunger-trainer-mod-menu",
+      "stars": 240,
+      "full_text": "HUNGER Cheat — HUNGER Cheats, Trainer & Mod Menu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/neslihanromero1521/hunger-trainer-mod-menu"
+    },
+    {
+      "name": "martini4154/mahjongsoul-trainer-mod-menu",
+      "stars": 240,
+      "full_text": "雀魂麻将(MahjongSoul) Cheat — 雀魂麻将(MahjongSoul) Cheats, Trainer & Mod Menu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/martini4154/mahjongsoul-trainer-mod-menu"
+    },
+    {
+      "name": "rishabhallen/witcher-3-trainer-mod-menu",
+      "stars": 239,
+      "full_text": "Witcher 3 Cheat — Witcher 3 Cheats, Trainer & Mod Menu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rishabhallen/witcher-3-trainer-mod-menu"
+    },
+    {
+      "name": "eKrol93/run-from-the-dogs-roblox-hub",
+      "stars": 239,
+      "full_text": "RUN FROM THE DOGS!! Script — RUN FROM THE DOGS!! Roblox Script & Auto Farm GUI",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/eKrol93/run-from-the-dogs-roblox-hub"
+    },
+    {
+      "name": "Pelletier50/ashes-of-creation-trainer-mod-menu",
+      "stars": 239,
+      "full_text": "Ashes of Creation Cheat — Ashes of Creation Cheats, Trainer & Mod Menu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Pelletier50/ashes-of-creation-trainer-mod-menu"
+    },
+    {
+      "name": "sgray58/anime-brawlers-simulator-roblox-script",
+      "stars": 239,
+      "full_text": "Anime Brawlers Simulator Script — Anime Brawlers Simulator Roblox Script & Auto Farm GUI",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sgray58/anime-brawlers-simulator-roblox-script"
+    },
+    {
+      "name": "Olga91278/wax-asmr-tower-roblox-script",
+      "stars": 239,
+      "full_text": "Wax ASMR Tower Script — Wax ASMR Tower Roblox Script & Auto Farm GUI",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Olga91278/wax-asmr-tower-roblox-script"
+    },
+    {
+      "name": "Momob227/pilgrim-trainer-mod-menu",
+      "stars": 238,
+      "full_text": "Pilgrim Cheat — Pilgrim Cheats, Trainer & Mod Menu",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Momob227/pilgrim-trainer-mod-menu"
+    },
+    {
+      "name": "Medina71784/halo-master-chief-collection-trainer-mod-menu",
+      "stars": 238,
+      "full_text": "Halo Master Chief Collection Cheat — Halo Master Chief Collection Cheats, Trainer & Mod Menu",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Medina71784/halo-master-chief-collection-trainer-mod-menu"
+    }
+  ]
+}
